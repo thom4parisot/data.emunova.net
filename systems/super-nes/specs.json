@@ -1,4 +1,10 @@
 {
+  "name": "Super NES",
+  "alternate_names": [
+    "SNES",
+    "Super Famicom",
+    "Super Nintendo"
+  ],
   "manufacturer": "Nintendo",
   "released": 1991,
   "cpu": {
