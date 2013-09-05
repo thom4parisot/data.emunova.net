@@ -1,0 +1,34 @@
+{
+  "manufacturer": "Nintendo",
+  "released": 1991,
+  "cpu": {
+    "bit": 16,
+    "model": "5A22",
+    "frequency": 3.58,
+    "manufacturer": "Ricoh"
+  },
+  "ram": 128,
+  "gpu": [
+    {
+      "manufacturer": "Ricoh",
+      "model": "5c77",
+      "ram": 32,
+      "colours": 32768,
+      "resolutions": ["256x224", "512x448"]
+    },
+    {
+      "manufacturer": "Ricoh",
+      "model": "5C78",
+      "ram": 32,
+      "colours": 32768,
+      "resolutions": ["256x224", "512x448"]
+    }
+  ],
+  "dsp": {
+    "manufacturer": "Sony",
+    "model": "SPC700",
+    "channels": 8,
+    "frequency": 1024
+  },
+  "regions": ["Japan", "North America", "Europe"]
+}
