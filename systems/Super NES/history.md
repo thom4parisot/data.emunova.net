@@ -1,4 +1,9 @@
-La reine des consoles de la génération des 16 bits, une suprématie incontestée grâce à des titres comme Super Mario World, Super Mario Kart, Zelda: A Link to the Past et bien sur le Mythique jeu de baston de l'époque Street Ficghter 2. Elle nous a aussi offert en fin de vie des titres d'exception comme Final Fantasy 6 et Chrono Trigger. Noter que la fin de la Super NES marque le fin du règne sans partage (en tant que constructeur de hardware) de Nintendo sur le monde du jeu vidéo.
+La reine des consoles de la génération des 16 bits, une suprématie incontestée grâce à des titres comme Super Mario World,
+Super Mario Kart, Zelda: A Link to the Past et bien sur le Mythique jeu de baston de l'époque Street Ficghter 2.
+
+Elle nous a aussi offert en fin de vie des titres d'exception comme Final Fantasy 6 et Chrono Trigger.
+
+Noter que la fin de la Super NES marque le fin du règne sans partage (en tant que constructeur de hardware) de Nintendo sur le monde du jeu vidéo.
 
 ---
 
