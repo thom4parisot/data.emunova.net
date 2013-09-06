@@ -1,3 +1,7 @@
+---
+title:  L'histoire de la Super NES
+---
+
 La reine des consoles de la génération des 16 bits, une suprématie incontestée grâce à des titres comme Super Mario World,
 Super Mario Kart, Zelda: A Link to the Past et bien sur le Mythique jeu de baston de l'époque Street Ficghter 2.
 
@@ -63,11 +67,11 @@ Le projet tomba donc à l'eau et Sony décida tout de même de rentabiliser sa r
 
 Super Mario World
 Premier jeu disponible, un hit ! Un pack contenant la console & le jeu a été édité.
-* Street Fighter II  
+* Street Fighter II
 Grâce au succès du jeu en arcade. A également bénéficié d’un pack.
-* Super Mario Kart  
+* Super Mario Kart
 Principe de jeu fun et délirant, maintes fois copié.
-* Zelda : A Link to the Past  
+* Zelda : A Link to the Past
 Un des meilleurs, voir le meilleur, jeu de la saga.
 * Super Metroid
 * Secret of Mana
