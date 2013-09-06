@@ -1,0 +1,19 @@
+{
+  "name": "data.emunova.net",
+  "version": "0.1.0",
+  "description": "Data backend for emunova.net",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oncletom/data.emunova.net.git"
+  },
+  "author": "",
+  "license": "Creative Commons",
+  "bugs": {
+    "url": "https://github.com/oncletom/data.emunova.net/issues"
+  }
+}
