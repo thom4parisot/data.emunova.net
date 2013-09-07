@@ -1,3 +1,12 @@
+---
+title: Youhou j'aime les chips!
+rating: 5
+Synthèse:
+  Graphismes: 5
+  Durée de vie: 5
+  Jouabilité: 4
+  Multijoueur: N/A
+---
 Voici un des jeux les plus connus sur ce support qu'est la Super Nintendo !
 
 Vous dirigez Link, un petit enfant qui, dans des donjons, devra récupérer des pendentifs et autres cristaux afin de ramener la paix sur Hyrule.
