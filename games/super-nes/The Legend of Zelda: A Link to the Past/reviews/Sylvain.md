@@ -1,11 +1,13 @@
 ---
 title: Youhou j'aime les chips!
+user: Sylvain
 rating: 5
 Synthèse:
   Graphismes: 5
   Durée de vie: 5
   Jouabilité: 4
   Multijoueur: N/A
+  Sénario:
 ---
 Voici un des jeux les plus connus sur ce support qu'est la Super Nintendo !
 
