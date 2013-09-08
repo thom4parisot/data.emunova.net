@@ -1,0 +1,7 @@
+{
+  "name": "Satellaview",
+  "manufacturer": "Nintendo",
+  "extends": [
+    "Super NES"
+  ]
+}
