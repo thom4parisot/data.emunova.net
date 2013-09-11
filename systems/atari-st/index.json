@@ -1,5 +1,7 @@
 {
   "name": "Atari ST",
+  "type": "Ordinateur",
+  "released": 1985,
   "manufacturer": "Atari",
   "alternate_names": [
     "Atari STf",

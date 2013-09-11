@@ -1,5 +1,7 @@
 {
   "name": "Satellaview",
+  "type": "Extension",
+  "released": 1995,
   "manufacturer": "Nintendo",
   "extends": [
     "Super NES"

@@ -3,8 +3,10 @@
   "alternate_names": [
     "SNES",
     "Super Famicom",
-    "Super Nintendo"
+    "Super Nintendo",
+    "Super Nintendo Entertainment System"
   ],
+  "type": "Console",
   "manufacturer": "Nintendo",
   "released": 1991,
   "cpu": {
