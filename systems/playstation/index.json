@@ -1,0 +1,10 @@
+{
+  "name": "PlayStation",
+  "type": "Console",
+  "released": 19,
+  "manufacturer": "Sony",
+  "alternate_names": [
+    "PSX",
+    "PSOne"
+  ]
+}

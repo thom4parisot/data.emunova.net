@@ -1,0 +1,9 @@
+{
+  "name": "Game Boy Advance",
+  "type": "Console portable",
+  "released": 2000,
+  "manufacturer": "Nintendo",
+  "alternate_names": [
+    "GBA"
+  ]
+}
