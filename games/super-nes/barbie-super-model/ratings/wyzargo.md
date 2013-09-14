@@ -1,6 +1,7 @@
 ---
 user: Wyzargo
 rating: 0.5
+published: 2011-10-07T01:00:00.000Z
 ---
 C'est marrant, moi je pense juste l'opposé de mon VDD...
 Selon moi, Vacation Adventure est "meilleur" que ce Super Model, et ce sur tous les points (même pas de beaucoup, hein^^).
