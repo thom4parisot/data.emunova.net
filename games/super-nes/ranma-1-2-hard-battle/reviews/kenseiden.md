@@ -1,6 +1,7 @@
 ---
 user: Kenseiden
 rating: 3.5
+published: 2006-11-26T23:07:06+01:00
 ---
 Manga culte au pays du soleil levant, Ranma a généré un très grand nombre d’adaptations vidéoludiques dans des registres très différents, dont quelques rares jeux bénéficièrent d’une localisation française. Hard Battle fut le premier d’entre eux. De retour des îles Hawaï, le principal Kunou organise un grand tournoi d’arts martiaux avec à la clé une récompense personnalisée pour chaque participant. Dans le respect de la philosophie de la série, chaque combattant désire remporter la victoire pour des raisons parfaitement triviales. Ranma souhaite échapper à une interro surprise, Akane (Adeline) désire persuader les garçons de l’école de ne plus lui demander de sortir avec eux, Genma veut simplement mettre une raclée à son fils, Moose (Matthias) veut épater Shampoo (Bambou)… Au total, on retrouve 12 personnages différents, tous tirés de la série, qui combattront impitoyablement pour satisfaire leur micro-ambitions…
 

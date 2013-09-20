@@ -1,6 +1,7 @@
 ---
 user: Kékidi
 rating: 4.5
+published: 2005-07-12T14:07:11+02:00
 ---
 Le paisible monde de Dream Land est de nouveau dans la tourmente. Les gentils résidents sont désemparés car toutes les sucreries ont disparu, provoquant ainsi la famine et la panique. Kirby, le premier touché par ce malheur car toujours affamé, quitte sa douce vie afin de chercher où sont cachées toutes les gourmandises. Une fois le mystère élucidé, d’autres péripéties attendront notre petite boule rose. L’harmonie du pays de Dream Land n’est plus ce qu’elle était.
 

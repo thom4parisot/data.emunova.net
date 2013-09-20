@@ -1,5 +1,6 @@
 ---
 user: Wikipédia
+published: 2004-11-30T00:32:00+01:00
 ---
 
 ## Univers

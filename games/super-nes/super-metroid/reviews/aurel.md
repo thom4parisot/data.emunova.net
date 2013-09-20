@@ -1,6 +1,7 @@
 ---
 user: aurel
 rating: 5
+published: 2005-08-08T23:29:06+02:00
 ---
 Ce Super Metroid, le 3ème épisode de la saga, est celui qui aura le plus marqué les joueurs. Autant vous le dire tout de suite, pour moi il s'agit ni plus ni moins de l'un des meilleurs jeux de tous les temps.
 

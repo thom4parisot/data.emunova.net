@@ -1,6 +1,7 @@
 ---
 user: Spacewolf1
 rating: 5
+published: 2003-05-24T00:00:00+02:00
 ---
 
 Décembre 1995. On peut lire dans les journaux: "il aura fallu quatre ans à Shigeru Miyamoto pour réaliser ce jeu. C'est vous dire ses qualités." Yoshi's Island est là !!!

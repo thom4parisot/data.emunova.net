@@ -1,6 +1,7 @@
 ---
 user: stephanieberanger
 rating: 5
+published: 2006-08-27T20:42:42+02:00
 ---
 ## L'histoire
 Alors voilà, King K. Rool a encore fait des siennes et a capturé notre ami Donkey Kong, dès le premier niveau il nous dit très gentiment : "J'ai kidnappé ce gros lourdaud de Donkey Kong et vous ne le reverrez jamais ! Ah ! Ah ! Ah !".Sauf que voilà, nous sommes très motivés pour aller le retrouver...

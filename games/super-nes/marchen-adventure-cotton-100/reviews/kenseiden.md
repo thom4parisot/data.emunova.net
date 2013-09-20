@@ -1,6 +1,7 @@
 ---
 user: Kenseiden
 rating: 4.5
+published: 2006-06-13T19:44:24+02:00
 ---
 Dans la veine des Parodius et autres Pop’n Twin Bee, Cotton 100% est un shoot them up qui se déroule dans un univers enchanté, et l’objet à piloter est une petite sorcière aux cheveux roses, juchée sur son balai magique. Cotton 100% ressemble en fait beaucoup à Magical Chase, sorti en 1991 sur PC Engine, mais s’avère encore supérieur à cet excellent petit </em>shmup</em> nippon.
 

@@ -2,6 +2,7 @@
 title: Youhou j'aime les chips!
 user: Sylvain
 rating: 5
+published: 2003-04-25T00:00:00+02:00
 Synthèse:
   Graphismes: 5
   Durée de vie: 5

@@ -1,6 +1,7 @@
 ---
 user: faboss
 rating: 0.5
+published: 2004-12-16T17:15:33+01:00
 ---
 Barbie, la femme qui possède les plus longues jambes de l'univers, a décidé de venir charmer les joueurs sur consoles. Non pas avec son carrosse magique ou ses milliards de tenues, non, simplement avec une cartouche de jeu qui aura certainement plus de facilité à sortir de votre console qu'à y entrer.
 

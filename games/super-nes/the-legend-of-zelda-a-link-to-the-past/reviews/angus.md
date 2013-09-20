@@ -1,6 +1,8 @@
 ---
 user: Angus
 rating: 4
+published: 2004-04-01T00:00:00+02:00
+
 ---
 Dans ma maigre expérience vidéoludique, The legend of Zelda - A link to the past fait figure d'oasis en (relativement) plein désert ou encore d'une étoile particulièrement brillante dans les ténèbres cosmiques.
 Bon. Après cette petite mise en jambe, vous aurez compris que je ne dirai guère de mal de ce jeu ici. Je l'ai aimé et je l'aime toujours. A bon entendeur.
