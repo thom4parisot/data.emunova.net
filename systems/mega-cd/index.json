@@ -2,5 +2,15 @@
   "name": "Mega CD",
   "type": "Extension",
   "released": 1992,
-  "manufacturer": "SEGA"
+  "manufacturer": "SEGA",
+  "alternate_names": [
+    "SEGA CD"
+  ],
+  "bits": 16,
+  "cpu": "Motorola 68000, 12.5 mhz",
+  "ram": "756 Ko",
+  "rom": "8ko",
+  "video": "320 x 224, vidéo en 128 ou 256 (selon le format)",
+  "audio": "PCM Stéréo 8 voies Echantillonnage à 32 Khz",
+  "media": ["CD-ROM"]
 }

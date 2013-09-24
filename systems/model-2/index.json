@@ -2,5 +2,10 @@
   "name": "Model 2",
   "type": "Arcade",
   "released": 1994,
-  "manufacturer": "SEGA"
+  "manufacturer": "SEGA",
+  "bits": 32,
+  "cpu": "32 bits RISC @ 25MHz",
+  "video": "300.000 polygones par seconde en 496x384 et 65.536 couleurs",
+  "audio": "16 bits 68000 @ 10MHz",
+  "media": ["PCB"]
 }

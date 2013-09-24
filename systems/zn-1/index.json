@@ -2,5 +2,12 @@
   "name": "ZN-1",
   "type": "Arcade",
   "released": 1995,
-  "manufacturer": "Sony"
+  "manufacturer": "Sony",
+  "bits": 32,
+  "cpu": "R3000A RISC @ 33.87MHz",
+  "ram": "2 Mo pour le système, 2 Mo pour la vidéo, 512 Ko pour l'audio",
+  "rom": "4Ko",
+  "video": "16.7 millions de couleurs, résolution variant de 256x224 à 740x480 pour 360 000 polygones maximum par seconde",
+  "audio": "Z80 équipé du Capcom Q Sound",
+  "media": ["PCB"]
 }

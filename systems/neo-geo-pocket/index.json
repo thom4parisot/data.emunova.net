@@ -5,5 +5,11 @@
   "manufacturer": "SNK",
   "alternate_names": [
     "NGP"
-  ]
+  ],
+  "bits": 16,
+  "cpu": "TOSHIBA TLCS-900H 16-Bit",
+  "rom": "16 Ko",
+  "video": "256x256, 146 couleurs parmi 4096",
+  "audio": "Z80 8-Bit",
+  "media": ["Cartouche"]
 }

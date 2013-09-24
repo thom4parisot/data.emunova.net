@@ -2,5 +2,11 @@
   "name": "CPC",
   "type": "Ordinateur",
   "released": 1984,
-  "manufacturer": "Amstrad"
+  "manufacturer": "Amstrad",
+  "bits": 8,
+  "cpu": "Z80 cadencé à 3.3MHz",
+  "ram": "64 Ko",
+  "rom": "32 Ko",
+  "video": "résolution montant jusqu'en 640*200, 17 couleurs maximum",
+  "media": ["cassettes (CPC 464)", "disquettes 3 pouces (CPC 664)"]
 }

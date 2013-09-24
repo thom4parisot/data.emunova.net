@@ -2,5 +2,11 @@
   "name": "32x",
   "type": "Extension",
   "released": 1994,
-  "manufacturer": "SEGA"
+  "manufacturer": "SEGA",
+  "bits": 32,
+  "cpu": "Motorola MC 68000 à 12,5 Mhz",
+  "ram": "6 Mbits pour la programmation image & Sons, 512 Kbits PCM, 128 Kbits de mémoire cache, 64 Kbits pour les sauvegardes et 1 Mbits pour le bios, Cd Roms et CD-a.",
+  "video": "Processeur ASIC",
+  "audio": "Source de son PCM en stéréo 8 voix. Fréquence de sampling de 32 Khz. Convertisseur D/A 16 bits.",
+  "media": ["Cartouche"]
 }

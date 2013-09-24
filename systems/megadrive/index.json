@@ -9,6 +9,8 @@
   ],
   "manufacturer": "SEGA",
   "released": 1988,
+  "bits": 16,
+  "media": ["Cartouche"],
   "cpu": [
     {
       "bit": 16,

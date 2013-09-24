@@ -2,5 +2,10 @@
   "name": "ColecoVision",
   "type": "Console",
   "released": 1982,
-  "manufacturer": "Coleco"
+  "manufacturer": "Coleco",
+  "bits": 8,
+  "cpu": "Z80A @ 3.58MHz",
+  "ram": "48Ko",
+  "video": "16Ko de V-RAM, processeur Ti TMS9928A 16 couleurs et pouvant afficher 32 sprites simultanément. Résolution d'image : 256x192",
+  "media": ["Cartouche"]
 }

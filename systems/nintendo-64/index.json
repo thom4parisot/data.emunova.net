@@ -2,5 +2,14 @@
   "name": "Nintendo 64",
   "type": "Console",
   "released": 1996,
-  "manufacturer": "Nintendo"
+  "manufacturer": "Nintendo",
+  "alternate_names": [
+    "N64"
+  ],
+  "bits": 64,
+  "cpu": "R4300i 64-bits @ 93.75 mHz, 125 MIPs",
+  "ram": "4 Mo (8 Mo avec l'expansion pack, indispensable pour certains jeux)",
+  "video": "Résolution 640x480, 16.7 millions de couleurs",
+  "audio": "Qualité CD, 16-bit stéréo à 44.1 KHz",
+  "media": ["Cartouche"]
 }

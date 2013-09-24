@@ -2,5 +2,12 @@
   "name": "Game Boy Color",
   "type": "Console portable",
   "released": 1998,
-  "manufacturer": "Nintendo"
+  "manufacturer": "Nintendo",
+  "bits": 16,
+  "cpu": "8 bits Z80 modifié, cadencé à 8MHz",
+  "ram": "16 Ko",
+  "rom": "8mo maximum selon les cartouches",
+  "video": "Couleur Sharp écran LCD, 160 x 140, 56 couleurs simultanées (sur une palette de 32000)",
+  "audio": "4 Channel FM Stereo",
+  "media": ["Cartouche"]
 }

@@ -2,5 +2,16 @@
   "name": "Game Boy",
   "type": "Console portable",
   "released": 1989,
-  "manufacturer": "Nintendo"
+  "manufacturer": "Nintendo",
+  "alternate_names": [
+    "Game Boy Light",
+    "Game Boy Pocket"
+  ],
+  "bits": 8,
+  "cpu": "Z80 8-bit CMOS 2.2 MHz",
+  "ram": "16 Kbit RAM statique",
+  "rom": "8 Mo au maximum selon les cartouches",
+  "video": "160 x 144 pixels, 14 nuances de gris",
+  "audio": "4 canaux FM Stéréo",
+  "media": ["Cartouche"]
 }

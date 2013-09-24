@@ -2,5 +2,11 @@
   "name": "3DO",
   "type": "Console",
   "released": 1993,
-  "manufacturer": "3DO"
+  "manufacturer": "3DO",
+  "bits": 32,
+  "cpu": "ARM60 25Mhz",
+  "ram": "2 Mo DRAM + 1Mo VRAM",
+  "video": "320 x 240 en 24 bit, 320x480 en 16 bit",
+  "audio": "16 bit stereo 44Khz (qualité CD)",
+  "media": ["CD-ROM"]
 }

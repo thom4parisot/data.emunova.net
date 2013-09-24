@@ -1,0 +1,15 @@
+{
+  "name": "GameCube",
+  "type": "Console",
+  "released": 2002,
+  "manufacturer": "Nintendo",
+  "alternate_names": [
+    "NGC"
+  ],
+  "bits": 128,
+  "cpu": "IBM Power PC Gekko cadencé à 485MHz",
+  "ram": "24Mo T-SRAM + 16Mo de SD-RAM auxiliaire",
+  "video": "Entre 6 et 12 millions de polygones par secondes",
+  "audio": "processeur Macronix 16-bits modifié, 64 canaux, taux d'échantillonnage de 48KHz, compatible 5.1",
+  "media": ["GameCube Disc (max 1,5Go)"]
+}

@@ -2,5 +2,11 @@
   "name": "CD-I",
   "type": "Console",
   "released": 1988,
-  "manufacturer": "Philips"
+  "manufacturer": "Philips",
+  "bits": 16,
+  "cpu": "Motorola 68340",
+  "ram": "1 Mo",
+  "rom": "512 Ko",
+  "video": "768x560 en 16 millions de couleurs",
+  "media": ["CD-ROM"]
 }

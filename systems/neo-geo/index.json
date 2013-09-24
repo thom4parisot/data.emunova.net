@@ -2,5 +2,15 @@
   "name": "Neo Geo",
   "type": "Arcade",
   "released": 1990,
-  "manufacturer": "SNK"
+  "manufacturer": "SNK",
+  "alternate_names": [
+    "Neo Geo AES",
+    "Neo Geo MVS"
+  ],
+  "bits": 16,
+  "cpu": "Motorola 68000, 16-bit à 12Mhz. Co-processeur Z80 à 4Mhz",
+  "ram": "SRAM 64Kb, VIDEO RAM 68 Kb",
+  "video": "65536 couleurs, résolution 320x224",
+  "audio": "YM2610 et PCM à 15 canaux (7 DAC, 4 FM, 3 PSG, 1 Noise Channel)",
+  "media": ["Cartouche"]
 }

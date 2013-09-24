@@ -2,5 +2,12 @@
   "name": "PC FX",
   "type": "Console",
   "released": 1994,
-  "manufacturer": "NEC"
+  "manufacturer": "NEC",
+  "bits": 32,
+  "cpu": "NEC V810 RISC @ 21.5 MHz",
+  "ram": "2 Mo + 1.25 Mo de mémoire vidéo (VRAM)",
+  "rom": "256 Ko",
+  "video": "16 millions de couleurs, résolution 640x448",
+  "audio": "16-Bit Stéréo avec 2 canaux ADPCM et 6 canaux 44.1 kHz",
+  "media": ["CD-ROM"]
 }

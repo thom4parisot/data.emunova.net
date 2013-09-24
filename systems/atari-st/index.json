@@ -6,5 +6,12 @@
   "alternate_names": [
     "Atari STf",
     "Atari STe"
-  ]
+  ],
+  "bits": 16,
+  "cpu": "Motorola MC68000@8Mhz au MC68030 (Falcon, TT)",
+  "ram": "512Ko (modèles 520), 1Mo (modèles 1040), 2 à 6 Mo en standard (Falcon). Extensible. Blitter intégré sur STE et Falcon.",
+  "rom": "TOS : Pas de roms pour les premiers ST. Puis 192Ko (STf), 256Ko(STe) et 1Mo (Falcon). Interface graphique (DR GEM) intégré à la ROM.",
+  "video": "320x200, 16 couleurs parmi 512 (ST, STf) ou 4096 (STe) ; VGA (Falcon)",
+  "audio": "16 bit stereo 44Khz (qualité CD)",
+  "media": ["Disquettes 3,5 pouces SD pour les ST (310Ko)", "DD ensuite (720Ko)", "Disque dur (option)"]
 }

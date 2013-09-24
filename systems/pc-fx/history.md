@@ -1,0 +1,3 @@
+La PC FX est la console qui marqua la fin de l'aventure de NEC dans la production de consoles de jeux. Elle était alors en concurrence avec la Playstation de Sony, la Saturn de Sega et la Jaguar d'Atari, entre autres.
+Tout comme ces autres consoles, elle disposait d'un support CD (qui était déjà utilisé depuis la Supergraphx, et en option sur la PC Engine) et d'une excellente gestion de la 2D. Ceci permit l'apparition de jeux vidéo/dessins animés interactifs d'une finesse sans égal.
+Malheureusement, NEC commit une erreur plus que stratégique en n'intégrant aucune solution 3D. En clair : la PC FX était résolue à se contenter de jeux en 2D, aussi beaux fussent-ils.

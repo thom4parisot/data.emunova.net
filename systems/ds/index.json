@@ -2,5 +2,17 @@
   "name": "DS",
   "type": "Console portable",
   "released": 2004,
-  "manufacturer": "Nintendo"
+  "manufacturer": "Nintendo",
+  "alternate_names": [
+    "Nintendo DS",
+    "Nintendo DS Lite",
+    "iQue DS",
+    "NDS"
+  ],
+  "bits": 64,
+  "cpu": "ARM 7, ARM 9",
+  "ram": "4 Mo de RAM 656 Ko de VRAM",
+  "video": "2 écrans de 3 pouces et d'une résolution de 256x192 pixels, 262 000 couleurs",
+  "audio": "haut-parleurs stéréo surround, prise casque et micro (propriétaire)",
+  "media": ["Carte Flash propriétaire", "Cartouche Game Boy Advance", "Cartouche Game Boy Advance Micro"]
 }

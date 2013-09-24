@@ -1,0 +1,13 @@
+{
+  "name": "Lynx",
+  "type": "Console portable",
+  "released": 1990,
+  "manufacturer": "Atari",
+  "bits": 16,
+  "cpu": "Processeur 65C02 à 3,6 MHz",
+  "ram": "64 Ko",
+  "rom": "Cartouches de 128 Ko à 1 Mo",
+  "video": "16 couleurs affichables parmi 4096, résolution 160x102",
+  "audio": "4 voies",
+  "media": ["Cartouches"]
+}

@@ -2,5 +2,12 @@
   "name": "Jaguar",
   "type": "Console",
   "released": 1993,
-  "manufacturer": "Atari"
+  "manufacturer": "Atari",
+  "bits": 64,
+  "cpu": "Motorola 68000 RISC 64-bits @ 13 MHz",
+  "ram": "2 Mo",
+  "rom": "Cartouches jusqu'à 6 Mo",
+  "video": "Résolutions variables, 16 millions de couleurs en 2D comme en 3D",
+  "audio": "Qualité CD 16 bits 44,1 KHz, nombre de voies limité par logiciel",
+  "media": ["Cartouches", "CD-ROM (option)"]
 }

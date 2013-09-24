@@ -2,5 +2,11 @@
   "name": "SuperGrafx",
   "type": "Console",
   "released": 1989,
-  "manufacturer": "NEC"
+  "manufacturer": "NEC",
+  "bits": 8,
+  "cpu": "65816 et Hu6280 à 7Mhz",
+  "ram": "32Ko",
+  "video": "482 couleurs affichables parmi 512",
+  "audio": "6 voies FM stéréo",
+  "media": ["HuCard", "CD-ROM"]
 }

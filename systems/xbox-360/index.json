@@ -2,5 +2,9 @@
   "name": "Xbox 360",
   "type": "Console",
   "released": 2005,
-  "manufacturer": "Microsoft"
+  "manufacturer": "Microsoft",
+  "cpu": "3.2 GHz PowerPC Tri-Core Xenon",
+  "ram": "512 MB of GDDR3 RAM @ 700 MHz",
+  "video": "500 MHz ATI Xenos",
+  "media": ["CD-ROM", "DVD-ROM", "Carte mémoire"]
 }

@@ -9,6 +9,8 @@
   "type": "Console",
   "manufacturer": "Nintendo",
   "released": 1991,
+  "bits": 16,
+  "media": ["Cartouche"],
   "cpu": {
     "bit": 16,
     "model": "5A22",

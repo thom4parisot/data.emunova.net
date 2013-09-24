@@ -1,6 +1,14 @@
 {
-  "name": "PSVita",
+  "name": "PS Vita",
   "type": "Console portable",
   "released": 2011,
-  "manufacturer": "Sony"
+  "manufacturer": "Sony",
+  "alternate_names": [
+    "PlayStation Vita"
+  ],
+  "cpu": "ARM Cortex-A9 MPCore @ 2GHz",
+  "ram": "512 MB RAM, 128 MB VRAM",
+  "rom": "TOS : Pas de roms pour les premiers ST. Puis 192Ko (STf), 256Ko(STe) et 1Mo (Falcon). Interface graphique (DR GEM) intégré à la ROM.",
+  "video": "960x544, Quad-core PowerVR SGX543MP4+",
+  "media": ["Disquettes 3,5 pouces SD pour les ST (310Ko)", "DD ensuite (720Ko)", "Disque dur (option)"]
 }

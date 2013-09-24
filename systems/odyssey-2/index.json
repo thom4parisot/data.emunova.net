@@ -1,0 +1,19 @@
+{
+  "name": "Odyssey²",
+  "type": "Console",
+  "released": 1978,
+  "manufacturer": "Magnavox",
+  "alternate_names": [
+    "Philips Videopac G7000",
+    "Philips Videopac",
+    "Philips Odyssey",
+    "Philips Odyssey²"
+  ],
+  "bits": 8,
+  "cpu": "Intel i8048 1.78Mhz",
+  "ram": "64Ko",
+  "rom": "1Ko",
+  "video": "4 couleurs sur une palette de 16 couleurs. 12 sprites de 8x8 cablés et affichables simultanément.",
+  "audio": "Mono",
+  "media": ["Cartouche"]
+}

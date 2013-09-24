@@ -5,5 +5,7 @@
   "manufacturer": "Nintendo",
   "extends": [
     "Super NES"
-  ]
+  ],
+  "bits": 16,
+  "media": ["Cartouche"]
 }

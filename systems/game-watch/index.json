@@ -2,5 +2,8 @@
   "name": "Game & Watch",
   "type": "Console portable",
   "released": 1980,
-  "manufacturer": "Nintendo"
+  "manufacturer": "Nintendo",
+  "video": "écran monochrome simple/double/panoramique à cristaux liquides, certaines séries étaient en couleurs",
+  "audio": "synthétiseur sonore guère plus évolué que le speaker de votre PC",
+  "media": ["ROM"]
 }

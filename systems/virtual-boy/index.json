@@ -2,5 +2,12 @@
   "name": "Virtual Boy",
   "type": "Console",
   "released": 1995,
-  "manufacturer": "Nintendo"
+  "manufacturer": "Nintendo",
+  "bits": 32,
+  "cpu": "32-bits RISC cadencé à 20MHz",
+  "ram": "1 Mbit D-RAM + 512 Kbit P-SRAM pour la vidéo",
+  "rom": "1 Kbit",
+  "video": "384 x 224 pixels, écran monochrome (noir et rouge)",
+  "audio": "16-bit Stéréo",
+  "media": ["Cartouche"]
 }

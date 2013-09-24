@@ -2,5 +2,11 @@
   "name": "Xbox",
   "type": "Console",
   "released": 2001,
-  "manufacturer": "Microsoft"
+  "manufacturer": "Microsoft",
+  "bits": 128,
+  "cpu": "Celeron 733 mhz",
+  "ram": "64 mo",
+  "video": "Nvidia Gforce 2 NV2A 233 MHz",
+  "audio": "256 canaux audio, dont 64 canaux audio 3D. Prise en charge des normes Dolby® Digital et Dolby® Surround",
+  "media": ["DVD-ROM"]
 }

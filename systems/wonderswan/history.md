@@ -1,0 +1,1 @@
+Une concurrente de la Game Boy Color. Elle ne fait techniquement pas le poids face à la GBA mais possède à son catalogue plusieurs titres Final Fantasy et moult adaptation de mangas (Hunter X Hunter, Digimon etc.). Le modèle a été décliné en version normale, Color puis Crystal avant d'être finalement arrêtée en 2002.

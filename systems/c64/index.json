@@ -2,5 +2,12 @@
   "name": "C64",
   "type": "Ordinateur",
   "released": 1982,
-  "manufacturer": "Commodore"
+  "manufacturer": "Commodore",
+  "bits": 8,
+  "cpu": "MOS 6510 1Mhz",
+  "ram": "64Ko",
+  "rom": "20Ko (BASIC intégré)",
+  "video": "320x200 en 16 couleurs",
+  "audio": "SID. 3 voies",
+  "media": ["Cassette", "Disquette"]
 }

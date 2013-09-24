@@ -2,5 +2,12 @@
   "name": "GP32",
   "type": "Console portable",
   "released": 2001,
-  "manufacturer": "Gamepark"
+  "manufacturer": "Gamepark",
+  "bits": 32,
+  "cpu": "32-bits RISC CPU (ARM9) @ de 60MHz overclockable jusqu'à 166Mhz",
+  "ram": "8 Mo SDRAM; un montage manuel permet de passer à 32Mo",
+  "rom": "512 ko",
+  "video": "résolution 320x240 @ 16-bits (65536 couleurs) sur un ecran TFT 3,5'' anti-reflet, rétro-éclairage en option (GP32-FLU)",
+  "audio": "16-bits PCM stéréo , 4 canaux wav",
+  "media": ["Smart Media Card (SMC) de 8 à 128Mo"]
 }

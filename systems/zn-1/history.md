@@ -1,0 +1,2 @@
+Fruit d'une collaboration entre Sony et Capcom, la borne ZN-1 est pourtant basée sur ... une Playstation première du nom. Elle bénéficie toutefois d'une accélération audio et de meilleurs graphismes grâce notamment au lissage des textures.
+Ce système robuste ne fut pas le plus connu; pourtant certains de ses jeux le sont : Psychic Force, G-Darius, Dead or Alive, Toshinden 2, Ray Storm, Rival Schools ou encore la série des Street Fighters EX.

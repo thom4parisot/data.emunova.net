@@ -2,5 +2,11 @@
   "name": "PC Engine",
   "type": "Console",
   "released": 1987,
-  "manufacturer": "NEC"
+  "manufacturer": "NEC",
+  "bits": 8,
+  "cpu": "2 Hu6280 à 7,16Mhz",
+  "ram": "8Ko + 64Ko de VRAM; 64Ko (CD-ROM²); 256Ko (Super CD-ROM²)",
+  "video": "482 couleurs affichables parmi 512 sur 3 résolutions : 256x224, 320x224 ou 352x224",
+  "audio": "6 voies FM stéréo",
+  "media": ["HuCard", "CD-ROM"]
 }

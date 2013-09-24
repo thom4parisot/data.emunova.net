@@ -2,5 +2,11 @@
   "name": "Game Gear",
   "type": "Console portable",
   "released": 1991,
-  "manufacturer": "SEGA"
+  "manufacturer": "SEGA",
+  "bits": 8,
+  "cpu": "Z80 8-Bit @ 3.58 Mhz",
+  "ram": "16 Ko",
+  "video": "Ecran LCD Couleurs, 160*146 , 32 couleurs sur 4096",
+  "audio": "3 canaux (+ 1 canal spécial)",
+  "media": ["Cartouche", "Cartouche Master System (avec adaptateur)"]
 }

@@ -2,5 +2,12 @@
   "name": "Amiga",
   "type": "Ordinateur",
   "released": 1985,
-  "manufacturer": "Commodore"
+  "manufacturer": "Commodore",
+  "bits": 16,
+  "cpu": "Du Motorola MC68000 à environ 7Mhz à l'IBM Power PC G4 (Pegasos/AmigaOne).",
+  "ram": "A partir de 512Ko. Extensible à 4Go.",
+  "rom": "Sur disquette pour les premiers Amiga 1000. 256Ko (Kickstart 1.x, 2.x), 512 Ko (Kickstart 3.x). Sur disque dur pour certains Amiga 3000.",
+  "video": "Chip spécifique. 32 couleurs parmi 4096 (OCS/ECS), 256 couleurs sur une palette 16 bits (AGA), 64 couleurs simultanées (Mode Half Brite), 4096 couleurs simultanées (Mode HAM-6), S-VGA (cartes graphiques). Blitter + Copper intégrés.",
+  "audio": "Chip spécifique. 4 voies sur 8 octaves.",
+  "media": ["Disquette 3,5 pouces", "Disque dur (en standard selon modèles)", "CD-ROM", "DVD-ROM"]
 }

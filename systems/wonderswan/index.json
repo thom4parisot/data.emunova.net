@@ -2,5 +2,11 @@
   "name": "Wonderswan",
   "type": "Console portable",
   "released": 2000,
-  "manufacturer": "Bandai"
+  "manufacturer": "Bandai",
+  "bits": 16,
+  "cpu": "NEC V30 MZ 16-bits @ 3MHz",
+  "ram": "128 Ko de VRAM (vidéo) & 512 Ko de RAM",
+  "video": "résolution 224 x 144, 241 couleurs parmi 4096",
+  "audio": "4 voix (adaptateur stéréo en option)",
+  "media": ["Cartouches (128 Mo max)"]
 }

@@ -2,5 +2,10 @@
   "name": "CPS-3",
   "type": "Arcade",
   "released": 1996,
-  "manufacturer": "Capcom"
+  "manufacturer": "Capcom",
+  "bits": 32,
+  "cpu": "1 ou 2 processeurs Hitachi SH2 32-bits cadencés à 23MHz chacun",
+  "ram": "variable : chaque jeu avait besoin d'un montant de RAM diférent. Capacité maximale : 160Mo (8*16Mo + 4*8Mo)",
+  "video": "32768 couleurs affichables dans une palette de 16.7 millions de couleurs. 1024 objets de 256 couleurs affichables simultanément sur 5 plans maximum.",
+  "media": ["CD-ROM", "RAM", "Cartouche"]
 }

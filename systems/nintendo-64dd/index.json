@@ -2,5 +2,12 @@
   "name": "Nintendo 64DD",
   "type": "Extension",
   "released": 1999,
-  "manufacturer": "Nintendo"
+  "manufacturer": "Nintendo",
+  "alternate_names": [
+    "N64DD"
+  ],
+  "bits": 64,
+  "cpu": "Silicon Graphics RCP, NEC VR4300",
+  "ram": "4Mo (via Expansion Pack)",
+  "media": ["Cartouche"]
 }

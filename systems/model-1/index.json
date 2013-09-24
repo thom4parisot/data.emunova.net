@@ -2,5 +2,10 @@
   "name": "Model 1",
   "type": "Arcade",
   "released": 1992,
-  "manufacturer": "SEGA"
+  "manufacturer": "SEGA",
+  "bits": 32,
+  "cpu": "32bits RISC NEC v60 uPD-70616, 16Mhz (2.5 MIPS)",
+  "video": "Processeur graphique Fujitsu TGP MB86233 FPU 32bits 16M flops",
+  "audio": "Processeur sonore 16bits 68000 @ 10Mhz",
+  "media": ["PCB"]
 }
