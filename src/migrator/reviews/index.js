@@ -4,6 +4,7 @@ var md = require("html-md");
 var grunt = require("grunt");
 var async = require("grunt").util.async;
 var _ = require("grunt").util._;
+var systems = require("../../systems.js");
 
 module.exports = {
   query: function(db){
@@ -19,7 +20,7 @@ module.exports = {
       .orderBy("C_TEST", "ASC");
   },
   builder: function(game, next){
-    var system_slug = _.str.slugify(game.system_name);
+    var system_slug = systems.map(_.str.slugify(game.system_name));
     var game_slug = _.str.slugify(game.titre);
     var basepath = _.template("games/<%= system %>/<%= game %>", {system: system_slug, game: game_slug});
 
@@ -41,12 +42,12 @@ module.exports = {
       function(done){
         var data = [
           "---",
-          "user:" + game.member_name,
-          "rating:"  + (game.rating / 2),
+          "user: " + game.member_name,
+          "rating: "  + (game.rating / 2),
           "published: " + new Date(game.date_publication * 1000).toISOString(),
           "legacy_url: http://www.emunova.net/veda/test/"+ game.C_TEST +".htm",
           "---",
-          md(game.test_texte || grunt.file.read("tmp/tests/"+ game.C_TEST +".htm"))
+          md(game.test_texte || grunt.file.read("tmp/tests/"+ game.C_TEST +".htm", { encoding: "iso-8859-1"}))
         ];
 
         grunt.file.write(basepath + "/reviews/"+ _.slugify(game.member_name) +".md", data.join("\n"));

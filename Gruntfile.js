@@ -15,18 +15,6 @@ module.exports = function(grunt){
         dest: "games/",
         builder: require("./src/migrator/reviews").builder
       }
-    },
-
-    rename: {
-      games: {
-        files: {
-          "games/cdi": "games/cd-i",
-          "games/c64": "games/commodore-64",
-          "games/super-nes": "games/super-nintendo",
-          "games/odyssey-2": "games/videopac",
-          "games/game-and-watch": "games/game-amp-watch"
-        }
-      }
     }
   });
 
