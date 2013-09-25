@@ -1,0 +1,9 @@
+{
+  "name": "MSX",
+  "type": "Ordinateur",
+  "released": 1983,
+  "manufacturer": "Microsoft",
+  "bits": 8,
+  "cpu": "Zilog Z80",
+  "media": ["Cartouche"]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PC",
+  "type": "Ordinateur",
+  "released": 1965,
+  "manufacturer": "Divers",
+  "alternate_names": [
+    "IBM PC",
+    "Personal Computer"
+  ],
+  "media": ["Digital"]
+}

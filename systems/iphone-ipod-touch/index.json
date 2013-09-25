@@ -1,0 +1,10 @@
+{
+  "name": "iPhone / iPod",
+  "type": "Téléphone",
+  "released": 2007,
+  "manufacturer": "Apple",
+  "alternate_names": [
+    "iPod Touch"
+  ],
+  "media": ["Digital"]
+}

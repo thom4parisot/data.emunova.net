@@ -5,7 +5,11 @@ var map = {
   "commodore-64": "c64",
   "super-nintendo": "super-nes",
   "videopac": "odyssey-2",
-  "game-amp-watch": "game-and-watch"
+  "mame": "arcade",
+  "mega-drive": "megadrive",
+  "game-amp-watch": "game-and-watch",
+  "windows-phone-7": "windows-phone",
+  "nintendo-ds": "ds"
 };
 
 module.exports = {

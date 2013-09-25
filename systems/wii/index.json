@@ -1,0 +1,11 @@
+{
+  "name": "Wii",
+  "type": "Console",
+  "released": 2006,
+  "manufacturer": "Nintendo",
+  "alternate_names": [
+    "Wii Mini"
+  ],
+  "bits": 128,
+  "media": ["DVD-ROM"]
+}
