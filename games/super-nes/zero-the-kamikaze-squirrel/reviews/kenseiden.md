@@ -1,0 +1,23 @@
+---
+user:Kenseiden
+rating:3.5
+published: 2008-01-19T02:34:21.000Z
+legacy_url: http://www.emunova.net/veda/test/2517.htm
+---
+Comme beaucoup de mascottes oubliées des années 90, Zero souffre de "Soniquite aiguë ». Nombre d'éditeurs (Sunsoft avec Aero et Zero ; Accolade avec Bubsy, etc.) étaient obsédés par l'idée d'inventer l'idole des jeux de plates-formes qui détrônerait Sonic. Le temps des héros gentillets à la Mario semblait close, il fallait des personnages colériques, revanchards, bourré de niaque. Avec Zero, Sunsoft a été au bout de ce trip « Character with attitude » puisqu'en fait de héros, Zero l'écureuil est plutôt un anti-héros. Ce rongeur féru d'arts martiaux provient en effet de l'univers d'Aero the Acrobat (mascotte en titre de Sunsoft) en tant que Némésis de la chauve-souris voltigeuse. Zero n'est nul autre que le bras droit d'Ektor, le cruel directeur du cirque contre lequel luttait Aero. Néanmoins, la bestiole teigneuse est, semble-t-il, capable d'un geste désintéressé : à peine apprend-t-elle qu'un fabricant de papier sans scrupules est en train de déboiser son île natale qu'elle se jette à corps perdu dans la mêlée, bravant les créatures à la solde de l'industriel mais aussi l'interdiction de son maître Ektor, peu désireux de voir son sbire aller risquer sa fourrure dans une mission qui ne lui rapporte pas un rond.  
+
+  
+
+Pour en revenir à cette obsession des mascottes de seconde zone à vouloir « faire comme Sonic », Zero pousse l'imitation un peu plus loin que ses congénères puisque même son attaque tournoyante (qui lui sert également à sauter plus haut) ressemble furieusement à celle du hérisson de Sega. Outre cette technique totalement plagiée, l'écureuil kamikaze, références japonaises oblige, peut également tirer des shuriken, qu'il possède en nombre limité mais qui peuvent être collectés à travers les niveaux. Au corps à corps, il dispose d'un nunchacku qui lui permet d'éliminer ses ennemis à courte distance. Enfin, il semble que Zero soit un écureuil volant car, en plein saut, il est capable d'effectuer une espèce d'attaque aérienne qui lui permet de raser le sol (et les ennemis qui s'y trouvent) et de remonter ensuite d'un cran pour se mettre en sécurité. Divers bonus sont répandus à travers les niveaux, comme des badges estampillés d'un « Z » et des fruits pour le score et de grands « Z » pour rehausser la barre d'énergie. Zero propose quelques éléments relativement sympathiques, comme cette caverne où l'écureuil se retrouvera pris dans un viseur et devra éviter d'être abattu, ou ces dispositifs gonflables menant à des warp-zones riches en bonus. Les adversaires n'ont rien de bien originaux non plus, entre humains à la solde de la papeterie et animaux agressifs (anguilles électriques, crabes, oiseaux, etc.). Ils ne sont en outre guère nombreux, l'action mettant davantage l'accent sur les pièges et les passages de plates-formes. Hormis la nature «maléfique» du personnage principal, rien que du très classique, comme vous pouvez le constater.  
+
+  
+
+**Réalisation technique :**   
+
+Zero the Kamikaze Squirrel offre une bien belle réalisation, à défaut de faire preuve d'une originalité folle. Les graphismes sont de toute beauté (malgré un manque d'originalité dans le choix des décors), le scrolling est fluide et très rapide (pas autant que Sonic, mais ce n'est pas passé loin), le personnage dispose d'une tonne de mouvements parfaitement décomposés. On contrôle Zero de manière efficace et la progression est bien pensée, avec une difficulté bien calibrée (ce n'est pas tout à fait la perfection de Sonic mais bon, Zero s'en tire tout de même très bien). Quant à la bande sonore, les petits cris à la Bruce Lee que pousse l'écureuil sont bien vus, et les musiques sont également très agréables (mais tout de même moins mémorables que celles de S... bon ok, je crois que vous avez saisi le principe !)  
+
+  
+
+**En bref : 15/20**   
+
+Zero the Kamikaze Squirrel est un bon jeu... moins parce qu'il propose un concept extraordinaire que par le fait qu'on ne peut finalement pas lui reprocher grand chose. Il s'agit avant tout d'un plagiat de softs plus inspirés, d'une création marketing mettant en scène une mascotte de seconde zone, qui ne renouvelle aucunement le genre et se contente d'une variation sur le même thème, sans réelle envergure. Reste que faute d'être mémorable, Zero n'en reste pas moins un petit jeu parfaitement programmé et en fin de compte, plutôt amusant. Les jeux de plates-formes de grande qualité sont rares et Zero n'en fait pas partie. Les daubes et les sous-produits incolores et insipides sont extrêmement fréquents... mais Zero n'en fait pas partie non plus.

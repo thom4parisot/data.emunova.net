@@ -1,0 +1,35 @@
+---
+user:leo03
+rating:4
+published: 2006-11-03T23:38:52.000Z
+legacy_url: http://www.emunova.net/veda/test/1769.htm
+---
+Tiens, quand j'y pense, il n'y a pas tant que ça de jeux du même genre que le vénérable Micro Machines ? Et les épisodes en 3D sont un peu décevants... Flûte, alors ! Qui peut prétendre être aussi bon que Micro Machines ? Et bien j'en connais un : Ignition, aussi connu sous le nom de Fun Tracks, il est de 1997, il peut tourner sur n'importe quelle bécane, et il n'a pas pris une ride ! Parfait, passons-le sur le billard !  
+
+  
+
+_**De la simplicité et de l'efficacité**_  
+
+  
+
+D'apparence petit jeu de voiture en vue de dessus sans trop de prétention, Ignition a l'air modeste. Mode championnat, course simple, contre la montre, poursuite, multijoueur... Le minimum syndical est bien là. Le but du jeu ne sera que de faire des courses simples, avec une conduite arcade des plus basiques. Comme vous pouvez le constatez, c'est à la portée du premier venu. Pourtant, Ignition vous réserve quelques surprises. Tout d'abord, les circuits. Sept en tout, mais très variés, et avec des thèmes très spécifiques pour chacun : la montagne enneigée, la campagne, la jungle, la ville, le désert... Mais ces thèmes ne seront pas anodins. Chaque thème aura son lot d'obstacles qui lui sont propres, dont les conséquences peuvent aller d'aplatir votre voiture à la faire exploser tout simplement. Par exemple, pour le circuit de la neige, ce seront des routes glissantes, des avalanches qui vous emportent, et des précipices. Le désert ? Ce sera des chutes de pierres, des wagons d'or, et une petite circulation de camions. Si la vue de dessus légèrement oblique peut faire peur, n'ayez aucune crainte : des indications comme dans les jeux de rally sont présentes. Mais le mieux, c'est que les circuits sont bourrés de passages secondaires et de raccourcis, en général plus durs à négocier. Soyons clair, l'architecture des niveaux est bourrée de petits trucs sympas qui rendent les niveaux captivants, sans pour autant en faire trop de sorte qu'on soit perdu. Ce sont des petits circuits qui vont assurer des parties bien nerveuses et une très bonne variété. Les voitures sont du même acabit. La Redneck, la voiture tunée du paysan américain, le 4x4, le monster truc, la deux-chevaux, le bus scolaire jaune, le camion... Tout le monde y trouvera son compte. Bien sûr, leurs spécificités sont bien différentes les unes des autres. La conduite a beau être simple, la voiture la plus rapide ne sera pas forcément la meilleure. Mais ce n'est pas tout. Il y a une jauge sur la droite de l'écran. Lorsqu'elle est pleine, vous pouvez lancer votre turbo ! Cette jauge se remplit toute seule, mais le temps nécessaire varie un peu selon les voitures (de cinq à sept secondes). Et là, il va falloir faire gaffe ! Car votre turbo, plus vous l'activez, plus vous en bénéficiez, mais pour bien en profiter, il faut attendre une ligne droite. Alors, vais-je l'activer dans cette petite ligne droite, au risque de ne pas l'avoir à temps après, ou vais-je l'économiser, car je risquerai plus de me viander qu'autre chose ? Et avec de tels niveaux, ce dilemme trotte souvent dans notre tête !  
+
+  
+
+Vos adversaires sont mous du genou, et au fur et à mesure des championnats réussis, qui débloqueront de nouveaux circuits et de nouvelles voitures, ils deviendront de plus en plus coriaces ! Il leur arrivera cependant de se casser eux aussi la gueule, ce qui fait plaisir. Les jeux où les adversaires suivent un rail prédéfini... ce n'est pas très marrant. Sinon, ce genre de jeu, c'est surtout le bonheur à plusieurs. Chic, il y a un mode écran partagé ! Flûte, ce n'est qu'à deux joueurs. Chic, il y a un mode réseau ! Flûte, ce n'est qu'avec une norme IPX. Avouez que c'est tout de même ballot, un jeu qui est surtout fait pour le multi, en être réduit à un mode deux joueurs... La norme IPX n'ayant plus lieu... Ignition reste tout de même un jeu très sympathique, idéal pour les petites configs et les PC portables. Ne nécessitant pas une grande immersion de notre part, Ignition est le jeu idéal pour diverses situations, comme un long voyage en train, le portable sur les genoux, ou bien le jeu qu'on garde sur notre clé USB, pour l'installer sur le seul vieux pc du coin... Oui, je sais, ce sont des qualités qu'on ressort rarement pour un jeu vidéo.  
+
+  
+
+_**Pour les petits et grands**_  
+
+  
+
+Si Ignition est tout public, il est aussi tout ordinateur. Si votre PC n'est pas assez puissant pour faire tourner Ignition, c'est qu'il serait grand temps d'en changer ! Une simple carte de 4 Mo suffit pour faire tourner le jeu à fond ! Mais dans ce cas... le jeu serait-il laid ? Non, pas vraiment. Certes, il a de la bouteille, mais que ça n'empêche pas que les polygones, même si ils sont peu nombreux, sont bien à leurs places. Entendez par là que la modélisation s'en sort bien et ne fait pas trop anguleux. Le résultat est cohérent, le moteur est bien utilisé, la 3D reste aujourd'hui encore assez agréable à l'œil. Les textures font un peu vieillottes mais gère plus. La caméra étant placée assez haut, on est assez éloigné des éléments pour ne pas voir les défauts de vieillesse. Les bruitages sont vraiment sympas, avec des espèces de cris de guerre pour chaque voiture lorsqu'on enclenche un turbo, ou bien un bruit de moteur différent. Quant aux environnements, ils ne sont pas en reste niveau sonore. D'ailleurs, les décors sont très variés. Si vous trouvez le jeu original, alors vous aurez les musiques qui sont sur piste audio, et qui varie du rock à la techno... Pour tout débloquer, il faut être assez fort sur la fin, mais je dois vous avouer qu'il n'y a pas grand chose à débloquer non plus. M'enfin, le jeu reste assez consistant du moins. De quoi s'occuper un bon bout de temps et d'améliorer ses records. Le jeu tourne presque aussi bien sur un vieux PC qu'un récent. Sur mon PC récent, il y a un temps de latence dans les menus, mais c'est tout. Sur le vieux, le jeu tourne nickel. Pensez seulement à mettre sur off le persp. poly. dans les options. Le reste, vous pouvez mettre à fond (la résolution du jeu peut monter jusqu'à 800x600). Ha, et puis, pour plus de sécurité, un coup de compatibilité Win95 ou Win98 si vous êtes sous XP.  
+
+  
+
+_**Conclusion**_  
+
+  
+
+Ignition n'est peut être pas révolutionnaire, mais il remplit bien son contrat : simple d'accès, amusant, agréable... le tout sans réel concurrence. Le tout ne pesant pas bien lourd, on peut se permettre de le conserver sur son pc, pour des petites parties, comme ça, ou mieux, histoire de s'amuser avec quelqu'un en écran partagé. Une sorte de must have, de petit jeu fun à connaître au cas où. Le télécharger ? Bien sûr, il est abandonware, et vous pourrez le trouver ici : http://www.the-underdogs.info/game.php?id=2679

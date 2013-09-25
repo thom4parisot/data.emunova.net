@@ -1,0 +1,19 @@
+---
+user:Kékidi
+rating:3
+published: 2009-02-02T03:42:19.000Z
+legacy_url: http://www.emunova.net/veda/test/3061.htm
+---
+La première fois que **Space Invaders** a affiché ses gros pixels sur un écran fut en 1978, sur borne d'arcade en noir et blanc. Ce shoot them up pourtant basique a laissé une empreinte indélébile dans le cœur des joueurs. Son principe aussi simpliste qu'un casse-brique permet de s'amuser immédiatement dès qu'une partie débute. En bas de l'écran bouge, de gauche à droite, une tourelle qui vise des rangées d'extraterrestres situés dans les airs. Elle possède un canon à un coup. Le tir part verticalement et détruit un ennemi à la fois. Les aliens se déplacent latéralement, puis descendent d'un cran lorsqu'ils atteignent un bord de l'écran. Petit à petit les envahisseurs se rapprochent du sol, et au fur et à mesure qu'ils disparaissent, ils avancent de plus en plus rapidement. La pression monte crescendo et rend le joueur nerveux. Simple mais terriblement prenant.  
+
+  
+
+Ensuite **Space Invaders** a connu de nombreuses adaptations, plus ou moins fidèles, sur consoles et ordinateurs. Il a fait un détour plutôt discret sur Super Nintendo dans une édition qui reprend, pixel pour pixel, le visuel de la mouture originale. C'est bien simple, le jeu est sous-titré _The Original Game_. Alors chaque image transpire le gros pixel du début des années 80\. Le menu comporte plusieurs modes dont 2 parties distinctes. D'une part, la première se joue en solo et correspond à différentes déclinaisons du mythique **Space Invaders** : affichage noir et blanc, affichage en couleurs, et affichage avec un fond d'écran. D'autre part, la seconde partie est un mode 2 joueurs. Chaque personne contrôle une moitié d'écran et doit éliminer ses envahisseurs avant son adversaire. Comme dans Tetris, on peut envoyer des lignes malus à son opposant ; certains ennemis changent de couleur et donnent un bonus ou un malus en fonction de la couleur. Par exemple, lorsqu'on explose un extraterrestre vert, il rajoute une ligne de monstres à l'adversaire.  
+
+  
+
+Cette cartouche se réserve aux nostalgiques de l'époque des pionniers du jeu vidéo, au temps où les shoot them up étaient simples, basiques, mais immédiatement captivants. D'un point de vue technique, cette réédition n'a rien pour elle. Les graphismes datent d'un autre âge. L'écran affiche des sprites cubiques qui rebuteront les joueurs n'ayant pas connu les années 80, mais qui feront verser une petite larme aux autres. Les différents modes "1 joueur" respectent scrupuleusement les premières versions de **Space Invaders** : l'édition noir & blanc, celle faussement colorée avec des films de couleur collés au moniteur, celle avec des sprites réellement colorés et la dernière, qui dispose d'un arrière-plan dessiné. Quant au mode "2 joueurs", il se calque sur le mode "2 joueurs" du jeu arcade **Space Invaders DX** sorti en 1994\. Aucune musique n'accompagne les parties, seuls quelques bruitages déchirent le silence. Le _gameplay_ rudimentaire se limite à déplacer latéralement une tourelle en tirant sur les ennemis en hauteur, tout en évitant de se manger un tir adverse. Des blockhaus offrent une protection, mais ils se désagrègent lorsqu'ils absorbent une attaque. Il n'y a pas d'amélioration qui augmente l'armement. Le _gameplay_ n'a pas changé d'un yota. Ainsi, le jeu risque fort de devenir rapidement répétitif.  
+
+  
+
+**Space Invaders** reste un shoot them up indémodable. Pourtant, pour sa venue sur Super Nintendo, nous aurions espéré disposer d'un titre retravaillé avec de superbes graphismes, de nouvelles musiques et une évolution dans le _gameplay_. Au final, le produit est indigne d'une console 16 bits. A réserver aux archéologues du jeu vidéo.

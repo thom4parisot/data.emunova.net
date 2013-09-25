@@ -1,0 +1,37 @@
+---
+user:pred
+rating:4.5
+published: 2006-11-23T09:59:55.000Z
+legacy_url: http://www.emunova.net/veda/test/1814.htm
+---
+Après avoir enfin terminé une saison et remporté le championnat, je vais vous parler un peu de cette version 2006 sortie très en retard chez nous comme tous les ans. Alors que les Américains ont le jeu depuis octobre, les Européens doivent attendre jusqu'à début mars (soit presque la fin de la saison en NBA) pour se le procurer. Bien entendu, les effectifs ne sont pas à jour et certains joueurs comme Boris Diaw ou Chris Paul ont des niveaux bien en deçà de leur niveau réel, heureusement qu'il existe quelques sites américains comme le site officiel de 2KGames pour pouvoir réparer ces erreurs.  
+
+  
+
+L'intérêt du jeu online est à oublier, le jeu étant sorti grandement en retard, peu de joueurs sont disponibles pour un duel sur le réseau de la Playstation, car il n'y a aucune possibilité de défier un joueur hors de notre pays, un comble ! L'avantage d'avoir attendu si longtemps ? Un prix plus que raisonnable, 30 euros + une traduction miraculeuse en français des menus, même si par moment, la traduction a été oubliée ou mal faite.  
+
+  
+
+Graphiquement, je ne peux pas le nier, NBA Live lui est supérieur, mais c'est l'un des rares points où le titre d'EA Sports est au-dessus. Il ne faut pas exagérer, NBA 2K6 est loin d'être laid, rien n'a vraiment changé de ce côté-là par rapport au 2K5\. Le public est toujours aussi horrible, mais l'ambiance est au rendez-vous. A la présentation des matchs, on voit les spectateurs acheter leurs billets, leur pop corn, hot dog, coca pour aller dans les tribunes mettre le feu avec les couleurs de l'équipe locale sur le dos. Les joueurs quant à eux, sont reconnaissables, du moins les plus connus comme Allen Iverson, Shaquille O'Neal ou Kobe Bryant. Bref ne vous fiez pas aux graphismes, vous passeriez à côté d'un jeu ultra riche et passionant !  
+
+  
+
+A la différence d'NBA Live qui vise le grand public, NBA 2K6 est plus orienté vers les amateurs de réalisme, on pourrait presque faire le même genre de comparaison entre PES et FIFA. Quel dommage que NBA 2K ne remporte pas encore le même succès que PES. Il est difficile de traverser tout le terrain en solo pour marquer un but dans PES ? Hé bien, c'est pareil dans NBA 2K. Pour marquer, il va falloir le mériter, on ne dunke pas à tout va. 5 niveaux de difficulté de Rookie à Hall of famer, à vous aussi de bien régler vos options pour avoir un jeu avec des scores, stats proche de la réalité. Tout est paramétrable que ce soit pour vous ou l'IA. Je peux vous dire que la difficulté du soft a été revu à la hausse, si certaines options comme la lucidité offensive et défensive chez l'adversaire sont élevées, attention à vos fesses ! Vous allez être étonnés de prendre des taules monstrueuses contre les équipes dominantes comme San Antonio ou Detroit.  
+
+  
+
+Les modes de jeu sont nombreux et classiques. Pas de all star week end, de concours à 3 pts ou de dunks, seul le match des all stars est présent avec un système de votes durant toute la saison poste par poste pour voir qui sera de la fête dans le 5 majeur de chaque équipe. Un match exhibition, un mode saison, un mode 24 / 7 où vous devez créer un joueur de toute pièce et le faire jouer dans la rue contre des joueurs NBA afin de le faire évoluer, gagner des items, le faire entraîner avec les points gagnés avec vos victoires etc. Sympa mais lassant.  
+
+Le mode le plus intéressant est sans aucun doute Franchise. Vous devez créer là-aussi votre propre profil de General Manager et choisir parmi les 30 équipes disponibles avec là encore une nouveauté par rapport au 2K5 : les ambitions des proprios ! Chacun a son caractère (patient, tyrannique, gagner seulement du fric...) et toutes les équipes n'ont pas les mêmes objectifs bien sûr. Des écuries comme les Spurs, le Heat, les Pistons veulent remporter le titre, alors que des équipes comme Boston, Atlanta, Charlotte, c'est la reconstruction. C'est donc à vous de voir si vous voulez jouer le titre dès le début en sachant que vous pouvez enchaîner les saisons à foison, ou jouer le long terme en misant sur des jeunes par exemple. En parlant de jeunes, avec l'aide de recruteurs (scouts), vous pourrez faire évaluer les futurs gamins qui se présenteront à la draft. Le jour J (fin de la saison), vous pourrez avec les évaluations et notes de vos recruteurs mettre en place des camps d'entraînement avec les "rookies" en question. Organisation de 1 vs 1, 2 vs 2 contre vos joueurs pro ou même un 5 vs 5 entre rookies. En fin de saison, vous avez également les périodes de recrutement et resignatures, vos joueurs en fin de contrat vous font une demande, à vous de voir si c'est une bonne affaire ou non. Contrairement à NBA Live où des superstars peuvent vous rejoindre avec des salaires ridicules, ici on ne peut pas dépasser le cap comme ça et les équipes adverses ne se gênent pas pour signer les gros poissons quand ils en ont les moyens. Durant votre mode franchise, vous pouvez voir l'humeur de votre boss par rapport à vos résultats, voir votre profil où tout est indiqué, c'est hyper-complet. Les box scores de vos matchs, les analyses du jeu que vous mettez en place (défense haute, utilisation modérée de l'iso motion etc.). Iso motion ?  
+
+  
+
+L'iso motion, c'est l'équivalent du freestyle dans NBA Live mais en moins exagéré : les cross-overs, passes aveugles, et autres dribbles spectaculaires sont présents pour déstabiliser votre adversaire direct. La jouabilité pourrait effrayer certains au premier abord. On dirige le joueur avec le stick gauche (jusque là, tout est normal), mais on tire avec le stick droit ! Ce n'est plus avec ce stick qu'on peux faire de l'iso motion, tout le contrôle du joueur est dans le stick gauche. Pour shooter, vous avez quand même le choix, la touche rond (ou carré par défaut) sert à tirer, croix pour passer etc. Les défauts des anciens NBA 2K sont gommés dans celui-ci. Les caméras ? Un choix conséquent et beaucoup plus appréciable. Les balles perdues ? Alors que chaque équipe pouvait perdre en moyenne 30 ballons chacune dans les éditions précédentes, tout a été réduit de moitié, attention quand même à vos passes. Les tirs à reculons (fade away jump shot) systématiquement contrés ? Terminé sauf si vous tentez ça avec Tony Parker (1,85) face à Yao Ming (2,26). Autre petit détail appréciable, le swish quand le ballon ne touche que le filet, ce dernier bouge d'une façon réaliste, génial !  
+
+Les commentaires sont assurés par Kevin Harlan et Kenny Smith, 2 des meilleurs commentateurs aux Etats-Unis sur la chaîne TNT (dommage qu'il n'y a pas Charles Barkley ^^).  
+
+  
+
+Je conclus avec "the crib". C'est votre petit appartement personnel avec possibilité de jouer avec une table à palets, aux fléchettes, de voir les trophées remportés par votre équipe dans les vitrines et d'acheter via les points gagnés avec vos matchs pleins de goodies, des ballons, fanions, maillots, cadres etc.  
+
+Voilà donc pour conclure, NBA 2K6 est un achat indiscutable pour tout fan de NBA qui se respecte, vive la simulation et non l'arcade d'NBA Live. Ne vous fiez pas aux mauvaises langues qui lui ont attribué des notes moyennes sur divers sites, c'est une bombe, la meilleure simu sortie à ce jour également disponible sur Xbox et Xbox 360 (avec les graphismes qui vont avec '\_').

@@ -1,0 +1,23 @@
+---
+user:Kenseiden
+rating:2
+published: 2008-02-05T14:35:28.000Z
+legacy_url: http://www.emunova.net/veda/test/2554.htm
+---
+Le Roi des Monstres revient et il n'est pas content ! Pourtant, après avoir aplati les principales métropoles japonaises durant leurs batailles de polochons, les créatures géantes du premier jeu se sont assagies. Pour tout vous dire, elles sont même devenues tellement humanistes que leur nouveau job est de défendre la Terre contre de gigantesques monstres galactiques qui cherchent à la conquérir. Notez qu'il y a tout de même un petit problème à ce bel élan de générosité : nos amis sont plein de bonne volonté mais tout de même un peu maladroits : après qu'ils aient violemment corrigé un de ces titanesques, le lieu de l'affrontement ne sera pas en meilleur état que s'ils avaient laissé le méchant monstre accomplir tranquillement son œuvre de destruction.  
+
+  
+
+On retrouve trois des quatre golgoths du premier épisode : le King Kong mécanique, le godzilla-wannabe et le Power Ranger élevé aux anabolisants. Nos monstres ne sont cependant pas plus dégourdis que dans le premier jeu : ils ne disposent toujours que de deux malheureuses attaques et de deux types de projection, différentes selon le monstre sélectionné. Le gameplay a très légèrement évolué depuis le King of the Monsters fondateur. Il ne s'agit plus simplement d'écrabouiller le monstre d'en face mais bien de progresser à travers les différents niveaux, en éliminant les forces militaires qui tentent de vous détruire (avion, tank, sous-marin, navire de guerre,... saletés d'humains ingrats... !) et de latter le boss qui vous attend à l'autre extrémité du stage. En pratique, on peine à différencier les deux softs : l'espace de jeu ne fait pas plus de trois ou quatre écrans de large et 90% du temps dans chaque stage sera tout de même consacré à mettre des beignes au monstre géant qui défend l'endroit. La différence la plus marquante avec le jeu précédent tient aux nouveaux terrains de jeux disponibles. Après avoir été circonscrits à l'archipel nippon, les colosses vont à présent tout bousiller dans une ville américaine, une ville européenne (Paris), le Grand Canyon, l'Egypte, une zone volcanique et une cité sous-marine. Le dernier stage, la base des envahisseurs, renoue malheureusement avec cette fâcheuse habitude qui vous obligera à vous coltiner une nouvelle fois tous les boss à la chaîne avant l'affrontement final. Les combats de King of the Monsters II n'étant déjà guère passionnants à la base, on se serait bien passé de cette séquence plus que fastidieuse. Quelques items peuvent être récupérées durant les stages pour augmenter la puissance du monstre ; d'autres items sont en fait des explosifs dissimulés. Enfin, King of the Monsters II propose un stage bonus, sous la forme d'une espèce de duel de sumo entre golgoths au sommet d'un pic rocheux : le premier qui balancera l'autre hors du rocher remportera la manche.  
+
+  
+
+**Réalisation technique :**   
+
+Graphiquement plus réussi que son prédécesseur immédiat, King of the Monsters II offre des environnements plus variés à dévaster. On regrettera tout de même que les deux stages les plus amusants du point de vue «rampage» soient les deux premiers (la ville américaine et la ville française). Par après, le gameplay se concentre davantage sur l'affrontement contre le monstre extraterrestre que sur la destruction gratuite de l'habitat humain. Et malheureusement, King of the Monsters II est toujours aussi médiocre à ce niveau. Avec les quatre malheureux coups disponibles, l'absence totale de rythme des affrontements, la bande sonore insignifiante et la maîtrise lourdingue des lutteurs géants, ce second épisode s'avère tout aussi déplaisant et plat que le premier.  
+
+  
+
+**En bref : 7/20**   
+
+On découvre de nouveaux décors mais c'est bien la seule nouveauté à signaler au sujet de ce jeu de catch primaire, qui estime malheureusement que la possibilité de démolir les décors dispense de programmer des combats qui soient un tantinet intéressants. L'ajout d'une soi-disant séquence Beat them up est une vaste blague et, non content de proposer le nombre hallucinant de deux coups différents, King of the Monsters II a prévu des boss extraordinairement longs à exterminer. On passe facilement un quart d'heure à cogner péniblement sur eux, en se faisant flanquer au tapis une fois sur deux grâce à la maniabilité exécrable. A deux joueurs, King of the Monsters II mérite tout de même quelques parties pour se défouler mais seul, il est tout aussi dépourvu d'intérêt que le premier épisode.

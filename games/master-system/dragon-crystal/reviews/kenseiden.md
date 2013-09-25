@@ -1,0 +1,23 @@
+---
+user:Kenseiden
+rating:2
+published: 2007-03-04T03:00:19.000Z
+legacy_url: http://www.emunova.net/veda/test/1990.htm
+---
+Suite à une malédiction qui s'est abattue sur vous alors que vous examiniez un étrange cristal dans la boutique d'un antiquaire, vous venez de vous réveiller dans un autre monde peuplé de créatures affamées. Vous êtes heureusement équipé de pied en cap pour partir à l'aventure. Un oeuf, contenant un bébé dragon prêt à éclore, vous suit également partout, et pourra se révéler utile à un moment où à un autre de votre odyssée. Evidemment, alors que vous vous baladez dans cette étrange forêt, vous êtes vite pris de bouffées de nostalgie pour votre monde gangrené par la pollution et le chômage et vous brûlez d'envie d'y retourner. Le seul problème, c'est que l'endroit où vous vous trouvez est un véritable labyrinthe, qu'il va falloir explorer de fond en comble pour atteindre la sortie. Au commencement de chaque niveau, toute la zone est remplie de « brouillard de guerre » sous la forme d'un quadrillage plutôt moche. Vous devrez explorer le niveau de manière à faire apparaître peu à peu l'entièreté du labyrinthe et trouver la sortie vers le niveau suivant. Evidemment, il ne s'agit pas d'une simple promenade bucolique dans un dédale d'arbres et de rochers. Au cours de l'aventure, on rencontrera beaucoup de sales bestioles avides de boulotter un héros pour leur quatre-heure. Il faudra bien entendu les vaincre au combat pour pouvoir progresser. Les combats ne seront cependant pas gagnés (ou perdus, ça arrive aussi...) grâce à vos réflexes et à votre maîtrise de l'épée mais plutôt suite à une succession de tours de jeu et de jets de dés comme dans un RPG très basique. Vous ne gérez cependant pas directement les combats au moyen d'un menu d'action comme dans un RPG classique : les tours de combat sont générés automatiquement en fonction de vos points d'expérience et de votre équipement.  
+
+  
+
+Pour augmenter vos chances d'être victorieux, il faudra donc gagner des niveaux pour devenir plus fort et plus résistant et mettre la main rapidement sur un équipement plus efficace qu'une simple dague et une armure de cuir. Heureusement, le labyrinthe est constellé d'armes et de pièces d'armure abandonnées, et aussi de potions, d'anneaux magiques et de parchemins de sorts. L'utilité de ces derniers items reste cependant inconnue et on ne la découvrira qu'en prenant le risque de les essayer sur soi-même. Une fiole peut ainsi très bien être une potion de soin... ou un poison mortel ! Les items néfastes ont cependant leur utilité si, au lieu de les utiliser sur vous, vous choisissez de les jeter sur un adversaire. Il sera également important de se nourrir pour éviter que votre personnage ne meure d'inanition. Enfin, les développeurs ont également eu la bonne idée de concevoir Dragon Crystal comme un jeu au script généré d'une manière totalement aléatoire. De parties en parties, la construction des niveaux et la position des adversaires et des items ne sera jamais identique. On peut donc se retrouver dans un niveau incroyablement basique et paisible et la fois suivante, dans un labyrinthe complexe bourré de créatures très dangereuses.  
+
+  
+
+**Réalisation technique**  
+
+Bien que les décors aient la bonne idée de changer de temps à autre, Dragon Crystal suinte la monotonie graphique par tous les pores et on s'est déjà lassé de ses rares appâts visuels dès la première heure de jeu. Les décors sont fades, les ennemis sont moches et tout au long des 30 niveaux du jeu, on a toujours l'impression d'évoluer dans le même type d'environnement tristounet. L'animation et la musique ne valent pas la peine qu'on s'y attarde, mais il est surtout regrettable que les combats soient gérés sans le concours du joueur qui n'a alors pour unique tâche que d'équiper son personnage ou d'utiliser les objets de manière optimale. Le gameplay se résume finalement à se balader partout jusqu'à trouver la sortie du niveau.  
+
+  
+
+**En bref : 09/20**  
+
+Le concept de base est intéressant, le principe de génération aléatoire des niveaux aurait pu lui assurer une durée de vie énorme, mais le gameplay de Dragon Crystal n'a pas été suffisamment fignolé aux entournures (notamment les combats qui perdent rapidement tout intérêt) pour l'empêcher de sombrer rapidement dans l'ennui. On se rapproche plus d'un jeu de gestion d'équipement que d'autre chose. Quel gâchis regrettable...

@@ -1,0 +1,29 @@
+---
+user:Kékidi
+rating:4
+published: 2009-08-31T20:58:36.000Z
+legacy_url: http://www.emunova.net/veda/test/3407.htm
+---
+J'affectionne particulièrement la série **Gradius/Nemesis**. Alors, lorsque Konami a édité un nouvel épisode sur le WiiWare de la Wii, je n'ai pas hésité une seule seconde. Mais en réalité, s'agit-il vraiment d'un nouvel opus ? Tout d'abord, le shoot them up affiche de bons vieux graphismes 2D. Ensuite, les niveaux ressemblent fortement aux anciens volets.  
+
+  
+
+L'introduction nous replonge plus de 2 décennies en arrière. Elle se compose d'images fixes quelque peu pixelisées qui rappellent les productions des années 80\. Nous sommes ainsi tout de suite dans le contexte. L'intérieur des stages reprend le style graphique des consoles 16 bits, et ça fait plaisir. À quelques détails près, le premier niveau est construit comme le début de **Gradius**, même décor, mêmes ennemis et mêmes boss. Ça rappelle de bons souvenirs. Ceux qui ont connu la glorieuse époque de la Super Nintendo apprécieront le visuel de ce **Gradius ReBirth**. Il ne paraît pas aussi coloré qu'un jeu Super NES mais reste aussi joli. Les arrière-plans sont relativement vides et uniformes, ce qui donne une bonne visibilité. À part les boss, les ennemis ne sont pas vraiment impressionnants. Cependant ils respectent les critères de la série. Idem, les musiques remixent certains anciens thèmes. Elles possèdent un caractère fortement _chiptune_, c'est-à-dire un aspect typiquement électronique avec des consonances tout droit venues des années 80/90\. Même chose du point de vue des bruitages, très typés électroniques.  
+
+  
+
+Enfin, l'animation semble également provenir d'un autre âge. Il n'y a pas de parallaxe visible dans les décors. Chaque niveau contient un unique arrière-plan qui défile plus lentement que le décor en premier plan. Il n'y a pas d'effet de profondeur, à l'exception du dernier stage. Cet état de fait serait indigne d'une 16 bits. Le pire vient sûrement de la présence de ralentissements. Dès le second monde, lorsque la console affiche plusieurs dizaines d'entités biologiques amorphes à la poursuite du vaisseau, la vitesse d'exécution chute brutalement. Le jeu tourne 2 fois plus lentement que la normale ! Cette diminution de vitesse est franchement nuisible à la maniabilité et indigne de la Wii. Même si la machine n'est pas la plus puissante de sa génération, elle est largement capable de gérer correctement en jeu en 2D. À moins que ce défaut d'animation ne trouve son utilité dans la création d'une ambiance particulière. Tout à fait, il reproduit les ralentissements des consoles 16 bits ! Maintenant, vous distinguez clairement que **Gradius ReBirth** a toutes les apparences d'un shoot them up de la vieille école. En a-t-il la saveur ?  
+
+  
+
+Ce nouveau **Gradius** commence à la manière de tous ses ancêtres. Chaque niveau débute par un vide cosmique où des escadrons ennemis surgissent en file indienne. Une fois détruits, ils libèrent des pastilles bonus. Leur récolte augmente une jauge en bas de l'écran, qui permet ensuite d'acquérir un objet. Chaque case illuminée correspond à un bonus, mais ce dernier n'intègre pas automatiquement le vaisseau. C'est à vous de choisir de l'activer ou non. Si vous ne l'activez pas et que vous récupérez une autre pastille, la case suivante va illuminer un autre bonus plus puissant. À vous de l'activer ou non. Ainsi de suite. Comme dans tout bon vieux **Gradius**, vous pouvez choisir quelle amélioration va équiper le vaisseau. Elles n'ont d'ailleurs pas changé d'un pouce. Figurent toujours les \[Speed-Up\], les \[Missile\], les \[Double\], les \[Laser\], les \[Option\] et le \[Bouclier\]. Par exemple, en fonction du nombre de pastilles amassées, vous équipez votre vaisseau de Laser, ou alors vous préférez récupérer une pastille supplémentaire pour acquérir une Option. Cette dernière correspond à une boule d'énergie qui imite les mouvements du vaisseau et tire avec la même cadence. Vous pouvez collecter au maximum 4 Options, ce qui procure un sentiment grisant de puissance. A vous de voir et de calculer les risques.  
+
+  
+
+L'agencement des niveaux reprend les grands classiques de la série. Ainsi le premier stage copie quasiment trait pour trait le niveau 1 du tout premier épisode. Le second monde a beaucoup de ressemblance avec l'univers organique de _Life Force_. Les statues de l'Île de Pâques ne manquent pas leur rendez-vous et font toujours leur effet. Réjouissant. Indubitablement, l'aventure se termine au cœur d'un gigantesque ordinateur. En somme, rien d'original.  
+
+  
+
+_**Au bon vieux temps :**_  
+
+À chaque fois que je fais essayer **Gradius ReBirth** à une personne, j'entends toujours la même réflexion : « C'est un vieux jeu, ça ! ». Tout à fait, ce titre a tous les attraits d'un jeu rétro. Les graphismes sont très typés 16 bits, ainsi que les effets sonores. L'aventure ressemble à celles des premiers épisodes de la série. Nous sommes bien dans un vieux shoot them up 2D des années 80\. Un jeu où il faut tout apprendre par cœur. Un jeu où on doit recommencer encore et encore les mêmes niveaux jusqu'à comprendre la marche à suivre. Un jeu qui demande une concentration intense pour rester en vie. Un shoot them up pour les amoureux du genre. **Gradius ReBirth** n'est pas parfait, mais je lui pardonne volontiers ses défauts. D'abord, il manque incontestablement de nouveauté. C'est du déjà vu. Ensuite, je regrette l'absence d'un mode 2 joueurs qui aurait immédiatement multiplié l'intérêt par 2\. Enfin, la présence de fâcheux ralentissements pourrait en rebuter plus d'un. Mais bon, quand on aime la série, on pardonne facilement.

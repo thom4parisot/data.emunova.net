@@ -1,0 +1,23 @@
+---
+user:Kenseiden
+rating:3
+published: 2006-03-11T19:39:56.000Z
+legacy_url: http://www.emunova.net/veda/test/1334.htm
+---
+Encore un jeu d'action exclusivement sorti au Japon. Je n'y peux rien : j'ai toujours eu un à-priori positif vis-à-vis des jeux 16-bits à destination du public japonais. Souvent, même quand il s'agit de jeux de seconde catégorie, ils possèdent une petite touche bien particulière qui les rend irrésistiblement attachants, et leur permet souvent de se montrer aussi agréables -- si pas plus -- que les superproductions inspirées de films ou de dessins-animés à destination de l'Europe ou des Etats-Unis. Le scénario et les séquences intermédiaires de ce Dahna étant intégralement en langue nippone, je vais tenter de vous inventer ce que, personnellement, j'en interprète (et à mon avis, je ne dois pas être franchement loin de la vérité).   
+
+  
+
+Dahna est une jeune amazone, belle, blonde, sexy, maniant l'épée comme pas deux et habillée d'un mouchoir de poche. Après de longues années d'aventure, elle revient dans son village natal pour constater qu'un cruel seigneur des ténèbres est justement en train de mettre une touche finale au pillage de la localité. Juchée sur les épaules de son vieil ami Urk le troll, Dahna se met alors à aplatir méthodiquement les soudards qui traînaillent encore dans la cité martyrisée. Jusqu'au moment où un individu plus coriace que les autres pulvérise Urk et force Dahna à combattre à pied. C'en est trop pour la nymphette ! Qu'on transforme sa patrie en petit tas de cendres fumantes, passe encore. On n'est pas en terre barbare pour rien. Mais qu'un malotru vienne occire Urk alors que cette bonne vieille brute mononeuronale lui devait encore 500 écus depuis la dernière olympiade de lancer de nains, c'en est trop ! Il y a des limites à ce qui est tolérable en matière de sauvagerie, et les Amazones solitaires sont connues pour défendre avec hargne le petit bas de laine qu'elles se préparent en prévision de leurs vieux jours. D'ailleurs, comme le disait Urk dans ses moments de poésie : « G'runk Ourgh Garm Zag-zag » ce que certains linguistes éclairés pourraient traduire par « Pas comprendre pourquoi Dahna préférer garder plutôt que manger délicieux petits trucs brillants ».  
+
+  
+
+**Réalisation technique :**   
+
+Bien que l'action se déroule sur un seul plan, le level design est curieusement attrayant, et quelques séquences, à l'image de celle où on dévale une interminable falaise à cheval ont vraiment de la gueule. De même, l'escalade de la cascade, où Dahna bondit d'éperon rocheux en éperon rocheux en trucidant au passage les arbalétriers planqués sur les contreforts de la chute d'eau, vaut également son pesant de cacahuètes. Apprenez également que le troll du début n'est pas mort (désolé, je viens malencontreusement de vous révéler un des rebondissements les plus ébouriffants de ce scénario d'exception !) et on pourra de nouveau se jucher sur les épaules de ce gros monstre pour massacrer du soldat ennemi. Remarquez au passage que vu la lourdeur de l'animal, on se débrouille en fait beaucoup mieux à pied... Enfin, une autre séquence se déroulera à dos de griffon pour un mini shoot them up assez basique. De la variété, il y en a donc à dose raisonnable, mais il faut malheureusement aborder le problème des graphismes, gros point faible de Dahna. Si le style des décors est plutôt agréable, il n'en va pas de même pour leur finition : c'est très simpliste, sans finesse, sans détails... avec des sprites grossiers et à peine digne de la Master System. Dans le feu de l'action, on n'y fait heureusement pas plus attention que ça. Question finesse de l'animation, bonne maîtrise de l'héroïne et thèmes musicaux épiques, Dahna tient la route, sans pour autant casser trois pattes à un gobelin...  
+
+  
+
+**En bref : 13/20** :  
+
+Voici donc un jeu au principe ultra basique et aux graphismes plutôt hideux, qui s'avère au final bien agréable à jouer. On ne fait d'ailleurs plus guère attention aux carences techniques du programme, tant on s'amuse à casser du centaure ou de l'homme-faucon à un rythme industriel. En fait, par sa dominante action mâtinée de quelques séquences plates-formes, Dahna rappelle un peu l'excellent Rastan sur Master System (on jettera au passage un voile pudique sur l'abominable Rastan Saga II de la Megadrive) : un univers heroïc-fantasy cliché, les mêmes types d'attaque et un je-ne-sais-quoi dans l'atmosphère qui permet de faire perdurer le plaisir malgré un gameplay somme toute très limité... Les multiples moulinets et sauts de la belle guerrière devraient en tout cas enchanter tout ceux qui pensent que Sonja la Rousse était quand même vachement plus balèze que Kalidor...

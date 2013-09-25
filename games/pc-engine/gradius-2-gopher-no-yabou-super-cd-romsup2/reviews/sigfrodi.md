@@ -1,0 +1,35 @@
+---
+user:Sigfrodi
+rating:4
+published: 2004-01-31T23:00:00.000Z
+legacy_url: http://www.emunova.net/veda/test/436.htm
+---
+Encore une fois, des extra-terrestres venus d'on ne sait quel trou perdu viennent pour envahir la Terre - à croire qu'ils n'ont que ça à faire et qu'ils sont suffisamment crétins pour n'avoir jamais remarqué qu'il y a d'autres planètes vacantes... Pluton par exemple... C'est bien Pluton, non? Certes c'est un peu petit et la température y est assez fraîche mais au moins on n'y risque pas un coup de soleil. Bref, pour la troisième fois, vous voilà à bord de votre Vic Viper armé jusqu'aux dents parti pour les contrées les plus reculées de la galaxie leur montrer qu'ils sont le maillon faible. Remarquez, ça occupe, vous commenciez à en avoir marre de la 130° rediffusion de Derrick sur la 2 entre deux séances d'entraînement.  
+
+  
+
+Après une sympathique introduction, on se retrouve devant un menu permettant de choisir le type d'armement que l'on souhaite. Comme dans les précédents épisodes, on choisit en effet son bonus après avoir accumulé des capsules lâchées par des vaisseaux ennemis détruits. On retrouve donc parmi les diverses configurations plusieurs types de missiles, un laser concentré, un laser bidirectionnel ou encore le ripple (tir en forme de cercles)... Et bien sûr les classiques Options, sortes de pods suivant votre appareil et multipliant votre puissance de feu. Comme dans Nemesis, il est possible de cumuler jusqu'à 4 Options. Dans le même menu, on a également le choix au niveau du bonus suprême entre Force Field et Shield. Le premier vous rend invulnérable pendant un certain temps, le deuxième place un bouclier devant le nez de votre appareil, ce bouclier se dégradant au fur et à mesure qu'il bloque les impacts. Si chaque configuration présente ses avantages et ses inconvénients, certaines armes étant assez peu utiles, cela présente l'avantage d'une plus grande variété, notamment pour ceux qui ont fini le jeu et qui souhaitent le recommencer avec une configuration moins adaptée à leur style de jeu.  
+
+  
+
+Une fois qu'on a choisi ses instruments de torture, on entre enfin dans le jeu qui ma foi ne change guère des épisodes précédents. Il se déroule selon un scrolling multidirectionnel avec une action vue de côté. Contrairement à Salamander, il n'y a plus d'alternance de niveaux vus de côté et de niveaux vus de dessus. Chacun commence par une courte séquence de blastage de petits monstres peu dangereux permettant d'accumuler quelques capsules et par la même d'acquérir un armement minimal. Suit le niveau en lui même et enfin le classique boss.  
+
+  
+
+Globalement, les niveaux sont bien conçus et présentent des difficultés variées. Le premier vous fait slalomer entre des étoiles de belle taille alors que des dragons de feu de très belle taille vous poursuivent. Dans le second niveau, il faudra se frayer un chemin entre des cristaux de glace se scindant en plus petits éclats quand vous leur tirez dessus alors que plus loin, le décor défilera à une vitesse hallucinante, le but étant de ne pas s'écraser contre les parois édentées. Tout ceci crée une action assez variée, exigeant tantôt promptitude, tantôt précision dans le maniement du Vic. Bien évidemment les ennemis, qui sont par définition fourbes, vont profiter que vous êtes en difficulté pour ramener leur fraise et vous tirer dessus. Quand on est un méchant, ce n'est pas pour rien! ;) A noter que cette version présente un niveau supplémentaire par rapport aux autres versions dans lequel on retrouve les fameux Môa de l'Ile de Pâques, qui faisaient déjà partie du casting pour Nemesis.  
+
+  
+
+Les boss sont généralement assez classiques, tant dans leur design que dans leur façon de vous attaquer. Assez résistants, ils sont aussi de belle taille. A noter que dans l'avant-dernier (ou le dernier?) niveau, vous affronterez les uns après les autres des boss présents dans Gradius et dans Nemesis : on retrouve ainsi le célèbre cerveau affublé de 2 bras ou encore le vaisseau avec 4 bras en spirale et en rotation autour de lui. Une épreuve d'endurance somme toute puisque aucun bonus ne vous sera proposé durant cette phase.  
+
+  
+
+Au niveau graphique, Gradius 2 est un Gradius. ^^ C'est-à-dire que les graphismes font très oldies dans leur style. Les backgrounds sont ainsi assez dépouillés, consistant en général en un classique fond noir étoilé. Les parois du décors sont un peu plus riches et parfois très réussies. Si la plupart des sprites sont d'assez petite taille, ils sont en revanche bien dessinés et souvent nombreux à l'écran. Les boss, généralement assez gros, sont plus ou moins réussis : ainsi, si le phoenix concluant le premier niveau est assez impressionnant, on ne dira pas la même chose de la plupart des suivants, très classiques dans leur design. Le tout est en tout cas fort bien animé : le scrolling multidirectionnel est fluide et fait montre par moments d'une grande rapidité. On ne constate d'ailleurs guère de ralentissements, si ce n'est face à un des boss composé il est vrai de nombreux petits sprites. Encore une fois, le jeu profite parfaitement du support CD : les musiques sont d'une grande qualité sonore et restent dans la veine de la série. Quelques voix digitalisées viennent enrichir des sons par ailleurs très classiques. Pas de reproches à faire au niveau de la maniabilité : un bouton pour tirer, l'autre pour activer un bonus, c'est d'une limpidité absolue. Le vaisseau répond d'ailleurs au quart de tour et s'il peut paraître lent en début de partie, deux ou trois Speed résolvent rapidement l'affaire. La difficulté du jeu peut être modulée de façon assez complète grâce au panel d'options, dans lequel on a le choix entre 3 niveaux de difficulté, la possibilité de choisir le nombre de vies ainsi que d'activer ou non les continues. De ce fait, Gradius 2, peut être autant accessible aux joueurs occasionnels que représenter un bon challenge aux plus chevronnés, sans toutefois être impossible. Il n'empêche qu'il souffre de la même tare que R-Type : être abattu entraîne systématiquement la perte de tout votre arsenal, vous laissant ainsi très vulnérable. Néanmoins, là où la perte d'une vie signifiait souvent la fin de la partie dans le jeu de Irem, les bonus sont suffisamment fréquents dans Gradius 2 pour que le joueur puisse se refaire, après une période de « survie ».  
+
+  
+
+Si vous avez aimé les précédents épisodes de la série, alors ce jeu vous comblera, car il leur est indiscutablement supérieur. Globalement, Gradius 2 est un shoot'em up classique de très bonne facture avec un design très 80's mais doté d'une réalisation agréable et d'un maniement intuitif. De plus le jeu se montre accessible à la majorité des joueurs. Certes ceux qui ne jurent que par des écrans saturés de tirs où on ne distingue même plus le décor le trouveront dépassé mais bon, c'est Gradius! ;)  
+
+  
+
+**Note :** Comme bien souvent avec la plupart des jeux sur Super CD-ROM², lancer le jeu avec une System Card 1 provoque un message d'erreur rehaussé d'une animation humoristique.

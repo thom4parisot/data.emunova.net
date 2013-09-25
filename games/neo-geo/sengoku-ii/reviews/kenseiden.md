@@ -1,0 +1,23 @@
+---
+user:Kenseiden
+rating:3.5
+published: 2006-09-07T23:00:15.000Z
+legacy_url: http://www.emunova.net/veda/test/1696.htm
+---
+Une fois de plus, c�est une période de l�histoire japonaise qui sert de titre à ce Beat them up de la Rolls des consoles de jeu. L�ère Sengoku court sur la majeure partie du XVè siècle et l�entièreté du XVIè. Ill s�agit d�une période de guerre civile, de révoltes rurales et d�affrontements entre shoguns pour la domination de l�archipel. Le célèbre shogun Nobunaga Oda est l�une des figures les plus marquantes de l�époque, et les jeux vidéo semblent particulièrement affectionner cette période troublée. En ce qui concerne le scénario de ce jeu de massacre traditionnel, un seigneur des ténèbres lance ses légions démoniaques à l�assaut du Japon, profitant des troubles de l�époque. Deux courageux guerriers, un samouraï et un cow-boy (il faut bien vendre aux Gaïjins�) se mettent en travers de son chemin. Le jeu se déroule alternativement dans le monde réel et dans une sorte de pandémonium nippon. Alors que l�on est occupé à couper en rondelles les divers assaillants qui arrivent en rangs serrés pour terrasser les défenseurs du bien, il se peut que l�on soit téléporté pendant quelques brefs instants dans un monde démoniaque où les opposants s�avèrent nettement moins humains : géants contrefaits, dragons aquatiques ou déesses-renardes seront les résidents de ces endroits aux décors fantastiques. La plus sympathique de ces séquences dans les plans infernaux est une course à cheval où il faudra décapiter des cavaliers et des têtes de démons flottantes. Si on parvient à anéantir le lieutenant local dans le premier niveau qui se déroule au XVIè siècle, le prince des ténèbres retentera sa chance au XXè siècle, dans les années 40 et les années 90\. Le dernier stage se déroulera quant à lui directement dans le château des ténèbres, afin que les deux combattants puissent détruire la menace dans son repaire.  
+
+  
+
+Les deux combattants, armés de katana, disposent de plusieurs coups différents et peuvent également parer les attaques adverses. Les ennemis trucidés laissent parfois derrière eux des sphères colorées. Certaines d�entre elles font office de power-up, et permettent de lancer des vagues d�énergie. Les autres permettent de se métamorphoser pour faire face aux diverses situations. Les deux héros peuvent se transformer en une femme ninja, un robuste vieillard masqué armé d�un puissant baton et un loup revêtu d�une armure.  
+
+  
+
+**Réalisation technique :**  
+
+Graphiquement, Sengoku II est une véritable merveille. Non seulement les graphismes sont d�une finesse remarquable, avec ces centaines de petits détails qui font toute la qualité visuelle des jeux Neo Geo, mais les décors en eux-mêmes possèdent une classe extraordinaire. Ce constat est particulièrement vrai pour les séquences qui se déroulent dans le monde des ténèbres. Les courses à cheval sous une pluie de pétales de cerisiers japonais, le combat sur la jonque au milieu d�une mer déchaînée et hantée par les spectres des guerriers du passé, ou encore ce gigantesque mort-vivant marin qui tente de vous écraser avec sa spatule sont des scènes d�anthologie comme on en voit peu, même sur la Neo Geo. L�animation est très classe, les duels contre les boss sont de véritables ballets de coups d�estoc, de feintes et de parades, et on ne se lasse pas de voir les adversaires être tranchés en deux par un vigoureux coup de katana ! J�en rajoute une couche avec la bande sonore, qui rappelle Samurai Showdown par instants, avec des thèmes dignes de servir de bande originale à un film sur la guerre civile japonaise, et des monceaux de cris de guerre époumonés et de grognements mystiques en japonais. Reste la jouabilité et là, on retombe un peu sur terre. Le jeu est maniable dans l�ensemble, mais les personnages ne savent pas courir et se déplacent en plus assez lentement. Il en ressort une certaine lenteur générale qui casse un brin le rythme de l�action, qui avait tout pour être trépidante. Ce minuscule détail suffit à lui seul à priver Sengoku II de son titre de jeu de baston incontournable.  
+
+  
+
+**En bref : 13,5/20**  
+
+Quel dommage que le jeu souffre d�une telle lenteur, car avec son design unique, sa superbe réalisation technique, son atmosphère très particulière et son principe de transformations, Sengoku II aurait pu être un des jeux de baston les plus mémorables des années 90\. Au lieu de quoi, il ne s�agit �que� d�un jeu de qualité honnête, mais qui manque de vivacité.

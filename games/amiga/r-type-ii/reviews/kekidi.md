@@ -1,0 +1,31 @@
+---
+user:Kékidi
+rating:4
+published: 2006-05-26T11:11:16.000Z
+legacy_url: http://www.emunova.net/veda/test/1458.htm
+---
+Les scénarii des shoot them up tournent généralement autour du même thème. Des extraterrestres belliqueux veulent conquérir la Terre ou simplement détruire la race humaine. Devant les forces adverses en présence, les armées terriennes ne font pas le poids, seul un pilote hors-pair aux commandes d'un prototype révolutionnaire pourrait les repousser. A quelques détails près, la trame de l'histoire de R-Type II ressemble à ce scénario. Mais qu'importe ! Tout ceci n'est qu'un prétexte pour détruire tout ce qui bouge et tuer du méchant-pas-beau, sans aucun problème de conscience, l'esprit tranquille.  
+
+  
+
+Le prototype si révolutionnaire se nomme R-9 et est couplé à une arme spéciale dénommée la Force. Au travers de l'aventure, des navettes POW, parsemées ici et là, largueront un bonus une fois détruites. Le premier Power-Up récupéré donne la nacelle, qui arrive de la gauche de l'écran. Lorsque vous tirez des rafales avec votre vaisseau, le module opère de même. Vous avez ensuite la possibilité d'accrocher la nacelle au R-9\. Elle ne lancera plus de salves, mais offrira une protection très utile. Elle arrêtera presque tous les tirs ennemis, seuls 3 ou 4 d'entre eux transperceront la Force. Après avoir récupéré un autre bonus, le module devient plus puissant et lance des tirs secondaires en fonction du dit bonus. Le vaisseau dispose de 3 armes spéciales, des rayons qui rebondissent sur les murs, des chaînes qui rampent sur les surfaces et des faisceaux entrelacés qui se dirigent droit devant. Enfin, si vous prenez une autre amélioration, la nacelle grossira pour devenir plus large que le chasseur et donc le protégera encore plus efficacement.  
+
+  
+
+En plus de sa puissance, la Force offre une flexibilité étonnamment jouissive. Vous avez la possibilité de la projeter loin devant et de la rappeler par la suite, à n'importe quel moment. Lorsqu'elle flotte à quelques distances, elle permet d'éliminer rapidement les adversaires éloignés. Par contre, elle ne protège plus le chasseur, ce qui a tendance à stresser le joueur. Alors, pour se calmer les nerfs, il serait bon de raccorder le drone au R-9\. Là, 2 façons de procéder, soit simplement laisser approcher la nacelle pour qu'elle s'accroche à l'avant, soit manœuvrer précisément l'appareil en louvoyant entre les obstacles pour dépasser la nacelle et la coller à l'arrière. Cette nouvelle configuration change votre approche face à l'ennemi, puisque vos tirs se dirigent désormais vers l'arrière. Le R-9, grâce à son drone, acquiert une polyvalence unique qui n'a pas d'égal dans d'autres shoot them up.  
+
+  
+
+Pourtant vous n'avez pas encore tout vu. Les caractéristiques précédemment citées se retrouvent en fait dans le premier épisode de la série. Qu'apporte donc ce deuxième opus ? D'abord une nouvelle attaque fait son apparition. Le vaisseau lance maintenant des missiles à tête--chercheuse ou air-sol en fonction du bonus recueilli. Ensuite, le tir rechargeable déjà présent dans R-Type gagne en puissance. Il a 2 échelons de charge. Le premier représente l'ancien niveau de puissance et si vous continuez à emmagasiner de l'énergie vous atteindrez le second, qui ravage tout l'écran. La vache ! Ca, c'est ce qu'on appelle « déchirer » ! Ce faisceau chargé à bloc est fortement sollicité, notamment face aux boss, qui succombent généralement après 2 décharges. Comme son chargement prend du temps, son utilisation nécessite de connaître les stages par cœur et d'anticiper les mouvements des assaillants. C'est tout le charme des shoot them up d'antan.  
+
+  
+
+Maintenant que vous connaissez les capacités du R-9, vous êtes paré pour affronter l'empire Bydo. Comparé à R-Type, ce deuxième opus ne se démarque pas beaucoup. D'un côté, les adeptes de cette série mythique revivront les mêmes moments d'euphorie qu'auparavant. Mais d'un autre côté, ceux qui attendent de la nouveauté risquent d'être déçus. Les stages des 2 jeux se ressemblent à s'y méprendre. Leurs designs se rapprochent grandement et les graphismes n'ont pas subi d'évolutions majeures. Ainsi, à première vue, seuls les arrière-plans ont été améliorés, ils sont plus beaux et colorés qu'autrefois.  
+
+  
+
+Par contre on note que les sprites ont pris du volume. Par exemple, dans le level 1, au cœur d'une station spatiale des vers géants surgissent du sol. Puis dans le niveau suivant, dans de lugubres grottes, flottant sur l'eau, un demi-boss occupant une bonne partie de l'écran vient vous titiller au milieu du stage. Au cours de la prochaine étape, on atteint le summum du plaisir (et du stress). La difficulté a bondi d'un coup, car Bydo a envoyé l'ensemble de son armada. De gigantesques croiseurs naviguent dans tous les sens, tentant de vous écraser et larguant de leurs soutes quantités d'engins. Après, les niveaux suivants pèchent par un manque d'inspiration. Les décors en mouvement et en perpétuelle construction ne se prêtent pas à un visuel élaboré, ce qui ne les rend guère attrayants.  
+
+  
+
+Presqu'au même titre que les graphismes, les musiques doivent nous immerger dans l'atmosphère d'un jeu. Globalement celles de R-Type II accomplissent leur devoir. Ainsi, certains rythmes lourds, métalliques et intenses plongent le joueur dans la bataille, et au finish, les airs crescendos mettent la pression avant l'ultime combat. Cependant la qualité sonore ne suit pas réellement. En effet, il est regrettable de constater que les bruitages coupent parfois les musiques ou saccadent la rythmique. De plus, il n'y a pas de bruits lorsqu'on blesse un boss, désorientant ainsi le joueur. Enfin, pour finir sur les reproches, l'animation est certes correcte, seulement quelques légers ralentissements à déplorer par endroits, mais elle reste un peu en dessous des productions contemporaines. A vrai dire ce n'est qu'un détail insignifiant. Comme pour son prédécesseur R-Type II est techniquement dépassé par les pointures de l'époque, mais qu'importe, l'intérêt de ce shoot ne réside pas spécialement dans les graphismes ou le spectaculaire, il se situe essentiellement dans la manière de jouer avec la nacelle, dans son gameplay unique.

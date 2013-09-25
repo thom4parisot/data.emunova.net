@@ -1,0 +1,27 @@
+---
+user:Kenseiden
+rating:4
+published: 2007-03-01T13:40:53.000Z
+legacy_url: http://www.emunova.net/veda/test/1987.htm
+---
+Nettement moins connu que les autres épisodes de la série, Golden Axe Warrior est pourtant -- et de loin -- l'épisode le plus intéressant du lot. Mais attention : ceux qui s'imaginent pouvoir incarner à nouveau le clone de Dolph Lundgren et sa grosse épée en seront pour leurs frais. Le héros de Golden Axe Warrior est un petit machin cornu qui, en dépit de son allure un peu gauche, tient fièrement en main son petit bouclier et sa petite épée. Car si Golvellius, l'autre référence aventure / action de la console s'inspirait beaucoup du Adventure of Link publié par le concurrent, Golden Axe Warrior est une copie studieuse du premier jeu mettant en scène Link et la princesse Zelda.  
+
+  
+
+En gros, ce spin-off reprend la trame d'origine du célèbre beat them all à l'origine de toute l'histoire. Death Adder, dernier rejeton d'une race de géants autrefois vaincue par les humains, a réussi à asseoir sa domination sur le royaume de Firewood qui vit maintenant au rythme des sinistres caprices du tyran. Une vieille prophétie affirme cependant qu'un grand héros, armé de la fameuse Hache dorée, viendra un jour détruire les forces du mal qui occupent Firewood. Et pour invoquer cette arme légendaire, le héros devra être en possession des neuf crystaux sacrés, symboles de l'harmonie et de la paix dans le royaume. Parfaitement au courant de l'histoire, Death Adder a donc scellé les 9 crystaux au plus profond de neuf donjons défendus par de redoutables créatures. Et comme la légende l'annonçait, un barbare ne tarde pas à avoir vent de l'histoire et se pointe à Firewood pour remettre de l'ordre dans tout ce bordel. A part le coup du barbare (un petit elfe aux oreilles pointues aurait vraiment trop éveillé de soupçons de plagiat), avouez que ça a quand même de vagues airs de famille avec Legend of Zelda. Même les adversaires standards -- des porcins humanoïdes -- évoquent le monde d'Hyrule de manière assez frappante.  
+
+  
+
+Quoi qu'il en soit, l'objectif va être de guider le héros à travers un vaste monde, constitué d'une interminable suite d'écrans qui génèrent un nombre aléatoire de créatures hostiles. En tuant ces créatures, le héros pourra récupérer de la nourriture pour gagner des petits cœurs d'énergie, des jarres qui contiennent de la puissance magique ou encore des cornes, la monnaie locale. On trouve quand même quelques villages dans Golden Axe Warrior, ce dont le premier Zelda ne pouvait pas se targuer. Même si ces zones habitées ne présentent pas grand intérêt en soi (une auberge, un magasin d'items et deux ou trois pelés qui vous résument leur vision de l'univers en une phrase), elles permettent au moins de souffler à l'écart de la violence des terres sauvages de Firewood. L'objectif globale reste bien entendu de localiser les 9 donjons dans ce vaste monde, de triompher des adversaires et des pièges qu'ils renferment et de récupérer le crystal gardé par un boss. Cela en tenant compte du fait que tous les donjons ne sont pas accessibles immédiatement et qu'il faudra préalablement trouver certains objets pour pouvoir accéder à certains d'entre eux.  
+
+  
+
+**Réalisation technique**  
+
+Par rapport au vague design stylisé du premier Zelda (mais bon...1986 aussi...), Golden Axe Warrior s'en tire tout de même nettement mieux. Sans être vraiment majestueux, l'univers de Golden Axe Warrior propose tout ce qu'on attend d'un gentil univers heroic-fantasy : des bois à perte de vue, des déserts, des zones rocailleuses, des cachettes souterraines dissimulées sous un buisson, quelques archipels reliés -- ou pas -- par des passerelles, ... Sega a réussi à éviter toute monotonie visuelle en créant de nombreuses atmosphères différentes sur les terres de Firewood. Le rythme de l'action est soutenu même si la jouabilité n'est pas toujours des plus précises. Il faut vraiment avoir le jeu bien en main pour affronter les ennemis -- parfois très nombreux sur un même écran -- sans casse. Si on essaye d'aller trop vite, on se prend rapidement coup sur coup vu la bonne réactivité des adversaires. Heureusement, on trouve assez souvent des occasions de se recharger en énergie. Toujours dans l'esprit de Zelda, le thème principal du jeu est l'un des plus épiques dont nous ait gratifié la Master System, même s'il n'est jamais passé à la postérité comme celui de son concurrent Nintendo.  
+
+  
+
+**En bref : 17/20**  
+
+Arrivé peut-être trop tardivement sur le marché, Golden Axe Warrior subit les foudres de la critiques et resta dans l'histoire comme un clone maladroit de Zelda. Ce n'est vraiment pas lui faire honneur car, Golden Axe Warrior, en bon élève appliqué, reprend à la perfection tous les éléments qui ont fait de son rival un jeu d'exception. De plus, il s'octroie tout de même le luxe de proposer une réalisation bien moins datée tout en ne perdant rien de l'intérêt de la quête proprement dite. Long et plutôt difficile, techniquement irréprochable, Golden Axe Warrior serait-il donc le jeu d'aventure / action ultime sur 8-bits ? Pas tout à fait malheureusement car il lui manque la petite étincelle qui l'aurait doté d'une aura mythique. Il n'en reste pas moins le meilleur choix envisageable sur la console pour ceux qui aiment explorer les donjons obscurs et se perdre dans des bois interminables.

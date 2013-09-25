@@ -1,0 +1,21 @@
+---
+user:Kenseiden
+rating:3
+published: 2006-07-06T01:37:04.000Z
+legacy_url: http://www.emunova.net/veda/test/1519.htm
+---
+Plus ou moins inspiré par le jeu d�arcade « NARC », Crime wave est un jeu d�action bien brutal dans lequel un super-flic, Luke McKrabe, est chargé d�abattre un puissant syndicat du crime qui fait régner la terreur dans une métropole américaine. Comme en plus, le syndicat n�a rien trouvé de mieux à faire que d�enlever la fille du président � superbe bimbo soit dit en passant, « jouée » par Britanny Cole � McKrabe a deux fois plus de raisons de parcourir les endroits malsains de la métropole en massacrant du truand à grand échelle.   
+
+  
+
+Crime Wave fait progresser le joueur à travers tous ces endroits éculés que les films hollywoodiens nous ont présenté comme de véritables viviers à bad guys : gares désertées, bas-fonds urbains, usines d�armement ou villas à la décoration italienne. Ces endroits sont infestés de quatre types différents d�ennemis : des mecs louches en perfecto, des petits nabots contrefaits armé d�un genre de mortier, des ninjas et de robustes gardes de sécurité avec un fusil à impulsion, plus quelques robots et machines de guerre. Quand à McKrabe, il dispose d�une arme hybride qui fait autant office de fusil laser que de lance-roquettes portatif. On avance donc, à travers des décors digitalisés, on massacre tout ce qui se présente à l�écran, en n�oubliant pas de faire exploser certains éléments du décor pour s�amuser, et on récupère des munitions partout où on en trouve. McKrabe peut sauter sur place et avancer en canard, tout en tirant. Parfois, quelques séquences nécessiteront un peu plus de doigté, comme des systèmes de laser défensifs à franchir ou des canons de sécurité à guidage caméra, mais dans l�ensemble, l�essentiel de Crime Wave se réduit à un pur moment de destruction. Ce jeu était d�ailleurs assez gore pour l�époque, puisque les ennemis touchés par un roquette explosaient dans un déluge de membres sectionnés et de gouttelettes de sang pixellisé !  
+
+  
+
+**Réalisation technique :**   
+
+Crime wave peut sembler moche aujourd�hui, avec ses décors digitalisés flous et brouillons, mais il ne faut pas oublier qu�en 1990, on en était encore à la préhistoire de la digitalisation et que, face aux jeux les plus performants de l�époque sur d�autres supports (à l�époque par exemple, on ne trouvait sur Megadrive que des softs comme Altered beast ou Dick Tracy), Crime Wave semblait annoncer les prémices d�une nouvelle ère du jeu vidéo, où les jeux « ressembleraient à des films » ! Respect pour l�ancêtre, donc�En revanche, les sprites (dessinés ou du moins, atrocement mal digitalisés) étaient déjà repoussants à l�époque, et leurs couleurs un peu trop vives juraient avec celles, plus réalistes, des décors. Mêmes les musiques et les bruitages étaient digitalisés. Aujourd�hui, on les trouverait stridents et crachotants, mais là aussi, il faut se remettre dans le contexte de l�époque. Les cartes sonores commençaient seulement à faire irruption sur le marché, et entendre autre chose de d�infâme « bip-bip » sortir du speaker Pc était une petite révolution en soi ! De manière plus impartiale, Crime wave était un jeu assez lent, pas hyper maniable : non que les commandes ne répondaient pas bien, mais Luke McKrabe n�est pas un modèle de vivacité et les sauts, particulièrement, étaient bancals.   
+
+  
+
+**En bref : 12/20** : En 1990, Crime wave était un de mes jeux préférés sur Pc. Le gore était un concept relativement nouveau dans les jeux d�action (du moins, le gore qui ressemblait à autre chose qu�à trois gros pixels rouges !) et le gameplay n�était pas forcément plus limité que ce qui se faisait à l�époque. En outre, la réalisation était plus avant-gardiste que l�essentiel des jeux de l�époque, hors arcade bien entendu. Malheureusement, Crime wave � comme tous les jeux ayant tablé sur le plein-la-vue à l�époque de leur sorte pourrait-on dire � a pris un méchant coup de vieux et ne peut plus compter aujourd�hui que sur ce qu�il est fondamentalement : un jeu d�action très limité, présentant très peu d�adversaires et des niveaux assez uniformes. Je lui mets donc une note de nostalgie en souvenir des bons moments passés en sa compagnie, mais en soi, il ne risque pas d�intéresser qui que ce soit aujourd�hui�

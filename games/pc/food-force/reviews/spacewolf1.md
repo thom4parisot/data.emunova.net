@@ -1,0 +1,25 @@
+---
+user:Spacewolf1
+rating:4.5
+published: 2006-06-02T21:23:47.000Z
+legacy_url: http://www.emunova.net/veda/test/1468.htm
+---
+Food Force n'est pas un jeu comme les autres. En effet, il est le produit non pas d'une société cherchant à faire des bénéfices, mais l'oeuvre du **World Food Program**, un programme humanitaire mondial de l'Organisation des Nations Unies (l'ONU pour ceux qui ne l'aurait pas compris) !!!  
+
+  
+
+**Un jeu instructif**  
+
+Tout d'abord, sachez que ce jeu est entièrement gratuit et est téléchargeable à l'adresse suivante : http://www.food-force.com. Actuellement disponible uniquement en anglais, il a pour but de faire découvrir le fameux **World Food Program** ainsi que les différentes facettes que ses représentants sont amenés à effectuer au cours de leurs différentes missions. En effet, leur travail est loin de se résumer à une "simple" distribution de riz aux populations dans le besoin dans des pays où la situation politique est plus ou moins chaotique !!! Enfin, sachez qu'il y a également à disposition des fiches pour les enseignants qui souhaiteraient se servir de ce jeu comme support de cours.  
+
+  
+
+**Missions... humanitaires**  
+
+Mais comment se déroule le jeu ??? En fait il est constitué de 6 courtes (mais intructives) missions. Dans un premier temps, vous allez devoir trouver les populations dans le besoin. Pour cela, vous êtes à bord d'un hélicoptère et devez explorer la carte pour trouver toutes les personnes ayant besoin de nourriture. Un travail simple, mais nécessaire. Maintenant que nous avons trouvé nos pauvres personnes dans le besoin, il faut leur préparer à manger. Il s'agira donc de votre seconde mission à savoir concevoir une mixture équilibrée répondant aux besoins énergétiques du corps humains mais tout en restant dans le budget qui vous est imposé (0,30 US Dollars par personne par repas), un nutritionniste vous aidera dans votre tâche car, comme vous vous en doutez, ce n'est pas avec ce budget que vous allez préparer du coq au vin ou une tête de veau... ce sera donc un mélange de riz, haricots, huile végétale, sucre et sel. Maintenant il va falloir apporter tout ça à la populace, il s'agira donc d'une mission de parachutage afin de répondre dans l'urgence. Il vous faudra bien viser afin de livrer le maximum de nourriture (et non causer le plus de dégâts avec des bombes). Malheureusement, comme vous vous en doutez, les ingrédients nécessaires à la fabrication de votre mixture ne tombent pas du ciel... votre quatrième mission consistera donc à vous approvisionner et il vous faudra donc faire certains choix entre prix et localisation, il vous faut donc voir à la fois le court et le moyen terme. Le parachutage des provisions c'est bien pour l'urgence, mais il faut bien avouer que cela reste assez imprecis et rien ne vaut une bonne vieille distribution sur la terre ferme, mais pour cela il faut d'abord acheminer la nourriture sur les lieux de distribution... Votre cinquième mission va donc vous apprendre les dangers qu'un tel trajet peut vous "offrir" : mines à déminer, ponts à réparer... et même négociation avec des forces rebelles !!! La situation d'urgence est maintenant "réglée", mais la population est encore dépendante de l'aide internationale, votre dernière mission consistera donc à développer la région et ainsi jongler avec le budget afin de rendre l'ensemble des projets viables sur le long terme afin que la population soit instruite au niveau de l'alimentation (repas équilibré, culture...) ainsi que de la santé (hygiène, diverses préventions...), le début d'une vie indépendante.  
+
+  
+
+**Technique et intérêt**  
+
+Soyons clair, niveau technique le jeu s'en sort encore honorablement mais est loin d'être exceptionnel. Globalement on a un niveau de Super Nintendo, nous mettrons les missions 2 et 4 de côtés car ne se jouant que sur une carte ou avec un ensemble de doseurs... Pour les autres missions, nous avons le droit à une vue de dessus ou en 3D isométrique, l'ensemble est clair est assez sympa et ne souffre pas trop de comparaison face à des production de la génération 16bits ou des jeux de gestion "à l'ancienne" (type RollerCoaster Tycoon, Sim City 2000, Industry Giant...). Au niveau des bruitages c'est moins bon et les anglophobes risquent de ne pas comprendre toute la portée et importance des missions qui vous seront confiées. Au niveau de la durée de vie, je ne vous cacherai pas que moins d'une heure suffit pour en voir le tour, néanmoins l'intérêt de Food Force n'est pas là puisque le principal intérêt est de montrer le fonctionnement de l'organisation et de sensibiliser les gens. La complémentarité des fiches éducatives permet également de s'en servir comme support de cours (pour des cours d'anglais un peu moins barbant ^^). On terminera par une petite note de compétition : en fonction de performance au cours des missions vous amasserez en effet plus ou moins de points... et bien sachez qu'il existe bel et bien un classement mondial officiel !!! Donc rien ne vous empêche de vous battre contre le reste du monde afin d'être le meilleur.

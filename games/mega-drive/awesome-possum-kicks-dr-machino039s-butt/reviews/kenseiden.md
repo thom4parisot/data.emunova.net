@@ -1,0 +1,23 @@
+---
+user:Kenseiden
+rating:1.5
+published: 2008-03-26T17:51:15.000Z
+legacy_url: http://www.emunova.net/veda/test/2631.htm
+---
+Vous savez ce que j'en pense des mascottes de seconde zone, moi, hein...! Des crevards, des losers, des saltimbanques de bas étage tous autant qu'ils sont, qui viennent quémander quelques miettes de succès sans être foutu de proposer quoi que ce soit d'original ou de séduisant. Pour ne rien arranger, celle-ci n'est pas n'importe quelle mascotte : c'est une mascotte Tengen. Mais oui, Tengen... cette filiale d'Atari qui s'est fait une spécialisation d'adapter avec les pieds les plus antédiluviens et improbables des hits d'arcade du géant américain. Bien qu'Awesome Possum soit, une fois n'est pas coutume, une création originale, il y avait toutes les raisons de redouter un désastre. Le moins qu'on puisse dire, ce qu'on n'est pas déçu du résultat.  
+
+  
+
+Awesome Possum est donc une création originale mettant en scène un opossum qui rêve visiblement d'être Sonic à la place de Sonic. Cette bestiole hyperkinétique au long museau file à toute vitesse à travers forêts, cavernes et usines, rebondit de branches en branches et tourbillonne sur lui-même pour exploser ses adversaires. Mais Awesome Possum ne se contente pas de faire le kakou de branches en branches : c'est également un héros é-c-o-l-o-g-i-q-u-e ! Là où l'autre tocard d'insectivore se contente d'essayer de battre son propre record d'explosion du mur du son, son cousin marsupial, lui, prend le temps de veiller sur l'environnement. Son ambition est rien de moins que de sauver la planète des méchants pollueurs, industriels et compagnies d'exploitation des forêts qui anéantissent sans vergogne le biotope des opossums (et des hérissons d'ailleurs). Awesome Possum pousse même cette bonne conscience jusqu'à proposer, entre chaque stage, un petit quizz qui porte sur l'environnement, la nature ou les animaux en voie de disparition. Ce quizz n'a aucune incidence sur le jeu : il s'agit simplement d'éveiller la jeunesse aux grands défis environnementaux. En lieu et place des anneaux bling-bling de Sonic, l'opossum ramasse des canettes et d'autres saletés non biodégradables pour augmenter son écolo-score à la fin de chaque stage.  
+
+  
+
+**Réalisation technique :**   
+
+Je vous préviens tout de suite, vous allez en bouffer de la comparaison avec Sonic. Awesome Possum déploie tant d'efforts à copier le maître que cela en devient presque attendrissant. Premier bon point : l'animal est sympathique. Un avis purement personnel mais on se tape tellement de demi-portions dans le vaste domaine du héros poilu et marketable que celui-ci n'est certainement pas le pire du lot. Pour le reste, vous prenez une bêta-version d'un épisode de Sonic, torché par un stagiaire en trois semaines, et vous avez une bonne idée de l'impression que laisse Awesome Possum. Pour commencer, c'est très coloré mais ça bave. Les décors sont relativement fouillés mais souffrent aussi d'un désagréable rendu granuleux (un comble : sur Megadrive, cela n'arrive logiquement que dans les jeux mettant en avant des teintes sombres, pas des couleurs flashy). Awesome Possum aimerait beaucoup être aussi rapide que Sonic et, dans une certaine mesure, il y parvient... mais au prix de saccades et de scrollings différentiels tellement foireux qu'ils en font mal à la rétine. J'oubliais de dire que le jeu n'est vraiment pas maniable, un peu comme si on dirigeait Sonic bourré. Et que là où le hérisson de Sega avait le mérite de proposer des environnements, si pas originaux, en tout cas dotés d'un cachet certain, Awesome Possum se noie dans le classicisme le plus déplorable. Musicalement, je ne me rappelle de rien de bien marquant mais le héros est en tout cas hyper bavard, avec une tonne d'aphorismes plus ou moins bien sentis quand il ramasse un bonus ou marche sur un piège à loup.  
+
+  
+
+**En bref : 07/20**   
+
+Le Sonic du pauvre, voilà comment on pourrait définir cet Awesome Possum. C'est regrettable car à défaut de révolutionner quoi que ce soit, Awesome Possum disposait sur le papier d'un certain potentiel. Mais avec les bras-cassés de Tengen aux commandes du projet, on se retrouve au final avec un produit qui donne l'impression de n'avoir pas été terminé, une espèce d'affreuse bêta-version tellement bourrée de couacs graphiques, de scrollings poussifs et de réactions indésirables qu'il est humainement impossible de tenir le coup plus d'un ou deux stages. Awesome Possum est presque un soft à caractère informatif, à montrer dans toutes les bonnes écoles de programmation en tant que contre-exemple.

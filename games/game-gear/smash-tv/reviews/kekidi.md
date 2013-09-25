@@ -1,0 +1,23 @@
+---
+user:Kékidi
+rating:1
+published: 2008-06-01T04:16:55.000Z
+legacy_url: http://www.emunova.net/veda/test/2700.htm
+---
+Les sociétés de production d'émissions télévisuelles ont complètement perdu la raison ainsi que le sens de l'éthique. Afin d'attirer les téléspectateurs, elles proposent des jeux d'une extrême violence et totalement immoraux. **Smash T.V.**, qui obtient des audiences faramineuses, place des concurrents au milieu d'un véritable champ de bataille. Les candidats doivent massacrer, au péril de leur vie, des hordes de créatures féroces, tout en récoltant des liasses de billets verts, des lingots et d'autres trésors. A condition de rester en vie.  
+
+  
+
+Sur le plateau de télévision, un présentateur annonce brièvement les protagonistes avant de les lâcher dans la fosse aux lions. Ensuite un challenger entre dans l'arène arme au poing, le doigt sur la détente. Il avance au milieu d'une salle rectangulaire (qui occupe toute la taille de l'écran) où chacun des 4 murs possèdent une porte. Une fois piégé dans cette pièce, ces 4 ouvertures déversent un flot continu de créatures immondes. Puis le massacre commence. Des androïdes avec des matraques se jettent sur le candidat qui les élimine avec son arme à feu. Quel carnage ! Des hectolitres de sang se déversent ainsi sur le sol. Impossible de compter les victimes, car il y en a tellement. De tous côtés. Même le candidat perd moult vies. En moyenne, il n'aura à peine le temps de survivre une minute, submergé par le nombre. La sortie s'ouvrira quand tous les adversaires seront éradiqués, ensuite il pourra changer de pièce pour recommencer le carnage. Ainsi de suite. Mais pourquoi endurer autant de sévices ?  
+
+  
+
+L'objectif de tout participant est d'obtenir un maximum d'argent. Des cadeaux et lingots d'or apparaissent aléatoirement sur le sol. Il faut se ruer sur ses objets pour les récupérer. A la fin du niveau, la production comptabilise les gains : grille pain, magnéto, argent liquide, puis offre au concurrent des vies et des continues. Il en aura bien besoin notamment pour affronter les boss. Ces engins de torture mi-animal, mi-machine ont une résistance incroyable et encaisseront un nombre incalculable de tirs avant de rendre l'âme. Les détruire représente une épreuve interminable. C'est inhumain d'avoir créé des boss aussi puissants ! Il faut plusieurs vies et même plusieurs continues pour les terrasser. Du jamais vu.  
+
+  
+
+**Smash T.V.** est un massacre perpétuel. Les monstres affluent de tous les côtés, les dézinguer représente donc une tâche impossible. Les armes qui surgissent au hasard n'y changeront rien. Les puissants missiles sont utiles contre les ennemis coriaces, les tirs multiples par leur ouverture balayent une grande surface, les bombes de courte portée nettoient à proximité du héros. Malgré leur qualité, ces armes n'ont qu'une efficacité réduite, car leurs munitions limitées ne leurs confèrent qu'une courte autonomie. Sans cette contrainte, leur utilité se voit également amoindrie à cause d'une maniabilité exécrable. Seuls les bonus défensifs, tels que l'invincibilité ou les satellites protecteurs, rendent réellement service. En pratique, diriger son personnage vers une direction et tirer dans une autre relève du miracle. Un bouton de la console permet de lancer les projectiles dans le sens inverse du déplacement. Très pratique pour fuir. Mais où ? Les arènes de combat avec leurs petites dimensions n'autorisent pas ce genre de manœuvres. L'autre bouton force le candidat à tirer toujours dans la même direction. Nécessaire pour les déplacements latéraux. Cependant sa mise en œuvre n'est pas évidente et entraîne une confusion dans les commandes. Au final le personnage tire la plupart du temps dans la mauvaise direction.  
+
+  
+
+A cause d'un scénario sans intérêt, **Smash T.V.** ne propose rien de convaincant. L'action ne procure aucun plaisir ni divertissement. Le joueur passe son temps à éliminer de grosses masses informes ou à se faire lamentablement tuer. Non ! Sans aucune finesse, carrément trop bourrin, à l'excès, jusqu'à l'écœurement ! De surcroît, le jeu est desservi par une maniabilité médiocre. Enfermé dans les studios, le candidat patrouille invariablement entre les 4 murs d'une pièce. Les décors basiques rebutent quiconque s'aventurant dans ces lieux. Quant aux ennemis, ils ressemblent à des taches sur un fond uniforme. L'animation ne parvient pas à se hisser à un niveau supérieur. Trop saccadée, elle rend les mouvements des sprites imprévisibles et nuit à la jouabilité déjà amputée par la maniabilité immonde. Finissons par les musiques rapides et dans les tons d'un jeu d'action mais bien trop répétitives. **Smash T.V.** ne présente aucun intérêt. A éviter.

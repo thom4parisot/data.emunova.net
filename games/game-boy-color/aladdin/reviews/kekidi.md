@@ -1,0 +1,19 @@
+---
+user:Kékidi
+rating:4
+published: 2006-07-12T03:05:32.000Z
+legacy_url: http://www.emunova.net/veda/test/1545.htm
+---
+Il était une fois à Agrabah, une bourgade oubliée au cœur du désert, un conseiller du sultan nommé Jafar, qui voulait renverser le pouvoir et prendre le trône du pays. Son complot repose sur la possession d'une lampe magique qui exaucerait 3 souhaits. Néanmoins cet objet fantastique demeure jalousement protégé au fond de la caverne des merveilles, un lieu perdu au milieu des vastes étendues sablées. Seule une personne ayant l'innocence d'un enfant peut pénétrer dans cette caverne, ce qui empêche à jamais Jafar d'y entrer. Cependant, ce vil personnage déniche dans les rues de la ville un jeune voleur naïf qui correctement manipulé devrait rapporter le sésame tant convoité.  
+
+  
+
+Par de subtils stratagèmes, le mesquin vizir va obliger le jeune Aladdin à lui ramener la lampe magique. Mais d'abord, le sournois ministre doit capturer ce vaurien. Le premier niveau débute donc dans les ruelles étroites d'Agrabah où les gardes assaillent notre valeureux héros. Ce dernier, seul contre tous, car même la population n'apprécie guère les voleurs, se défend par la lame de l'épée ou en lançant des pommes à distance. Le titre se construit comme un jeu de plates-formes, où Aladdin devra atteindre la sortie en prenant garde aux multiples pièges parsemés sur la route : des parterres de braises, des sols hérissés de pics, des précipices et bien d'autres difficultés. Ensuite, la structure des niveaux fera appel à l'agilité du jeune homme. Le scrolling ne se limitant pas simplement à un déplacement vers la droite, Aladdin grimpera également dans les hauteurs en utilisant des cordes, ou mieux des tapis volants. Le décor n'est pas aussi fantaisiste qu'un Mario ou Sonic, point de plates-formes mouvantes ou stationnées en l'air comme par enchantement. Le jeu reprend l'univers des légendes arabes telles qu'elles ont été décrites dans le dessin animé Aladdin. Ainsi, les tapis volants remplacent les plates-formes aériennes et les cordes animées par le son du charmeur de serpents prennent la place des ascenseurs.  
+
+  
+
+La cartouche ne reprend pas que l'ambiance des contes des mille et une nuits, il se réfère aussi à l'esprit comique du film d'animation. En effet, lorsque notre voleur touche certains sbires à la solde de Jafar, ils en perdent leur pantalon et d'un air confus ou ridicule, ils tentent de le remettre. Pour une portable 8 bits, l'animation des personnages convainc vraiment. Aladdin dispose de mouvements divers et variés. Par exemple, quand il reste immobile un petit moment, il commence à jongler avec une pomme qu'il a dénichée dans sa poche. A vrai dire, les capacités de la GameBoy Color sont correctement exploitées. Les couleurs magnifiquement choisies montrent des images fort agréables et jolies dans la grande majorité des niveaux. Même dans le stage sombre de la prison, les dégradés de gris relativement développés forment de remarquables décors. L'ensemble est soutenu par des musiques dans le style oriental qui forcément sied parfaitement à l'ambiance. On reconnaît aisément les thèmes du dessin animé ce qui permet de se plonger encore plus dans l'atmosphère Disney.  
+
+  
+
+Techniquement le jeu honore donc la petite portable et son aventure n'en devient que plus passionnante. Le jeu étant l'adaptation de celui édité auparavant sur Megadrive, les connaisseurs comprendront tout de suite que cette cartouche possède des qualités indéniables. Ils savent également que l'aventure motive à tel point qu'on n'a pas envie d'éteindre la console avant le générique de fin. Malheureusement, cela peut arriver très vite, car le produit destiné pour le public de la firme Disney est relativement facile.

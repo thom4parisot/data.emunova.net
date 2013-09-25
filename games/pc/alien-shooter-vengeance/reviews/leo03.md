@@ -1,0 +1,51 @@
+---
+user:leo03
+rating:4
+published: 2009-01-27T02:18:22.000Z
+legacy_url: http://www.emunova.net/veda/test/3035.htm
+---
+Ce jeu est peut-être l'exemple typique du shareware à la con dont on fait la connaissance sur un vieux cd de démo. Mais les temps changent, et on fait moins attention à ces fameuses démos depuis qu'on a Internet avec une grosse connexion. Le plaisir de ces fameux sharewares, c'est l'impression d'avoir trouvé une petite perle par soi-même, un de ces jeux à la con avec des graphismes assez simples, mais avec lesquels on prend plus de plaisir que les derniers blockbusters. Plaisir un peu honteux, certes, mais à l'abri des regards indiscrets ; c'est un peu comme se retaper un vieux Picsou Géant avec le verre de grenadine à la main. Mais alors, si je vous en parle, vous n'aurez plus le plaisir de la découverte ? Ha, il fallait y penser avant !  
+
+  
+
+**_Promis, ça reste entre nous_**  
+
+  
+
+Mais qu'en est-il alors, de ce jeu que l'on retrouve dans les sombres ruelles du PC ? Alien Shooter premier du nom est un jeu de tir en vue 3D isométrique, qui nous proposait de désouder des nuées d'aliens monstrueux sur divers niveaux. Ce jeu a connu plusieurs add-ons puis enfin une suite, Alien Shooter : Vengeance, celui-là même dont je vous parle. Oubliez les graphismes mochissimes du premier, Vengeance arbore une belle 2D agréable à l'œil avec divers effets afin d'égayer le tout. Alien Shooter 1 était la base, le brouillon, Vengance est l'aboutissement, la réussite. Le but reste le même : vous incarnez un soldat qui reçoit diverses missions qui ne sont que des prétextes pour traverser des niveaux infestés de monstres. À votre disposition, de nombreuses armes classées en cinq catégories : les pistolets, les fusils, les mitrailleuses, les lance-roquettes, et les super-armes. Les pistolets sont assez bons au niveau des dégâts produits, mais les cadences de tir sont assez faibles. Je les réserve pour détruire les caisses et les mines ainsi que pour finir les quelques monstres restants. Les fusils sont très bons car les ennemis étant souvent nombreux, avec une barre de vie assez faible, leur champ d'action très large est souvent judicieux contre les nombreuses armées d'ennemis qui envahiront notre écran. Gare cependant à leur temps de rechargement. Les mitrailleuses répondent assez bien aussi à ce besoin de se défendre contre des vagues d'ennemis. Alterner entre la mitrailleuse et le fusil pendant qu'il recharge est une bonne technique. En effet, lorsque une arme se recharge, vous pouvez pendant ce temps changer d'arme, l'idée étant de vider un chargeur, changer d'arme avec la molette ou avec le clavier, vider son chargeur, reprendre son ancienne arme, et ainsi de suite. Le lance-roquette ne lance qu'un tir à la fois, mais puissant et avec un souffle d'explosion non négligeable. Je n'en ai pas eu tant besoin que ça, alors inutile de s'encombrer avec les nombreuses munitions qui sont distribuées. Les armes spéciales sont les armes les plus puissantes du jeu. Mais on ne les réservera que durant les moments vraiment dangereux afin d'éviter de gaspiller leurs munitions. Vous trouverez un lance-flamme, des armes lasers, des armes cryogènes...  
+
+  
+
+Vous pouvez aussi mettre des armes dans votre inventaire pour pouvoir en changer après, mais ça n'aura que peu d'intérêt, les armes étant principalement rangées par ordre de puissance. Votre inventaire comportera alors munitions et kit de soins. Bien sûr, vous pouvez avoir aussi une armure ainsi qu'une lampe, des implants de puissance, un droïde de soutien ainsi qu'un radar, mais tout comme les armes, des compartiments leur sont spécialement réservés. Vous trouverez tout ça sur le terrain ou dans des magasins. Les places secrètes sont généralement bourrées de fric et de munitions, avec parfois une arme puissante. Avec ça, il y a aussi l'expérience que vous gagnez au fil des combats. Chaque niveau gagné vous permet d'attribuer des points dans des compétences telles que le nombre maximum de points de vie, la force (nombre d'objets transportables), la vitesse, la précision, l'intelligence, ainsi que la régénération. À ces compétences viennent se rajouter les capacités à utiliser les armes et armures les plus puissantes.  
+
+  
+
+Malgré la vue 3D isométrique, le jeu se contrôle comme un FPS. Vous dirigez le personnage au clavier et vous visez et tirez avec la souris. Le clic droit permettant de déplacer votre personnage à la manière d'un jeu de stratégie, et le clic du milieu d'ouvrir le menu de votre inventaire, on peut dire que le jeu peut se jouer uniquement à la souris, mais je ne vous le recommande pas. Le gros du jeu consiste à savoir gérer les mouvements et les tirs des aliens afin de ne pas subir de dégâts et d'éviter de se retrouver coincé et encerclé, tout en les éliminant. Des fois, vous devrez faire face à des téléporteurs qui amènent continuellement de nouveaux ennemis. Ils sont votre priorité si vous ne voulez pas perdre votre temps à tuer des aliens qui reviennent sans cesse. Les ennemis sont nombreux et différents. En gros, il y a ceux qui sont armés et qui seront dangereux de près comme de loin, et ceux qui ne sont pas armés, fonçant alors sur vous. Les monstres les plus puissants sont ceux qui sont armés bien entendu, mais ce n'est pas pour autant qu'il faut oublier les autres qui peuvent vous encercler et vous empêcher ainsi de manœuvrer. Les plus gros nécessiteront d'ailleurs toute votre attention car il faudra faire preuve de technique si vous voulez avoir une chance de les battre. Des phases en véhicules sont aussi de la partie, mais ce n'est pas pour autant qu'il faut en profiter pour faire n'importe quoi.  
+
+  
+
+Les parties se suivent dans un joyeux bordel où les décors sont repeints par vos soins avec le sang et les cadavres des aliens ou leurs restes. Alien Shooter ne fait pas dans la finesse. Il fait encore moins dans les phases de jeu superflues à la con qui servent au jeu à pouvoir répondre hypocritement « Ha ha ! Tu t'apprêtais à dire que je suis répétitif ? Et bien non, regarde, j'ai aussi des phases Quick Time Event ! Trop bien non ? ». Alien Shooter : Vengeance montre que lorsqu'un jeu est bon, il n'a pas à se voir accusé de répétitivité. Du début à la fin, le jeu consiste à faire danser vos doigts sur les touches ZSQD avec quelques petites parades sur les touches 1 2 3 4 et 5 et même R pour recharger. Votre main droite quant à elle dirige la souris pour viser là où le mal, la destruction, et l'annihilation des aliens doit s'abattre. C'est tout. Pas besoin d'autre chose. Lorsque le joueur, au fil de quelques missions, aura assouvi son besoin d'extermination à la mélodie de la mitrailleuse et autres armes lourdes, il pourra alors faire Echap pour quitter le jeu. Et le reprendre plus tard pour avoir sa dose. Aujourd'hui fut une mauvaise journée ; il se jette alors sur son ordinateur, la bave aux lèvres, les yeux injectés de sang, et lance son jeu fétiche en cliquant de toute sa force sur la souris. Mais tout n'est pas joué encore, car il doit encore ATTENDRE durant un long temps de chargement avant d'avoir le menu du jeu, puis encore un peu mais pas trop pour charger le niveau. Enfin, il peut s'adonner à son vice. Dans des râles de satisfaction atroce, il désoude, mitraille, annihile, dézingue, mutile, anéantit, massacre, et trucide des masses et des masses d'ennemis, le son bien fort afin d'apprécier le bruit de sa mitrailleuse et des giclées de sang. Les plus calmes prendront le soin de se siffler une bière durant les temps de chargement. Après, les mains sont trop occupées pour boire. Les niveaux sont vastes mais aucune carte n'est disponible. Ce n'est pas pour autant que vous vous perdrez. Tel un petit poucet version gore, les monceaux de cadavres s'empilent et restent au sol, laissant une trace indélébile de vos passages. Et si le « besoin » se fait sentir, des flèches vertes vous indiquent le chemin à suivre. On peut le dire, Alien Shooter est tout simplement un jeu où on débranche son cerveau, et seule la partie renfermant les instincts les plus primaires reste connectée au reste du corps. Et il le fait bien. Le jeu remplit donc son contrat.  
+
+  
+
+Techniquement, pas grand chose à redire. C'est de la 2D de plutôt bonne qualité avec quelques effets saisissants, surtout au niveau de la lumière. Le jeu ne gère que deux résolutions d'écran : 800x600 et 1024x768, mais sachez que l'on peut bidouiller tout ça (en modifiant le fichier CONST.LGC), et adapter le jeu à un écran 16:10 ! Comme toujours, vous trouverez ceci sur le site widescreengamingforum. Pour ce qui est du son, la seule chose que l'on entend c'est la douce mélodie de vos armes, des explosions, des bruits peu ragoûtants, et des musiques de jeux vidéo (mais sympas). Des fois aussi, vous entendrez des voix. Et oui, le jeu dispose aussi de dialogues. Mal doublés paraît-il, mais vu que c'est en anglais, on s'en fout pas mal. Le jeu dispose aussi d'un mode survival et coopératif.  
+
+  
+
+_**Conclusion**_  
+
+  
+
+Alien Shooter : Vengeance vous propose d'incarner un marine Terrans face à un rush de Zerglin. Ha non, c'est pas censé être ça. Pourtant, ça y ressemble ! Mais la comparaison avec Starcraft s'arrête là, car Alien Shooter est un gros jeu de tir bien bourrin qui fait du bien. Bien réalisé dans une 2D soignée, le jeu vous propose d'investir quelques euros seulement dans un produit que vous ne pouvez regretter. En fait, une démo est disponible, ici par exemple :  
+
+http://files.filefront.com/Alien+Shooter+Vengeance+Demo/;6379790;/fileinfo.html  
+
+Elle est assez représentative du jeu, jetez-y un coup d'oeil. Le jeu est actuellement disponible en vente sur le site de la Sigma Team :  
+
+http://www.sigma-team.net/games/action/alien-shooter-2.html  
+
+Mais aussi sur Steam :  
+
+http://store.steampowered.com/app/6290/  
+
+On ne peut pas dire qu'il soit vendu très cher, alors n'hésitez pas. Alien Shooter : Vengeance est un excellent jeu, le meilleur dans le genre jeu de tir en vue isométrique pour ma part.

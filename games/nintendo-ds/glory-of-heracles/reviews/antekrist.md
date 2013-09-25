@@ -1,0 +1,43 @@
+---
+user:Antekrist
+rating:3
+published: 2011-11-30T20:04:19.000Z
+legacy_url: http://www.emunova.net/veda/test/4198.htm
+---
+Autrefois, la Grèce était un fier pays de conquérants, à la méthode d'éducation certes douloureuse, mais qui garantissait un bon transit intestinal. C'était avant le traité de Rome, la commission Jenkins, la crise de la dette et Papandreou. A cette époque, tu soulevais un caillou et tu trouvais un héros. Il y en avait partout, des Achille, des Patrocle, des Ulysse, des Icare, etc. Et puis Heraclès bien entendu, plus connu par chez nous en tant qu'Hercule, de son nom romain. Demi-dieu fils de Zeus de son état, célèbre pour sa puissance plus que pour sa finesse d'esprit, il est notamment celui qui a triomphé des douze travaux imposés par Eurysthée, roi de l'Argolide qui en avait fait son esclave (en gros). Mais bon, tout ça finalement, on s'en branle, puisque le jeu qui nous intéresse ici n'a rien à voir avec la choucroute.  
+
+  
+
+**TROIE POUR LE PRIX D'UN**  
+
+Lorsque l'aventure débute, le héros se réveille amnésique et en armure sur une plage de Grèce. Il croise alors la route de Leucos, jeune maraudeur étrangement efféminé (encore qu'avec les mœurs locales, est-ce vraiment si étrange ?) qui, va-t-on rapidement apprendre, est un immortel. Plus surprenant encore, notre héros va lui aussi se montrer insensible à l'appel de la mort et, d'après les nymphes que le duo rencontre peu après, il serait Heraclès descendu sur Terre. Chose qui n'a finalement rien d'étonnant lorsqu'on sait que Glory of Heracles n'est pas un RPG banal, mais le dernier rejeton en date de la courte (six épisodes dont un spin-off) saga des Heracles no Eiko, série de feu Data East qui tourne autour des dieux de la mythologie grecque et du concept d'immortalité. Bref. Nos deux nouveaux meilleurs amis partent donc en quête de réponses, concernant leur statut de demi-dieux.  
+
+  
+
+**LA CHANSON D'HELLENE**  
+
+Glory of Heracles est donc un jeu de rôle à la japonaise au ton résolument old school. Le jeu est vu de trois quarts haut, affichant des sprites en deux dimensions dans des décors en 3D précalculée, un peu à la mode de Dragon Quest VII. L'aventure est excessivement linéaire, et même si vous passez par un atlas pour rallier chacune de vos destinations, le chemin est balisé du début à la fin.  
+
+La seule particularité vis-à-vis de la trouzaine de concurrents sur DS, c'est que Glory of Heracles se déroule, on s'en doute, à l'époque antique, et on y traverse la Grèce et une partie de l'Asie Mineure (du côté de Troie, forcément, mais aussi du Caucase ou la Mésopotamie), un peu d'Egypte ou encore Chypre. Malgré tout, les décors restent relativement classiques, affichant des forêts, des déserts, des cavernes, des temples... Les ennemis sont bel et bien inspirés par la mythologie grecque : monstres type Echidna ou Charybde, titans, divinités assimilées malveillantes comme Thanatos ou Typhon, etc.  
+
+L'équipe que vous allez composer comporte quant à elle uniquement (à un petit twist scénaristique près) composée de héros immortels, mais la notion d'immortalité est assez particulière : si vous perdez un combat, vous aurez droit au Game Over comme dans n'importe quel RPG. C'est uniquement sur le plan scénaristique que ça se joue. Le héros amnésique sera rejoint par quatre compagnons - plus quelques personnages secondaires comme Achille ou Patrocle qui ne vous rejoindront que temporairement - et votre équipe de combat peut justement comprendre cinq individus, répartis sur deux rangs. A l'arrière, on prend moins de baffes, mais il est plus difficile d'attaquer.  
+
+Lesdits combats se déclenchent de manière aléatoire et se résolvent au tour par tour. En début de tour, vous choisissez ce que vont faire chacun de vos compagnons : attaque physique, magie, technique spéciale, utilisation d'un objet, fuite, attente, changement de rang ou combat automatique. Une fois votre choix fait pour les cinq coéquipiers, tout le monde se fout sur la gueule à tour de rôle, l'ordre étant déterminé par le score de rapidité de chaque personnage, allié comme ennemi. Si vous utilisez un sort, vous aurez la possibilité d'en augmenter l'efficience en participant à un mini-jeu jouable au stylet.  
+
+Les règles de ces mini-jeux, vous les apprenez des nymphes que vous croiserez dans les magasins de magie ou dans les temples. Près d'elles, vous trouverez des statues à prier. Ceci permet d'apprendre de nouveaux sorts (dans les magasins de magie) ou de nouvelles techniques spéciales (dans les temples), que vous ne pourrez malgré tout utiliser que lorsque vous aurez augmenté votre niveau d'expérience.  
+
+Dans les villages et les villes, vous trouverez un très grand nombre de magasins où dépenser vos pépettes : les magasins de magie sus-cités, des auberges pour vous reposer, des armureries et magasins d'armement, des forges pour donner des pouvoirs spéciaux à vos armes, des magasins d'objets de soin, des restaurants où acheter de la nourriture (qui sert aussi pour les soins), des tavernes où acheter des boissons (là encore, ça peut servir à se soigner), des polisseurs pour sortir la rouille de certaines armes, ou encore des "shamans" (je ne sais plus comment ils s'appellent en jeu) qui attribuent des sorts aux armes (différents des capacités obtenues à la forge).  
+
+Glory of Heracles est jouable intégralement au stylet ou via les traditionnels boutons. Vous déplacez le héros sur l'écran tactile ou grâce à la croix directionnelle (vous pouvez utiliser les gâchettes L et R pour faire pivoter la caméra) et, au choix, cliquez sur un objet/personnage ou appuyez sur le bouton A pour interagir avec lui, la flèche retour ou le bouton B permettent d'annuler un choix. Par moments, vous pourrez vous jeter du haut de certaines falaises (une spécialité de la saga), soit en cliquant sur l'icône idoine, soit en appuyant sur Y. Le menu s'appelle au moyen de la touche X, ou en cliquant sur le bouton présent en bas à droite de l'écran tactile. Il vous permettra notamment de gérer votre équipement, vos sorts et techniques spéciales, vos objets ou votre équipe, d'établir un campement pour passer la nuit et vous reposer (à condition de se trouver sur l'atlas) ou encore de sauvegarder. Des sauvegardes sont également proposées automatiquement à l'entrée de chaque donjon ou de certains endroits clés.  
+
+  
+
+**VA TE FAIRE VOIR CHEZ LES GRECS**  
+
+La grande force des Heracles no Eiko, et celui-ci n'y fait pas abstraction, c'est sans doute leur scénario. S'il commence quasiment comme le troisième volet (Kamigami no Chinmoku, sur Super Famicom), il ne cesse de rebondir, de manière surprenante et/ou tragique, et votre équipe de fin n'aura quasiment plus le même visage que celle du début. Et bien qu'il utilise des personnages issus de la mythologie classique, il brouille suffisamment bien les cartes pour que l'on ne sache pas d'avance ce qui va se passer. C'est une histoire inspirée par l'Histoire (ou en l'occurrence par la légende), mais en aucun cas une transcription littérale. Revers de la médaille, l'aventure est très bavarde et, surtout, très scriptée.  
+
+Conséquence, l'intégralité de la quête principale nous contraint à suivre un seul et unique chemin. Il n'y a pas d'alternative, pas d'embranchements, pas de choix. Aucune quête annexe ne se présente à l'horizon, les dernières armes seront trouvées dans le dernier donjon, les dernières magies dans le dernier temple. A propos des donjons justement, même eux sont linéaires au possible. Contrairement aux dédales des autres RPG, ceux-là sont sans équivoque. Et même en mer, territoire propre à l'évasion en général (et à l'exploration dans les RPG), on ne contrôle pas notre embarcation, on doit suivre la route.  
+
+A côté de ce gros écueil, il n'y a finalement pas grand chose à signaler, ni en bien, ni en mal. Le visuel est assez joli pour le support, mais certains décors sont peu texturés et le design des personnages est assez étrange. Les thèmes musicaux sont tantôt inspirés et inspirants, tantôt plats comme Carla. Le système de jeu est solide mais pas inventif pour deux sous, et la profusion de magasins n'a finalement pas de réel but.  
+
+Si ce n'était pour son contexte, rarissime dans un jeu de rôles, et pour son scénario, Glory of Heracles n'aurait donc rien pour le distinguer de la masse de ses concurrents. Heureusement pour lui, ces derniers ne sont pas si nombreux que cela sur la machine, ce qui pourrait valoir au jeu de Paon (c'est le nom du studio de développement) votre considération.

@@ -1,0 +1,57 @@
+---
+user:Kékidi
+rating:3
+published: 2010-04-19T13:59:29.000Z
+legacy_url: http://www.emunova.net/veda/test/3802.htm
+---
+Le public de la Wii apprécie principalement les jeux dits "familiaux", autrement dit ceux rassemblant plusieurs générations autour du même écran. Généralement, les produits qui se vendent bien sont des _party-games_, c'est-à-dire des titres composés de plusieurs mini jeux. Ils procurent un divertissement immédiat et occasionnel qui, pour plaire à un maximum de personnes, ne demande pas un investissement considérable. À l'inverse, certains genres sont sous-représentés. Ainsi les FPS ne brillent pas par leur présence. La plupart d'entre eux sont des portages n'exploitant pas les spécificités de la machine. Alors, lorsque _High Voltage_ annonça la venue d'un titre original, un FPS spécialement conçu pour la Wii, mes yeux se tournèrent vers ce jeu. Ma curiosité fut d'autant plus attisée que le développeur affirmait que **The Conduit** serait le plus beau jeu de la console, grâce à son nouveau moteur graphique.  
+
+  
+
+_**Pistolet en main**_ :  
+
+Il est étonnant de voir que les FPS sont si peu représentés sur Wii. Pourtant, à première vue, les fonctionnalités de la Wiimote semblaient adaptées à ce type de jeux, où le pointeur sert de viseur à l'écran. D'ailleurs, le catalogue de la Wii possède de bons _gun shooting_, des _shoot them up_ sur rail de qualité, comme la série des _House of the Dead_. Les FPS partagent de nombreux points communs avec les _gun shooting_, sauf qu'ils laissent plus de liberté au joueur, car celui-ci dirige le personnage et n'est plus contraint par les mouvements prédéfinis de la caméra. D'une part, cette liberté rend plus ardue la gestion des polygones et nécessite plus de puissance. D'autre part, les commandes deviennent plus compliquées à intégrer dans les manettes de la Wii, qui possèdent peu de boutons. Il faut admettre que **The Conduit** a réussi cette intégration. Les commandes sont intuitives et bien pensées, la prise en main est rapide, juste le temps de s'habituer à la sensibilité de la Wiimote. D'ailleurs, si la configuration de la manette ne vous convient pas, vous pouvez la paramétrer différemment, à votre convenance. Par défaut la Wiimote symbolise l'arme à feu, tandis que le Nunchuck sert à lancer des grenades. Les commandes très naturelles permettent d'être très réactif et procurent immédiatement du plaisir. Le combiné Wiimote/Nunchuck n'est pas aussi précis que la combinaison souris/clavier, par contre il est bien plus agréable à l'usage, car plus immersif.  
+
+  
+
+_**Le regard vide**_ :  
+
+Lors des différentes annonces présentant **The Conduit**, le développeur nous promettait que le jeu serait le plus beau de la Wii. Il est vrai que le moteur graphique, de qualité, affiche des graphismes plutôt lisses pour la console. Les structures et textures sont nettes, le crénelage est réduit et l'animation est fluide. On ressent le travail des ingénieurs, mais il n'est malheureusement pas mis en avant par le _design_ du produit. Les environnements que le héros traverse ne sont pas des plus attrayants ; il erre principalement dans des couloirs et ne s'aère que très rarement l'esprit à l'extérieur. Il se déplace dans un couloir étroit, puis entre dans une pièce plus dégagée. Ensuite il pénètre de nouveau dans un couloir, qui ressemble comme deux goutes d'eau au précédent. Enfin, il débouche dans une salle identique à la précédente. Même si le jeu exploite convenablement les capacités de la console, on ne peut considérer le jeu comme vraiment beau. D'abord les artistes n'ont pas réussi à mettre en valeur les environnements, qui sont fades (dédales d'égout, couloirs de bunker, etc.). Ensuite, le recyclage des décors ne donne pas envie d'explorer les niveaux et gâche le plaisir de la découverte. C'est vraiment dommage. Idem pour l'ambiance sonore ; les musiques et effets sonores participent à améliorer l'ambiance générale, mais ils ne restent pas gravés en mémoire. Ils sont suffisants, sans être exceptionnels. Pas grand-chose à dire en fait.  
+
+  
+
+La société de développement, _High Voltage_, a voulu que le titre plaise au plus grand nombre. De l'aveu d'Eric Nofsinger, responsable créatif :  
+
+« Nous avons dû nous poser une question importante : nous embarquions-nous dans une expédition visant à un petit film d'arts et d'essai ou un véritable blockbuster hollywoodien ? Nous avons choisi un divertissement pour philistins, mais avec des valeurs de production élevées. Certains critiqueront peut-être notre décision, mais pour nous, il tombait sous le sens que sur un système conçu pour tous, il ne fallait exclure personne de notre aventure. »  
+
+De ce fait, **The Conduit** ne propose rien qui pourrait éloigner une partie du public-cible. Les missions, très classiques, se résument à exterminer les méchants d'en face. Il n'est pas nécessaire de lire dans les menus les objectifs nécessaires à l'accomplissement d'une mission, tant ils sont basiques et évidents, pour savoir quoi faire. Ils se réalisent naturellement lorsqu'on avance dans les niveaux sans qu'on s'en rende compte. De même, afin de ne pas effrayer les joueurs par un héros trop atypique, _High Voltage_ a décidé que M. Ford ressemblera à M. Tout Le Monde, pour que n'importe qui puisse s'y identifier. Le revers de la médaille est que le personnage est anti charismatique, pathétique et sans intérêt. Une fois cet état de fait admis vous savez à quoi vous attendre, à un jeu d'action assez fade ; ainsi vous pouvez aborder sereinement l'aventure.  
+
+  
+
+_**Les doigts dans le nez**_ :  
+
+De par son architecture, une succession de couloirs, **The Conduit** est très dirigiste avec des niveaux trop linéaires. Il suffit d'aller du point A au point B en suivant une route unique. Les occasions de se perdre sont donc extrêmement rares et, si par malheur vous vous égarez, vous pouvez toujours utiliser les fonctions de l'œil, un gadget qui vous montrera le chemin vers le prochain objectif. Pas besoin d'explorer les lieux de fond en comble. La progression est par conséquent aisée et rapide, encore plus à cause des points de sauvegarde très nombreux. De plus le jeu est plutôt facile pour les habitués du genre FPS. Les missions, classiques, ne comportent pas de pièges inextricables. Aux quelques endroits où nous sommes bloqués, l'œil nous alerte des actions à réaliser. Il nous simplifie clairement le travail, peut-être même trop ; le héros ne se fatigue plus à explorer les niveaux. Ainsi les missions se résument simplement à buter les gars d'en face. La durée de vie en pâtit énormément et se réduit donc à une dizaine d'heures grand maximum. La fin arrive bien trop vite, sans qu'on l'attende et, en plus d'arriver comme un cheveu dans la soupe, elle est minable. Elle pose plus de questions qu'elle n'en résout et ne fait nullement avancer l'histoire : on se retrouve dans la même situation qu'au début. On vient de se taper environ 8 heures de marche pour rien. Cette fin implique indubitablement un second épisode.  
+
+  
+
+_**Pile entre les 2 yeux**_ :  
+
+En plus de proposer une campagne en solo, **The Conduit** dispose également d'un mode multijoueur en ligne, et uniquement en ligne. Au cœur d'arènes à la superficie réduite peuvent s'affronter jusqu'à 12 joueurs. La petite taille des aires de jeu engendre des combats nerveux, au vu de la proximité des adversaires. La Wii suit le mouvement sans peine, affiche et anime les polygones et textures avec fluidité. Évidemment, les environnements présentent moins de détails que dans le mode solo, mais ils restent acceptables. De toute façon, dans le feu de l'action les joueurs n'ont pas vraiment le temps d'admirer le décor. En fait, les niveaux ont été construits pour un maximum de clarté.  
+
+  
+
+J'ai été agréablement surpris par les parties multijoueur, par leur intensité. Ça tire dans tous les sens et ça explose partout ; il y a de l'action à la pelle. La difficulté est assez relevée, sans commune mesure par rapport à celle du mode solo. La plupart des participants sont des joueurs agressifs, vifs, agiles et précis. De ce fait, je me fais massacrer en moins de 2 secondes. Il faut vraiment s'accrocher et persévérer pour réussir à se défendre un minimum, avant d'atteindre le niveau des autres participants. Il existe bien un système de classement, mais le petit nombre de joueurs présents simultanément en ligne ne permet pas de créer des parties équilibrées. Les excellents tireurs se mélangent ainsi aux débutants, au détriment de ces derniers. Les pauvres novices terminent souvent allongés par terre, ce qui risque rapidement de les agacer et de les éloigner du mode multijoueur. C'est bien dommage car ce mode peut multiplier la courte durée de vie du produit. Bien qu'il ne contienne rien d'extraordinaire, le mode multijoueur a tout ce qu'il faut pour satisfaire les pauvres possesseurs de Wii en manque d'action. Ils pourront s'adonner à des tueries en règle.  
+
+  
+
+_**Pétard mouillé**_ :  
+
+Dès la première annonce de la venue de **The Conduit**, j'étais impatient d'essayer ce FPS. Il promettait des graphismes splendides, et l'équipe marketing a su faire monter la sauce avec d'aguicheurs dessins d'artistes. À la vue du produit, on sent que les ingénieurs ont bossé dur sur le moteur graphique, mais il n'est pas du tout mis en valeur par le côté artistique. Étrangement, les images conceptuelles présentées en avant-première ne figurent pas dans le jeu lui-même. Visuellement celui-ci est beaucoup moins audacieux que prévu.  
+
+  
+
+_High Voltage_ affirmait que **The Conduit** se destinait aux joueurs assidus. Pourtant, la société a pris la décision de produire un titre qui plaise au plus grand nombre. 2 points de vue difficiles à concilier. Au final, malgré la puissance du moteur graphique, les environnements n'affichent rien d'extraordinaire, d'atypique, de notable, d'inoubliable, comme s'il ne fallait froisser personne. _High Voltage_ disait que le mode solo proposerait une vaste aventure palpitante, malheureusement le jeu est bien trop facile, sans réel _challenge_. Et surtout sa durée de vie est ridicule, même pas une dizaine d'heures. Pour pallier à ce regrettable défaut, la présence de parties multijoueur en ligne compte augmenter la durée de vie. En effet, les combats y sont rythmés, agressifs, fluides, agréables et distrayants, mais ils sont réservés à une élite.  
+
+  
+
+**The Conduit** est loin d'être le chef d'œuvre annoncé. Par comparaison, il m'a laissé un souvenir bien moins impérissable que _Perfect Dark_ sur Nintendo 64, ou encore _Metroid Prime_ sur GameCube, qui m'ont beaucoup marqué en leur temps. Ce qui me déçoit, ce n'est pas que le titre de _High Voltage_ soit très classique. En traversant le mode solo, on croirait être revenu aux débuts du genre FPS, lorsque l'on butait tout ce qui bougeait dans une succession de couloirs. Non, ceci ne me dérange pas, je suis amateur de ce type de jeux. En réalité, ce qui me déçoit est la détérioration du produit à vouloir le rendre accessible à tous. En voulant l'uniformiser on lui a ôté son âme ; il est devenu fade, sans surprise. Surtout, il ne contient plus aucun _challenge_, il est trop facile. Ainsi sa durée de vie en pâtit, jusqu'à se réduire à même pas une dizaine d'heures en solo. La fin arrive tellement vite qu'on n'ose pas croire à sa venue. On aimerait tant que ce passage corresponde à la moitié de l'aventure, mais il n'en est rien. Quelle déception ! Reste le mode multijoueur en ligne pour allonger la durée de vie.

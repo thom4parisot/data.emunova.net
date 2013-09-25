@@ -1,0 +1,23 @@
+---
+user:Kenseiden
+rating:3
+published: 2006-12-03T12:57:13.000Z
+legacy_url: http://www.emunova.net/veda/test/1838.htm
+---
+Pourquoi les joueurs console seraient-ils les seuls à avoir le droit de s'envoyer des boules de feu et autres tornades d'énergie à la tête pour déterminer le vainqueur d'un fumeux concours de virilité sur écran ? Pourquoi les joueurs micro seraient-ils obligés de ne prendre leur pied qu'en déplaçant des armées ou en analysant les courbes statistiques d'un jeu de gestion ? Pourquoi tout le monde s'extasie-t-il à ce point sur Street Fighter II ? Telles furent sans doute quelques-unes des interrogations qui vinrent à l'esprit des programmeurs de Team 17 lorsqu'ils prirent la décision de concevoir le premier jeu de combat de grande envergure sur Amiga et ensuite sur PC.  
+
+  
+
+Nos amis anglais ne se sont pas fatigués à élaborer un scénario complexe ou de petites historiettes entre combattants pour recouvrir cette grande bagarre d'un vernis dramatique. Autant en conclure que tous les participants sont là pour des raisons qui les regardent mais qui doivent se situer quelque part entre l'envie d'être le plus fort et l'envie d'être riche et célèbre. Parmi les dix personnages disponibles (11 si on compte Max, le boss final), quatre d'entre eux sont considérés comme les héros officieux du jeu : Nik et Dan, deux frères ennemis aux techniques similaires, Junior le boxeur noir et Lo-Ray le moine bouddhiste. Les autres participants au tournoi sont Mike l'homme d'affaire aux méthodes expéditives, Dug le catcheur grassouillet, Kossack le grand russe, Maria la latino, Yi-Tu le traditionnel maître oriental et Ninja le ninja (super, le nom...), seul personnage armé du jeu. Chaque combattant dispose de deux coups spéciaux, liés à une jauge qu'il faut préalablement remplir pour déclencher l'attaque. Certaines de ces attaques sont également assez originales comme Kossack qui s'enfonce dans le sol comme une torpille pour réapparaître sous les pieds de son adversaire.  
+
+  
+
+**Réalisation technique :**  
+
+Les décors sont plus (le village espagnol de Marie) ou moins (les ascenseurs, le chantier) réussis mais rares sont ceux qui font preuve d'une véritable originalité. On sent bien que Team 17 s'est contenté d'observer le design en vogue sur les spécimens console et de l'adapter selon l'immuable principe de la copie intelligente. Les combattants, s'ils sont de grande taille, sont curieusement détourés et pas toujours très bien proportionnés. On remarque aussi que certains d'entre eux semblent plus que librement inspirés du jeu de combat phare de ces années-là, à savoir Street Fighter II bien entendu. Malheureusement, aucun de ces combattants ne dispose du moindre charisme et l'absence de la moindre séquence scénaristique - même stupide - ne concourt pas à ce qu'on s'attache à ces personnages falots. Les coups spéciaux sont parfois originaux mais jamais impressionnants. Body Blows souffre dans l'ensemble d'un manque de souplesse qui serait absolument impardonnable s'il s'agissait d'un soft console. Question jouabilité, le système de jauge rend les coups spéciaux très faciles à exécuter mais on ne peut pas dire que les combats soient particulièrement haletants : la raideur des personnages entrave toute tentative de se livrer à des enchaînements de grande ampleur. Les musiques sont assez quelconques et les bruitages sont anecdotiques. Ce n'est pas non plus par cette facette là que Body Blows nous séduira.  
+
+  
+
+**En bref : 11/20**  
+
+L'objectif de Body Blows était double : devenir un jeu de combat incontournable sur Amiga et PC et concurrencer Street Fighter II sur son propre terrain. Body Blows est effectivement devenu un jeu de combat phare sur micro, principalement grâce à l'absence de concurrence réelle. Quant à concurrencer Street Fighter II... laissez moi rire ! Les critiques contemporaines de la presse envers Body Blows eurent beau être dithyrambiques, on se demande un peu s'il ne s'agissait pas là d'une joie un peu forcée en raison de l'arrivée d'un jeu de combat micro qui ne soit pas totalement loupé. Si le jeu tient la route graphiquement, l'atmosphère, le player fun et le rythme des combats sont sans commune mesure avec les références du genre sur arcade ou sur console. L'ayant eu au moment de sa sortie, Body Blows ne m'a jamais vraiment enthousiasmé, y compris à deux joueurs. A moins de n'avoir aucun point de référence en matière de jeux de combats sur console 16-bits, il est difficile de croire que l'on puisse trouver Body Blows novateur ou réellement amusant...

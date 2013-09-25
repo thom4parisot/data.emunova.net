@@ -1,0 +1,25 @@
+---
+user:Kenseiden
+rating:3
+published: 2006-12-12T23:50:19.000Z
+legacy_url: http://www.emunova.net/veda/test/1855.htm
+---
+Après le succès mérité de Moktar / Titus the fox, les Français de Titus commençaient à avoir une certaine réputation en tant que référence en matière de jeux de plates-formes sur PC. Pourtant, les jeux de plates-formes micro souffraient toujours de la comparaison avec leurs homologues sur console, systématiquement plus vifs, rapides et maniables que sur PC. Prehistorik II réussit pourtant le pari de proposer un gameplay et une ambiance digne de ce nom. Alors que le premier épisode de la série Prehistorik était rigide et répétitif au possible, le second volet proposait une souplesse et des idées de jeu plus proches des jeux console que des jeux micro. D'ailleurs, Titus ne fut-il pas convié deux ans plus tard à réaliser une nouvelle version de Prehistorik exclusivement sur Super NES ?  
+
+  
+
+Une fois de plus, on incarne un petit homme de cro-magnon rigolard, dont l'objectif est de parcourir le vaste monde à la recherche de boustifaille pour sa tribu. Le petit sauvage évoluera dans les décors habituels des jeux de plates-formes à l'ambiance préhistorique (canyons, cavernes, jungles, campements primitifs, villages arboricoles, mais aussi délire de cro-magnon affamé dans un univers exclusivement constitué de nourriture et de boissons !) et devra se frayer un chemin vers la sortie du niveau en tabassant tout un tas de bestioles antédiluviennes à coup de gourdin. On peut aussi rebondir quelques fois sur les ennemis avant de les assommer, pour augmenter le score. L'homme des cavernes pourra également mettre la main, sur d'autres objets comme un maillet pour écrabouiller plus efficacement les ours, écureils volants et autres diplodocus pygmées, ou un deltaplane en peau de léopard pour planer dans les immenses espaces vides du village arboricole. Pour terminer chaque stage, il faudra mettre la main sur l'ouvre-boîte (!) qui débloque le feu de signalisation indiquant la sortie (!!). Vient alors la comptabilisation de tous les bonus grappillés durant le stage. Que voulez-vous, c'est un jeu micro, on n'y coupera pas à cette fumeuse comptabilisation du score ! Victime de la société de consommation avant l'heure, la tribu préhistorique ne se satisfera pas uniquement de rôti de mammouth, de racines et d'oeufs, mais appréciera tout autant les hamburgers, sachets de frites, canettes de coca, boules à neige, bus anglais-souvenirs et consoles Game Boy ! Prehistorik II propose aussi quelques concepts assez originaux pour récupérer de l'énergie : quand on élimine un ennemi qui vient de vous faire perdre un cœur d'énergie, ce dernier éclate en 5 ou 6 petits os. Emparez vous de tous les os et vous récupérerez l'énergie dont vous aviez injustement été spolié ! Autre idée amusante : la possibilité « d'éteindre la lumière ». Certains bonus assombrissent l'écran de jeu, comme si la nuit était tombée, et il devient alors encore plus difficile d'apercevoir ce qui se trouve juste devant soi.  
+
+  
+
+**Réalisation technique :**  
+
+Avec Prehistorik II, Titus a franchi le pas et s'est enfin montré capable de créer un jeu de plates-formes plus proche des standards console que micro. Il transparaît de Prehistorik II une atmosphère et un esprit rigolos qui auraient toute leur place sur console, que ce soit au niveau des ennemis bien délirants, des attitudes du petit héros en pagne léopard ou des quelques éléments mobiles dans les décors. Les décors d'arrière-plan restent malheureusement assez sommaires, mais c'est une constante chez Titus. Malheureusement, on retrouve aussi dans Prehistorik II une autre constante des jeux Titus, à savoir le scrolling qui se déplace brusquement en une seule fois dès qu'on parvient à une des extrémités de l'écran. Ce déplacement soudain de l'espace de jeu est assez déplaisant et va même jusqu'à compliquer la progression, lorsqu'on en est réduit à sauter à l'aveuglette sur une plate-forme qu'on n'aperçoit pas encore à l'écran. Pour le reste, la jouabilité est correcte, avec un personnage plus souple que dans Moktar par exemple (même si ce personnage a une fâcheuse tendance à déraper). La bande sonore est aussi typiquement Titus, avec des bruitages insignifiants et   
+
+des musiques qui, toutes rythmées qu'elles soient, sont d'une qualité sonore qui laisse à désirer.  
+
+  
+
+**En bref : 13/20**  
+
+Un bon petit jeu de plates-formes, court mais bien conçu, qui témoigne de la volonté des éditeurs de rattraper leur retard dans le domaine de la plate-forme. Le seul problème, c'est qu'à trop copier les spécimens console, Prehistorik II se prend la comparaison avec eux dans les gencives, contrairement à un Moktar ou un Blues Brothers. Et là, il faut bien admettre que les deux parties n'étaient pas encore tout à fait sur pied d'égalité. Le système de scrolling complètement loupé est le principal coupable de cet état de fait. Mais inutile de bouder son plaisir : Prehistorik II reste quand même plutôt fun à l'usage.

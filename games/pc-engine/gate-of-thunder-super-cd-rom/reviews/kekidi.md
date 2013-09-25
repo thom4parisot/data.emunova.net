@@ -1,0 +1,23 @@
+---
+user:Kékidi
+rating:4.5
+published: 2004-11-26T11:32:55.000Z
+legacy_url: http://www.emunova.net/veda/test/743.htm
+---
+Eagle, commandant des forces ennemies sous les ordres de Don Ginsi, lance toute la flotte sur une planète protégée par la Fédération. Les forces de police, installées dans la station Gsap la plus proche du désastre se mobilisent immédiatement et envoient deux de leurs meilleurs pilotes sur le champ de bataille. Hawk est aux commandes du chasseur Hunting Dog et la belle Esty le suit avec son vaisseau Wild Cat, pour larguer par moment de précieux bonus.  
+
+  
+
+Dès le départ, la bataille est très rythmée car l'armée de Don Ginsi est composée de milliers d'appareils. Au 1er niveau, c'est l'**invasion totale**, des centaines de gigantesques croiseurs assiègent le système planétaire entier. En arrière-plan, on observe la flotte ennemie encerclant la planète voisine pendant que sur le premier plan on essuie un bombardement. Ensuite tout s'enchaîne très vite, des tonnes de vaisseaux nous foncent dessus et larguent autant de missiles ou autres projectiles. Mais les festivités ne font que commencer car une grosse surprise nous attend. Nous voilà maintenant en face d'un énorme croiseur crachant tout ce qu'il a dans le ventre et il est bien rempli. Il y a carrément un régiment complet qui déferle de toutes parts. Ca, c'est de l'action pure et dure ! Le jeu est **savamment orchestré** et la mise en scène, très propre, nous scotche derrière notre écran. Les hordes d'ennemis se suivent mais ne se ressemblent pas. Les vaisseaux sont variés et leurs techniques d'attaque également, évitant ainsi de nous plonger dans l'ennui. Ils viennent de l'avant, de l'arrière, du fond de l'écran, de tous les côtés en fait et surgissent alors que la première vague n'est même pas encore détruite. Dans tous les levels, nous rencontrons au minimum un mini-boss avant d'atteindre le gros monstre de fin de niveau. Pour chacun, la méthode pour le vaincre est différente mais n'est pas difficile à trouver.  
+
+  
+
+La puissance du vaisseau Hunting Dog aide énormément. Face à sa force de frappe, les appareils adverses ne font guère le poids. L'armement du chasseur a fait ses preuves dans un autre shoot them up apprécié par les segamaniaques. Les connaisseurs ont tout de suite remarqué que **Gate of Thunder** est largement inspiré de **Thunderforce III** sur Megadrive, et personne ne s'en plaindra car il est dans le peloton de tête des meilleurs shoots de la console. Le chasseur Hunting Dog peut donc à tout moment basculer d'arme (parmi 3) en fonction de la situation et des préférences du joueur. Ce système est très pratique et permet d'atteindre n'importe quel objet sur l'écran, que ce soit devant ou derrière car les 2 pods orbitant autour du vaisseau sont orientables. Vraiment très efficace !  
+
+  
+
+L'armement n'est pas la seule caractéristique reprise de Thunderforce III, certains décors sont également similaires et on retrouve la touche Technosoft. On note tout de même une certaine amélioration, les couleurs sont plus belles et semblent plus nombreuses. Par contre les arrières-plans sont dans quelques niveaux dénudés et vides mais dans la globalité le jeu est **très joli**. Le monde des vers géants est particulièrement superbe et accrocheur. La musique est tout aussi enivrante et profite amplement du support CD. Les airs sont des **morceaux rock** très speed qui nous boostent et procurent un sentiment d'exaltation. L'animation ne vient pas entacher ce beau tableau. Bien qu'il y ait généralement de nombreux sprites à l'écran et souvent pas de petites tailles, on n'est gêné par aucun ralentissement ni clignotement. Les mouvements sont ultra fluides et la maniabilité est parfaite. Que du bonheur !  
+
+  
+
+Waouh ! ce shoot est bourré de qualités. Gate of Thunder se voulait être la vitrine du Super CD-ROM² et a réussi son coup. Techniquement il est irréprochable, la réalisation est de haut niveau. Ca déchire du début à la fin. On s'éclate vraiment avec ce titre. Il aurait pu être parfait mais 2 défauts l'empêchent de l'être. Premièrement le jeu est trop facile et les premiers niveaux n'offrant pas un challenge de taille ne satisfont pas pleinement le joueur. Ce problème n'est que subsidiaire car il suffit de régler la difficulté en Hard ou Devil pour contrer ce défaut. Deuxièmement, il manque sérieusement d'originalité. Gate of Thunder est archi-classique. Il est superbement mené mais est trop classique. Ce manque n'est tout de même pas un frein suffisant pour retirer le fait que Gate of Thunder soit un **hit**.

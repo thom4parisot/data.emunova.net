@@ -1,0 +1,57 @@
+---
+user:Antekrist
+rating:4
+published: 2010-08-31T20:02:47.000Z
+legacy_url: http://www.emunova.net/veda/test/3961.htm
+---
+Depuis quelques temps, les amateurs de jeux vidéo ont inventé un nouveau gros mot : _casual gamer_. On le crache à la face de tous ceux qui passent moins de dix-sept heures par jour devant leur PC /console / anus artificiel interactif, on s'en gargarise dans les magazines de jivés tendances, et on l'oppose bien entendu à son pendant honorifique, le très estimé _hardcore gamer_. Genre de prédilection de ce héros des temps modernes ? Le RPG, avec ses trouzaines d'heures à taillader du mob pour obtenir une épée en bois. L'emmerde c'est que le _hardcore gamer_ il est bien gentil, mais il est pas nombreux. Or quand on vit du RPG, on aimerait bien vivre un peu plus grassement. C'est ainsi que va naître Final Fantasy XIII, premier RPG assumé pour _casual gamers_.  
+
+  
+
+**SHOL'VA, KREE !**  
+
+D'un côté il y a Cocoon. Le monde du dessus, petit lopin de terre où s'est réfugiée l'humanité bien pensante, protégée par l'autorité suprême que représente le Sanctum. Le Sanctum, c'est la voix des dieux, des Fal'Cies, des entités bienveillantes qui veillent à la sérénité de Cocoon. Et puis de l'autre côté, il y a Pulse. Le monde du dessous, immense et sauvage, peuplé de créatures terrifiantes et bannie du regard des Fal'Cies.  
+
+Petit grain de sable dans la mécanique bien huilée de cette belle machine à broyer les cerveaux, un Fal'Cie s'est éveillé sur Pulse et ne va pas tarder à faire des "adeptes".  
+
+Pour être plus clair, disons que les Fal'Cies ont la capacité de décérébrer les humains et d'en faire des serviteurs zombies, les l'Cies. Alors, afin qu'aucun l'Cie de Pulse ne vienne compromettre l'intégrité de Cocoon, le Sanctum est contraint à prendre des mesures draconiennes : la Purge, grand mouvement de déportation d'habitants de Cocoon, accusés d'être entrés en contact avec le Fal'Cie, sur Pulse.  
+
+Quelques groupuscules de résistants s'organisent tout de même tant bien que mal, et c'est ainsi que la revêche guerrière Lightning se retrouve en contact avec le groupe de Snow. Et puis finalement tout ce beau monde finit par se retrouver en contact avec le fameux Fal'Cie, et là déjà c'est moins rigolo...  
+
+  
+
+**C'EST DANS LES VIEILLES PEAUX QU'ON FAIT LA BONNE PURÉE**  
+
+Final Fantasy XIII est un RPG traditionnel, au tour par tour. Exit le pseudo temps réel du douzième épisode, donc, et retour aux fondamentaux de la série, ou presque. Certes, les combats se déroulent dans un écran distinct de l'écran d'exploration, mais la frontière est si fine entre les deux que l'on ne distingue pas forcément la différence au premier coup d'œil. Et puis surtout, les affrontements ne se déclenchent pas de manière aléatoire comme avant : ici, on voit les ennemis lors des balades, et on peut même les surprendre. D'ailleurs, ils ont un angle de vue limité indiqué par un faisceau sur votre radar (présent en permanence).  
+
+Les combats par eux-mêmes se déroulent de manière assez dynamique. Pourtant, nous en sommes revenus à l'indécrottable jauge d'ATB : elle se remplit à mesure que le temps passe et vous ne pouvez attaquer que quand elle est pleine. Pas si dynamique que ça, hein ? Et pourtant si. La nouveauté ici, c'est que la jauge est divisée en trois portions. Toutes les attaques (physiques, magies, compétences particulières...) coûtent du temps : un, deux ou trois (ou plus) crans de votre jauge. Du coup vous pouvez, au choix, décider de planifier trois petites attaques par tour de jeu, ou une moyenne et une petite, ou une grosse.  
+
+Et j'ai bien écrit "planifier". Au lieu d'attendre que la jauge soit pleine pour entrer vos commandes, vous pouvez les introduire à tout moment. Par contre, elles ne se déclencheront que lorsque la jauge sera pleine (ou au moins suffisamment remplie pour déclencher une action à un ou deux crans). Vous imaginez aisément que ce système autorise les enchaînements stratégiques. Et en effet, plus vous réalisez des suites de coups fluides, et plus vous remplissez la jauge de Choc de votre adversaire (elle se remplit plus ou moins vite selon la puissance du mob). Une fois choqué, votre adversaire devient plus vulnérable aux coups et réagit moins bien. Dès qu'il entre en état de choc, la jauge commence à se vider, et au bout du compte l'adversaire retrouve son état initial. En outre, lors d'un Choc, vous pouvez déclencher une commande nommée Projection, qui permet de réaliser des attaques à la fois très stylées et très douloureuses pour qui les subit.  
+
+Vous noterez également que les magies, accessibles seulement au bout d'un moment, ne coûtent pas le moindre MP. D'ailleurs, ça n'existe pas, les MP, dans FFXIII. Les Eidolons (ou Aeons, G-Forces, Chimères... les invocations, quoi.) signent également leur retour. Vous devrez d'abord les combattre pour les utiliser, comme dans FFVIII, et chacune d'entre elles ne peut être appairée qu'à un personnage, comme dans FFVI (à ceci près qu'ici vous ne pouvez pas choisir qui va avec qui). Lorsque vous invoquez un Eidolon, votre équipe disparaît à l'exception du _summoner_. Il reste tant que la jauge d'invocation n'est pas vide, et attaque avec vous (ou vous soigne, selon les cas). Vous pouvez réaliser des combos avec lui, mais vous pouvez aussi choisir de passer en mode Symbiose. Votre Eidolon se transforme alors en moyen de locomotion (le ridicule ne tue pas) et vous avez accès à toute une palette de nouvelles actions à base de pressions sur les boutons et d'inclinaisons du stick, comme dans un _beat 'em up_. Plus vous aurez réalisé d'enchaînements avant de vous transformer, et plus vous pourrez utiliser la Symbiose.  
+
+Malgré tout, si vous ne savez pas quoi choisir ou si vous n'arrivez pas à entrer les commandes (autrement dit, si vous êtes un peu polyo), vous pouvez sélectionner la commande Auto-Symbiose, qui fait tout à votre place. Il existe aussi une commande Auto-Combat pour le reste du combat, dont l'effet varie selon votre Stratégie. En effet, vous pouvez définir le Rôle de vos personnages (plutôt portés sur l'attaque, la défense, les magies d'assaut, de soin ou de soutien...). Concrètement, vous ne dirigez que l'un de vos trois personnages à la fois (il y a huit héros en tout), les deux autres s'autogérant.  
+
+  
+
+**JE POSE QUATRE ET JE RETIENS UN**  
+
+En fin de combat, vous serez noté, un peu de la même manière que dans Devil May Cry. Seront pris en compte la durée du combat, le nombre d'enchaînements et de Chocs réalisés, l'utilisation des invocations, etc. Et de tout cela découlera une note sur cinq étoiles. Ceci permet notamment de débloquer quelques-uns des Achievements de la 360\. Notez aussi que les altérations d'état, genre poison ou lenteur, disparaissent à la fin de l'affrontement.  
+
+Le système de combat demande donc un minimum de temps avant d'être à peu près maîtrisé. Le reste est bien plus simple. En combat, vous obtiendrez des Points de Compétence, et plus de points d'expérience. Ces points sont utilisés dans le Crystarium, version revue et corrigée du Sphérier de FFX ou du Damier de FFXII. Vous utiliserez vos PC pour progresser dans le Crystarium de chaque personnage (et même de chaque Rôle de chaque personnage), sorte de vaste labyrinthe où vous débloquez les compétences les unes après les autres.  
+
+Pour ce qui est de l'aspect exploration, FFXIII est plutôt chiche. Les premières heures sont très dirigistes et le jeu est d'ailleurs découpé en chapitres (au nombre de... treize !). À l'écran sont principalement présents vos héros et les mobs, mais aussi des coffres (enfin, ça ressemble pas vraiment à des coffres) au trésor que vous vous empresserez de vider de leur butin, et des points de sauvegarde. Ici, le point de sauvegarde fait un peu figure de couteau suisse puisqu'il permet non seulement d'enregistrer sa progression et de soigner son équipe, comme c'est devenu une norme depuis quelques épisodes, mais aussi d'accéder aux magasins du jeu, qui sont donc devenus plus ou moins virtuels.  
+
+Et puis, au bout d'un (très long) moment, vous arriverez sur Pulse. Là, l'aventure est bien moins linéaire. Vous y trouverez des Chocobos (ouf !), mais aussi et surtout des stèles Cie'th. Des qui ? Ces espèces de statues vivantes - vous en saurez plus sur elles en jouant - vous proposeront des missions, un peu à la manière de FFXII. C'est d'ailleurs l'une des principales quêtes annexes du jeu, par ailleurs assez avare en la matière.  
+
+  
+
+**LE PLUS COURT CHEMIN VERS LA LOBOTOMIE EST LA LIGNE DROITE**  
+
+Final Fantasy XIII est une magnifique vitrine technologique, comme ce fut le cas pour chaque premier épisode sur une console de nouvelle génération (les épisodes IV, VII, X et celui-ci). Square/Enix se doit d'en mettre plein la vue et s'acquitte de sa tâche avec un certain sens du perfectionnisme. Les graphismes sont d'une finesse telle qu'ils égalent sans trop de problèmes ceux d'un Final Fantasy : les Créatures de l'Esprit ou un Advent Children, les deux films en images de synthèse "dédiés" à la saga. La finesse des traits, la pluralité des mimiques, la fluidité des animations et, bien entendu, la débauche d'effets spéciaux en font un véritable film interactif. Mieux, la différence d'affichage entre les scènes cinématiques, précalculées, et le jeu véritable, est infime. Ajoutons à cela une bande-son pas forcément épique mais qui dépote, et des dialogues une nouvelle fois fort bien joués (en anglais sous-titré en français), et nous obtenons là une vraie bonne fiction.  
+
+Ceci malheureusement au détriment du jeu. Comme évoqué précédemment, l'aventure est excessivement scriptée et l'on passe pas loin d'une quinzaine d'heures à enchaîner les couloirs et les combats, ceci servant d'immense - et très progressif - tutoriel ! Ce n'est qu'au tiers du jeu que les choses s'emballent un minimum, et encore, on est très loin d'un RPG occidental. De fait, arrivé sur Pulse le joueur est préparé à toutes les situations, bien pris par la main qu'il a été jusque là.  
+
+C'est un fait, Square/Enix a pensé son treizième opus comme un RPG tous publics, et cette orientation décevra les puristes, qui s'empresseront de sortir le mot qui fâche : _"casual"_. La quête est relativement courte, linéaire et tout a été fait pour simplifier au maximum les choses : pas de _levelling_, des points de sauvegarde à chaque détour, des stratégies et des commandes automatiques qui permettent, à l'instar des Gambits du XII (mais en moins gratuit tout de même), de laisser l'ordinateur jouer à notre place...  
+
+Et pourtant, à bien y regarder, FFXIII est loin de la débâcle du précédent opus. D'abord parce que sa réalisation enterre tout ce qui a été fait jusque là, bien entendu, mais aussi parce qu'il rend hommage aux gloires passées. Son univers et son ambiance rappellent invariablement Final Fantasy VII et X, le point de vue adopté (si Lightning a été mise en avant, il n'y a pas vraiment de héros principal : on suit plusieurs équipes à la fois) est un remake de Final Fantasy VI... Alors, pour peu que vous ayez une vie en dehors des jeux vidéo et que vous en ayez ras le concombre de passer des plombes et des plombes à faire du _farming_ comme dans le plus débile des World of Warcraft, vous vous laisserez indubitablement balader par cette aventure. Preuve qu'a contrario de ce qu'en écrivent les mauvaises langues, le numéro XIII n'a pas forcément vocation à porter malheur.

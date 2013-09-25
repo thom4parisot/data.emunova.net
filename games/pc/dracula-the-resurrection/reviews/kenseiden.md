@@ -1,0 +1,23 @@
+---
+user:Kenseiden
+rating:2.5
+published: 2007-01-11T01:27:57.000Z
+legacy_url: http://www.emunova.net/veda/test/1896.htm
+---
+Sept années se sont écoulées depuis la destruction du plus redoutable vampire de l'histoire à proximité de son domaine transylvanien, et une nouvelle tragédie vient de frapper Jonathan Harker. Son épouse, Mina, mordue par le seigneur des ténèbres de nombreuses années auparavant, vient de partir soudainement pour la Transylvanie, après avoir entendu un mystérieux appel. Une telle diablerie ne peut signifier qu'un chose : Dracula n'a pas été définitivement anéanti par le passé et prépare activement son retour aux affaires. Harker part immédiatement vers l'est de l'Europe mais au terme du voyage, il se retrouve bloqué dans le petit village au pied du château. La nuit tombe et les paysans locaux semblent surveiller attentivement ses moindres faits et gestes...  
+
+  
+
+Comme dans tous les jeux d'aventure du même style, on progresse en vue subjective à travers une succession de décors fixes. A chaque nouvel écran, il est possible d'examiner son environnement à 360°, comme dans Atlantis ou l'Amerzone. L'objectif est bien entendu de récupérer des objets et de les utiliser au bon endroit pour pouvoir progresser. Après s'être échappé du village, Harker devra encore infiltrer le château du comte, afin de trouver et de secourir Mina avant qu'il ne soit trop tard.  
+
+  
+
+**Réalisation technique :**  
+
+Comme tous les jeux d'aventure publiés par Index+, Dracula souffre de défauts assez énervants. Dressons-en un rapide inventaire. L'aire de jeu est constituée de nombreux paysages qui ne se suivent pas forcément au mètre près. J'entends par là que si dans une scène forestière X, on décide d'aller droit devant soi, l'écran suivant peut se situer au bord d'un lac, sans que l'on puisse repérer un élément à l'écran qui indiquerait clairement que l'écran précédent était la scène forestière X. Comme les « déplacements » n'utilisent même pas le précalculé (on passe simplement d'un écran à l'autre), il suffit que l'endroit visité soit suffisamment étendu pour qu'on perde très rapidement le sens de l'orientation. Deuxième faiblesse : des interactions avec les personnages hyper-limitées : ces personnages, avec leur look de Fraggle rock en vinyle, se contentent souvent d'une ou deux généralités évasives avant de se taire pour l'éternité. Je veux bien que les montagnards transylvaniens ne soient pas des modèles de convivialité mais quand même... ça ne renforce pas la crédibilité du jeu. Dernier truc énervant : un gameplay assez mal géré, avec des tonnes d'actions et d'énigmes inutiles à accomplir pour avancer. Faut bien meubler et assurer une durée de vie minimale, mais ces actions sont tellement hors propos qu'on finit par oublier qu'on est là pour traquer un vampire. De plus, la progression est assez mal montée pour un jeu d'aventure de cette époque. On se retrouve parfois bloqué dans l'aventure parce qu'un objet n'est pas en possession de Harker, et il faut se taper un long chemin en sens inverse pour le récupérer. Logique mais assez énervant, de même que la difficulté à dénicher les objets, que rien ne distingue particulièrement du reste des décors. N'y aurait-il donc rien à garder de ce Dracula ? Ben si... quand même. Graphiquement, le jeu s'en tire mieux que nombre de ses congénères. Si les écrans sont loin d'être une fête des sens, l'atmosphère reste réussie, avec une ambiance ténébreuse assez probante. La forêt est inquiétante juste ce qu'il faut et le palais en ruines du vampire possède un charme gothique cosy assez plaisant. L'ambiance sonore, composée quasi-exclusivement de bruitages d'ambiance, contribue elle aussi efficacement à l'atmosphère du jeu.  
+
+  
+
+**En bref : 11/20**  
+
+Bof... un jeu d'aventure Index+, c'est toujours plus sympathique avec la solution en main. La progression est tellement monotone, le jeu tellement « mort » (c'est à dire dépourvu de personnages vivants dotés de plus de 15 mots de vocabulaires) et la progression tellement mal fagotée qu'on n'éprouve pas vraiment l'envie de faire fonctionner ses méninges pour résoudre les énigmes par soi-même. Néanmoins, par rapport à d'autres jeux du même style, Dracula n'est tout de même pas si mal que ça. Tout comme dans l'Amerzone ou Atlantis, c'est l'ambiance qui sauve le jeu de l'ennui. Elle est assez proche de l'idée qu'on peut se faire de la Transylvanie lors d'une sale nuit d'hiver et offre un certain charme au jeu. Mais bon... à part ça... inutile de vous dire qu'on est à des années-lumières des jeux d'aventure pleins de rebondissements comme Lucasarts sait les goupiller. Néanmoins, si vous êtes fan de ce genre-là, Dracula est une des plus grandes réussites du genre.

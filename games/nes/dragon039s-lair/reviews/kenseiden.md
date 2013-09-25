@@ -1,0 +1,27 @@
+---
+user:Kenseiden
+rating:1
+published: 2007-09-01T03:38:47.000Z
+legacy_url: http://www.emunova.net/veda/test/2283.htm
+---
+Une véritable légende du jeu vidéo -- quoique pour de mauvaises raisons -- adaptée sur NES, voilà de quoi susciter au minimum une certaine curiosité. Pionnier en matière d'interactivité, Dragon's Lair ne pouvait évidemment pas se retrouver tel quel sur une console de faible puissance comme la NES. Il n'empêche que cette version retrace toujours la quête de Dirk le Brave volant au secours de la belle princesse Daphné détenue captive par le terrible dragon Singe au plus profond du château des ténèbres. Inutile de vous préciser qu'il ne s'agit plus cette fois d'un dessin animé interactif sur Laser-disk mais d'un jeu d'action beaucoup plus conventionnel. Dirk devra survivre aux multiples pièges que renferme le donjon et la progression suivra fidèlement le script du dessin animé d'origine. On débutera ainsi par le pont-levis gardé par un serpent tapi au fond des douves ; on continuera en traversant le donjon et les cavernes et on terminera par le repaire du dragon après un crochet par la tanière du roi-lézard (si du moins, on en déniche l'entrée). Dirk utilisera plusieurs types de projectiles (dagues, hachettes) pour éliminer ses adversaires mais la progression est principalement centrée sur les pièges et les passages délicats plutôt que sur le combat contre des ennemis. Si les petits ennemis du type chauve-souris ou araignée ne font qu'entamer légèrement le compteur d'énergie de Dirk, tout contact avec une créature plus massive, un projectile ou un piège se solde par une mort instantanée.  
+
+  
+
+A défaut de respecter le gameplay du jeu d'origine, Dragon's Lair 8-bits tente au moins de récupérer une parcelle de son esprit. Hé oui : il est écrit dans le grand livre noir du jeu vidéo que Dragon's Lair, quelle que soit l'apparence qu'il prenne, se doit obligatoirement d'être un jeu terriblement frustrant. La jouabilité a donc spécialement été étudiée pour rendre le joueur complètement fou au bout d'une petite demi-heure... du moins si ce dernier a eu suffisamment de chance de passer la première scène après 20 ou 30 tentatives successives ! La suite dans l'évaluation du soft. Ca va être saignant...  
+
+  
+
+  
+
+**Réalisation technique :**  
+
+Tout le monde est au parfum des capacités très limitées de la Nintendo 8-bits en matière graphique et à ce compte-là, Dragon's Lair s'en tire avec un brio incontestable ! Sprites inhabituellement imposants (pratiquement du jamais-vu sur la console), mouvements détaillés correctement, décors d'arrière-plan agréables, palette de couleurs particulièrement bien exploitée... toutes proportions gardées et compte tenu des faiblesses intrinsèques de la console, on peut dire que Dragon's Lair dépote à ce niveau ! Pour la bande sonore par contre, pas de miracles à attendre. Il y a cependant plusieurs mélodies différentes, c'est déjà ça ! Malheureusement, cette agréable prise de contact s'effondre en miettes dès qu'il s'agit d'affronter le premier challenge du jeu : le dragon du pont-levis. Rien de compliqué en théorie pourtant : un dragon qui meurt en 10 coups et qui tire un projectile toutes les cinq secondes, des chauve-souris qui débarquent de temps à autre et deux sections du pont qui s'effondrent : une promenade de santé dans la plupart des autres jeux d'action. Hé bien non : rien que cette mise en bouche aura dissuadé pas mal de joueurs d'explorer le jeu plus en avant, tant cette séquence est épouvantablement ardue. Parmi les raisons invoquées, le personnage principal est dramatiquement lent (contrairement à ses ennemis), les commandes sont lentes à la détente (alors que les réflexes à avoir sont de l'ordre d'une milliseconde) et les sauts n'ont qu'une vocation purement symbolique tant ils sont insignifiants et difficiles à calibrer (et devinez quoi ? Il faut sauter très souvent !). En fin de compte, le jeu en devient tellement frustrant qu'on ne parvient même plus à progresser grâce à ses réflexes, et qu'on renoue bien vite avec l'apprentissage par erreurs successives, comme il est d'usage de le faire dans les jeux interactifs. C'est quand même un comble que dans un pur soft d'action, on en arrive à se dire « Bon, si j'accepte de me faire toucher par l'araignée, j'ai le temps de passer avant que le prisonnier ne jette sa bombe, sinon il n'y a aucune chance que je parvienne à éviter les deux »... C'est pourtant bel et bien ce qui se passe. A croire qu'Elite a expressément cochonné la jouabilité afin que les possesseurs de vieilles consoles de salon puissent eux-aussi découvrir tout l'énervement et le sentiment d'injustice ludique liées aux logiciels interactifs.  
+
+  
+
+**En bref : 04/20**  
+
+J'en suis toujours à me demander si Elite a vraiment fait exprès de gratifier Dragon's Lair d'une jouabilité aussi bancale et d'une difficulté aussi inhumaine. Parce que bon, il y a des jeux à la difficulté très mal dosée, il y a des jeux pas très maniables mais quand ces deux défauts sont poussés à un tel paroxysme, il est difficile d'y voir une simple coïncidence.  
+
+Dommage car si ces défauts étaient écartés, Dragon's Lair avait toutes les cartes en main pour devenir une référence NES en matière d'action. La version Super NES est difficile, la version Game Boy est atrocement difficile. Quant à la version NES, elle atteint tout simplement un point d'injouabilité insurmontable, qui la réserve exclusivement aux masochistes et aux beta-testeurs cybernétiques.

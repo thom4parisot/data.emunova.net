@@ -1,0 +1,23 @@
+---
+user:Kenseiden
+rating:2.5
+published: 2006-11-14T00:16:29.000Z
+legacy_url: http://www.emunova.net/veda/test/1801.htm
+---
+Sorti à la fois sur NES, Super NES et Megadrive, le jeu de combat mettant en scène les Tortues Ninja ne connut pas un grand succès commercial. La popularité de ces célèbres personnages était déclinante, et ces jeux ne se démarquaient pas assez de leurs concurrents pour intéresser réellement le public. Pourtant, Konami avait fait l'effort de réaliser des jeux bien différents pour chacune des consoles. La version Super NES, brillamment réalisée, s'avéra être un pur clone de Street Fighter II transposé dans l'ambiance urbaine bien connue des Tortues. Sur Megadrive, le scénario, les personnages jouables et les coups spéciaux sont totalement différents. Du côté du scénario, Splinter a été enlevé par quatre tortues pourpres, qui sont en réalité des clones à la solde de Krang, l'affreux mutant de la Dimension X. Pour sauver leur maître raton, les quatres tortues devront affronter et vaincre 8 clones sur chacune des planètes de la dimension X. Suivront alors trois boss : Triceraton, Krang et Karai, le bras droit de Shredder.  
+
+  
+
+Les 8 personnages jouables sont donc les quatre tortues ninja, Ray Fillet et Sysyphus, des mutants qui ressemblent respectivement à une raie manta et à un scarabée, le célèbre Casey Jones et April O'Neil, devenu pour l'occasion une redoutable ninja. Pour le reste, pas vraiment de surprises au menu : un mode solo, un mode versus, un tournoi et un mode practice, quelques coups spéciaux pas vraiment impressionnants et des combats qui nécessitent deux rounds victorieux pour être remportés.  
+
+  
+
+**Réalisation technique :**  
+
+C'est du Konami, c'est donc logiquement de très bonne qualité. Les tortues et les autres personnages sont bien représentés (une fois de plus, les combattants sont davantage dans l'esprit du comic, autrement dit antipathiques et d'un abord féroce), et de taille honorable. Les décors sont également plutôt fouillés mais rares sont ceux qui m'ont séduit. Austères, froids et très technologiques, les différents rings sont déplaisants et me semblent assez éloignés de l'univers des Tortues Ninja tel qu'on se le représente couramment dans nos contrées. Les combats sont heureusement rapides et rythmés, et les personnages, pleins de vivacité et de fougue. Les coups s'enchaînent avec aisance, et le mode solo, très difficile, requiert de fameux réflexes et des tactiques parfaitement rôdées pour être terminé. Les musiques sont rythmées et efficaces, tandis que les bruitages sont de très bonne facture pour la Megadrive, avec des coups qui claquent bien et des voix digitalisées de qualité honorable.  
+
+  
+
+**En bref : 11/20**  
+
+Pour un jeu de combat Megadrive, Tournament Fighters ne fait objectivement pas plus mal qu'un autre. Et pourtant, on ne prend pas énormément de plaisir à faire s'affronter cette bande de chéloniens et de mutants marginaux. Quelles peuvent donc bien en être les causes ? Tout d'abord, le mode solo est extrêmement difficile. Vous me rétorquerez que dans un jeu de combat, l'intérêt réside avant tout dans le mode VS et vous aurez parfaitement raison. Je vous répondrai néanmoins que les coups spéciaux ne sont pas non plus particulièrement nombreux et surtout, qu'ils sont dans leur immense majorité dépourvus d'originalité et de classe. Les petites vagues d'énergie au sol, ou les simili Dragon Punches toutes armes dehors n'ont rien de très excitant. A ce compte-là, les Tortues Ninja ne font pourtant pas pire que l'écrasante majorité des jeux de combat sur 16-bits (peut-être que je joue trop à la Neo Geo ces derniers temps ?) et après tout, tant que l'ambiance et le plaisir sont au rendez-vous, who cares ? C'est finalement sur ce point qu'à mon sens, les Tortues Ninjas se voient dépouillées d'une bonne partie de leur player fun. Ni les personnages ni les décors ne sont attachants, contrairement à la version Super NES et, pour une raison ou pour une autre, le jeu n'est pas très marrant à jouer et s'avère rapidement lassant. Histoire de clôturer cette argumentation enfiévrée, vous me rétorquerez que quand même, Tournament Fighters ne possède pas de tares rédhibitoires et que certains pourraient être séduits par l'ambiance assez sombre et aggressive du jeu. Et une fois encore, je vous répondrai que vous avez bien raison mais qu'à moi, ce tournoi de tortues mutantes a semblé aussi ennuyeux qu'observer une véritable tortue non-mutante évoluer dans son aquarium, et vraiment pas aussi agréable qu'un Fatal Fury, un Street Fighter II ou même un Mortal Kombat sur la même console.

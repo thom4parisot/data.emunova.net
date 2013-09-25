@@ -1,0 +1,27 @@
+---
+user:Kenseiden
+rating:4
+published: 2006-05-01T19:57:25.000Z
+legacy_url: http://www.emunova.net/veda/test/1407.htm
+---
+Marko est un petit blondinet qui adore le football. Outre le ballon rond, le garnement a aussi une autre passion : l'écologie. Il passe toutes ses journées à ramasser les canettes vides pour les emmener au centre de recyclage. Et pousse même le comportement civique jusqu'à entrer en conflit avec le méchant colonel Brown, qui souille le cadre naturel de son habitat, une délicieuse cité minière du centre de l'Angleterre. En l'occurrence, cet horrible individu vient d'inventer une substance toxique qui transforme les habitants en mutants toxiques. Cette noble cause n'empêchera pas la faune entière du coin (mouettes, chats, rats, lézards, etc.) de se liguer avec ces saletés de mutants et tout ce que la ville compte de beaufs pour empêcher Marko de mener à bien sa croisade écolo. Et c'est là qu'intervient le meilleur allié de Marko : son ballon de foot, lui aussi contaminé par le produit et dès lors doté de pouvoirs magiques. Ce ballon est en effet le seul moyen pour le petit bonhomme d'éliminer ses adversaires. Il est vrai qu'un ballon expédié à pleine vitesse dans les gencives, ça a le don de calmer les individus les plus agressifs !  
+
+  
+
+Le ballon court d'ailleurs autant de risques que vous dans l'aventure : il peut crever en tombant sur des pointes, être transpercé par un projectile, être écrasé au marteau-piqueur par un ouvrier indélicat, ou même avalé par un curieux binoclard qui semble n'avoir comme seul but dans la vie que de manger des ballons de foot. Mais pas d'inquiétude, le bouton d'attaque fait automatiquement réapparaître un ballon au pied de Marko. Idem si vous perdez votre ballon ou vous éloignez de lui après un bon tir cadré. Les possibilités d'utilisation du ballon sont assez sympathiques : on peut bien entendu shooter plus ou moins fort selon que l'on est en train de courir ou pas, mais également tirer avec la tête vers le haut pour éliminer toute nuisance planquée au-dessus de vous, et même faire une sorte de tir arrière acrobatique à faire baver d'envie Olive et Tom réunis.  
+
+Dans chaque niveau, l'objectif sera de trouver la machine polluante afin de la stopper, tout en vous efforçant de ramasser le plus de canettes possible. De nombreux bonus sont également disséminés à travers les niveaux, vous apportant des points ou des vies supplémentaires. Fait intéressant, il n'est pas obligatoire de toucher le bonus soi-même pour pouvoir en bénéficier, un tir bien calibré dans sa direction sera amplement suffisant. De cette manière, on peut par exemple faire tomber une canette accrochée à un ballon et aller la récupérer à son point de chute.  
+
+  
+
+**Réalisation technique :**   
+
+Commençons par le meilleur : la réalisation technique est l'une des plus réussies qui soient sur la console. Pour une fois, on sent bien que la Mega Drive a été poussée très loin par des programmeurs qui en voulaient ! Le style très _british_ des décors de même que l'apparence générale des adversaires m'ont conquis au premier coup d'œil. L'animation, en dépit de quelques ralentissements, est un véritable régal, et Marko comme ses adversaires disposent de mimiques et d'attitudes pleines d'humour et superbement réalisées. Un véritable exploit a été accompli au niveau de la gamme des mouvements, et on a parfois l'impression de jouer à un véritable _cartoon_ interactif. Mais c'est surtout la palette de couleurs, superbement exploitée, qui parvient à faire complètement oublier les limitations de la Mega Drive dans ce domaine. Dommage que la bande sonore demeure plutôt quelconque, de chouettes musiques auraient été parfaites pour compléter le tableau.  
+
+Si techniquement, Marko's Magic Football est au-dessus de la mêlée, il n'est pourtant pas exempt de défauts. Pour commencer, les sauts de Marko sont assez perturbants, à la limite du déplacement en apesanteur, et il est difficile de réagir rapidement en cas d'attaque subite d'une bestiole. La jouabilité pose également parfois quelques problèmes. Une légère imprécision et un manque de réactivité dans les commandes entraînent parfois le décès prématuré du petit footballeur en herbe. Déjà plutôt difficile en soi, Marko's Magic Football n'avait pas vraiment besoin de ces problèmes de gameplay, légers certes mais tout de même bien ennuyeux. Quant au maniement du ballon, il n'est pas toujours évident à maîtriser, mais l'intérêt du jeu réside aussi dans ce mode d'attaque assez particulier.  
+
+  
+
+**En bref : 15,5/20** :  
+
+Quel dommage que la jouabilité soit parfois aussi défectueuse, et que le jeu en devienne alors un peu trop difficile (voire même frustrant) car on n'est pas passé loin d'un très grand jeu. Techniquement superbe, original et plein d'humour, Marko's Magic Football s'impose comme un bijou en matière de jeu d'action sur Mega Drive. Sans égaler l'indétrônable Sonic et quelques autres merveilles japonaises du même niveau, Marko's Magic Football a apporté une certaine fraîcheur et une originalité dans le monde parfois bien convenu des jeux de plates-formes. Concevoir un jeu assez typé « jeux de plates-formes micro » tout en conservant le fun propre aux consoles, il fallait le faire, et Domark y a remarquablement réussi !

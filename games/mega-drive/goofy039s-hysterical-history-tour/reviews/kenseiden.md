@@ -1,0 +1,23 @@
+---
+user:Kenseiden
+rating:2.5
+published: 2007-12-24T06:09:13.000Z
+legacy_url: http://www.emunova.net/veda/test/2473.htm
+---
+Tout comme Porky Pig chez les rivaux de la Warner Bros, Goofy est un personnage rarement mis en scène dans les jeux vidéo. On se souviendra cependant de Goof Troop sur Super Nes, une sympathique imitation de Zelda à destination des jeunes joueurs. Sur Megadrive, on ne retrouve malheureusement pas la même originalité. Goofy est un jeu d'action/plates-formes tout ce qu'il y a plus classique, dans un univers qui ne doit rien à Walt Disney... ce qui fait que le choix de ce personnage Disney comme héros n'a finalement pas beaucoup de signification. À l'image du jeu, le scénario est assez bateau : le grand dadais aux longues oreilles a enfin trouvé un job à la mesure de ses compétences, à savoir gardien du musée municipal du professeur Ludwig von Drake (Donald Dingue en V.F. il me semble). Une grande exposition historique doit justement se dérouler le lendemain matin dans la salle principale du musée. Pat Hibulaire, le deuxième gardien du musée, profite du fait que Goofy pique un petit roupillon pour s'emparer des objets de l'expo et s'enfuir en utilisant une machine à voyager dans le temps. Paniqué à l'idée de perdre son travail, Goofy se lance à sa poursuite, avec pour seul équipement l'objet qu'il vient justement d'inventer, une sorte de gant extensible appelé « l'Extend-O-hand ».  
+
+  
+
+Goofy va devoir traverser de très nombreux stages dédiés chacun à une période de l'histoire (préhistoire, moyen âge, etc.), et vaincre les incarnations de Pat Hibulaire présentes à chaque époque. Pas de grandes surprises au programme : des plates-formes mobiles et immobiles, des ennemis assez mignons (champignons, petites abeilles, escargots, ...), des bonus sous la forme de ballons, quelques interactions avec les décors (par exemple, un coucou qui, une fois activé, laisse tomber une boule de bowling qui écrase les ennemis) et la possibilité de lancer des balles magiques bleues pour éliminer les adversaires. Le cahier de charge habituel du jeu de plates-formes en somme. La seule trouvaille originale de Goofy tient à ce fameux bras extenseur. Le bras extenseur, tout comme la balle magique et le sempiternel bond sur les ennemis, permet de se débarrasser de toutes les petites bestioles hostiles qui traînent à travers les stages. Mais il sert surtout à s'agripper aux diverses plates-formes, soit par le bas (ce qui permet à Goofy de se hisser au sommet comme avec un treuil), soit en diagonale (ce qui permet de se balancer d'avant en arrière comme un Indiana Jones moyen).  
+
+  
+
+**Réalisation technique :**   
+
+Pas mauvaise en soi... mais dès qu'un jeu est consacré à un personnage Disney, on n'attend rien de moins que l'excellence. Or, Absolute n'est ni Sega, ni Capcom, ni Virgin Games. Les décors et les sprites sont potables mais on n'y retrouve guère d'éléments réellement « disneyens ». Qui plus est, aucun élément ne provoque vraiment de surprise. Presque tout dans ce soft est connu et archi-connu à travers un millier d'autres jeux de plates-formes, et Goofy aurait très pu être remplacé par n'importe quel autre personnage. La bande sonore ? Anecdotique. L'animation ? Là, c'est pas trop mal, avec un scrolling rapide et un personnage bien animé. Les commandes ? Bof... ce n'est pas vraiment la joie. On ne retrouve pas la souplesse attendue d'un jeu de plates-formes mais plutôt le côté un peu rigide fréquent dans les jeux d'action à l'univers plus « sérieux ». L'utilisation du bras extenseur, pourtant capitale pour progresser, n'est pas une sinécure et la difficulté de Goofy est en outre assez élevée. La progression s'avère souvent frustrante, puisqu'il faut recommencer les acrobaties à de multiples reprises, toujours à cause de cette imprécision dans les commandes.  
+
+  
+
+**En bref : 11,5/20**   
+
+Pas mauvais en soi... ça résume tout le drame de ce Goofy. On n'y trouve rien de vraiment rébarbatif. On n'y trouve rien non plus de vraiment satisfaisant. Tout y est en demi-teinte : les graphismes, le gameplay de base, l'intérêt de la progression, l'originalité... d'autant plus que, comme il s'agit d'un personnage Disney, on ne peut s'empêcher d'attendre un peu plus que le minimum syndical dans tous ces domaines. Ce manque de réelles nouveautés couplé à une maniabilité très perfectible ne donne guère envie de s'accrocher pour découvrir les stages successifs. Goofy présentera tout de même un minimum d'intérêt au fan de plates-formes, ne serait-ce que par sa difficulté assez élevée. Le coup du bras extenseur était même une bonne idée, je dois dire. Mais dans l'ensemble, le jeu reste malheureusement beaucoup trop plat pour séduire.

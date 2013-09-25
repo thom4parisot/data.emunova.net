@@ -1,0 +1,27 @@
+---
+user:Kékidi
+rating:4
+published: 2004-06-26T22:00:00.000Z
+legacy_url: http://www.emunova.net/veda/test/583.htm
+---
+L'introduction nous montre l'assassinat d'un groupe de rebelles. Avant de mourir, l'un des rebelles murmure le nom du chef de leur groupe : Achi. Chassés par l'armée, les rebelles doivent affronter un autre danger : les Rufians. Ce sont des animaux modifiés génétiquement qui sont maintenant devenus incontrôlables. Achi, ses alliés Saki et Airan sont les derniers remparts face à la destruction du monde.  
+
+  
+
+Ce shoot them up est un mélange de styles, il est inspiré des jeux du genre de **Space Harrier** et de shoots au pistolet comme **Virtua Cop**. Le personnage que vous dirigez est vu de derrière et subit le scrolling qui avance toujours comme dans **Space Harrier**. A la différence de ce dernier, dans **Sin and Punishment** le protagoniste ne vole pas, il court sur le sol, peut sauter et faire des roulades sur le côté. Le curseur de visée est indépendant des mouvements du héros et est régi par d'autres boutons. Il réagit un peu comme dans un shoot au pistolet. Votre arme ne se limite pas à un simple gun, elle peut également se transformer en une épée redoutable. Quand un ennemi est proche vous pouvez l'activer et ainsi infliger de gros dégâts ou renvoyer des missiles sur vos assaillants. Ne pensez pas que la maniabilité soit ardue, bien au contraire la prise en main est instinctive. En plus pour bien vous expliquer les commandes, le jeu propose une démo montrant les fonctionnalités des boutons et un niveau tutorial.  
+
+  
+
+Dès qu'on débute la partie, on est directement dans l'action. Le doigt appuyé sur le bouton de tir, on dégomme tout ce qu'il y a à l'écran. Et des monstres, il y en a toute une flotte. Ca canarde de partout et ça vient de tous les côtés. Hum ! Ca c'est du shoot comme on aime, bien bourrin comme il faut. C'est une véritable invasion qui se prépare ! Des troupes entières déferlent sur Tokyo et l'armée ne fait rien, elle est même contre vous. Ce n'est pas ça qui va vous arrêter, ni même la panoplie de boss qu'elle met sur votre chemin. Le parcours avant l'ennemi final comprend plus d'une vingtaine de boss et de mini-boss. Aucun ne se ressemble, vous rencontrerez un arachnide géant, un hélicoptère futuriste, des humains aux pouvoirs psychiques, une station spatiale et même des Eva... Le maître mot du jeu est variété. Courir sur le plancher des vaches ne suffit pas, certains niveaux vous feront voyager sur une plate-forme qui volera dans tous les sens, attention ça décoiffe ! Pour d'autres la vue sera de côté et vous replongerez dans l'ambiance des bons vieux shoots 2D.  
+
+  
+
+Techniquement le jeu ne semble pas à la hauteur de la console. Les graphismes sont pauvres, quelquefois le jeu est tout de même beau mais peu souvent. Les protagonistes sont réalisés avec peu de polygones et paraissent assez carrés. Cette faiblesse permet d'afficher à l'écran une tonne d'ennemis sans que l'animation en souffre. **Sin and Punishment** reste ainsi toujours aussi fluide et rapide. De même vos actions sont agrémentées d'effets lumineux qui ne gênent en rien le bon déroulement du jeu. Les musiques sont dans l'ensemble moyennes. Elles ne collent pas à l'action trépidante car elles ne sont pas assez rythmées. Quelques-unes sont pas mal mais la plupart passent complètement inaperçues. Nous arrivons maintenant au principal handicap de ce soft : sa durée de vie ridicule. Par défaut la difficulté est réglée sur Easy, dans cette configuration le jeu se termine dès la première partie en moins de 2 heures. Si vous réglez la difficulté en Normal, il ne vous faudra pas plus d'une après-midi pour le terminer. Vraiment trop court !  
+
+  
+
+Je suis peut-être un peu vache avec ce titre. J'ose dire qu'il ne brille pas par ses graphismes. J'ai sûrement trop idéalisé ce jeu. Je me souviens avoir bavé devant les images en avant-première de **Sin and Punishment** dans les magazines. C'était le jeu de tir qu'il me fallait sur N64\. Le problème est qu'il n'est jamais arrivé en occident. Enfin si, il a débarqué en France des années plus tard, soit grâce à l'émulation, soit par la Console Virtuelle de la Wii. Durant ce temps, j'ai donc idéalisé ce shoot them up et quand je l'ai essayé pour la première fois j'ai été légèrement déçu par son visuel. Mais, il faut admettre que le jeu reste tout de même agréable et que l'action continuelle ou le rythme soutenu font tout oublier.  
+
+  
+
+**Sin and Punishment** est ultra fun, c'est un condensé d'action pure. On s'éclate à fond mais qu'est ce que c'est court. On croirait rêver quand on voit la fin. Par contre ce qui est bien avec les jeux faciles est qu'on y revient souvent refaire une ou deux petites parties pour se défouler. La réalisation ne semble pas à la hauteur du soft mais cela n'est que subsidiaire tellement le jeu est prenant. En plus l'émulation n'est pas parfaite, chaque plugin a ses défauts, certains donnent de meilleurs graphismes mais n'affichent pas tous les éléments du décor, tandis que d'autres donnent les effets contraires. Cela fausse donc les constatations faites à propos des graphismes qui ne semblent pas à la hauteur de la machine. Pour pouvoir jouer sans trop de problèmes, il est conseillé d'utiliser les plugins **Rice's Daedalus 5.2** ou **5.3**.

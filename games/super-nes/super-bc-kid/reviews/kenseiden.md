@@ -1,0 +1,29 @@
+---
+user:Kenseiden
+rating:4
+published: 2006-08-23T15:51:47.000Z
+legacy_url: http://www.emunova.net/veda/test/1615.htm
+---
+Sous ce titre étrange se cache en réalité la libre adaptation sur Super NES du troisième volet de la série consacrée à la mascotte de la PC Engine, appelée PC Kid sur ce support (ou PC Genjin au Japon). A l�occasion, et sur les autres supports que les consoles NEC, ce petit personnage se prénomme également Bonk. Pour vous présenter en quelques mots ce sympathique petit bonhomme, B.C. Kid est un petit homme des cavernes à l�énorme crâne chauve, dont le mode d�attaque tire d�ailleurs profit de cette physiologie mégacéphale. Le crâne de PC Kid peut en effet détruire n�importe quoi : les ennemis, les murs, les fleurs renfermant des bonus variés, etc�On peut tout autant flanquer de furieux coups de fontanelle digne d�une finale France-Italie, que plonger sur un ennemi, le crâne en avant, quitte à faire un vacarme d�enfer si on s�écrase malencontreusement à côté de la cible. De toute façon, hormis les contacts avec les ennemis, B.C. Kid est indestructible : il peut heurter les murs à pleine vitesse, rétrécir pour passer dans des tuyaux ou tomber de plusieurs dizaines de mètres sans le moindre dommage !  
+
+  
+
+BC Kid est en outre un goinfre fini et heureusement, l�univers déjanté dans lequel il évolue est riche en denrées alimentaires. Outre tous les petits fruits qui rapportent des points, le petit primitif peut également devenir miniature, gigantesque ou retrouver sa taille normale en mangeant des bonbons d�une certaine couleur. La possibilité lui est également offerte de se transformer en un Godzilla désaxé, en un crabe grincheux ou en une sorte de caméléon mutant en s�empiffrant de viande ou d�autres hors d��uvre. .  
+
+  
+
+Il est rigoureusement impossible de trouver une quelconque logique dans la progression et l�ordonnance des stages de B.C. Kid : ce jeu à l�humour débile typiquement japonais nage dans un délire perpétuel sans queue ni tête ! On peut très bien évoluer dans une ville japonaise en carton-pâte et subitement, après un détour par des nuages donnant accès un réseau de cavernes, se retrouver plongé dans un verre à cocktail et terminer dans le gros intestin d�un dinosaure ! Et je ne vous parle même pas des très nombreux niveaux bonus différents, accessibles quand on trouve une tulipe, et qui vous proposeront tout autant des séquences de shoot them up pour crustacé, du trampoline sur les nuages, ou des labyrinthes où il faudra manger les bonnes friandises pour franchir les tunnels avec la taille adéquate. Laissez votre sérieux et votre raison au vestiaire, vous n�en aurez pas besoin pour jouer à B.C. Kid !  
+
+  
+
+**Réalisation technique :**   
+
+Certains trouveront les graphismes de B.C. Kid enfantins et plutôt grossiers. C�est exact que, malgré des couleurs éclatantes, les décors ne se font pas remarquer par un fourmillements de petits détails. Mais c�est l�esprit PC Kid qui exige ces décors caricaturaux et simplistes, ces couleurs un peu trop vives et ces ennemis idiots et kawaï. De toute façon, la folie perpétuelle qui règne à travers les différents stages fera oublier le côté simpliste des graphismes, même à l�acharné convaincu qu�un jeu est moche dès qu�il ne présente pas 256 couleurs à l�écran, 12 scrolling différentiels et des effets de déformation permanents. Question animation, c�est du tout bon : le jeu est très rapide à l�occasion, mais globalement, la progression se déroule à une vitesse standard. Les multiples mimiques du petit personnage et de ses adversaires sont hilarantes, du moins si on est sensible aux gimmicks de l�animation japonaise comme les grosses larmes au coin des yeux où les petites bulles collées à la narine. La jouabilité est parfois très légèrement problématique. J�ai dit très légèrement, ne me faites pas dire ce que je n�ai pas dit. Le système d�attaque un peu particulier y joue un rôle indéniable et il est parfois difficile d�escalader certains murs (faut dire aussi qu�il le fait avec les dents� !) mais on s�en sort tout de même, d�autant plus que B.C. Kid n�est vraiment pas difficile à terminer. Pour rester dans le domaine des mascottes, on n�atteint pas l�excellence d�un Mario ou d�un Sonic, voilà tout. Terminons par la bande sonore. A priori, elle semble plutôt pauvre. Les bruitages, par exemple, sont rares et crispants. Et l�instrumentation des thèmes musicaux est assez restreinte. Mais comme ils s�adaptent à merveille à l�univers cinglé du jeu, ils finissent par devenir attachants et resteront gravés dans l�esprit (dans la même veine que les musiques de Bomberman, si vous voyez ce que je veux dire� !).  
+
+  
+
+**En bref : 17/20**  
+
+Bénéficiant en Europe d�une aura moindre que celle de Mario ou Sonic, BC Kid n�est reste pas moins un petit héros particulièrement sympathique, et les jeux qui lui sont consacrés, bien que moins longs que les Mario et moins trépidants que les Sonic, n�en restent pas moins d�excellents choix pour les amateurs de plates-formes.   
+
+Dans ce portage Super NES, on retrouve tous les éléments qui ont assuré le succès de la série sur PC Engine : un univers enfantin et super mignon, de l�humour débile et de l�originalité à la pelle. Par rapport aux grosses pointures des consoles 16-bits, il est vrai que BC Kid peut paraître un peu pauvre techniquement, manquer de rythme et ne pas proposer les effets spéciaux et les ennemis redoutables auxquels on s�attend. B.C. Kid est en outre relativement facile� entendez par là qu�il est difficile de mourir : on trouve souvent des c�urs d�énergie, les ennemis sont dans l�ensemble léthargiques, et les pièges se négocient sans grande difficulté. Peu importe : la fantaisie permanente du jeu, son esprit totalement décalé et le côté nippon exacerbé compensent sans problèmes ces menus défauts. N�hésitez pas une seconde à vous plonger dans cet univers non-sens et terriblement attachant, vous ne le regretterez pas !

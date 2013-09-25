@@ -1,0 +1,39 @@
+---
+user:leo03
+rating:3
+published: 2006-05-10T10:23:28.000Z
+legacy_url: http://www.emunova.net/veda/test/1420.htm
+---
+Capcom et Psyko s'unissent pour faire un jeu ! Grande joie pour tout le monde! M'enfin, pour rendre à César ce qui est à César, c'est surtout Psyko qui a fait le boulot! Non pas que j'ai quelque chose contre Capcom, mais Cannon Spike (appelé Gun Spike au Japon), ça se voit tout de suite que c'est surtout Psyko qui s'y est mis (je vous expliquerais pourquoi). Mais rentrons dans le vif du sujet, Cannon Spike, c'est original et donc, intéressant.  
+
+  
+
+_**Capcom collection**_  
+
+  
+
+Une histoire d'une banalité affligeante sera le prétexte pour faire intervenir des héros de la firme Capcom dans ce jeu, même si on se demande ce qu'ils viennent foutre là ! Charlie, Arthur, Megaman, Cammy... Hé ho ? De Street Fighter à Megaman, en passant par Ghouls 'n Ghosts, c'est quoi ce jeu ? Et bien finalement, un jeu qui prend quelques idées à ces jeux là ! Déjà, je vais essayer de vous donner une idée de la chose. Cannon Spike est une sorte de... beat'em all/shoot'em up/kill'n run. Ha ouais! Concrètement, vous êtes dans une petite arène parsemée d'ennemis. La vue est placée au dessus de l'action. Vos personnages sont sur des rollers, jets ou autres skates, et du coup, leurs déplacements sont assez rapides. Pour vous battre, vous aurez le bouton A pour tirer comme dans un shoot'em up, le bouton X pour envoyer un gros tir, le bouton B pour donner des petits coups de proximité, le bouton Y pour donner un gros coup de proximité, la gâchette gauche pour utiliser votre attaque spéciale, et enfin, la gâchette droite pour cibler vos ennemis. Attention cependant, le ciblage ne dure que quelques secondes, il faudra le renouveler souvent pour en profiter. Dit comme ça, ça à l'air simple, mais dans le feu de l'action, c'est une autre paire de manche. L'action est très rapide, vos attaques multiples, et il faudra bien utiliser chaque attaque qui vous sont offertes selon les situations. Les ennemis sont loin, je les canarde, il se rapprochent, je tente une fuite, en leurs foutant quelques baffes au passage, tout en n'oubliant pas de cibler, et de récupérer les bonus libérés par les ennemis détruits (vie et bombe)... Les ennemis en eux même sont coriaces, ils ont chacun un niveau de vie, et ils ont la gâchette facile. Une fois battus, il y a en général un sous boss, puis le boss. Alors que quand vous vous battiez avec plein d'ennemis, vous vous seriez cru dans un Shock Troopers ou Commando, une fois le boss arrivé, on a plus affaire à un shoot'em up, avec ses patterns ou boulettes si vous préférez. Et vu que c'est un jeu Psyko, les niveaux sont très courts (une minute ou deux), ils s'enchaînent sans aucune cohérence (on passe de la ville à la montagne en passant par une crypte...), et leur mise en scène digne d'un Wario Ware (hop, des ennemis débarquent d'on ne sait où, puis, un gros type nous fonce dessus, puis, ça fait boum, et puis je ne sais quoi, car ça ne rime à rien). Voilà, c'était la minute frustration envers les jeux Psyko. Si vous avez joué à Zero Gunner II par exemple, vous verrez sans doute de quoi je parle. On pourra me dire que ce n'est pas gênant comme problème, que seul le gameplay compte, mais là, il est dommage de gâcher un peu ce jeu en procédant ainsi : le jeu manque clairement d'ambiance. Si on s'amuse avec le gameplay, on n'est pas dans le trip du jeu. Dommage !  
+
+  
+
+Vous allez donc arpenter beaucoup de petits niveaux, dans lesquels vous allez affronter plein d'ennemis différents, qui seront de plus en plus durs, afin de vous forcer à mieux utiliser les capacités de votre personnage. Hé oui, non content de créer un gameplay complètement nouveau, et du coup, assez déstabilisant, chaque personnage que vous pourrez choisir se joue différemment. Si leur vitesse est la même, leurs coups sont assez différents, surtout en ce qui concerne les coups spéciaux. Par exemple, le gros coup de proximité de Megaman est une tornade, qui avance de quelques mètres, alors que celui de Charlie est un bête coup de pied, beaucoup plus rapidement exécuté, et beaucoup plus puissant ! Contrairement à celui d'Arthur qui se projette lui-même sur quelques mètres avec sa lance, sans parler de B.B. Hood qui, elle, envoie mollement une petite bombe. Bref, hormis le tir A, les coups seront très différents, et il faudra bien prendre en compte leurs vitesses, leur puissance, leurs actions... On ne choisit pas ses personnages à la légère, ils sont bien trop différents les uns des autres pour qu'on n'ait pas une petite préférence. Au total, une dizaine de niveaux vous attend, ce qui devrait se faire en 30 minutes si vous êtes fort (et oui, c'est un jeu d'arcade). Pour compenser, vous aurez tout de même sept niveaux de difficulté, ainsi que sept personnages. De quoi profiter du jeu tout de même. Bien sûr, il y a un système de score, comme pour tout jeu d'arcade qui se respecte. N'en attendez pas trop non plus de ce coté là, le jeu ne fait pas de tableau récapitulatif entre les niveaux, et de toute façon, il n'y a pas de système savant pour faire gonfler son score. Néanmoins, il y a bien sur le mode deux joueurs, toujours le bienvenu.  
+
+  
+
+Il faudra se faire au fait que le jeu se compose de plein (enfin, une dizaine) de petits niveaux, au lieu de quelques gros niveaux. Pas de bugs, un gameplay sympa et nerveux... Mais un level design intéressant dans certains niveaux, monotone dans d'autres, un manque d'ambiance, et un système de scoring peu évolué.  
+
+  
+
+_**Parlons technique**_  
+
+  
+
+A part les artworks de chez Capcom, c'est Psyko qui s'est attelé à la réalisation. On reconnaît bien leur patte graphique. Alors si le jeu n'est pas trop vilain, on ne peut pas dire que ce soit grandiose pour autant. Le moteur 3D n'est pas mauvais, mais ça manque de charme, ça manque de mise en scène, ça manque d'effets spéciaux, et les couleurs sont plutôt ternes. Ca aurait pu être mieux. M'enfin bon, l'animation est excellente, et aucun ralentissement. Enfin, ouvrez vos oreilles. C'est beau ? C'est ridicule ! Les bruitages sont assez répétitifs, et les musiques sans grandes inspirations. Bon sang, rien que celle de l'intro, on dirait que le compositeur s'est endormi sur son synthé. Un comble pour un jeu d'arcade ! L'ambiance sonore est peut être bien ce qui plombe définitivement l'?ambiance du jeu. Coupez moi ça, et remplacez ça par une chaîne hi-fi ou je ne sais quoi. A couper sans regret ! La maniabilité est au poil, aucune faille, originale, et nerveuse, c'est le point fort du jeu. Elle nécessitera pas mal d'apprentissage pour être bien maîtrisée. Évidement la durée de vie d'un jeu d'arcade... c'est plutôt du coté de la replay value qu'il faut regarder. Et on est plutôt bien servi avec les sept niveaux de difficulté et les sept persos ! Dommage, on ne reviendra pas pour gonfler son score, vu que le décompte des points ne révèle aucune finesse. Pas ou peu de temps de chargements entre les niveaux par contre, les transitions seront rapides (ce qui accentue l'effet Wario Ware, tiens).  
+
+  
+
+_**Conclusion**_  
+
+  
+
+Cannon Spike aurait pu être un excellent jeu, un gros hit. Il n'en est qu'un jeu sympathique. La faute à son manque d'ambiance et à son absence de système de scoring qui vaille le coup. C'est dommage de la part d'une boite comme Psyko et Capcom de ne pas avoir plus soigné leur jeu, surtout quand celui là est original. Bref, Cannon Spike, même si ce n'est pas le mega-jeu-qu'il-faut-absolument-avoir-sur-Dreamcast-sinon-t'es-tout-nul, ça reste tout de même un jeu très sympathique à essayer.

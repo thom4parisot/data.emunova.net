@@ -1,0 +1,23 @@
+---
+user:Kenseiden
+rating:1.5
+published: 2007-01-31T06:05:34.000Z
+legacy_url: http://www.emunova.net/veda/test/1922.htm
+---
+J'exècre Yogi l'ours. En soi, je suis plutôt bon public avec les personnages de dessins animés. Encore aujourd'hui, je peux m'envoyer une pleine fournée de cartoons Warner ou Disney à la chaîne sans éprouver le moindre sentiment de gêne. Mais je n'ai jamais été vraiment fondu des productions Hanna-Barbera, généralement moches et mal animées, gentillettes jusqu'à l'écoeurement et pas drôles pour un sou. Bien davantage qu'envers les Pierrafeux, Wally Gator ou Scooby-Doo, j'ai toujours voué une haine particulière à Yogi, odieux spécimen dont l'enthousiasme imbécile et injustifié me rend malade, et qui souffre de toutes les caractéristiques évoquées plus haut.  
+
+  
+
+Ceci dit, je ne suis pas là pour vous expliquer en détail mes phobies traumatiques d'enfance. Après tout, tout détestable qu'il soit sur le petit écran, rien ne s'opposait à ce que Yogi soit le héros d'un jeu de plates-formes sympathique. Avant de vous démontrer à quel point cette hypothèse était vaine, il me faut vous briefer un minimum sur les grands principes philosophiques qui guideront l'odyssée de l'ours en col de chemise. Le plantigrade farceur devra traverser les différentes sections du parc de Jellystone. Fidèle à sa réputation de gros gourmand, Yogi a pour principale ambition de vie de bouffer, autrement dit d'amasser un maximum de bonus. En cours de route, il devra donc grappiller un maximum de montres à gousset, allumer le plus de lampions possibles et sauter sur tous les paniers à pique-nique qu'il trouvera. Et à part ça ? Arriver à la fin du niveau, tiens ! Des récompenses ? Un continue en plus quand on saute sur 100 paniers à pique-nique au cours d'un même stage. Des ennemis ? Lapins, bonshommes de neige, porc-epic, piafs en tous genres que l'on peut écraser à coup de postérieur et... non ! Je n'en peux plus. J'arrête là. Je savais que cet animal obscène allait une fois de plus se montrer déplaisant, inapte à m'arracher le moindre sourire fatigué. Il ne se passe rigoureusement rien au cours de cette aventure. Pas la moindre séquence intéressante, pas le moindre motif d'étonnement qui vaille la peine d'être mentionné. Si on considère Yogi Bear comme un jeu de plates-formes complet et intéressant, alors Super Mario Bros est sans nul doute une simulation de gestion financière.  
+
+  
+
+**Réalisation technique :**  
+
+Le pire dans l'histoire est sans doute que Yogi Bear dépote réellement techniquement. Même compte tenu des possibilités de la Super NES, on est épaté par la beauté visuelle de Yogi Bear. Si les décors respectent l'esprit assez dépouillé de la série, le tout est très fin, avec de superbes dégradés de couleurs et un trait rondouillard fidèle à la série. J'irai même jusqu'à dire que le jeu est plus réussi que le dessin-animé de ce point de vue, même si la tâche n'était pas très difficile en soi. L'animation frôle la perfection : en plus des nombreuses attitudes amusantes des adversaires, Yogi file comme l'éclair, ce que son physique d'entonnoir renversé n'aurait jamais laissé supposer. A défaut de proposer des mélodies marquantes, Yogi peut quand même se vanter d'offrir une qualité technique appréciable et des bruitages rigolos. Même la jouabilité ne peut être prise en défaut : comme dans tous les jeux rapides, il faut certes avoir de bons réflexes si on souhaite tracer à toute allure à travers les niveaux, mais l'ours répond bien aux commandes malgré quelques sauts pas très faciles à gérer. Mais alors, qu'est-ce qui cloche à la fin avec Yogi ?  
+
+  
+
+**En bref : 07/20**  
+
+C'est simple : le développement du jeu a apparemment été confié à une équipe très travailleuse et très professionnelle, mais dépourvue de la moindre imagination. On est frappé par l'incroyable insipidité du gameplay. Pas la moindre surprise, pas la moindre trouvaille sympa, pas le moindre petit élément qui pourrait donner un avantage ludique à Yogi sur ses concurrents. Yogi consiste seulement en une morne progression rectiligne d'un point A à un point B agrémentée d'une chasse aux bonus totalement inintéressante. Si vous avez moins de 6 ans et qu'il s'agit de votre premier jeu de plates-formes, il existe une possibilité que Yogi Bear vous émerveille avec sa très jolie réalisation. Dans le cas contraire, quelques minutes de jeu vous inciteront rapidement à passer à quelque chose de plus consistant.

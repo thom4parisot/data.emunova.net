@@ -1,0 +1,37 @@
+---
+user:FoxHound
+rating:3.5
+published: 2009-11-21T23:48:45.000Z
+legacy_url: http://www.emunova.net/veda/test/3523.htm
+---
+Tiens donc ! Voilà un jeu adapté d'un personnage de Marvel et publié par Activision, comme Blade ! Alors, ces jeux adaptés de comics ne sont-ils tous que des produits moyens, bons pour les dimanches après-midi où l'on cherche désespérément à faire quelque chose de ses dix doigts, pour se sortir de la douce torpeur causée par la digestion difficile d'un copieux rôti d'agneau avec ses flageolets en sauce ?  
+
+  
+
+Que nenni, mon cher ! Contre toute attente, l'araignée multicolore préférée des Américains vient nous mettre un grand coup de pied au cul, pour nous sortir de force de la toile de l'ennui dominical, avec un jeu qui, malgré quelques défauts, est purement et simplement fun.  
+
+  
+
+Tout d'abord, il faut savoir que ce jeu n'a rien à voir avec le film de Sam Raimi. C'est une histoire totalement nouvelle qui nous est contée ici, en reprenant fidèlement les bases des comics et en multipliant les références aux autres travaux de Marvel, pour le plus grand plaisir des amateurs.  
+
+L'aventure commence donc à une exposition scientifique, où le célèbre Dr Otto Octavius nous présente son incroyable machine à... en fait, on sait pas trop ce qu'elle fait, cette machine. Toujours est-il que pendant sa démonstration, Spider-Man surgit, attaque les gardes et vole la machine sous le regard médusé des spectateurs... et de Peter Parker. Peu de temps après, un mystérieux brouillard vert s'abat sur New York. Craignant un complot visant à le discréditer, poursuivi par la police, notre dévoué Spider-Man se lance sur les traces de son imposteur.  
+
+Voilà le postulat de départ, qui donnera lieu à quelques péripéties fort sympathiques, le scénario se lisant comme un _best of_ des aventures de l'Homme-Araignée. On se retrouve donc à se balader de toit en toit, à empêcher le braquage d'une banque, à désamorcer une bombe, à sauver les fesses de l'irascible J. Jonah Jameson, le patron de Peter, à secourir Mary Jane, à empêcher une armée de mutants d'envahir la Grosse Pomme... le tout, bien sûr, en affrontant des boss redoutables, triés sur le volet parmi les adversaires les plus emblématiques de la série : le Scorpion, Venom, Mysterio, Octopus, Carnage... L'aspect florilège de cette galerie de personnages ne s'arrête pas là, car du côté des gentils on aura la chance de croiser des monstres sacrés du comic, tels que DareDevil, Captain America ou encore le Punisher. Tant d'icônes ne sont pourtant pas là gratuitement pour le plaisir des fans, et leur place dans le scénario tient la route, étant tous les acteurs d'un complot que Spidey devra déjouer par quelques duels, tous plus nerveux les uns que les autres.  
+
+  
+
+Et comment va-t-il combattre ? A coups de tatane, bien sûr ! Le gameplay est un hybride de beat 'em up et d'exploration. Vous devrez commencer par vous familiariser avec l'utilisation de la toile, pour vous balancer de toit en toit vers votre objectif dans un environnement qui, s'il n'est pas réellement ouvert, s'avère plutôt vaste. Il sera par contre impossible de descendre au niveau des rues plongées dans le brouillard, toute tentative se soldant par la mort du personnage. Mais rassurez-vous, le système de balancement est très simple : Spidey trouvera tout seul les endroits où accrocher sa toile, même s'il n'y en a apparemment pas. Ça fait pas très réaliste, mais c'est une concession à faire pour un gameplay agréable. Bien sûr, vous pouvez ramper sur les murs sans problème, et dans les environnements intérieurs vous pouvez même ramper au plafond, pour piéger vos ennemis par exemple, ou pour contourner un obstacle en passant par les conduits d'aération. L'impression de liberté est énorme et, avec un peu d'entraînement, sauter partout pour tourmenter ses ennemis et explorer les lieux dans leurs moindres recoins devient un vrai plaisir. Niveau combats, plusieurs options s'offrent à vous, la plus évidente pour une araignée étant la toile. Grâce à une combinaison simple touche de toile + touche directionnelle, vous pouvez effectuer différentes attaques comme engluer un ennemi, lui lancer un boulet de toile compacte, vous confectionner des gants de boxe en toile pour augmenter les dégâts occasionnés par vos coups, ou vous créer un dôme de toile protecteur si les ennemis vous encerclent. Mais la solution la plus efficace reste le combat à mains nues, où des enchaînements pieds-poings très faciles à réaliser donnent lieu à quelques combos joliment mis en scène, sans oublier l'environnement, qui peut vous être salutaire : vous pouvez en effet saisir divers objets (caisses, barils...) et les lancer à la tête de vos ennemis, attirer l'adversaire dans un courant électrique ou dans les flammes... Un gameplay varié et instinctif donc, mais qu'en est-il des graphismes ?  
+
+  
+
+C'est là le petit bémol. Les graphismes sont sympas, et prennent le parti de faire fi du réalisme pour garder l'esthétique de la BD, avec immeubles colorés, armes et véhicules au _design_ futuriste, personnages légèrement disproportionnés... Les lieux sont vastes et variés : on retrouve les toits, bien sûr, mais aussi une banque en plein braquage, les égouts, les sous-sols du Daily Bugle, pour finir l'aventure dans l'inquiétant repaire sous-marin du Dr Octopus. Comme je l'ai dit plus haut, si les objectifs de missions sont clairement définis, rien n'empêche, la plupart du temps, d'explorer les lieux à fond à la recherche de quelques bonus. Spidey est bien modélisé et ses mouvements sont jolis ; ceux des ennemis, moins bien travaillés, sont quand même passables, alors où est le défaut ?  
+
+C'est simple, même si ça paraît superficiel : les cinématiques en CGI (séquences cinématiques conçues à part et donc généralement plus belles que le moteur graphique du jeu) sont moches. Mais alors, bien moches. En fait, c'est à peine plus beau que le jeu lui-même. Je sais, pour beaucoup c'est un détail, mais en l'an 2000 on était quand même en droit de s'attendre à mieux.  
+
+  
+
+Niveau musical, les thèmes ne sont pas mémorables mais sympathiques, et rythment bien l'action. Par contre, vous ne couperez pas à la légendaire intro : "Spider-Man ! Spider-Man !". Ceux qui y sont allergiques auront envie d'appuyer sur START le plus vite possible. Les effets sonores sont très pif paf bing, on s'attendrait presque à voir des onomatopées s'afficher à l'écran tellement le bruit des coups est exagéré, mais le tout s'inscrit très bien dans l'ambiance bande-dessinée du jeu. Quant aux voix, elles sont intégralement traduites en français et c'est plutôt pas mal. Notre arachnéen ne se privera pas pour sortir quelques petites vannes de temps en temps, c'est sympa. Bon, ce sont des voix de dessins animés (surtout celle de Venom) mais vu le type de jeu, ce n'est pas choquant. Rien à redire au niveau son.  
+
+  
+
+Au final, ce portage de Spider-Man sur console est un jeu rafraîchissant et très agréable, qui satisfera les fanas de comics autant que les amateurs d'action énergique qui ne se soucient pas du réalisme. Une fois l'aventure (plutôt courte) terminée, on rejouera avec plaisir pour débloquer des bonus comme une galerie de couvertures originales, des costumes alternés (ceux qui, comme moi, ont aimé les épisodes sur Venom auront le plaisir de jouer avec le costume symbiote !) et autres. Un très bon jeu à découvrir et à redécouvrir.

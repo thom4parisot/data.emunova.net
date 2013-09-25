@@ -1,0 +1,23 @@
+---
+user:Kenseiden
+rating:1.5
+published: 2006-04-18T09:59:58.000Z
+legacy_url: http://www.emunova.net/veda/test/1395.htm
+---
+Si d�aventure, vous avez été un petit allemand au début des années 90, l�arrivée de The Ottifants sur la 16-bits de Sega a du vous faire l�effet d�un graal enfin révélé, d�une rêve d�enfant qui voyait enfin le jour, d�un pivot central dans votre existence. Il y aura eu un avant et un après Ottifants dans votre vie de joueur. Par contre, si vous étiez autre choses qu�un petit allemand, l�existence de ce jeu a du vous passer complètement au dessus de la tête. Mais qu�est ce qu�un Ottifant ? Ces drôles de créatures ont été inventées il y a près de 30 ans par le comique allemand Otto Waalkes et rencontrent un succès incroyable encore aujourd�hui entre le Rhin et l�Oder. En dehors des frontières allemandes, on peut affirmer sans trop se tromper que les Ottifants sont à peu près aussi connues que les présentatrices météo de la télévision ouzbèke�Mais les Allemands étant de très gros consommateurs de jeux vidéo, on peut comprendre que Sega ait immédiatement songé aux liasses de Deutsche Mark s�amoncelant dans sa direction berlinoise.  
+
+  
+
+Bref, dans The Ottifants, vous prenez en main ma destinée d�un étrange petit pachyderme en couche-culotte nommé Bruno. Le papa de Bruno n�est pas encore rentré du bureau et Bruno, très inquiet, va partir à sa recherche, traversant des lieux aussi dangereux pour un nourrisson qu�une chambre à coucher, des égouts ou un chantier. En bon petit éléphant..euh�ottifant, Burno peut tirer des projectiles avec sa trompe, pour peu qu�il ramasse le bon item. L�essentiel de la partie consiste d�ailleurs à ramasser de petits items colorés en forme de nounours, histoire de faire monter le score et de pouvoir accéder au niveau suivant. C�est d�ailleurs le seul moyen à la disposition du pauvre ottiphanteau pour se protéger des quelques rares adversaires qui peuplent les niveaux. La technique immémoriale des jeux de plates-formes consistant à sauter sur l�ennemi ne fonctionne pas du tout ici. Après quelques zones, on affronte un boss, qui ne résiste pas plus de quelques secondes et on passe au niveau suivant. Vous avez dit « classique » ? Ou ai-je entendu le mot « platitude » ?  
+
+  
+
+**Réalisation technique :**   
+
+La réalisation graphique s�inscrit dans une tradition enfantine et féérique, mais une fois de plus, cela ne suffit pas. La palette de couleurs a été correctement exploitée, mais le trait reste grossier. Quant au style choisi, on a l�impression que les programmeurs avaient de bonnes idées, mais n�ont pas su les concrétiser en un univers réellement attachant. Pour ne prendre que le premier niveau (une chambre d�enfant fantasmagorique), les programmeurs, sur une bonne idée de base, se sont contentés d�aligner des pyramides de cubes et de jouets devenus grands sans faire preuve de la moindre tentative d�innovation. Finalement, la tête et les attitudes plutôt rigolotes de bébé Bruno demeurent ce qu�il y a de plus plaisant à regarder au niveau esthétique. Le sol étant rarement plat dans le monde des Ottifants, on passe son temps à bouger perpétuellement de droite à gauche pour éviter de glisser vers un quelconque trou garni de pointes. Parce que la maniabilité est plutôt exécrable, figurez-vous. Il est très difficile de bien calibrer les sauts de ce naze de Bruno comme on le voudrait. Et une fois sur deux, l�avorton va empaler son misérable Pampers sur l�un ou l�autre truc pointu. La bande sonore, énervante et peu variée ne joue pas non plus en la faveur de The Ottifants�  
+
+  
+
+**En bref : 6/20**   
+
+Comment vous dire ? A moins d�avoir été soumis dès la naissance à une exposition prolongée aux Ottifants, je ne vois pas très bien qui pourrait s�intéresser à ce jeu de plates-formes plus ou moins dépourvu d�intérêt. Sa réalisation correcte mais sans éclat n�a déjà rien de particulièrement attrayante mais le principal défaut de ce « Videospiel » est qu�il ne propose pas la moindre parcelle d�originalité, pas la moindre scène un tant soi peu excitante, pas le moindre boss réellement vicieux et haïssable. Pas un instant, on ne se surprend à éprouver la moindre bouffée de plaisir à piloter Bruno à travers ces décors et ces pièges formatés à l�extrème. On joue en fait à The Ottifants sans la moindre émotion et ça, c�est ce qu�il peut arriver de pire à un jeu vidéo. Sans intérêt�au suivant !

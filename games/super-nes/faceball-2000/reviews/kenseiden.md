@@ -1,0 +1,25 @@
+---
+user:Kenseiden
+rating:1.5
+published: 2007-07-02T15:43:25.000Z
+legacy_url: http://www.emunova.net/veda/test/2159.htm
+---
+Derrière ce nom fort ambitieux se cache l'un des plus lointains ancêtres du FPS, l'un des précurseurs du Deathmatch, l'un de ces lampistes anonymes grâce auxquels des millions d'individus peuvent aujourd'hui fragger du bot et de l'avatar humain en toute quiétude. Mais alors pourquoi diable Faceball 2000 ne jouit-il pas de la même réputation enviable qu'un Wolfenstein 3D ou qu'un Terminator Rampage ? Hum... c'est qu'à dire vrai, il sent quand même un peu le moisi, le vénérable ancêtre. Pour commencer, Faceball 2000 n'est même pas son patronyme d'origine. Sur Atari ST, il se nommait Midi Maze et avait tout de l'expérience pionnière destinée à servir de rampe de lancement à une nouvelle génération de softs. Là, je vous parle de 1987, à une époque où le simple usage -- même maladroit - de la 3D déclenchait l'émerveillement et la sensation de toucher du doigt la technologie du 23ème siècle. Non, non... ne riez pas... à cette époque, on en était à imaginer qu'un jour, la progression technologique permettrait de faire apparaître une ou deux véritables images photographiques immobiles dans un jeu vidéo. A l'inverse, au moment où le jeu sortit sur les consoles japonaise, on commençait à entr'apercevoir qu'un jour, ce serait des films qui seraient présents au sein des jeux vidéo et la 3D, quoiqu'en encore réservée à une petite élite de jeux micro, n'était plus une inaccessible étoile. Autrement dit, à cette époque, Faceball 2000 faisait déjà un peu pitié malgré quelques appats ludiques très peu fréquents sur console.  
+
+  
+
+Le but du jeu est dramatiquement simple : vous êtes projeté dans ce qui ressemble furieusement à une série de labyrinthes pour rats de laboratoire, avec pour mission d'abattre tous les adversaires du coin. Les deux modes de jeu, le mode Maze et le mode Arena, ne diffèrent que par la configuration générale du lieu, plus simpliste dans le mode Arena et dédiée à la lutte contre un unique adversaire qu'il faudra abattre un certain nombre de fois pour remporter la manche. De facture assez simple, les zones de combat sont habitées par différents type de smileys, chacun ayant une apparence différente et, paraît-il, une personnalité différente. Cette Intelligence artificielle primitive, programmée par George Miller de chez Xanth software, avait récolté un certain succès d'estime à la fin des années 80, de même que l'existence d'un mode Deathmatch pouvant accueillir plusieurs joueurs simultanément, ce qui restait alors une innovation assez excitante . Aujourd'hui, je serais bien en peine de vous dire si les smiley possèdaient réellement une I.A. supérieure à ce qui se faisait à l'époque. Si les manières d'agir diffèrent effectivement entre les différents adversaires, leur comportement scripté est tellement simpliste qu'on a peine à imaginer qu'on ait réellement pu straffer dans ces couloirs de cartons-pâte, tout puant de stress à l'idée de ne pas être le premier à aligner l'ennemi et à tirer la boule jaune qui le renverra promptement ad patres (ou en tout cas, dans ce no man's land codé dans lequel les bots passent de longues secondes apaisantes entre deux décès ).  
+
+  
+
+  
+
+**Réalisation technique :**   
+
+Hum... difficile de trouver « beau » un soft qui brille surtout par son absence de style graphique. Tout ce qu'on aura sous les yeux sera des murs géométriques aux teintes uniformes et de gros cubes jaunes sensés figurer les ennemis. Les deux étant très mal détourés par rapport à leur environnement immédiat, les différentes arènes de combat prennent la forme d'un véritable festival de couleurs ternes et baveuses. Inutile de s'attarder sur la bande sonore, insipide et même vaguement énervante. Reste le rendu de cette 3D primitive : sans surprises, le résultat est plutôt mauvais. Les déplacements sont effroyablement saccadés, le clipping est désastreux et ça clignote dans tous les coins. Inutile de vous dire qu'avec cette masse de problèmes visuels, la jouabilité n'est vraiment pas au top. Les déplacements sont très imprécis... mais pas autant que les tirs (à la cadence très lente en plus).  
+
+  
+
+**En bref :5/20**   
+
+Même si à l'époque, une ou deux parties de Faceball 2000 parvenaient à susciter une vague curiosité, on ne peut pas dire que ce soft ait réellement marqué les esprits. Mal programmé, moche et répétitif, Faceball 2000 ne parvient vraiment pas à susciter le moindre intérêt chez le joueur moyen... à moins que ce dernier ne prépare une thèse sur l'historique du FPS. La version Game Boy avait au moins le mérite de proposer de réelles parties multijoueurs mettant aux prises quatre joueurs simultanément reliés par le cable link. Sur Super Nes, il faut se contenter d'un mode deux joueurs sur écran splitté. L'animation ne souffre cependant pas de la présence des deux joueurs sur le même écran... autant dire qu'elle est aussi saccadée qu'en mode solo !
