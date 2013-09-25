@@ -1,22 +1,22 @@
 ---
-user:Sigfrodi
-rating:3.5
+user: Sigfrodi
+rating: 3.5
 published: 2003-04-30T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/31.htm
 ---
-D�cid�ment, la PC Engine est LA console des shoot'em up, tant leur nombre est grand sur cette machine. Override est un shoot'em up � scrolling verical des plus classiques durant lequel vous affronterez des hordes d'ennemis au travers de nombreux niveaux.  
+Décidément, la PC Engine est LA console des shoot'em up, tant leur nombre est grand sur cette machine. Override est un shoot'em up à scrolling verical des plus classiques durant lequel vous affronterez des hordes d'ennemis au travers de nombreux niveaux.  
 
   
 
-Vous aurez la possibilt� d'exploiter de nombreuses armes que vous obtiendrez de bonus changeant de couleur � intervalle de temps r�gulier, celle ci vous permettant d'identifier l'arme. Vous pouvez �galement modifier la vitesse de d�placement de votre appareil � tout moment, selon que vous pr�f�riez une v�locit� optimale ou un contr�le plus fin.  
+Vous aurez la possibilté d'exploiter de nombreuses armes que vous obtiendrez de bonus changeant de couleur à intervalle de temps régulier, celle ci vous permettant d'identifier l'arme. Vous pouvez également modifier la vitesse de déplacement de votre appareil à tout moment, selon que vous préfériez une vélocité optimale ou un contrôle plus fin.  
 
   
 
-Autant le dire, Override ne mise pas sur la finesse. Malgr� une rapidit� effarante, les ennemis ne manquent pas de vous canarder avec un nombre de projectiles particuli�rement impressionnant. Override �tait d'ailleurs probablement le shoot le plus rapide � l'�poque... Cette vitesse de l'animation explique peut �tre en partie des graphismes assez peu d�taill�s.  
+Autant le dire, Override ne mise pas sur la finesse. Malgré une rapidité effarante, les ennemis ne manquent pas de vous canarder avec un nombre de projectiles particulièrement impressionnant. Override était d'ailleurs probablement le shoot le plus rapide à l'époque... Cette vitesse de l'animation explique peut être en partie des graphismes assez peu détaillés.  
 
   
 
-Override n'est certainement pas le meilleur titre dans son genre mais les parties sont endiabl�es et l'action incessante, et c'est finalement le principal!  
+Override n'est certainement pas le meilleur titre dans son genre mais les parties sont endiablées et l'action incessante, et c'est finalement le principal!  
 
   
 
@@ -24,12 +24,12 @@ Override n'est certainement pas le meilleur titre dans son genre mais les partie
 
   
 
-**Animation 8** : A la fois fluide et tr�s rapide  
+**Animation 8** : A la fois fluide et très rapide  
 
   
 
-**Son 6** : L'ambiance sonore est bonne, bien que les musiques ne resteront pas dans les m�moires  
+**Son 6** : L'ambiance sonore est bonne, bien que les musiques ne resteront pas dans les mémoires  
 
   
 
-**Jouabilit� 8** : Le contr�le est pr�cis et il faut bien �a pour �viter les tr�s nombreux tirs ennemis!
+**Jouabilité 8** : Le contrôle est précis et il faut bien ça pour éviter les très nombreux tirs ennemis!

@@ -1,6 +1,6 @@
 ---
-user:Julio
-rating:5
+user: Julio
+rating: 5
 published: 2003-08-04T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/195.htm
 ---

@@ -1,6 +1,6 @@
 ---
-user:faboss
-rating:3.5
+user: faboss
+rating: 3.5
 published: 2004-12-16T17:12:44.000Z
 legacy_url: http://www.emunova.net/veda/test/790.htm
 ---

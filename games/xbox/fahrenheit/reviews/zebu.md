@@ -1,6 +1,6 @@
 ---
-user:Zebu
-rating:1.5
+user: Zebu
+rating: 1.5
 published: 2006-10-02T23:20:26.000Z
 legacy_url: http://www.emunova.net/veda/test/1685.htm
 ---

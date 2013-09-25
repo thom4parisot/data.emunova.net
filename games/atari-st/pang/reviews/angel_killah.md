@@ -1,6 +1,6 @@
 ---
-user:angel_killah
-rating:3.5
+user: angel_killah
+rating: 3.5
 published: 2003-07-13T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/165.htm
 ---
@@ -8,7 +8,7 @@ legacy_url: http://www.emunova.net/veda/test/165.htm
 
   
 
-Un principe simple original et efficace , vous incarnez un petit gar�on qui doit �clater tout les ballons de chaque stage en un temps limit�.  
+Un principe simple original et efficace , vous incarnez un petit garçon qui doit éclater tout les ballons de chaque stage en un temps limité.  
 
   
 
@@ -16,38 +16,38 @@ Un principe simple original et efficace , vous incarnez un petit gar�on qui do
 
   
 
-Le jeu se d�roule sur une centaine de stages, avec une difficult� croissante.  
+Le jeu se déroule sur une centaine de stages, avec une difficulté croissante.  
 
-Au d�but, il y a les gros ballons, quand vous les �clatez ils se divisent en 2 moyens, puis chacun en 4 plus petits ... jusqu'� qu'il n'en reste plus rien. Au d�but c'est assez facile, il n'ya qu'un ou deux ballons sans obstacle, ensuite �a se complique avec beaucoup de ballons, des obstacles qui vous emp�cheront de bouger � l'aise.  
+Au début, il y a les gros ballons, quand vous les éclatez ils se divisent en 2 moyens, puis chacun en 4 plus petits ... jusqu'à qu'il n'en reste plus rien. Au début c'est assez facile, il n'ya qu'un ou deux ballons sans obstacle, ensuite ça se complique avec beaucoup de ballons, des obstacles qui vous empêcheront de bouger à l'aise.  
 
-Mais heureusement, il y a des items pour vous aider, en effet, cela vous apportera une aide cons�quente, vous pourrez stoppez le temps et ainsi les ballons et obstacles resteront immobiles pendant une courte p�riode, �tre invincible, avoir une mitrailleuse... Ce sera utilis� contre les diff�rents obstacles qui pourront vous g�ner (comme des crabes qui en vous touchant vous mettent dans l'incapacit� � tirer pendant un moment...)  
-
-  
-
-Vous voyagez partout, � chaque �tape de pass�e, vous changez de destination et les d�cors des stages changent en cons�quence.  
-
-La dur�e est vraiment longue, avec une centaine de niveaux et plusieurs modes de difficult�.  
+Mais heureusement, il y a des items pour vous aider, en effet, cela vous apportera une aide conséquente, vous pourrez stoppez le temps et ainsi les ballons et obstacles resteront immobiles pendant une courte période, être invincible, avoir une mitrailleuse... Ce sera utilisé contre les différents obstacles qui pourront vous gêner (comme des crabes qui en vous touchant vous mettent dans l'incapacité à tirer pendant un moment...)  
 
   
 
-Les musiques sont accrocheuses, m�me 12 ans apr�s la premi�re fois que j'ai jou� � ce jeu , les musiques me sont toujours rest�es grav�es dans la m�moire.  
+Vous voyagez partout, à chaque étape de passée, vous changez de destination et les décors des stages changent en conséquence.  
 
-Pour augmenter la dur�e de vie du jeu, vous pourrez �tre aid� par un 2eme joueur humain.   
+La durée est vraiment longue, avec une centaine de niveaux et plusieurs modes de difficulté.  
 
   
 
-**Jouabilit�**  
+Les musiques sont accrocheuses, même 12 ans après la première fois que j'ai joué à ce jeu , les musiques me sont toujours restées gravées dans la mémoire.  
 
-Tr�s simple, vous n'avez qu'� vous d�placer, et vous avez le bouton d'action pour tirer sur les ballons.  
+Pour augmenter la durée de vie du jeu, vous pourrez être aidé par un 2eme joueur humain.   
+
+  
+
+**Jouabilité**  
+
+Très simple, vous n'avez qu'à vous déplacer, et vous avez le bouton d'action pour tirer sur les ballons.  
 
 **Graphisme**  
 
-Les graphismes sont moyens mais ne d�plaisent pas, et on en attend pas plus pour ce genre de jeu.  
+Les graphismes sont moyens mais ne déplaisent pas, et on en attend pas plus pour ce genre de jeu.  
 
-**Dur�e de vie**  
+**Durée de vie**  
 
-Tr�s bonne, une centaine de niveau, plusieurs modes de difficult�, et un mode 2 joueurs.  
+Très bonne, une centaine de niveau, plusieurs modes de difficulté, et un mode 2 joueurs.  
 
   
 
-_Ce jeu et de nouvelles versions ont �t� adapt�es sur de tr�s nombreux support aussi bien console, arcade que sur ordinateur_
+_Ce jeu et de nouvelles versions ont été adaptées sur de très nombreux support aussi bien console, arcade que sur ordinateur_

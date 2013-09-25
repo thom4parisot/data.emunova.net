@@ -1,6 +1,6 @@
 ---
-user:Angus
-rating:4
+user: Angus
+rating: 4
 published: 2006-10-17T23:10:29.000Z
 legacy_url: http://www.emunova.net/veda/test/1722.htm
 ---

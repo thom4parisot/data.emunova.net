@@ -1,6 +1,6 @@
 ---
-user:Spacewolf1
-rating:4
+user: Spacewolf1
+rating: 4
 published: 2010-04-09T10:53:49.000Z
 legacy_url: http://www.emunova.net/veda/test/3792.htm
 ---

@@ -1,6 +1,6 @@
 ---
-user:aScorpii
-rating:4.5
+user: aScorpii
+rating: 4.5
 published: 2011-10-05T16:12:37.000Z
 legacy_url: http://www.emunova.net/veda/test/4130.htm
 ---

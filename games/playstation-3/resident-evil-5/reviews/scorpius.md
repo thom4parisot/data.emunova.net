@@ -1,6 +1,6 @@
 ---
-user:Scorpius
-rating:3.5
+user: Scorpius
+rating: 3.5
 published: 2009-03-23T18:28:49.000Z
 legacy_url: http://www.emunova.net/veda/test/3114.htm
 ---

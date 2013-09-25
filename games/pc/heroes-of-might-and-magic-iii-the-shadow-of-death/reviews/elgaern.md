@@ -1,6 +1,6 @@
 ---
-user:Elgaern
-rating:5
+user: Elgaern
+rating: 5
 published: 2005-07-17T19:59:18.000Z
 legacy_url: http://www.emunova.net/veda/test/1029.htm
 ---

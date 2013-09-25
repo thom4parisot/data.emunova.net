@@ -1,6 +1,6 @@
 ---
-user:Lightfox
-rating:4
+user: Lightfox
+rating: 4
 published: 2004-12-30T14:09:36.000Z
 legacy_url: http://www.emunova.net/veda/test/814.htm
 ---

@@ -1,14 +1,14 @@
 ---
-user:manualucardo
-rating:4.5
+user: manualucardo
+rating: 4.5
 published: 2004-01-03T23:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/372.htm
 ---
-Project Gotham premier du nom a été l�un des titres phares lors du lancement de la console. Développé par Bizarre Creations qui cette fois a fait un sacré coup ,les voitures sont trop bien modélisées, il y a la modélisation d'impact mais je vous rassure il n'y a pas de dommage sur le moteur ce qui fait que vous roulerez toujours aussi bien mais avec une caisse défoncée si vous vous etes amusé a l'auto tamponeuse ;-) .  
+Project Gotham premier du nom a été lun des titres phares lors du lancement de la console. Développé par Bizarre Creations qui cette fois a fait un sacré coup ,les voitures sont trop bien modélisées, il y a la modélisation d'impact mais je vous rassure il n'y a pas de dommage sur le moteur ce qui fait que vous roulerez toujours aussi bien mais avec une caisse défoncée si vous vous etes amusé a l'auto tamponeuse ;-) .  
 
   
 
-Les kudos cette monnaie fictive annonce d�ailleurs bien la couleur du jeu car elle permet de s'acheter de nouvelles caisses aux possibilités de plus en plus performantes selon les catégories, pratiquement toutes les voitures de nos rêves sont présentes, en tout 102 et aussi beaucoup de tracés de circuits mais dans plusieurs villes différentes. Le graphisme extérieur est impressionnant et fourmille de détails mais il manque un tout petit quelque chose par ex des personnes au bord de la route qui nous encouragent, des oiseaux qui volent,bref plus d'intéractivité. C'est mon seul reproche :-).  
+Les kudos cette monnaie fictive annonce dailleurs bien la couleur du jeu car elle permet de s'acheter de nouvelles caisses aux possibilités de plus en plus performantes selon les catégories, pratiquement toutes les voitures de nos rêves sont présentes, en tout 102 et aussi beaucoup de tracés de circuits mais dans plusieurs villes différentes. Le graphisme extérieur est impressionnant et fourmille de détails mais il manque un tout petit quelque chose par ex des personnes au bord de la route qui nous encouragent, des oiseaux qui volent,bref plus d'intéractivité. C'est mon seul reproche :-).  
 
   
 

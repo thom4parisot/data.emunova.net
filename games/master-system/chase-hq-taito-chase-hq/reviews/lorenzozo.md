@@ -1,6 +1,6 @@
 ---
-user:LorenZozO
-rating:3.5
+user: LorenZozO
+rating: 3.5
 published: 2008-03-22T18:49:12.000Z
 legacy_url: http://www.emunova.net/veda/test/2627.htm
 ---

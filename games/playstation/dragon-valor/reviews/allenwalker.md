@@ -1,6 +1,6 @@
 ---
-user:AllenWalker
-rating:4.5
+user: AllenWalker
+rating: 4.5
 published: 2009-09-10T14:01:21.000Z
 legacy_url: http://www.emunova.net/veda/test/3401.htm
 ---

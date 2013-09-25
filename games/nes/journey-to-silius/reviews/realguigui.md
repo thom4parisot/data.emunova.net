@@ -1,6 +1,6 @@
 ---
-user:realguigui
-rating:3
+user: realguigui
+rating: 3
 published: 2008-06-14T13:23:16.000Z
 legacy_url: http://www.emunova.net/veda/test/2752.htm
 ---

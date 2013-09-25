@@ -1,6 +1,6 @@
 ---
-user:Tomy
-rating:4.5
+user: Tomy
+rating: 4.5
 published: 2004-11-11T12:05:53.000Z
 legacy_url: http://www.emunova.net/veda/test/730.htm
 ---

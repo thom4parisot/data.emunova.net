@@ -1,6 +1,6 @@
 ---
-user:Spacewolf1
-rating:4
+user: Spacewolf1
+rating: 4
 published: 2004-02-27T23:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/458.htm
 ---
@@ -32,7 +32,7 @@ Parlons des modes de jeu maintenant. Vous en avez 5: Single Play, Team Play, Sin
 
 **Une cartouche ROM magique !!!**  
 
-Les graphismes et les musiques sont fidèles à la version Neo Geo, mais ce que l'on pouvait craindre ici, c'était l'animation et les temps de chargement... Pour compenser le support CD, SNK a en effet eut l'idée d'inclure une cartouche ROM avec le jeu, cette cartouche (utilisable uniquement avec KOF'95) inclue des données du jeu, leur accès est donc direct. Ainsi, les animations sont fluides et rapides alors que les temps de chargement sont extrêmement courts et très négligeables... techniquement on n�est pas loin de la version Neo Geo (y a juste les petits chargements en plus) !!!  
+Les graphismes et les musiques sont fidèles à la version Neo Geo, mais ce que l'on pouvait craindre ici, c'était l'animation et les temps de chargement... Pour compenser le support CD, SNK a en effet eut l'idée d'inclure une cartouche ROM avec le jeu, cette cartouche (utilisable uniquement avec KOF'95) inclue des données du jeu, leur accès est donc direct. Ainsi, les animations sont fluides et rapides alors que les temps de chargement sont extrêmement courts et très négligeables... techniquement on nest pas loin de la version Neo Geo (y a juste les petits chargements en plus) !!!  
 
   
 

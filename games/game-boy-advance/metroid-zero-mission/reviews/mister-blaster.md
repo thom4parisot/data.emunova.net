@@ -1,6 +1,6 @@
 ---
-user:Mister Blaster
-rating:4
+user: Mister Blaster
+rating: 4
 published: 2006-04-10T10:18:06.000Z
 legacy_url: http://www.emunova.net/veda/test/1373.htm
 ---

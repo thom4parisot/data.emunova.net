@@ -1,6 +1,6 @@
 ---
-user:Yahiko
-rating:4
+user: Yahiko
+rating: 4
 published: 2009-09-10T14:00:28.000Z
 legacy_url: http://www.emunova.net/veda/test/2842.htm
 ---

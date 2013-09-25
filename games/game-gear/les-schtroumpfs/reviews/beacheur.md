@@ -1,6 +1,6 @@
 ---
-user:beacheur
-rating:4
+user: beacheur
+rating: 4
 published: 2007-04-22T02:36:42.000Z
 legacy_url: http://www.emunova.net/veda/test/2051.htm
 ---

@@ -1,6 +1,6 @@
 ---
-user:mitri
-rating:3.5
+user: mitri
+rating: 3.5
 published: 2007-03-29T22:02:27.000Z
 legacy_url: http://www.emunova.net/veda/test/2019.htm
 ---

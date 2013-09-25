@@ -1,6 +1,6 @@
 ---
-user:dogo
-rating:4
+user: dogo
+rating: 4
 published: 2012-03-31T08:53:57.000Z
 legacy_url: http://www.emunova.net/veda/test/4235.htm
 ---

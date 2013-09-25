@@ -1,6 +1,6 @@
 ---
-user:Death Adder
-rating:3
+user: Death Adder
+rating: 3
 published: 2006-10-29T01:09:17.000Z
 legacy_url: http://www.emunova.net/veda/test/1753.htm
 ---

@@ -1,6 +1,6 @@
 ---
-user:Spoz
-rating:2.5
+user: Spoz
+rating: 2.5
 published: 2010-12-12T14:40:32.000Z
 legacy_url: http://www.emunova.net/veda/test/4029.htm
 ---

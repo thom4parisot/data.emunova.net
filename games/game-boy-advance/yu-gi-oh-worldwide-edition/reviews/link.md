@@ -1,6 +1,6 @@
 ---
-user:Link
-rating:4.5
+user: Link
+rating: 4.5
 published: 2003-06-07T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/113.htm
 ---

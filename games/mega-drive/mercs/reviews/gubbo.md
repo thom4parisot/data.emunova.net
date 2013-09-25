@@ -1,6 +1,6 @@
 ---
-user:gubbo
-rating:3.5
+user: gubbo
+rating: 3.5
 published: 2004-12-30T15:37:11.000Z
 legacy_url: http://www.emunova.net/veda/test/820.htm
 ---

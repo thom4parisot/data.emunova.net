@@ -1,6 +1,6 @@
 ---
-user:kurosaki-linkin
-rating:4.5
+user: kurosaki-linkin
+rating: 4.5
 published: 2007-09-12T21:51:36.000Z
 legacy_url: http://www.emunova.net/veda/test/2274.htm
 ---

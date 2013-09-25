@@ -1,6 +1,6 @@
 ---
-user:Mafio
-rating:4
+user: Mafio
+rating: 4
 published: 2004-06-14T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/573.htm
 ---

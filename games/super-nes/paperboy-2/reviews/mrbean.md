@@ -1,6 +1,6 @@
 ---
-user:MrBean
-rating:3
+user: MrBean
+rating: 3
 published: 2004-07-15T16:54:21.000Z
 legacy_url: http://www.emunova.net/veda/test/613.htm
 ---
@@ -36,7 +36,7 @@ Lorsqu'on démarre le jeu, aucun son à l'écran titre et à l'écran de sélect
 
   
 
-Un concept original qui aurait pu aboutir en un chef-d'�uvre, mais qui malheureusement possède une faible réalisation et une durée de vie décevante. Il est un peu difficile mais rapidement trop redondant. Ce jeu est trop simplet mais mérite quand même une petite attention.   
+Un concept original qui aurait pu aboutir en un chef-d'uvre, mais qui malheureusement possède une faible réalisation et une durée de vie décevante. Il est un peu difficile mais rapidement trop redondant. Ce jeu est trop simplet mais mérite quand même une petite attention.   
 
   
 

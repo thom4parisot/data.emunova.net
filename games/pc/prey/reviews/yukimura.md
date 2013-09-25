@@ -1,6 +1,6 @@
 ---
-user:yukimura
-rating:4.5
+user: yukimura
+rating: 4.5
 published: 2006-10-11T23:10:37.000Z
 legacy_url: http://www.emunova.net/veda/test/1713.htm
 ---

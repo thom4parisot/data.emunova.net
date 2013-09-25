@@ -1,6 +1,6 @@
 ---
-user:thanos666
-rating:4.5
+user: thanos666
+rating: 4.5
 published: 2005-04-15T18:32:27.000Z
 legacy_url: http://www.emunova.net/veda/test/918.htm
 ---

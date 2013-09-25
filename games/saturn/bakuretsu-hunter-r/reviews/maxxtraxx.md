@@ -1,6 +1,6 @@
 ---
-user:maxx.traxx
-rating:3.5
+user: maxx.traxx
+rating: 3.5
 published: 2004-03-28T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/497.htm
 ---

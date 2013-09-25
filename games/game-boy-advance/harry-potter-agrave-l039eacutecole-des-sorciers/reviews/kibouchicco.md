@@ -1,6 +1,6 @@
 ---
-user:Kibouchicco
-rating:4
+user: Kibouchicco
+rating: 4
 published: 2003-06-20T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/117.htm
 ---

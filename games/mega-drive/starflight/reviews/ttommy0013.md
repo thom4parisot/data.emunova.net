@@ -1,75 +1,75 @@
 ---
-user:ttommy0013
-rating:5
+user: ttommy0013
+rating: 5
 published: 2004-06-03T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/553.htm
 ---
-Starflight ou partir � l'exploration de l'inter-espace inconnu.  
+Starflight ou partir à l'exploration de l'inter-espace inconnu.  
 
-A la fois mi-RPG, mi-gestion, mi-action, ce jeu est peut �tre le plus fantastique des jeux Megadrive (avec Flashback, a quest for identity)  
-
-  
-
-En fait, d�s le d�part vous �tes le commandant d'un vaisseau, et vous vous montez un �quipage d'humains et/ou E.T. pour partir � la conqu�te de plan�tes inconnues dans l'espoir de r�cup�rer des minerais plus ou moins chers pour customiser votre navire spatial et partir de plus en plus loin dans l'espace.  
-
-Mais vous vous rendrez vite compte qu'une intrigue passionnante va vite se m�ler � votre train-train de gestion de min�raux.  
+A la fois mi-RPG, mi-gestion, mi-action, ce jeu est peut être le plus fantastique des jeux Megadrive (avec Flashback, a quest for identity)  
 
   
 
-Il n'y a rien a dire, le sc�nario est fabuleux, prenant, et si r�aliste (pourtant vous interagirez avec plus de 20 races E.T. certaines tr�s agressives, d'autre fantastiques).  
+En fait, dès le départ vous êtes le commandant d'un vaisseau, et vous vous montez un équipage d'humains et/ou E.T. pour partir à la conquête de planètes inconnues dans l'espoir de récupérer des minerais plus ou moins chers pour customiser votre navire spatial et partir de plus en plus loin dans l'espace.  
+
+Mais vous vous rendrez vite compte qu'une intrigue passionnante va vite se mêler à votre train-train de gestion de minéraux.  
 
   
 
-L'exploration des plan�tes et des galaxies prend toute son ampleur lorsque vous vous retrouvez dans des contr�es totalement inconnues.  
+Il n'y a rien a dire, le scénario est fabuleux, prenant, et si réaliste (pourtant vous interagirez avec plus de 20 races E.T. certaines très agressives, d'autre fantastiques).  
 
   
 
-D'un point de vue technique, Starflight , est consid�r� :  
-
---\> comme un jeu de gestion (extraction de minerai, revente, customisation de l'�quipage et du vaisseau)  
-
---\> mais aussi comme un RPG (gestion d'un �quipage, avec fiche caract�ristiques des 5 personnages composant votre �quipe, interaction avec des E.T. possibilit�s de dialogue tr�s vastes)  
-
---\> comme un jeu d'action (les combats contre les ennemis en plein espace se d�roulent en temps r�el, mais il ne suffit pas d'appuyer rapidement sur un bouton pour gagner, au contraire, une tactique � �laborer est indispensable selon les races que vous rencontrez.  
-
---\> comme un jeu d'aventure (un sc�nario palpitant et � rebondissements, sera la ligne rouge ("non lin�aire") du jeu).  
+L'exploration des planètes et des galaxies prend toute son ampleur lorsque vous vous retrouvez dans des contrées totalement inconnues.  
 
   
 
-Le seul point sombre du jeu , est peu �tre les graphismes limit�s, mais qu'a cela ne tienne, le jeu par son sc�nario, sa dur�e de vie, et son principe est r�ellement sensationnel.  
+D'un point de vue technique, Starflight , est considéré :  
+
+--\> comme un jeu de gestion (extraction de minerai, revente, customisation de l'équipage et du vaisseau)  
+
+--\> mais aussi comme un RPG (gestion d'un équipage, avec fiche caractéristiques des 5 personnages composant votre équipe, interaction avec des E.T. possibilités de dialogue très vastes)  
+
+--\> comme un jeu d'action (les combats contre les ennemis en plein espace se déroulent en temps réel, mais il ne suffit pas d'appuyer rapidement sur un bouton pour gagner, au contraire, une tactique à élaborer est indispensable selon les races que vous rencontrez.  
+
+--\> comme un jeu d'aventure (un scénario palpitant et à rebondissements, sera la ligne rouge ("non linéaire") du jeu).  
+
+  
+
+Le seul point sombre du jeu , est peu être les graphismes limités, mais qu'a cela ne tienne, le jeu par son scénario, sa durée de vie, et son principe est réellement sensationnel.  
 
   
 
 Autre information:   
 
-Pour pouvoir jouer a Starflight, il est indispensable de poss�der la carte (papier) distribu�e avec le manuel, ainsi que le journal du bord du vieux capitaine, base m�me du sc�nario (aussi distribu� dans le manuel).  
+Pour pouvoir jouer a Starflight, il est indispensable de posséder la carte (papier) distribuée avec le manuel, ainsi que le journal du bord du vieux capitaine, base même du scénario (aussi distribué dans le manuel).  
 
-On peut par contre trouver ces 2 �l�ments de jeu scann�s sur le net.  
-
-  
-
-Pour r�sumer:  
+On peut par contre trouver ces 2 éléments de jeu scannés sur le net.  
 
   
 
-Graphisme : 3/6 --\> pas tr�s �labor� en effet, mais loin d'�tre indispensable tellement le jeu nous �blouit par son principe  
+Pour résumer:  
 
   
 
-Musique: 4.5/6 --\> des musiques basiques, qui ne sortent peu �tre pas de l'ordinaire, mais qui se fondent bien dans l'univers du jeu  
+Graphisme : 3/6 --\> pas très élaboré en effet, mais loin d'être indispensable tellement le jeu nous éblouit par son principe  
 
   
 
-Jouabilit�: 5/6 --\> une jouabilit� tr�s bien adapt�e au syst�me du jeu  
+Musique: 4.5/6 --\> des musiques basiques, qui ne sortent peu être pas de l'ordinaire, mais qui se fondent bien dans l'univers du jeu  
 
   
 
-Sc�nario: 6/6 --\> Superbe sc�nario, digne d'un film  
+Jouabilité: 5/6 --\> une jouabilité très bien adaptée au système du jeu  
 
   
 
-Dur�e de vie: 6/6 --\> quasi infinie, puisque m�me le jeu termin� (au bout de tr�s tr�s longues heures), on peut continuer � jouer et � explorer les zones de l'espace encore inconnues.  
+Scénario: 6/6 --\> Superbe scénario, digne d'un film  
 
   
 
-Voila en esp�rant sinc�rement vous avoir convaincu, car il me para�t invraisemblable qu'un jeu aussi mythique ne soit que tr�s peu connu.
+Durée de vie: 6/6 --\> quasi infinie, puisque même le jeu terminé (au bout de très très longues heures), on peut continuer à jouer et à explorer les zones de l'espace encore inconnues.  
+
+  
+
+Voila en espérant sincèrement vous avoir convaincu, car il me paraît invraisemblable qu'un jeu aussi mythique ne soit que très peu connu.

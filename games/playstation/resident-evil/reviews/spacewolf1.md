@@ -1,6 +1,6 @@
 ---
-user:Spacewolf1
-rating:4.5
+user: Spacewolf1
+rating: 4.5
 published: 2003-05-02T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/45.htm
 ---
@@ -10,7 +10,7 @@ Juillet 1996, le premier épisode de la saga Resident Evil sort sur la Playstati
 
 **Aller simple pour l'Enfer**  
 
-Des faits étranges se déroulent dans la ville de Raccoon City, les hautes autorités décident d'y envoyer une unité d'élite, les S.T.A.R.S. Une fois sur place, vous êtes attaqué par des chiens zombies, dans la panique, 4 membres de l�unité se réfugient dans un immense manoir isolé dans la forêt de Raccoon. Bienvenu en Enfer !!!  
+Des faits étranges se déroulent dans la ville de Raccoon City, les hautes autorités décident d'y envoyer une unité d'élite, les S.T.A.R.S. Une fois sur place, vous êtes attaqué par des chiens zombies, dans la panique, 4 membres de lunité se réfugient dans un immense manoir isolé dans la forêt de Raccoon. Bienvenu en Enfer !!!  
 
 Ce scénario n'a peut être pas l'air des plus passionnant, mais le déroulements de l'aventure et les rebondissements qui la constitue n'ont pas grand chose à envier aux production cinématographiques.  
 

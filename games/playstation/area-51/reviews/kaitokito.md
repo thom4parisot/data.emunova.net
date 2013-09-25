@@ -1,6 +1,6 @@
 ---
-user:KaitoKito
-rating:1
+user: KaitoKito
+rating: 1
 published: 2009-05-23T12:22:18.000Z
 legacy_url: http://www.emunova.net/veda/test/3207.htm
 ---

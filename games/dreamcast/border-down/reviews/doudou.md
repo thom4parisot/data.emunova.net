@@ -1,6 +1,6 @@
 ---
-user:doudou
-rating:4.5
+user: doudou
+rating: 4.5
 published: 2004-09-16T00:03:05.000Z
 legacy_url: http://www.emunova.net/veda/test/690.htm
 ---

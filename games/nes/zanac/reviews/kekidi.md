@@ -1,6 +1,6 @@
 ---
-user:Kékidi
-rating:4.5
+user: Kékidi
+rating: 4.5
 published: 2005-07-17T20:27:11.000Z
 legacy_url: http://www.emunova.net/veda/test/1033.htm
 ---

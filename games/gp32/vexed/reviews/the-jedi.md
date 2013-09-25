@@ -1,18 +1,18 @@
 ---
-user:The Jedi
-rating:4
+user: The Jedi
+rating: 4
 published: 2003-08-15T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/218.htm
 ---
-**Je suis vex�**  
+**Je suis vexé**  
 
-Et il y a de quoi car ce petit jeu de r�flexion est tout sauf simple ... enfin, � part au d�but. Enti�rement r�alis� par des "amateurs" (ce qui est une insulte vu la qualit� du jeu) et bien qu'adapt� d'un jeu d�j� existant, il rivalise avec les meilleurs jeux commeciaux du genre.  
+Et il y a de quoi car ce petit jeu de réflexion est tout sauf simple ... enfin, à part au début. Entièrement réalisé par des "amateurs" (ce qui est une insulte vu la qualité du jeu) et bien qu'adapté d'un jeu déjà existant, il rivalise avec les meilleurs jeux commeciaux du genre.  
 
   
 
 **Principe de jeu**  
 
-R�alis� en 2D et en vue de c�t�, votre �cran est divis� en plusieurs blocs. Chacun de ces carr�s peut �tre de 3 types :  
+Réalisé en 2D et en vue de côté, votre écran est divisé en plusieurs blocs. Chacun de ces carrés peut être de 3 types :  
 
 - un espace vide  
 
@@ -20,32 +20,32 @@ R�alis� en 2D et en vue de c�t�, votre �cran est divis� en plusieurs
 
 - un bloc mobile  
 
-Pour terminer chaque niveau (il y en a 58 en tout) il suffit d'�liminer tous les blocs mobiles de l'�cran. Sachant qu'il existe plusieurs couleurs de blocs, d�s que 2 blocs de couleur identique se touchent, ils disparaissent;  
+Pour terminer chaque niveau (il y en a 58 en tout) il suffit d'éliminer tous les blocs mobiles de l'écran. Sachant qu'il existe plusieurs couleurs de blocs, dès que 2 blocs de couleur identique se touchent, ils disparaissent;  
 
-Plus vous progresserez dans _Vexed_, plus il y aura de vari�t� dans les couleurs de bloc et plus les �liminer sera subtil. En effet il ne sera pas rare d'avoir un nombre impair de bloc de chaque couleur.  
+Plus vous progresserez dans _Vexed_, plus il y aura de variété dans les couleurs de bloc et plus les éliminer sera subtil. En effet il ne sera pas rare d'avoir un nombre impair de bloc de chaque couleur.  
 
   
 
 **Conclusion**  
 
-_Vexed_ est un "must have", pour tous les �ges, sans violence ni artifice. Les 30 premiers niveaux pourront ne pas poser de probl�me mais les 28 autres seront l� pour vous faire d�chanter. Ce sera le seul b�mol pour un jeu qui vaut bien sa note.  
+_Vexed_ est un "must have", pour tous les âges, sans violence ni artifice. Les 30 premiers niveaux pourront ne pas poser de problème mais les 28 autres seront là pour vous faire déchanter. Ce sera le seul bémol pour un jeu qui vaut bien sa note.  
 
-En plus les auteurs ont m�me pr�sent� le jeu avec un installateur (.fpk), petit "plus" sympa.  
+En plus les auteurs ont même présenté le jeu avec un installateur (.fpk), petit "plus" sympa.  
 
   
 
 _Graphismes_  
 
-tr�s r�ussis. Les options permettent de jouer avec des blocs repr�sentant des ic�nes de votre bureau Windows.  
+très réussis. Les options permettent de jouer avec des blocs représentant des icônes de votre bureau Windows.  
 
   
 
 _Son_  
 
-une musique agr�able, unique mais pas lassante pour un sou.  
+une musique agréable, unique mais pas lassante pour un sou.  
 
   
 
-_Maniabilit�_  
+_Maniabilité_  
 
-le jeu n'en demande pas une tr�s pr�cise. Tous les boutons sont utilis�s : L & R pour acc�der au niveau pr�c�dent ou suivant (si d�bloqu�), START pour recommencer le niveau, SELECT pour les options, A pour s�lectionner un bloc et B pour le d�s�lectionner. Une option permet d'acc�l�rer les mouvements de d�placement de votre curseur et des blocs.
+le jeu n'en demande pas une très précise. Tous les boutons sont utilisés : L & R pour accéder au niveau précédent ou suivant (si débloqué), START pour recommencer le niveau, SELECT pour les options, A pour sélectionner un bloc et B pour le désélectionner. Une option permet d'accélérer les mouvements de déplacement de votre curseur et des blocs.

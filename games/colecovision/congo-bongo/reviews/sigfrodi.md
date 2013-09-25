@@ -1,6 +1,6 @@
 ---
-user:Sigfrodi
-rating:3.5
+user: Sigfrodi
+rating: 3.5
 published: 2004-07-12T15:56:40.000Z
 legacy_url: http://www.emunova.net/veda/test/605.htm
 ---
@@ -16,7 +16,7 @@ Le jeu se décompose en 3 tableaux variés vus selon une 3D isométrique (ceux q
 
   
 
-Ainsi le premier consiste à grimper en haut d'une montagne en évitant les rochers que lance le gorille ainsi que les singes noirs qui se promènent (s'ils sont plusieurs à vous grimper dessus, ils vous précipiteront dans le vide � vous pouvez vous en libérer en appuyant plusieurs fois de suite sur le bouton du joystick) et en sautant au-dessus des trous. C'est sans conteste le niveau qui exploite le mieux la 3D isométrique, le plus varié et aussi finalement et logiquement le plus facile.  
+Ainsi le premier consiste à grimper en haut d'une montagne en évitant les rochers que lance le gorille ainsi que les singes noirs qui se promènent (s'ils sont plusieurs à vous grimper dessus, ils vous précipiteront dans le vide  vous pouvez vous en libérer en appuyant plusieurs fois de suite sur le bouton du joystick) et en sautant au-dessus des trous. C'est sans conteste le niveau qui exploite le mieux la 3D isométrique, le plus varié et aussi finalement et logiquement le plus facile.  
 
   
 

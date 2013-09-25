@@ -1,6 +1,6 @@
 ---
-user:Dens
-rating:4
+user: Dens
+rating: 4
 published: 2003-07-07T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/153.htm
 ---

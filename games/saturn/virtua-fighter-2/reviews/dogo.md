@@ -1,6 +1,6 @@
 ---
-user:dogo
-rating:4.5
+user: dogo
+rating: 4.5
 published: 2005-11-13T13:37:21.000Z
 legacy_url: http://www.emunova.net/veda/test/1187.htm
 ---
@@ -28,7 +28,7 @@ Maître de pancrace, Jeffry Mc Wild ne s'intéresse qu'à l'argent qu'une victoi
 
 Le ninja Kage-Maru est ici pour des affaires officielles et officieuses: il veut profiter de l'occasion pour démasquer le mystérieux Cartel qui tire les ficelles du WFT.  
 
-Jack Bryant cherche à délivrer sa s�ur Sarah qui a subit un lavage de cerveau et a été "programmée" pour l'éliminer.  
+Jack Bryant cherche à délivrer sa sur Sarah qui a subit un lavage de cerveau et a été "programmée" pour l'éliminer.  
 
 Shun-Di veut essayer l'efficacité de ses techniques du "kung fu de l'ivrogne" sur la jeunesse, tandis que Lion Rafale combattra pour se libérer de ses obligations familiales.  
 

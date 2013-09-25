@@ -1,6 +1,6 @@
 ---
-user:Project Katana
-rating:4
+user: Project Katana
+rating: 4
 published: 2008-06-19T14:56:30.000Z
 legacy_url: http://www.emunova.net/veda/test/2767.htm
 ---

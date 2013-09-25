@@ -1,6 +1,6 @@
 ---
-user:BigTitsZombie
-rating:4
+user: BigTitsZombie
+rating: 4
 published: 2011-02-25T20:27:25.000Z
 legacy_url: http://www.emunova.net/veda/test/4052.htm
 ---

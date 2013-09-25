@@ -1,6 +1,6 @@
 ---
-user:Napalm
-rating:4
+user: Napalm
+rating: 4
 published: 2003-09-01T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/257.htm
 ---

@@ -1,6 +1,6 @@
 ---
-user:BrochetteMaster
-rating:4
+user: BrochetteMaster
+rating: 4
 published: 2005-03-11T18:45:49.000Z
 legacy_url: http://www.emunova.net/veda/test/893.htm
 ---

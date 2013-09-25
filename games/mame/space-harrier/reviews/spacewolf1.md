@@ -1,42 +1,42 @@
 ---
-user:Spacewolf1
-rating:4.5
+user: Spacewolf1
+rating: 4.5
 published: 2003-10-31T23:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/308.htm
 ---
-Innovant une nouvelle fois, Sega sortit le premier shoot'em up 3D (sign� Yu Suzuki) en 1985\.  
+Innovant une nouvelle fois, Sega sortit le premier shoot'em up 3D (signé Yu Suzuki) en 1985\.  
 
   
 
 **Shoot'em up de folie**  
 
-Space Harrier est un shoot'em up totalement fantaisiste. Ici vous contr�lez un homme qui est accroch� � son arme et qui vole. Les couleurs p�tent l'�cran et sont plut�t du style flash. Quand aux ennemis et d�cors, Yu Suzuki s'est lach� et nous propose un bestiaire incroyable le tout dans des d�cors � tendance psych�d�lique (on est loin de certains autres titres quand m�me).  
+Space Harrier est un shoot'em up totalement fantaisiste. Ici vous contrôlez un homme qui est accroché à son arme et qui vole. Les couleurs pètent l'écran et sont plutôt du style flash. Quand aux ennemis et décors, Yu Suzuki s'est laché et nous propose un bestiaire incroyable le tout dans des décors à tendance psychédélique (on est loin de certains autres titres quand même).  
 
   
 
-**Le syst�me de jeu**  
+**Le système de jeu**  
 
-Vous d�placez donc votre perso sur l'�cran et voyez les ennemis tout petits qui grossissent � vue d'oeil au fur et � mesure qu'ils approchent. A chaque ennemi abattu, vous encaissez des points... malheureusement, vous ne disposez que d'une seule arme pour cela. Mais, comme dans Ikaruga, vous n'�tes pas oblig� de tout d�truire, ici votre score augmente en continu au cours du jeu pour repr�senter votre avanc�e (comme dans Out Run et After Burner II).  
-
-  
+Vous déplacez donc votre perso sur l'écran et voyez les ennemis tout petits qui grossissent à vue d'oeil au fur et à mesure qu'ils approchent. A chaque ennemi abattu, vous encaissez des points... malheureusement, vous ne disposez que d'une seule arme pour cela. Mais, comme dans Ikaruga, vous n'êtes pas obligé de tout détruire, ici votre score augmente en continu au cours du jeu pour représenter votre avancée (comme dans Out Run et After Burner II).  
 
   
 
-**Jouabilit�**  
+  
 
-Bonne, aucun temps d'adaptation n'est n�cessaire (surtout qu'on n'utilise qu'une seule touche).  
+**Jouabilité**  
+
+Bonne, aucun temps d'adaptation n'est nécessaire (surtout qu'on n'utilise qu'une seule touche).  
 
 **Graphisme**  
 
-Des graphismes fantaisistes qui donnent toute sa personnalit� au jeu. En plus d'avoir des graphismes r�ussis, Space Harrier peut se vanter d'avoir une bonne vitesse d'animation.  
+Des graphismes fantaisistes qui donnent toute sa personnalité au jeu. En plus d'avoir des graphismes réussis, Space Harrier peut se vanter d'avoir une bonne vitesse d'animation.  
 
 **Son**  
 
-Des musiques l� encore qui restent marqu�es dans les m�moires (c'�tait le g�n�rique de d�but de M�moire Vive sur Game One).  
+Des musiques là encore qui restent marquées dans les mémoires (c'était le générique de début de Mémoire Vive sur Game One).  
 
-**Dur�e de vie**  
+**Durée de vie**  
 
-Contrairement � beaucoup de shoot'em up, vous allez en baver pour finir Space Harrier car le nombre de niveaux (plut�t longs au passage) est important (comptez en une bonne vingtaine).  
+Contrairement à beaucoup de shoot'em up, vous allez en baver pour finir Space Harrier car le nombre de niveaux (plutôt longs au passage) est important (comptez en une bonne vingtaine).  
 
   
 

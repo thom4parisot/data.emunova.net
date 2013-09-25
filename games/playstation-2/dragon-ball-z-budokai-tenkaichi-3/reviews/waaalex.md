@@ -1,6 +1,6 @@
 ---
-user:waaalex
-rating:3
+user: waaalex
+rating: 3
 published: 2010-12-12T14:41:51.000Z
 legacy_url: http://www.emunova.net/veda/test/4009.htm
 ---

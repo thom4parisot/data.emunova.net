@@ -1,6 +1,6 @@
 ---
-user:Benjamin Siskoo
-rating:4
+user: Benjamin Siskoo
+rating: 4
 published: 2004-12-03T18:27:37.000Z
 legacy_url: http://www.emunova.net/veda/test/762.htm
 ---

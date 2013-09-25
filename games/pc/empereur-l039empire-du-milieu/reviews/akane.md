@@ -1,6 +1,6 @@
 ---
-user:Akané
-rating:4.5
+user: Akané
+rating: 4.5
 published: 2007-10-30T18:22:26.000Z
 legacy_url: http://www.emunova.net/veda/test/2155.htm
 ---

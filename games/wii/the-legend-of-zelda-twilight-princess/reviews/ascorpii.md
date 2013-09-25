@@ -1,6 +1,6 @@
 ---
-user:aScorpii
-rating:4
+user: aScorpii
+rating: 4
 published: 2007-02-12T00:51:36.000Z
 legacy_url: http://www.emunova.net/veda/test/1948.htm
 ---

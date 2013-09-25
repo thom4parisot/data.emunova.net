@@ -1,6 +1,6 @@
 ---
-user:ttommy0013
-rating:4.5
+user: ttommy0013
+rating: 4.5
 published: 2004-06-04T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/554.htm
 ---

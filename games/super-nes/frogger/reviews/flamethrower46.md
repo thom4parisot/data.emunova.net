@@ -1,6 +1,6 @@
 ---
-user:Flamethrower46
-rating:3
+user: Flamethrower46
+rating: 3
 published: 2013-02-12T20:22:18.000Z
 legacy_url: http://www.emunova.net/veda/test/4293.htm
 ---

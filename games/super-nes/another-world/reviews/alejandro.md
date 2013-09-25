@@ -1,6 +1,6 @@
 ---
-user:alejandro
-rating:4.5
+user: alejandro
+rating: 4.5
 published: 2005-02-26T16:48:44.000Z
 legacy_url: http://www.emunova.net/veda/test/869.htm
 ---
@@ -24,7 +24,7 @@ Another World fut, et est toujours considéré comme un jeu révolutionnaire de 
 
   
 
-L'histoire commence un soir d'orage lorsque Lester Knight Chaykin, un jeune scientifique menant un programme d'études sur la fission nucléaire, arrive dans son laboratoire. Modifiant les paramètres de son accélérateur de particules, il lance une nouvelle expérience alors qu'à l'extérieur les éléments se déchaînent. Confortablement installé à plusieurs niveaux sous terre, il ne se rend pas compte que quelque chose est en train de se passer. C'est au moment où l'expérience semble aboutir qu'un incident se produit. Un éclair vient s'abattre sur le laboratoire et se propage jusqu'à l'accélérateur de particules avant de venir frapper le bureau de Lester, projetant celui-ci dans une autre réalité�  
+L'histoire commence un soir d'orage lorsque Lester Knight Chaykin, un jeune scientifique menant un programme d'études sur la fission nucléaire, arrive dans son laboratoire. Modifiant les paramètres de son accélérateur de particules, il lance une nouvelle expérience alors qu'à l'extérieur les éléments se déchaînent. Confortablement installé à plusieurs niveaux sous terre, il ne se rend pas compte que quelque chose est en train de se passer. C'est au moment où l'expérience semble aboutir qu'un incident se produit. Un éclair vient s'abattre sur le laboratoire et se propage jusqu'à l'accélérateur de particules avant de venir frapper le bureau de Lester, projetant celui-ci dans une autre réalité  
 
   
 
@@ -40,7 +40,7 @@ Je profite de cette courte période de tranquillité pour consigner quelques inf
 
   
 
-Maintenant je suis perdu dans un labyrinthe de couloirs souterrains. Je ne peux pas dire combien de temps j'ai passé à errer. Je rencontre constamment des cours d'eau qui menacent à n'importe quel moment d'inonder ces couloirs. Heureusement, j'ai trouvé une arme qui peut percer un trou dans presque tout ce que je peux trouver. Elle m'a sauvé la vie un nombre incalculable de fois. Il y a de nombreux gardes qui rôdent dans ces couloirs. Je dois partir avant que je �_  
+Maintenant je suis perdu dans un labyrinthe de couloirs souterrains. Je ne peux pas dire combien de temps j'ai passé à errer. Je rencontre constamment des cours d'eau qui menacent à n'importe quel moment d'inonder ces couloirs. Heureusement, j'ai trouvé une arme qui peut percer un trou dans presque tout ce que je peux trouver. Elle m'a sauvé la vie un nombre incalculable de fois. Il y a de nombreux gardes qui rôdent dans ces couloirs. Je dois partir avant que je _  
 
   
 

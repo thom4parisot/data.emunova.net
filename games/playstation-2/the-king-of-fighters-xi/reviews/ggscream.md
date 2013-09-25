@@ -1,6 +1,6 @@
 ---
-user:GGScream
-rating:4.5
+user: GGScream
+rating: 4.5
 published: 2007-05-14T14:39:30.000Z
 legacy_url: http://www.emunova.net/veda/test/2076.htm
 ---

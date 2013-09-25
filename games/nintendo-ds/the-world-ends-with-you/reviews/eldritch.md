@@ -1,6 +1,6 @@
 ---
-user:eldritch
-rating:4.5
+user: eldritch
+rating: 4.5
 published: 1970-01-01T00:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/4279.htm
 ---

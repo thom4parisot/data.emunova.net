@@ -1,6 +1,6 @@
 ---
-user:Fichi
-rating:3.5
+user: Fichi
+rating: 3.5
 published: 2010-02-20T10:58:16.000Z
 legacy_url: http://www.emunova.net/veda/test/3723.htm
 ---

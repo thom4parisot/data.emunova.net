@@ -1,6 +1,6 @@
 ---
-user:Kenseiden
-rating:4.5
+user: Kenseiden
+rating: 4.5
 published: 2007-05-14T14:39:33.000Z
 legacy_url: http://www.emunova.net/veda/test/2079.htm
 ---

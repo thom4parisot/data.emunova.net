@@ -1,6 +1,6 @@
 ---
-user:Leckdemon
-rating:4.5
+user: Leckdemon
+rating: 4.5
 published: 2005-11-14T18:19:38.000Z
 legacy_url: http://www.emunova.net/veda/test/1166.htm
 ---

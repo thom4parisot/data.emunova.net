@@ -1,6 +1,6 @@
 ---
-user:seb-le-ouf-06
-rating:4.5
+user: seb-le-ouf-06
+rating: 4.5
 published: 2007-07-23T07:56:50.000Z
 legacy_url: http://www.emunova.net/veda/test/2185.htm
 ---

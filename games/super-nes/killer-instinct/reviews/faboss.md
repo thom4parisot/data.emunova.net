@@ -1,30 +1,30 @@
 ---
-user:faboss
-rating:4.5
+user: faboss
+rating: 4.5
 published: 2003-09-23T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/264.htm
 ---
-Voici venir l'adaptation de la borne d'arcade � succ�s de Nintendo.  
+Voici venir l'adaptation de la borne d'arcade à succès de Nintendo.  
 
   
 
-Killer instinct est au premier abord un jeu de combat classique : on trouve une gallerie de 10 combattants plus un cach� (fille, boxeur, robot etc...). Chaque personnage a ses particularit�s et ses coups propres. Evidemment la fille sera plus rapide, le boxeur ne frappe qu'avec ses poings... bref on n'�chappe pas aux ponctifs du genre. On peut se lancer dans le mode arcade (enchainements d'adversaires) ou disputer des combats contre un ami voir organiser un tournoi. Un mode entrainement permet de se faire � la jouabilit� du titre.  
+Killer instinct est au premier abord un jeu de combat classique : on trouve une gallerie de 10 combattants plus un caché (fille, boxeur, robot etc...). Chaque personnage a ses particularités et ses coups propres. Evidemment la fille sera plus rapide, le boxeur ne frappe qu'avec ses poings... bref on n'échappe pas aux ponctifs du genre. On peut se lancer dans le mode arcade (enchainements d'adversaires) ou disputer des combats contre un ami voir organiser un tournoi. Un mode entrainement permet de se faire à la jouabilité du titre.  
 
   
 
-C'est cette jouabilit� qui distingue Killer Instinct de ses concurrents. Celle-ci se base en grande partie sur les combos. En enchainant diff�rents coups on cr�e de v�ritables cha�nes qui peuvent faire tr�s mals. Ces combos se r�alisent assez facilement une fois que l'on a compris le fonctionnement : ainsi il est pr�f�rable de commencer par un coup qui vous lancent sur l'adversaire pour ensuite enchainer avec des coups normaux et continuer avec des techniques sp�ciales comme des uppercuts. Les manips s'effectuent � la Street Fighter, c'est � dire avec des quarts, demi-tours de croix plus un bouton. Heureusement pour contrer ses combos chaque personnage peut avec une de ses techniques casser la chaine (le combo-breaker). Cela permet par ailleurs de rendre son personnage plus puissant : les boules de feu changent de couleurs etc... Il faut donc �viter de faire durer ses combos trop longtemps. Lorsque un des combattants n'a plus de vie, il reste un instant sonn�. L� son adversiare peux en profiter pour l'achever en pouvant par exemple le faire tomber de la surface de combat. Attention car le combattant mal en point peux toujours se remettre au combat (bourrinage sur les boutons).  
+C'est cette jouabilité qui distingue Killer Instinct de ses concurrents. Celle-ci se base en grande partie sur les combos. En enchainant différents coups on crée de véritables chaînes qui peuvent faire très mals. Ces combos se réalisent assez facilement une fois que l'on a compris le fonctionnement : ainsi il est préférable de commencer par un coup qui vous lancent sur l'adversaire pour ensuite enchainer avec des coups normaux et continuer avec des techniques spéciales comme des uppercuts. Les manips s'effectuent à la Street Fighter, c'est à dire avec des quarts, demi-tours de croix plus un bouton. Heureusement pour contrer ses combos chaque personnage peut avec une de ses techniques casser la chaine (le combo-breaker). Cela permet par ailleurs de rendre son personnage plus puissant : les boules de feu changent de couleurs etc... Il faut donc éviter de faire durer ses combos trop longtemps. Lorsque un des combattants n'a plus de vie, il reste un instant sonné. Là son adversiare peux en profiter pour l'achever en pouvant par exemple le faire tomber de la surface de combat. Attention car le combattant mal en point peux toujours se remettre au combat (bourrinage sur les boutons).  
 
   
 
-Graphiquement c'est la claque. Le jeu utilise la technologie mise en place pour Donkey Kong Country. Ainsi les graphismes ont d'abord �t� mod�lis�s en 3d pour ensuite en pr�lever des plans 2d. La version arcade �tant d�velopp�es sur une borne � base de n64, les graphistes ont effectu�s des concessions, notamment au niveau des zooms qui ont disparus. Mais le jeu offre un rendu superbe et in�dit pour un jeu de combat. Nintendo a m�me autoris� les projections de sang. Bref les combats sont tr�s beaux.  
+Graphiquement c'est la claque. Le jeu utilise la technologie mise en place pour Donkey Kong Country. Ainsi les graphismes ont d'abord été modélisés en 3d pour ensuite en prélever des plans 2d. La version arcade étant développées sur une borne à base de n64, les graphistes ont effectués des concessions, notamment au niveau des zooms qui ont disparus. Mais le jeu offre un rendu superbe et inédit pour un jeu de combat. Nintendo a même autorisé les projections de sang. Bref les combats sont très beaux.  
 
   
 
-**Jouabilit� : **classique pour les manips et excellente pour sa profondeur.  
+**Jouabilité : **classique pour les manips et excellente pour sa profondeur.  
 
   
 
-**Graphismes : **tr�s beaux et parfaitement adapt�s au jeu, c'est la claque!!  
+**Graphismes : **très beaux et parfaitement adaptés au jeu, c'est la claque!!  
 
   
 
@@ -32,7 +32,7 @@ Graphiquement c'est la claque. Le jeu utilise la technologie mise en place pour 
 
   
 
-**Dur�e de vie : **relativement longue m�me si le jeu peut lasser � la longue.  
+**Durée de vie : **relativement longue même si le jeu peut lasser à la longue.  
 
   
 
@@ -40,4 +40,4 @@ Graphiquement c'est la claque. Le jeu utilise la technologie mise en place pour 
 
   
 
-Killer Instinct est sans nul doute l'un des meilleurs jeux de combat sur Super Nintendo et n'a rien � envier � Street Fighter.
+Killer Instinct est sans nul doute l'un des meilleurs jeux de combat sur Super Nintendo et n'a rien à envier à Street Fighter.

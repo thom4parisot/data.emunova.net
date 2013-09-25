@@ -1,6 +1,6 @@
 ---
-user:Sekigo Le Magnifique
-rating:1
+user: Sekigo Le Magnifique
+rating: 1
 published: 2009-04-29T12:45:08.000Z
 legacy_url: http://www.emunova.net/veda/test/3173.htm
 ---

@@ -1,6 +1,6 @@
 ---
-user:RuFo_ThE_oNe
-rating:2.5
+user: RuFo_ThE_oNe
+rating: 2.5
 published: 2005-10-14T18:54:58.000Z
 legacy_url: http://www.emunova.net/veda/test/1141.htm
 ---

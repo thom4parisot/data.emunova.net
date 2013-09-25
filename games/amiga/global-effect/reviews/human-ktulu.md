@@ -1,6 +1,6 @@
 ---
-user:Human Ktulu
-rating:3
+user: Human Ktulu
+rating: 3
 published: 2007-07-12T03:59:05.000Z
 legacy_url: http://www.emunova.net/veda/test/2167.htm
 ---

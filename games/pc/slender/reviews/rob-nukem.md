@@ -1,6 +1,6 @@
 ---
-user:Rob Nukem
-rating:4
+user: Rob Nukem
+rating: 4
 published: 2012-10-17T18:32:47.000Z
 legacy_url: http://www.emunova.net/veda/test/4280.htm
 ---

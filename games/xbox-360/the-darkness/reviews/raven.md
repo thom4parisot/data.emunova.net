@@ -1,6 +1,6 @@
 ---
-user:Raven
-rating:4
+user: Raven
+rating: 4
 published: 2007-08-24T23:04:52.000Z
 legacy_url: http://www.emunova.net/veda/test/2257.htm
 ---

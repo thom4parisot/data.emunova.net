@@ -1,6 +1,6 @@
 ---
-user:starcore
-rating:3.5
+user: starcore
+rating: 3.5
 published: 2005-12-22T14:35:40.000Z
 legacy_url: http://www.emunova.net/veda/test/1264.htm
 ---

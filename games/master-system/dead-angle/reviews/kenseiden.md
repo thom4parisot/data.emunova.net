@@ -1,10 +1,10 @@
 ---
-user:Kenseiden
-rating:2.5
+user: Kenseiden
+rating: 2.5
 published: 2005-10-30T16:35:50.000Z
 legacy_url: http://www.emunova.net/veda/test/1154.htm
 ---
-Dead Angle fut le jeu qui me poussa un jour à réclamer le pistolet de la Master System et « un jeu avec des gangsters » auquel j�avais joué chez un ami. Quel ne fut pas mon étonnement (et mon énervement, soyons honnête) lorsque je constatai que le pistolet Master System acheté à prix d'or par mes parents n'était pas compatible avec ce jeu. Ils s�étaient fiés à la jaquette, se rappelant seulement m�avoir entendu réclamer à un jeu de tir avec des bandits des années 30\. En l'occurrence, j'avais confondu Dead Angle et Gangster Town. Ce n�est pas grave : ce pistolet servit à mon petit frère dans d�interminables parties de cow-boys de l�espace et d�indiens inter galactiques dans le jardin familial.   
+Dead Angle fut le jeu qui me poussa un jour à réclamer le pistolet de la Master System et « un jeu avec des gangsters » auquel javais joué chez un ami. Quel ne fut pas mon étonnement (et mon énervement, soyons honnête) lorsque je constatai que le pistolet Master System acheté à prix d'or par mes parents n'était pas compatible avec ce jeu. Ils sétaient fiés à la jaquette, se rappelant seulement mavoir entendu réclamer à un jeu de tir avec des bandits des années 30\. En l'occurrence, j'avais confondu Dead Angle et Gangster Town. Ce nest pas grave : ce pistolet servit à mon petit frère dans dinterminables parties de cow-boys de lespace et dindiens inter galactiques dans le jardin familial.   
 
   
 
@@ -22,4 +22,4 @@ Au niveau des bonus, peu de choses à signaler : les classiques trousses médica
 
 **Son :** : Musiques sans grand charme. Bruitages répétitifs.  
 
-**Intérêt :** 9/20 Dead Angle est délassant le temps d�une ou deux parties, le temps qu�on le termine en fait. Les décors sont réussis, les boss plutôt sympathiques, mais tout cela ne va pas chercher bien loin. Et puis, sans pistolet, il faut bien dire que ce style de jeu perd une grande partie de son sel.
+**Intérêt :** 9/20 Dead Angle est délassant le temps dune ou deux parties, le temps quon le termine en fait. Les décors sont réussis, les boss plutôt sympathiques, mais tout cela ne va pas chercher bien loin. Et puis, sans pistolet, il faut bien dire que ce style de jeu perd une grande partie de son sel.

@@ -1,6 +1,6 @@
 ---
-user:ness62
-rating:3.5
+user: ness62
+rating: 3.5
 published: 2004-03-03T23:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/466.htm
 ---

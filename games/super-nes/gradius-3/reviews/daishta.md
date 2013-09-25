@@ -1,6 +1,6 @@
 ---
-user:daishta
-rating:4.5
+user: daishta
+rating: 4.5
 published: 2004-12-31T18:45:25.000Z
 legacy_url: http://www.emunova.net/veda/test/824.htm
 ---
@@ -62,7 +62,7 @@ _Difficulté :_
 
   
 
-Tout simplement atroce ! C'est la marque de fabrique des Gradius j'ai l'impression. C'est le Ghouls 'n� Ghosts du shoot. Vous ne passerez pas le premier niveau sans beaucoup, beaucoup d'entraînement. Et pourtant, on dénote pas moins de trois modes de difficulté. Et dire que j'ai déjà du mal avec Facile ^^, naze que je suis en jeux vidéo. Mais bon c'est le jeu, il faut le prendre tel quel. Et puis ils sont très très malins chez Konami. Plus vous êtes armé aux dents, avec 56 boucliers, du laser que je t'en donne en voilà, une bonne vitesse, bref l'optimum... eh bien la difficulté fera de même. Cela sera bien plus dur. Bref, si vous aimez les jeux à tendance masochiste, vous devriez déjà être en train de jouer à Gradius.  
+Tout simplement atroce ! C'est la marque de fabrique des Gradius j'ai l'impression. C'est le Ghouls 'n Ghosts du shoot. Vous ne passerez pas le premier niveau sans beaucoup, beaucoup d'entraînement. Et pourtant, on dénote pas moins de trois modes de difficulté. Et dire que j'ai déjà du mal avec Facile ^^, naze que je suis en jeux vidéo. Mais bon c'est le jeu, il faut le prendre tel quel. Et puis ils sont très très malins chez Konami. Plus vous êtes armé aux dents, avec 56 boucliers, du laser que je t'en donne en voilà, une bonne vitesse, bref l'optimum... eh bien la difficulté fera de même. Cela sera bien plus dur. Bref, si vous aimez les jeux à tendance masochiste, vous devriez déjà être en train de jouer à Gradius.  
 
   
 

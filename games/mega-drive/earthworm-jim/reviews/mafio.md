@@ -1,6 +1,6 @@
 ---
-user:Mafio
-rating:5
+user: Mafio
+rating: 5
 published: 2004-08-15T17:47:32.000Z
 legacy_url: http://www.emunova.net/veda/test/661.htm
 ---
@@ -54,7 +54,7 @@ L'ambiance sonore reste un des points forts du jeu avec une grande variété de 
 
   
 
-Pour conclure, le meilleur jeux d'action aventure de tous les temps : Earthworm Jim sans hésiter. Tout dans ce jeu vaut le coup d'�il, et peut être apprécié à 100%. Même la durée de vie est au rendez vous puisque il faut un minimum de 2h pour le finir sans compter la difficulté progressive du jeu. Un must absolu !  
+Pour conclure, le meilleur jeux d'action aventure de tous les temps : Earthworm Jim sans hésiter. Tout dans ce jeu vaut le coup d'il, et peut être apprécié à 100%. Même la durée de vie est au rendez vous puisque il faut un minimum de 2h pour le finir sans compter la difficulté progressive du jeu. Un must absolu !  
 
   
 

@@ -1,6 +1,6 @@
 ---
-user:Aces
-rating:4.5
+user: Aces
+rating: 4.5
 published: 2007-01-11T01:27:54.000Z
 legacy_url: http://www.emunova.net/veda/test/1848.htm
 ---

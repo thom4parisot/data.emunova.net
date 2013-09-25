@@ -1,6 +1,6 @@
 ---
-user:Spacewolf1
-rating:4
+user: Spacewolf1
+rating: 4
 published: 2003-05-04T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/53.htm
 ---
@@ -27,11 +27,11 @@ Vous possédez un bouclier, en effet, mais il ne marche que pendant quelques sec
 
 * _Reflect Force:_ ce bouclier renvoie instantanément les tirs de l'ennemi durant toute la durée de son activation. Il est très utile pour nettoyer l'écran lorsqu'il y a plein d'ennemis pas trop puissant, mais contre les boss, il faut être sur que les tirs seront bien renvoyés sur ces derniers.  
 
-* _Reflect Laser:_ ce bouclier fonctionne en 2 temps. D'abord, il absorbe les tirs ennemis durant sa durée d'activation. Lorsque votre bouclier s'arrête, TOUS les ennemis à l'écran sont alors verrouillés et subissent un tir laser (qui les détruit dans la plupart des cas). Ce bouclier s�avère beaucoup plus efficace contre les boss car il n'y a pas de gaspillage... Malheureusement, ce bouclier peut saturer durant sa phase d'absorption (au bout d'environ 250 tirs), et là, attention à ne pas vous manger un tir.  
+* _Reflect Laser:_ ce bouclier fonctionne en 2 temps. D'abord, il absorbe les tirs ennemis durant sa durée d'activation. Lorsque votre bouclier s'arrête, TOUS les ennemis à l'écran sont alors verrouillés et subissent un tir laser (qui les détruit dans la plupart des cas). Ce bouclier savère beaucoup plus efficace contre les boss car il n'y a pas de gaspillage... Malheureusement, ce bouclier peut saturer durant sa phase d'absorption (au bout d'environ 250 tirs), et là, attention à ne pas vous manger un tir.  
 
   
 
-Attention toute fois, votre bouclier à beau vous protéger, certains tirs n'en ont que faire et vous atteignent comme si de rien n�était. Heureusement, seuls les boss disposent de tels tirs.  
+Attention toute fois, votre bouclier à beau vous protéger, certains tirs n'en ont que faire et vous atteignent comme si de rien nétait. Heureusement, seuls les boss disposent de tels tirs.  
 
   
 

@@ -1,6 +1,6 @@
 ---
-user:SLAYER
-rating:4
+user: SLAYER
+rating: 4
 published: 2004-07-18T20:36:05.000Z
 legacy_url: http://www.emunova.net/veda/test/617.htm
 ---

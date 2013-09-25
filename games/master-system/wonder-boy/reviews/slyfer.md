@@ -1,6 +1,6 @@
 ---
-user:Slyfer
-rating:4.5
+user: Slyfer
+rating: 4.5
 published: 2004-12-01T13:42:17.000Z
 legacy_url: http://www.emunova.net/veda/test/750.htm
 ---

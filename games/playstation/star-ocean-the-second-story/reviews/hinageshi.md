@@ -1,6 +1,6 @@
 ---
-user:hinageshi
-rating:4.5
+user: hinageshi
+rating: 4.5
 published: 2004-11-28T09:19:42.000Z
 legacy_url: http://www.emunova.net/veda/test/746.htm
 ---

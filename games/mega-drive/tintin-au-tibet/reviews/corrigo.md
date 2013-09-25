@@ -1,6 +1,6 @@
 ---
-user:corrigo
-rating:3.5
+user: corrigo
+rating: 3.5
 published: 2008-02-05T14:36:16.000Z
 legacy_url: http://www.emunova.net/veda/test/2547.htm
 ---

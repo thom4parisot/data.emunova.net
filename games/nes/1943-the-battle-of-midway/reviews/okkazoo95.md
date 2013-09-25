@@ -1,6 +1,6 @@
 ---
-user:okkazoo95
-rating:2.5
+user: okkazoo95
+rating: 2.5
 published: 2012-05-10T19:10:49.000Z
 legacy_url: http://www.emunova.net/veda/test/4226.htm
 ---

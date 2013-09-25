@@ -1,6 +1,6 @@
 ---
-user:Seb nukem
-rating:1
+user: Seb nukem
+rating: 1
 published: 2009-10-29T12:32:48.000Z
 legacy_url: http://www.emunova.net/veda/test/3213.htm
 ---

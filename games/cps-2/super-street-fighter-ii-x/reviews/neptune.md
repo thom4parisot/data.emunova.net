@@ -1,6 +1,6 @@
 ---
-user:Neptune
-rating:4
+user: Neptune
+rating: 4
 published: 2005-09-19T18:08:59.000Z
 legacy_url: http://www.emunova.net/veda/test/1088.htm
 ---

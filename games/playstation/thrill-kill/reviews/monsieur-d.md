@@ -1,6 +1,6 @@
 ---
-user:monsieur D
-rating:4.5
+user: monsieur D
+rating: 4.5
 published: 2004-12-05T18:24:28.000Z
 legacy_url: http://www.emunova.net/veda/test/765.htm
 ---

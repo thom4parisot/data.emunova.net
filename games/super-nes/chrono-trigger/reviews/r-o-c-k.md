@@ -1,6 +1,6 @@
 ---
-user:R O C K
-rating:4.5
+user: R O C K
+rating: 4.5
 published: 2003-12-09T23:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/344.htm
 ---
@@ -8,7 +8,7 @@ legacy_url: http://www.emunova.net/veda/test/344.htm
 
   
 
-**SquareSoft**, connu pour sa série **Final Fantasy**, allait tout simplement réinventer les jeux de rôle en sortant **Chrono Trigger** en 1995 sur **Super Nintendo**. Squaresoft voulait fêter leur 10ème anniversaire avec un jeu de rôle qui se voulait ultime. Un budget colossal et plus de deux ans de développement pour un jeu qui allait faire date dans l�histoire des **Rôle Playing Game**. Bien que l�existence de la SNES allait toucher à sa fin, Chrono Trigger est venu revitaliser cette console mourante avec son scénario totalement novateur, un gameplay addictif et une réalisation faisant honneur à la Super Nintendo.  
+**SquareSoft**, connu pour sa série **Final Fantasy**, allait tout simplement réinventer les jeux de rôle en sortant **Chrono Trigger** en 1995 sur **Super Nintendo**. Squaresoft voulait fêter leur 10ème anniversaire avec un jeu de rôle qui se voulait ultime. Un budget colossal et plus de deux ans de développement pour un jeu qui allait faire date dans lhistoire des **Rôle Playing Game**. Bien que lexistence de la SNES allait toucher à sa fin, Chrono Trigger est venu revitaliser cette console mourante avec son scénario totalement novateur, un gameplay addictif et une réalisation faisant honneur à la Super Nintendo.  
 
   
 
@@ -26,7 +26,7 @@ L'histoire de Chrono Trigger (CT) débute avec le personnage principal, **Crono*
 
   
 
-Dans ce jeu, vous pourrez avoir un maximum de 7 personnages jouables, mais vous ne pourrez jouer qu'avec trois personnages à la fois. Le mode de combat est très similaire à l'**Active Battle System** (ABS) de **Final Fantasy VI**. Vous êtes placé parmi vos ennemis sur le champ de bataille, et vous choisissez dans les menus quelles attaques vous voulez utiliser. Par contre dans CT, les ennemies n'apparaissent pas de nul part (pas de combats aléatoires), vous pourrez les voir et même les éviter en passant à coté d'eux, sauf dans les cas où vous vous êtes fait repéré ou touché par ces derniers. Lorsque un combat commence, il n'y a pas d'interruption, (vous ne basculez pas vers un décor conçu pour les combats) mais vous combattez directement à l�endroit précis où vous êtes entré en contact avec un ennemi.  
+Dans ce jeu, vous pourrez avoir un maximum de 7 personnages jouables, mais vous ne pourrez jouer qu'avec trois personnages à la fois. Le mode de combat est très similaire à l'**Active Battle System** (ABS) de **Final Fantasy VI**. Vous êtes placé parmi vos ennemis sur le champ de bataille, et vous choisissez dans les menus quelles attaques vous voulez utiliser. Par contre dans CT, les ennemies n'apparaissent pas de nul part (pas de combats aléatoires), vous pourrez les voir et même les éviter en passant à coté d'eux, sauf dans les cas où vous vous êtes fait repéré ou touché par ces derniers. Lorsque un combat commence, il n'y a pas d'interruption, (vous ne basculez pas vers un décor conçu pour les combats) mais vous combattez directement à lendroit précis où vous êtes entré en contact avec un ennemi.  
 
 En plus des équipements (armures, armes...) que vous pouvez acheter ou trouver, et comme dans tout bon RPG, vous avez droit aux pouvoirs magiques consommant plus ou moins de points de magie (**MP**). Mais la grande innovation de CT vient du fait que chaque personnage peut acquérir des attaques spéciales appelées "**Techs**", et certaines de ces Techs sont combinées à de la magie. Il existe plusieurs types de Techs, les **Techs Simple**, **Dual** et **Triple** mettant en jeu respectivement un, deux et trois personnages à la fois. Après chaque combat gagné, vous gagnez des points d'expérience (**XP**) pour monter en niveau comme dans tous les RPG, mais aussi des **Techs Points** qui vous permettent de développer ces différentes Techs, qui se révèlent dévastateurs (surtout les Triple Techs) et nécessaires contre les boss du jeu. Un des aspects qui différencie CT des autres RPG de l'époque, vient du fait que chaque personnage ne maîtrise qu'un seul type de magie (foudre, feu, glace, eau, ombre...) et le cas échéant, ils n'ont pas de pouvoir magique, mais utilisent d'autres abilités (force physique...). Tout cela donne des personnages uniques, et c'est à vous de combiner ces différentes compétences pour venir a bout de vos ennemis. Enfin, CT a l'avantage de proposer une prise en main très aisée, les menus sont clairs et précis, tout en étant très complets ce qui permet aux néophytes de saisir rapidement le fonctionnement du jeu.  
 

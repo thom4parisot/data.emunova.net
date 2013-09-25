@@ -1,6 +1,6 @@
 ---
-user:HereZia
-rating:4
+user: HereZia
+rating: 4
 published: 2006-09-29T20:08:44.000Z
 legacy_url: http://www.emunova.net/veda/test/1642.htm
 ---

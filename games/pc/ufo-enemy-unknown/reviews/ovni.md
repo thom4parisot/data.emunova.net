@@ -1,6 +1,6 @@
 ---
-user:OVNI
-rating:5
+user: OVNI
+rating: 5
 published: 2007-04-25T05:51:32.000Z
 legacy_url: http://www.emunova.net/veda/test/2062.htm
 ---

@@ -1,6 +1,6 @@
 ---
-user:leo03
-rating:3
+user: leo03
+rating: 3
 published: 2006-05-10T10:23:28.000Z
 legacy_url: http://www.emunova.net/veda/test/1420.htm
 ---

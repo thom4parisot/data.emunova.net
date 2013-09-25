@@ -1,6 +1,6 @@
 ---
-user:yoman2600
-rating:2.5
+user: yoman2600
+rating: 2.5
 published: 2003-07-26T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/179.htm
 ---

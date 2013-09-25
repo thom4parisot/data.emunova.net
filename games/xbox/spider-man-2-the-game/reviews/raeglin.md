@@ -1,6 +1,6 @@
 ---
-user:Raeglin
-rating:4
+user: Raeglin
+rating: 4
 published: 2010-04-01T13:43:17.000Z
 legacy_url: http://www.emunova.net/veda/test/3779.htm
 ---

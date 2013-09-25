@@ -1,6 +1,6 @@
 ---
-user:sorento
-rating:2.5
+user: sorento
+rating: 2.5
 published: 2008-06-14T13:22:58.000Z
 legacy_url: http://www.emunova.net/veda/test/2749.htm
 ---

@@ -1,6 +1,6 @@
 ---
-user:Nyarlathotep
-rating:4
+user: Nyarlathotep
+rating: 4
 published: 2009-01-27T02:17:15.000Z
 legacy_url: http://www.emunova.net/veda/test/3053.htm
 ---

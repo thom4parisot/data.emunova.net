@@ -1,6 +1,6 @@
 ---
-user:Voxel
-rating:4.5
+user: Voxel
+rating: 4.5
 published: 2004-10-25T09:48:34.000Z
 legacy_url: http://www.emunova.net/veda/test/717.htm
 ---

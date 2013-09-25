@@ -1,6 +1,6 @@
 ---
-user:Strider
-rating:4.5
+user: Strider
+rating: 4.5
 published: 2009-05-23T12:22:41.000Z
 legacy_url: http://www.emunova.net/veda/test/3198.htm
 ---

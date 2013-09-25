@@ -1,6 +1,6 @@
 ---
-user:misterjojo
-rating:4.5
+user: misterjojo
+rating: 4.5
 published: 2004-08-08T21:55:55.000Z
 legacy_url: http://www.emunova.net/veda/test/647.htm
 ---

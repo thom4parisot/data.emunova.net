@@ -1,6 +1,6 @@
 ---
-user:clovis27
-rating:2.5
+user: clovis27
+rating: 2.5
 published: 2010-02-25T09:32:37.000Z
 legacy_url: http://www.emunova.net/veda/test/3111.htm
 ---

@@ -1,6 +1,6 @@
 ---
-user:-Kim-
-rating:4
+user: -Kim-
+rating: 4
 published: 2006-06-13T13:00:22.000Z
 legacy_url: http://www.emunova.net/veda/test/1487.htm
 ---

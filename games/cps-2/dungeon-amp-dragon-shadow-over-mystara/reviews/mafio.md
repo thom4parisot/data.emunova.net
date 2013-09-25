@@ -1,6 +1,6 @@
 ---
-user:Mafio
-rating:5
+user: Mafio
+rating: 5
 published: 2004-09-26T17:34:49.000Z
 legacy_url: http://www.emunova.net/veda/test/698.htm
 ---

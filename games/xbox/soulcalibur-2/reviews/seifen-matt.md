@@ -1,6 +1,6 @@
 ---
-user:Seifen Matt
-rating:5
+user: Seifen Matt
+rating: 5
 published: 2003-06-08T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/114.htm
 ---

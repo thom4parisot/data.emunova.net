@@ -1,6 +1,6 @@
 ---
-user:Nevarxard
-rating:4
+user: Nevarxard
+rating: 4
 published: 2008-02-29T12:06:21.000Z
 legacy_url: http://www.emunova.net/veda/test/2589.htm
 ---

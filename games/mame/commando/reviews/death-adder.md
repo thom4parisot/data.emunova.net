@@ -1,6 +1,6 @@
 ---
-user:Death Adder
-rating:3.5
+user: Death Adder
+rating: 3.5
 published: 2004-01-15T23:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/401.htm
 ---
@@ -66,7 +66,7 @@ Des bruitages assez sommaires et une musique de fond assez timide... Mais l'esse
 
   
 
-Bon vous l'aurez compris, ce jeu à marqué mon passé de gamer ainsi que mon porte-monnaie, et c�est de plus le 1er jeu que j'ai pu émuler grâce à Mame.  
+Bon vous l'aurez compris, ce jeu à marqué mon passé de gamer ainsi que mon porte-monnaie, et cest de plus le 1er jeu que j'ai pu émuler grâce à Mame.  
 
   
 

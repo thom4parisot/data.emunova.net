@@ -1,6 +1,6 @@
 ---
-user:DoubleZ
-rating:4
+user: DoubleZ
+rating: 4
 published: 2006-06-08T21:54:43.000Z
 legacy_url: http://www.emunova.net/veda/test/1461.htm
 ---
@@ -44,7 +44,7 @@ En effet, il n'est pas inexistant mais tout simplement... illogique ! Si ce jeu 
 
 Prenons pour exemple le début du premier niveau :  
 
--Le héros "s'évade" (la clé se trouve dans le coffre de sa cellule !) une épée en main (là on ne sait pas d'où elle vient). Dans une cellule plus éloignée, un autre prisonnier lui propose de l'aide en échange de sa libération. Pour l�aider, il faut trouver une sorte de manivelle pour pouvoir descendre le pauvre et le sauver. On change de cellule et l'on se trouve... devant un charmeur de serpent. Celui ci vous offre le serpent rigide (utilisé comme manivelle) contre une certaine somme d'argent. On cherche les passages secrets pour trouver des pierres et les lui donner. Le serpent en poche, on part délivrer le prisonnier qui vous offre ensuite... des crochets permettant d'ouvrir des portes!  
+-Le héros "s'évade" (la clé se trouve dans le coffre de sa cellule !) une épée en main (là on ne sait pas d'où elle vient). Dans une cellule plus éloignée, un autre prisonnier lui propose de l'aide en échange de sa libération. Pour laider, il faut trouver une sorte de manivelle pour pouvoir descendre le pauvre et le sauver. On change de cellule et l'on se trouve... devant un charmeur de serpent. Celui ci vous offre le serpent rigide (utilisé comme manivelle) contre une certaine somme d'argent. On cherche les passages secrets pour trouver des pierres et les lui donner. Le serpent en poche, on part délivrer le prisonnier qui vous offre ensuite... des crochets permettant d'ouvrir des portes!  
 
 Des choses illogiques de ce genre, il y en a dans tout le jeu (pour le niveau 2, il connaît quelqu'un qui sait réaliser des tapis volants!). Au passage, vous aurez plus besoin de réfléchir à partir du niveau 3\.  
 

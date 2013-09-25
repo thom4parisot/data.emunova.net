@@ -1,6 +1,6 @@
 ---
-user:Antekrist
-rating:2.5
+user: Antekrist
+rating: 2.5
 published: 2010-08-01T13:27:25.000Z
 legacy_url: http://www.emunova.net/veda/test/3929.htm
 ---

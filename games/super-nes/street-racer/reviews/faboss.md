@@ -1,6 +1,6 @@
 ---
-user:faboss
-rating:4
+user: faboss
+rating: 4
 published: 2003-07-08T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/156.htm
 ---
@@ -8,23 +8,23 @@ Street Racer est un jeu de course qui ambitionne de rivaliser avec l'excellent S
 
   
 
-Cela explique donc que le jeu soit assez proche au niveau du contenu. Le jeu propose 8 personnages diff�rents ayant chacun leurs sp�cificit�s. Elles ne concernent non pas la conduite mais l'armement � disposition. Tous poss�dent en effet 2 armes distinctes (une arme pour attaquer sur les c�t�s et une arme d'attaque frontale). On peut ajouter � cela la possibilit� de donner des baffes sur les c�t�s. Tout cela s'av�re fort utile pour les diff�rents modes de jeu propos�s.  
+Cela explique donc que le jeu soit assez proche au niveau du contenu. Le jeu propose 8 personnages différents ayant chacun leurs spécificités. Elles ne concernent non pas la conduite mais l'armement à disposition. Tous possèdent en effet 2 armes distinctes (une arme pour attaquer sur les côtés et une arme d'attaque frontale). On peut ajouter à cela la possibilité de donner des baffes sur les côtés. Tout cela s'avère fort utile pour les différents modes de jeu proposés.  
 
   
 
-Outre un mode course classique (avec bonus, turbo etc...) qui voit s'affronter les 8 concurrents, le jeu apporte 2 modes originaux. Le premier permet de disputer une partie de football. Lach�s sur une surface repr�sentant un terrain, le but est de r�cup�rer le ballon et de l'envoyer vers la zone de but en �vitant les ennemis et la barri�re simulant le gardien. C'est assez sympa mais cela demeure brouillon. Le second mode vous envoie sur une plate-forme. Une fois la partie d�marr�e il faut faire tomber ses adversaires de la surface en �vitant leurs assauts. Les armes latt�rales montrent l� toute leur efficacit�. Suivant la difficult�, des barri�res � d�truire d�limitent la zone. Ce mode est vraiment fun surtout � quatre joueurs, car oui le jeu exploite le Multitap.  
+Outre un mode course classique (avec bonus, turbo etc...) qui voit s'affronter les 8 concurrents, le jeu apporte 2 modes originaux. Le premier permet de disputer une partie de football. Lachés sur une surface représentant un terrain, le but est de récupérer le ballon et de l'envoyer vers la zone de but en évitant les ennemis et la barrière simulant le gardien. C'est assez sympa mais cela demeure brouillon. Le second mode vous envoie sur une plate-forme. Une fois la partie démarrée il faut faire tomber ses adversaires de la surface en évitant leurs assauts. Les armes lattérales montrent là toute leur efficacité. Suivant la difficulté, des barrières à détruire délimitent la zone. Ce mode est vraiment fun surtout à quatre joueurs, car oui le jeu exploite le Multitap.  
 
   
 
-La r�alisation est classique pour un jeu de course Super NES. Le mode 7 est une fois de plus utilis�, et bien utilis� puisque les d�cors sont assez beaux bien que plats. Chaque concurrent poss�de ses d�cors de circuits (la plage pour surf etc...).  
+La réalisation est classique pour un jeu de course Super NES. Le mode 7 est une fois de plus utilisé, et bien utilisé puisque les décors sont assez beaux bien que plats. Chaque concurrent possède ses décors de circuits (la plage pour surf etc...).  
 
   
 
-**Jouabilit�** : tr�s simple d'acc�s, beaucoup plus que celle de Super Mario Kart.  
+**Jouabilité** : très simple d'accès, beaucoup plus que celle de Super Mario Kart.  
 
   
 
-**Graphismes** : assez beaux. Le mode 7 est mis efficacement � profit.  
+**Graphismes** : assez beaux. Le mode 7 est mis efficacement à profit.  
 
   
 
@@ -32,12 +32,12 @@ La r�alisation est classique pour un jeu de course Super NES. Le mode 7 est un
 
   
 
-**Dur�e de vie** : longue gr�ce au mode 4 joueurs et aux nombreux circuits et challenges.  
+**Durée de vie** : longue grâce au mode 4 joueurs et aux nombreux circuits et challenges.  
 
   
 
-**Son** : bruitages tr�s classiques mais musiques vraiments sympathiques.  
+**Son** : bruitages très classiques mais musiques vraiments sympathiques.  
 
   
 
-En r�sum�, si Street Racer est �dulcor� niveau conduite, il se rattrape avec ses modes de jeu originaux et son fun � quatre joueurs.
+En résumé, si Street Racer est édulcoré niveau conduite, il se rattrape avec ses modes de jeu originaux et son fun à quatre joueurs.

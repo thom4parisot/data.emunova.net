@@ -1,6 +1,6 @@
 ---
-user:mou-moute
-rating:4.5
+user: mou-moute
+rating: 4.5
 published: 2011-08-28T18:34:53.000Z
 legacy_url: http://www.emunova.net/veda/test/4144.htm
 ---

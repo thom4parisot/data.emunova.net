@@ -1,10 +1,10 @@
 ---
-user:Mafio
-rating:5
+user: Mafio
+rating: 5
 published: 2004-11-03T21:21:02.000Z
 legacy_url: http://www.emunova.net/veda/test/723.htm
 ---
-Ce Castlevania sur Game Boy Advance marque une réelle évolution en comparaison avec le volet précédent, ici on parle d'un chef d'�uvre du jeu vidéo avec des graphismes époustouflant et un héros charismatique, orné des illustrations d'Ayami Kojima et habité du génie d'Iga. La seconde aventure sur GBA commence...  
+Ce Castlevania sur Game Boy Advance marque une réelle évolution en comparaison avec le volet précédent, ici on parle d'un chef d'uvre du jeu vidéo avec des graphismes époustouflant et un héros charismatique, orné des illustrations d'Ayami Kojima et habité du génie d'Iga. La seconde aventure sur GBA commence...  
 
   
 
@@ -14,7 +14,7 @@ Ce Castlevania sur Game Boy Advance marque une réelle évolution en comparaison
 
   
 
-50 ans après la défaite de Dracula, Juste Belmont le descendant de la célèbre famille tueuse de vampires s'apprête à continuer l'�uvre de sa famille, la destruction du monstre Dracula.  
+50 ans après la défaite de Dracula, Juste Belmont le descendant de la célèbre famille tueuse de vampires s'apprête à continuer l'uvre de sa famille, la destruction du monstre Dracula.  
 
 Le meilleur ami de Juste, Maxim, revient blessé et l'informe que Lydie, leur amie d'enfance, a été enlevée.  
 

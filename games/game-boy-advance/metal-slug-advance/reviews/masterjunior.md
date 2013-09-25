@@ -1,6 +1,6 @@
 ---
-user:masterjunior
-rating:4
+user: masterjunior
+rating: 4
 published: 2004-12-16T17:47:40.000Z
 legacy_url: http://www.emunova.net/veda/test/793.htm
 ---

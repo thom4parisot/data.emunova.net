@@ -1,6 +1,6 @@
 ---
-user:Rouliass
-rating:4
+user: Rouliass
+rating: 4
 published: 2009-09-19T16:11:24.000Z
 legacy_url: http://www.emunova.net/veda/test/3414.htm
 ---

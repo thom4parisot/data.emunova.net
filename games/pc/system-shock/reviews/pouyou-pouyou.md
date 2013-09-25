@@ -1,6 +1,6 @@
 ---
-user:Pouyou-pouyou
-rating:4
+user: Pouyou-pouyou
+rating: 4
 published: 2008-09-19T16:44:02.000Z
 legacy_url: http://www.emunova.net/veda/test/2904.htm
 ---

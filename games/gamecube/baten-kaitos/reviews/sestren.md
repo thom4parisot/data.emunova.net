@@ -1,6 +1,6 @@
 ---
-user:Sestren
-rating:3.5
+user: Sestren
+rating: 3.5
 published: 2005-12-27T16:16:34.000Z
 legacy_url: http://www.emunova.net/veda/test/1262.htm
 ---

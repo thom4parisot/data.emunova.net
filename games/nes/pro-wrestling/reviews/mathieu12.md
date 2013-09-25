@@ -1,6 +1,6 @@
 ---
-user:mathieu12
-rating:3.5
+user: mathieu12
+rating: 3.5
 published: 2005-10-23T12:31:30.000Z
 legacy_url: http://www.emunova.net/veda/test/1151.htm
 ---

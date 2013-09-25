@@ -1,6 +1,6 @@
 ---
-user:yoyo
-rating:3
+user: yoyo
+rating: 3
 published: 2003-12-30T23:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/375.htm
 ---

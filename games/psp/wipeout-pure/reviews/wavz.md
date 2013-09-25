@@ -1,6 +1,6 @@
 ---
-user:Wavz
-rating:4.5
+user: Wavz
+rating: 4.5
 published: 2005-10-06T17:04:07.000Z
 legacy_url: http://www.emunova.net/veda/test/1113.htm
 ---

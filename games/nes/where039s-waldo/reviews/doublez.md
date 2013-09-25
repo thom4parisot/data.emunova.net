@@ -1,6 +1,6 @@
 ---
-user:DoubleZ
-rating:0
+user: DoubleZ
+rating: 0
 published: 2007-04-01T03:44:48.000Z
 legacy_url: http://www.emunova.net/veda/test/2056.htm
 ---

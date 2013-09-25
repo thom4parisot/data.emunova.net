@@ -1,6 +1,6 @@
 ---
-user:Magnio
-rating:3.5
+user: Magnio
+rating: 3.5
 published: 2010-06-27T15:15:34.000Z
 legacy_url: http://www.emunova.net/veda/test/3891.htm
 ---

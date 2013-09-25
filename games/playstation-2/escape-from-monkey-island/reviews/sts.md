@@ -1,6 +1,6 @@
 ---
-user:StS
-rating:5
+user: StS
+rating: 5
 published: 2003-12-29T23:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/347.htm
 ---

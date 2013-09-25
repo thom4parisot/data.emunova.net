@@ -1,6 +1,6 @@
 ---
-user:Meowcat
-rating:5
+user: Meowcat
+rating: 5
 published: 2003-07-08T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/157.htm
 ---

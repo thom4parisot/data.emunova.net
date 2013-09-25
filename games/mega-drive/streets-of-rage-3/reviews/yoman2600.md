@@ -1,45 +1,45 @@
 ---
-user:yoman2600
-rating:4
+user: yoman2600
+rating: 4
 published: 2003-09-30T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/273.htm
 ---
-Mister X est une fois de plus de retour avec un nouveau plan qui consiste � remplacer les t�tes pensantes de la ville par leur r�plique robotis�e. Comme si ce n��tait pas assez et pour compliquer la t�che de la police, il a aussi pr�par� quelques petites bombes �parpill�es aux quatre coins de la ville. Vous avez compris, la situation est grave, et comme toujours c�est vous qui allez devoir vous en charger.  
+Mister X est une fois de plus de retour avec un nouveau plan qui consiste à remplacer les têtes pensantes de la ville par leur réplique robotisée. Comme si ce nétait pas assez et pour compliquer la tâche de la police, il a aussi préparé quelques petites bombes éparpillées aux quatre coins de la ville. Vous avez compris, la situation est grave, et comme toujours cest vous qui allez devoir vous en charger.  
 
   
 
-Voici donc le dernier �pisode de la saga Streets of Rage sur Megadrive et le dernier tout court d�ailleurs. Apr�s un premier Streets of Rage assez impressionnant mais techniquement perfectible et un deuxi�me opus tout aussi int�ressant mais largement plus �volu� techniquement, Sega a la lourde t�che d�am�liorer encore la meilleure s�rie des beat-them-all.sur sa console 16 bits. A-t-il r�ussi ?  
+Voici donc le dernier épisode de la saga Streets of Rage sur Megadrive et le dernier tout court dailleurs. Après un premier Streets of Rage assez impressionnant mais techniquement perfectible et un deuxième opus tout aussi intéressant mais largement plus évolué techniquement, Sega a la lourde tâche daméliorer encore la meilleure série des beat-them-all.sur sa console 16 bits. A-t-il réussi ?  
 
   
 
-Vous commencez le jeu avec un choix de 4 personnages, les traditionnels Axel et Blaze, le jeune Skate avec ses rollers et un petit nouveau � Zan �, un cyborg, mais des astuces permettent de pouvoir contr�ler un kangourou � Roo � et un autre personnage du nom de � Shiva � qui n�est autre que le sous-boss de Streets of Rage 2\.  
+Vous commencez le jeu avec un choix de 4 personnages, les traditionnels Axel et Blaze, le jeune Skate avec ses rollers et un petit nouveau « Zan », un cyborg, mais des astuces permettent de pouvoir contrôler un kangourou « Roo » et un autre personnage du nom de « Shiva » qui nest autre que le sous-boss de Streets of Rage 2\.  
 
   
 
-Alors commen�ons par les nouveaut�s par rapport au deuxi�me �pisode. Tout d�abord, vous avez la possibilit� de courir dor�navant, ce qui donne beaucoup plus de p�che � l�action et il est vrai que son pr�d�cesseur en manquait un peu. Vos champions peuvent maintenant �viter un coup en faisant une roulade sur le c�t� (dans le sens vertical), pratique notamment pour certains niveaux. De plus les coups sp�ciaux effectu�s en courant s�am�liorent au fil de la partie si vous arrivez � ne pas perdre de vie : en effet, au bout d�un certain score, une �toile appara�t sous votre �nergie pouvant aller jusqu�� 3, par contre � chaque vie de perdue une �toile est enlev�e. Pour les super coups sp�ciaux (de la mort qui tue) une barre leur est consacr�e, lorsqu�elle est remplie vous pouvez en faire sans perdre d��nergie, dans le cas contraire vous pourrez l�ex�cuter mais cela aura des r�percussions sur votre sant�. Autre nouveaut� appr�ciable, la possibilit� de sortir un coup avec une arme genre batte de baseball tout en courant, ce qui aura pour effet d�effectuer une attaque beaucoup plus puissante et graphiquement tr�s r�ussie.  
+Alors commençons par les nouveautés par rapport au deuxième épisode. Tout dabord, vous avez la possibilité de courir dorénavant, ce qui donne beaucoup plus de pêche à laction et il est vrai que son prédécesseur en manquait un peu. Vos champions peuvent maintenant éviter un coup en faisant une roulade sur le côté (dans le sens vertical), pratique notamment pour certains niveaux. De plus les coups spéciaux effectués en courant saméliorent au fil de la partie si vous arrivez à ne pas perdre de vie : en effet, au bout dun certain score, une étoile apparaît sous votre énergie pouvant aller jusquà 3, par contre à chaque vie de perdue une étoile est enlevée. Pour les super coups spéciaux (de la mort qui tue) une barre leur est consacrée, lorsquelle est remplie vous pouvez en faire sans perdre dénergie, dans le cas contraire vous pourrez lexécuter mais cela aura des répercussions sur votre santé. Autre nouveauté appréciable, la possibilité de sortir un coup avec une arme genre batte de baseball tout en courant, ce qui aura pour effet deffectuer une attaque beaucoup plus puissante et graphiquement très réussie.  
 
   
 
-Voil� pour les am�liorations, niveau graphismes et animations, Streets of Rage 2 est surpass�. Par contre, il subsiste des probl�mes, les niveaux sont, je trouve, pas aussi recherch�s que chez son pr�d�cesseur et manquent d�innovations. Cependant ce d�faut est compens� par le fait d�avoir plusieurs fins disponibles suivant si vous r�ussissez � d�livrer le chef de la police avant qu�il ne meure ou que vous battiez le dernier boss dans le temps imparti ou encore si vous jouez en mode facile, dans ce cas-l� le jeu finira pr�matur�ment. Malheureusement, au niveau sonore, c�est pas vraiment la joie, les musiques, sont franchement pas terribles, les voix digitalis�es ne valent gu�re mieux surtout compar�es avec la version japonaise. Eh oui la censure a frapp�, par rapport � nos amis nippons, l�intro a disparu, les tenues ne sont pas identiques, le travesti, un des boss du premier niveau, a �t� purement et simplement supprim�, et certains d�tails ont chang�.  
+Voilà pour les améliorations, niveau graphismes et animations, Streets of Rage 2 est surpassé. Par contre, il subsiste des problèmes, les niveaux sont, je trouve, pas aussi recherchés que chez son prédécesseur et manquent dinnovations. Cependant ce défaut est compensé par le fait davoir plusieurs fins disponibles suivant si vous réussissez à délivrer le chef de la police avant quil ne meure ou que vous battiez le dernier boss dans le temps imparti ou encore si vous jouez en mode facile, dans ce cas-là le jeu finira prématurément. Malheureusement, au niveau sonore, cest pas vraiment la joie, les musiques, sont franchement pas terribles, les voix digitalisées ne valent guère mieux surtout comparées avec la version japonaise. Eh oui la censure a frappé, par rapport à nos amis nippons, lintro a disparu, les tenues ne sont pas identiques, le travesti, un des boss du premier niveau, a été purement et simplement supprimé, et certains détails ont changé.  
 
   
 
-Malgr� tout cela, Streets of Rage 3 reste selon moi le meilleur beat-them-all de la Megadrive et peut �tre m�me tous syst�mes confondus, m�me si le deuxi�me �pisode reste excellent lui aussi.  
+Malgré tout cela, Streets of Rage 3 reste selon moi le meilleur beat-them-all de la Megadrive et peut être même tous systèmes confondus, même si le deuxième épisode reste excellent lui aussi.  
 
   
 
   
 
-Graphismes 8 : Encore meilleurs que dans l��pisode pr�c�dent au niveau des combattants, m�me si je pr�f�re les d�cors du deuxi�me �pisode.  
+Graphismes 8 : Encore meilleurs que dans lépisode précédent au niveau des combattants, même si je préfère les décors du deuxième épisode.  
 
   
 
-Animation 9 : La panoplie des prises s�est encore enrichie et les coups sont toujours plus d�taill�s de version en version.  
+Animation 9 : La panoplie des prises sest encore enrichie et les coups sont toujours plus détaillés de version en version.  
 
   
 
-Jouabilit� 9 : Le principal d�faut qu�on pouvait reprocher au pr�c�dent �pisode �tait de ne pas pouvoir courir, c�est d�sormais chose r�gl�e avec ce dernier �pisode. Les coups sortent bien, sont nombreux, de plus on peut maintenant effectuer des roulades sur le c�t�, ce qui permet d��viter des situations d�sesp�r�es.  
+Jouabilité 9 : Le principal défaut quon pouvait reprocher au précédent épisode était de ne pas pouvoir courir, cest désormais chose réglée avec ce dernier épisode. Les coups sortent bien, sont nombreux, de plus on peut maintenant effectuer des roulades sur le côté, ce qui permet déviter des situations désespérées.  
 
   
 
-Int�r�t 8 : Un jeu excellent poss�dant une palette de techniques vari�e, des personnages jouables nombreux. Seul r�el d�faut, la partie sonore tr�s m�diocre compar�e aux pr�c�dents �pisodes.
+Intérêt 8 : Un jeu excellent possédant une palette de techniques variée, des personnages jouables nombreux. Seul réel défaut, la partie sonore très médiocre comparée aux précédents épisodes.

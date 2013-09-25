@@ -1,14 +1,14 @@
 ---
-user:The Jedi
-rating:4
+user: The Jedi
+rating: 4
 published: 2003-11-11T23:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/319.htm
 ---
-**Mazinger, k�zako ?**  
+**Mazinger, kézako ?**  
 
-Vous vous souvenez peut-�tre de la s�rie anim�e japonaise, import�e en France gr�ce au Club Doroth�e puis par AB Sat : Goldorak ? Et bien ce robot n'est qu'une infime partie de cette saga m�canique.  
+Vous vous souvenez peut-être de la série animée japonaise, importée en France grâce au Club Dorothée puis par AB Sat : Goldorak ? Et bien ce robot n'est qu'une infime partie de cette saga mécanique.  
 
-Ast�ro-haches et fulguro-poings ?  
+Astéro-haches et fulguro-poings ?  
 
   
 
@@ -16,27 +16,27 @@ Ast�ro-haches et fulguro-poings ?
 
 **Le jeu**  
 
-_Mazinger Z_ est un shoot them up vertical et uniquement vertical. Au d�but du jeu ainsi qu'apr�s avoir utilis� un cr�dit, vous aurez le choix de prendre un vaisseau parmi 3 : Mazinger Z, Great Mazinger et Grendinger (notre vieil ami Goldorak).  
+_Mazinger Z_ est un shoot them up vertical et uniquement vertical. Au début du jeu ainsi qu'après avoir utilisé un crédit, vous aurez le choix de prendre un vaisseau parmi 3 : Mazinger Z, Great Mazinger et Grendinger (notre vieil ami Goldorak).  
 
 Au niveau des tirs, vous en avez 3 :  
 
 - le tir normal  
 
-- le tir concentr� : laissez appuy� sur le bouton de tir normal un court instant puis relachez  
+- le tir concentré : laissez appuyé sur le bouton de tir normal un court instant puis relachez  
 
-- le tir secondaire : vous lachez une train�e de flammes de courte port�e avec votre bras; a la particularit� de d�truire les tirs adverses  
+- le tir secondaire : vous lachez une trainée de flammes de courte portée avec votre bras; a la particularité de détruire les tirs adverses  
 
-- la bombe : elle vous rend momentan�ment invuln�rable et projette un �norme tir, en fonction de votre vaisseau.  
-
-  
-
-Tant qu�on est dans les vaisseaux, chacun d�eux se distingue par son tir principal, concentr� et sa bombe. Mais globalement, ils sont classiques : tir frontal (en I), �largi (en V) ou large (en U). Goldorak lancera par exemple une ast�ro-hache verte qui zigzaguera sur l��cran et coupera des t�tes au passage.  
-
-En plus de ces diff�rences, vous pourrez collecter des power up de couleurs diff�rentes, au nombre de 3 : rouge, bleu et vert. Classique encore car dans la plupart des shoot, ces couleurs symbolisent les 3 types de tirs �voqu�s plus t�t. Mais c�est agr�able de voir que le tir � rouge � est diff�rent pour les 3 robots. Comme quoi, on peut faire vari� tout en restant dans la normalit� ;)  
+- la bombe : elle vous rend momentanément invulnérable et projette un énorme tir, en fonction de votre vaisseau.  
 
   
 
-Terminer le jeu sera tr�s dur car apr�s avoir termin� le 9� niveau (qui dit au passage, est plus facile que le 8�) on reprend au niveau 1 (num�rot� 10). Ce sera d�autant plus dur que la difficult� sera plus �lev�e (plus d�ennemis, plus acharn�s).  
+Tant quon est dans les vaisseaux, chacun deux se distingue par son tir principal, concentré et sa bombe. Mais globalement, ils sont classiques : tir frontal (en I), élargi (en V) ou large (en U). Goldorak lancera par exemple une astéro-hache verte qui zigzaguera sur lécran et coupera des têtes au passage.  
+
+En plus de ces différences, vous pourrez collecter des power up de couleurs différentes, au nombre de 3 : rouge, bleu et vert. Classique encore car dans la plupart des shoot, ces couleurs symbolisent les 3 types de tirs évoqués plus tôt. Mais cest agréable de voir que le tir « rouge » est différent pour les 3 robots. Comme quoi, on peut faire varié tout en restant dans la normalité ;)  
+
+  
+
+Terminer le jeu sera très dur car après avoir terminé le 9° niveau (qui dit au passage, est plus facile que le 8°) on reprend au niveau 1 (numéroté 10). Ce sera dautant plus dur que la difficulté sera plus élevée (plus dennemis, plus acharnés).  
 
   
 
@@ -44,7 +44,7 @@ Terminer le jeu sera tr�s dur car apr�s avoir termin� le 9� niveau (qui 
 
 **Graphismes**  
 
-Ils sont fins et tr�s soign�s. Que les ennemis soient �normes (boss) ou petits (adversaires de base), ils ne manqueront pas de couleurs et respectent tout � fait la palette de votre dessin anim� pr�f�r�. La vari�t� des niveaux vient renforcer ce sentiment.  
+Ils sont fins et très soignés. Que les ennemis soient énormes (boss) ou petits (adversaires de base), ils ne manqueront pas de couleurs et respectent tout à fait la palette de votre dessin animé préféré. La variété des niveaux vient renforcer ce sentiment.  
 
   
 
@@ -52,15 +52,15 @@ Ils sont fins et tr�s soign�s. Que les ennemis soient �normes (boss) ou pe
 
 **Animation**  
 
-Tr�s fluide. Le scrolling peut parfois para�tre un peu lent mais cela rel�ve du d�tail. Vous vous �merveillerez de voir son personnage se recroqueviller l�g�rement lorsque vous concentrez votre tir.   
+Très fluide. Le scrolling peut parfois paraître un peu lent mais cela relève du détail. Vous vous émerveillerez de voir son personnage se recroqueviller légèrement lorsque vous concentrez votre tir.   
 
   
 
   
 
-**Jouabilit�**  
+**Jouabilité**  
 
-Comme il faut mais les vaisseaux manquent quand m�me de rapidit� dans leurs d�placements. Des items d�acc�l�ration de vitesse seront � r�colter pour palier au probl�me.  
+Comme il faut mais les vaisseaux manquent quand même de rapidité dans leurs déplacements. Des items daccélération de vitesse seront à récolter pour palier au problème.  
 
   
 
@@ -68,15 +68,15 @@ Comme il faut mais les vaisseaux manquent quand m�me de rapidit� dans leurs 
 
 **Musiques**  
 
-Excellentes ! Tout droit ressorties des s�ries. Vous vous surprendrez � fredonner le g�n�rique, _Actarus, prince de l�espace_. _Goldorak, Go !_. Du bonheur.  
+Excellentes ! Tout droit ressorties des séries. Vous vous surprendrez à fredonner le générique, _Actarus, prince de lespace_. _Goldorak, Go !_. Du bonheur.  
 
   
 
   
 
-**Dur�e de vie**  
+**Durée de vie**  
 
-Tr�s longue puisque le jeu ne se finit pas (� moins que vous �puisiez vos cr�dits). 9 niveaux � conclure avec 1 boss chacun. Leur dur�e est assez variable (certains sont m�me courts).  
+Très longue puisque le jeu ne se finit pas (à moins que vous épuisiez vos crédits). 9 niveaux à conclure avec 1 boss chacun. Leur durée est assez variable (certains sont même courts).  
 
   
 
@@ -84,4 +84,4 @@ Tr�s longue puisque le jeu ne se finit pas (� moins que vous �puisiez vos 
 
 **Conclusion**  
 
-Tr�s bonne d�couverte, ce jeu ravira autant les amateurs de la s�rie, de shoot them up que les n�ophytes de base. Il r�unit tous les ingr�dients d�un bon jeu : graphismes et musiques agr�ables, pas trop court, maniable et un contexte qui colle bien � un d�gommage massif de vilains m�chants.
+Très bonne découverte, ce jeu ravira autant les amateurs de la série, de shoot them up que les néophytes de base. Il réunit tous les ingrédients dun bon jeu : graphismes et musiques agréables, pas trop court, maniable et un contexte qui colle bien à un dégommage massif de vilains méchants.

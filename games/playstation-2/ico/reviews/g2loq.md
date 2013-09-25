@@ -1,6 +1,6 @@
 ---
-user:G2LOQ
-rating:5
+user: G2LOQ
+rating: 5
 published: 2005-04-18T13:49:35.000Z
 legacy_url: http://www.emunova.net/veda/test/917.htm
 ---

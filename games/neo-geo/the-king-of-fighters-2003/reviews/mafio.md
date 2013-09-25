@@ -1,10 +1,10 @@
 ---
-user:Mafio
-rating:4.5
+user: Mafio
+rating: 4.5
 published: 2004-02-11T23:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/442.htm
 ---
-Enfin ! L�édition 2003 est arrivée dans notre contrée ! Et c�est avec un plaisir non dissimulé que je vais vous faire le test de Kof 2003\. Je ne l�ai pas testé sur bonne d�arcade mais sur une version de MAME « spéciale ».   
+Enfin ! Lédition 2003 est arrivée dans notre contrée ! Et cest avec un plaisir non dissimulé que je vais vous faire le test de Kof 2003\. Je ne lai pas testé sur bonne darcade mais sur une version de MAME « spéciale ».   
 
   
 
@@ -22,7 +22,7 @@ Ce King of fighters étant le dernier sur le hardware Neo-Geo je vais faire un p
 
   
 
-2003... l�année du renouveau pour SNK/Playmore, car cet opus est sans nul doute l'un des meilleur. Passée l�intro qui présente les teams et les nouveaux personnages on se retrouve devant un menu sobre mais avec tous ce qu�il faut. Lors de la sélection du joueur vous aurez sans doute du mal à retrouvez vos marques sur cette mosaïque, mais bon, on s�y habitue rapidement. La nouvelle équipe nous vient de Chine et se compose de Ash Crimson, Shen Woo et Duo-Lon. Ash vit en Chine mais a été élevé en France (pauvres de nous). Physiquement parlant, Ash est un androgyne (c�est un mec) habillé comme Elvis Presley. Son style de combat ressemble un peu à celui de "Guile", ses attaques nécessitant un temps de charge pour la majorité d�entre elles. Il réclamera beaucoup de timing. Personnellement je ne le trouve pas très efficace... trop lent.   
+2003... lannée du renouveau pour SNK/Playmore, car cet opus est sans nul doute l'un des meilleur. Passée lintro qui présente les teams et les nouveaux personnages on se retrouve devant un menu sobre mais avec tous ce quil faut. Lors de la sélection du joueur vous aurez sans doute du mal à retrouvez vos marques sur cette mosaïque, mais bon, on sy habitue rapidement. La nouvelle équipe nous vient de Chine et se compose de Ash Crimson, Shen Woo et Duo-Lon. Ash vit en Chine mais a été élevé en France (pauvres de nous). Physiquement parlant, Ash est un androgyne (cest un mec) habillé comme Elvis Presley. Son style de combat ressemble un peu à celui de "Guile", ses attaques nécessitant un temps de charge pour la majorité dentre elles. Il réclamera beaucoup de timing. Personnellement je ne le trouve pas très efficace... trop lent.   
 
 Shen Woo (Qui signifie littéralement "Dieu du Combat" en chinois) est un "puncheur" : il possède le même style de combat que Yashiro; les super cancel sont très faciles à réaliser avec lui. Efficace dans les coins il ne bénéficie par contre que d'une variété de coups limitée. Enfin, Duo-Lon, basé sur la rapidité et l'esquive vous rappellera ce bon vieux Lin.   
 
@@ -52,7 +52,7 @@ L'avantage du Tag-battle c'est la possibilité d'effectuer de nouveaux enchaîne
 
   
 
-Fini les décors fadasses et les couleurs mornes, Snk renoue avec des titres comme le 98' ! Les couleurs sont éclatantes et les backgrounds sont pour la plupart totalement nouveaux et assez sympa, avec un clin d'�il à la Neo-Geo. Des pyramides d'Egypte aux temples aztèque en passant par un toit d'immeuble. Les décors sont variés et les jeux de lumières raviront vos rétines. Lors de la sélection des personnages les portraits sont détaillés et reflètent la personnalité de chaque combattant. Au niveau des sprites le constat est un peu mitigé : si certains personnages sont absolument nickels, d'autre comme Shen Woo sont un peu pauvres ce qui est regrettable, c'est un détail mineur mais je tenais à le signaler.   
+Fini les décors fadasses et les couleurs mornes, Snk renoue avec des titres comme le 98' ! Les couleurs sont éclatantes et les backgrounds sont pour la plupart totalement nouveaux et assez sympa, avec un clin d'il à la Neo-Geo. Des pyramides d'Egypte aux temples aztèque en passant par un toit d'immeuble. Les décors sont variés et les jeux de lumières raviront vos rétines. Lors de la sélection des personnages les portraits sont détaillés et reflètent la personnalité de chaque combattant. Au niveau des sprites le constat est un peu mitigé : si certains personnages sont absolument nickels, d'autre comme Shen Woo sont un peu pauvres ce qui est regrettable, c'est un détail mineur mais je tenais à le signaler.   
 
 Venons en aux boss. Kusanagi est de retour : ce clone démoniaque n'as pas changé d'un pouce. En revanche Chizuru fait son Show avec des nouvelles techniques miroirs plutôt déroutantes mais impressionnantes graphiquement. Enfin les 2 nouveaux Boss sont soit Adel soit Mukai. Le premier est un beau gosse descendant de Mr Rugal. Son background est absolument génial, par contre lui est bof, facile à battre et peu intéressant au niveau de la conception. Le vrai boss se prénomme Mukai, c'est un Orochi au pouvoir de pierre. Son design fait penser à un mélange entre Hulk et un dieu grec, au final cela donne un boss réussi sur un background un peu glauque composé d'une tête de serpent... j'adore.  
 

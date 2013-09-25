@@ -1,6 +1,6 @@
 ---
-user:Sigfrodi
-rating:5
+user: Sigfrodi
+rating: 5
 published: 2004-11-03T20:37:40.000Z
 legacy_url: http://www.emunova.net/veda/test/722.htm
 ---

@@ -1,6 +1,6 @@
 ---
-user:Saga
-rating:2.5
+user: Saga
+rating: 2.5
 published: 2004-09-06T14:32:45.000Z
 legacy_url: http://www.emunova.net/veda/test/685.htm
 ---

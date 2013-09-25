@@ -1,6 +1,6 @@
 ---
-user:cless59
-rating:4.5
+user: cless59
+rating: 4.5
 published: 2007-01-26T02:34:56.000Z
 legacy_url: http://www.emunova.net/veda/test/1906.htm
 ---

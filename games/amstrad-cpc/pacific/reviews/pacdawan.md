@@ -1,6 +1,6 @@
 ---
-user:pacdawan
-rating:3.5
+user: pacdawan
+rating: 3.5
 published: 2005-06-17T16:48:59.000Z
 legacy_url: http://www.emunova.net/veda/test/1005.htm
 ---

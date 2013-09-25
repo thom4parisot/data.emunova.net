@@ -1,6 +1,6 @@
 ---
-user:alejandro
-rating:2.5
+user: alejandro
+rating: 2.5
 published: 2005-04-04T16:35:01.000Z
 legacy_url: http://www.emunova.net/veda/test/909.htm
 ---

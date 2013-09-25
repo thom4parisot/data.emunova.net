@@ -1,6 +1,6 @@
 ---
-user:dandyboh
-rating:3.5
+user: dandyboh
+rating: 3.5
 published: 2007-06-01T05:20:59.000Z
 legacy_url: http://www.emunova.net/veda/test/2117.htm
 ---

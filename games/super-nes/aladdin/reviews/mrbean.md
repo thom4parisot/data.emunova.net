@@ -1,6 +1,6 @@
 ---
-user:MrBean
-rating:3.5
+user: MrBean
+rating: 3.5
 published: 2004-09-03T23:08:03.000Z
 legacy_url: http://www.emunova.net/veda/test/681.htm
 ---
@@ -8,7 +8,7 @@ Lorsque les géants du dessin animé pour enfant décident de sortir une adaptat
 
   
 
-Comme l'histoire est hyper-connue, voici un mini-résumé... Au royaume d'Agrabah, un jeune voleur nommé Aladdin mène une vie plutôt simple. Jusqu'au jour où se dernier rencontra un vizir nommé Jafar, un homme malveillant qui a pour seul but de devenir sultan. Pour arriver à ses fins, il entreprit d'utiliser une lampe magique qui lui permettrait d'exaucer trois v�ux. L'objet tant convoité se situe dans la caverne aux merveilles, qui n'est pénétrable que par un être au c�ur innocent. C'est là qu'Aladdin entre dans ses plans. Il le convainc d'entrer dans la caverne et de récupérer la lampe magique pour lui ramener. Une histoire d'amour vient s'ajouter à l'histoire principale. Jasmine, la fille du sultan, désire connaître la vie « normale », c'est ainsi qu'elle rencontre Aladdin, alors qu'elle était déguisée en paysanne. Ces deux situations de base se développent au fil de l'histoire pour qu'à la fin, les gentils aient ce qu'ils désirent et que les méchants aient ce qu'ils méritent. Le jeu respecte cette histoire du début à la fin, en débutant dans les rues d'Agrabah pour terminer dans le château du Sultan, ce qui est donc un scénario digne d'un film à succès.   
+Comme l'histoire est hyper-connue, voici un mini-résumé... Au royaume d'Agrabah, un jeune voleur nommé Aladdin mène une vie plutôt simple. Jusqu'au jour où se dernier rencontra un vizir nommé Jafar, un homme malveillant qui a pour seul but de devenir sultan. Pour arriver à ses fins, il entreprit d'utiliser une lampe magique qui lui permettrait d'exaucer trois vux. L'objet tant convoité se situe dans la caverne aux merveilles, qui n'est pénétrable que par un être au cur innocent. C'est là qu'Aladdin entre dans ses plans. Il le convainc d'entrer dans la caverne et de récupérer la lampe magique pour lui ramener. Une histoire d'amour vient s'ajouter à l'histoire principale. Jasmine, la fille du sultan, désire connaître la vie « normale », c'est ainsi qu'elle rencontre Aladdin, alors qu'elle était déguisée en paysanne. Ces deux situations de base se développent au fil de l'histoire pour qu'à la fin, les gentils aient ce qu'ils désirent et que les méchants aient ce qu'ils méritent. Le jeu respecte cette histoire du début à la fin, en débutant dans les rues d'Agrabah pour terminer dans le château du Sultan, ce qui est donc un scénario digne d'un film à succès.   
 
   
 

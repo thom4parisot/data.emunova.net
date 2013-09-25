@@ -1,6 +1,6 @@
 ---
-user:Valinor
-rating:3.5
+user: Valinor
+rating: 3.5
 published: 2007-03-08T05:39:02.000Z
 legacy_url: http://www.emunova.net/veda/test/2005.htm
 ---

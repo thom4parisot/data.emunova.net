@@ -1,20 +1,20 @@
 ---
-user:Julio
-rating:4.5
+user: Julio
+rating: 4.5
 published: 2003-09-24T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/265.htm
 ---
-Voici un des derniers jeux Neogeo, sorti en 2001 par SNK. Sur le principe, ce jeu fait penser � Nightmare in the Dark, sur cette m�me console ou encore � Bubble Bobble. En effet, on peut jouer seul ou � 2 joueurs sur des niveaux qui prennent un �cran chacun, compos� de plates-formes et remplis de monstres.  
+Voici un des derniers jeux Neogeo, sorti en 2001 par SNK. Sur le principe, ce jeu fait penser à Nightmare in the Dark, sur cette même console ou encore à Bubble Bobble. En effet, on peut jouer seul ou à 2 joueurs sur des niveaux qui prennent un écran chacun, composé de plates-formes et remplis de monstres.  
 
-Le but : d�barrasser l'�cran de tous les monstres qui s'y trouvent ! Pour cela, vous incarnerez les Zupapa, petites bestioles color�es et adorables, qui trouveront des alli�s de poids en la pr�sence des Zupipi et Zupopo : des petites bestioles comme vous, mais plus petites, que vous pouvez attraper juste en passant dessus. Vous pourrez ensuite lancer ces petites bestioles sur vos adversaires, ces derniers se feront sauter dessus, ce qui les paralyse et vous permet de les �liminer tranquillement...Vous pouvez �galement ass�ner des coups de poing � vos adversaires pour mieux les d�truire !  
-
-  
-
-En cours de jeu vous aurez l'occasion de trouver des bonus divers : le "S", pour speed, qui vous parmettra d'aller beaucoup plus vite, le "P", pour punch, vous permet de venir � bout des monstres en un coup de poing seulement....Prenez garde : t�chez de rester en vie quand vous avez r�cup�r� ces pr�cieux bonus !  
+Le but : débarrasser l'écran de tous les monstres qui s'y trouvent ! Pour cela, vous incarnerez les Zupapa, petites bestioles colorées et adorables, qui trouveront des alliés de poids en la présence des Zupipi et Zupopo : des petites bestioles comme vous, mais plus petites, que vous pouvez attraper juste en passant dessus. Vous pourrez ensuite lancer ces petites bestioles sur vos adversaires, ces derniers se feront sauter dessus, ce qui les paralyse et vous permet de les éliminer tranquillement...Vous pouvez également asséner des coups de poing à vos adversaires pour mieux les détruire !  
 
   
 
-Bien s�r, � la fin de chaque niveau, vous aurez droit � un Boss, qui sera souvent impressionnant, blind� de points de vie et difficile � battre ! En parlant de niveaux, ceux-ci sont � th�me : le Japon, la f�te foraine....Et les ennemis sont bien s�r en fonction des niveaux, notons que le niveau final est un m�lange subtil des ennemis de tous les autres niveaux !!!  
+En cours de jeu vous aurez l'occasion de trouver des bonus divers : le "S", pour speed, qui vous parmettra d'aller beaucoup plus vite, le "P", pour punch, vous permet de venir à bout des monstres en un coup de poing seulement....Prenez garde : tâchez de rester en vie quand vous avez récupéré ces précieux bonus !  
+
+  
+
+Bien sûr, à la fin de chaque niveau, vous aurez droit à un Boss, qui sera souvent impressionnant, blindé de points de vie et difficile à battre ! En parlant de niveaux, ceux-ci sont à thème : le Japon, la fête foraine....Et les ennemis sont bien sûr en fonction des niveaux, notons que le niveau final est un mélange subtil des ennemis de tous les autres niveaux !!!  
 
   
 
@@ -24,7 +24,7 @@ Bien s�r, � la fin de chaque niveau, vous aurez droit � un Boss, qui sera 
 
   
 
-Mignons, color�s, bien faits, ils ont tout pour plaire ! Votre moiti� appr�ciera (test� et approuv�)  
+Mignons, colorés, bien faits, ils ont tout pour plaire ! Votre moitié appréciera (testé et approuvé)  
 
   
 
@@ -34,17 +34,17 @@ Mignons, color�s, bien faits, ils ont tout pour plaire ! Votre moiti� appr�
 
   
 
-Excellente, pas de ralentissements, m�me quand il y a beaucoup d'ennemis.  
+Excellente, pas de ralentissements, même quand il y a beaucoup d'ennemis.  
 
   
 
   
 
-**Jouabilit�**  
+**Jouabilité**  
 
   
 
-Sans faille, elle permet un contr�le tr�s pr�cis des Zupapa, ce qui est n�cessaire �tant donn� la difficult� devant certains Boss...  
+Sans faille, elle permet un contrôle très précis des Zupapa, ce qui est nécessaire étant donné la difficulté devant certains Boss...  
 
   
 
@@ -54,17 +54,17 @@ Sans faille, elle permet un contr�le tr�s pr�cis des Zupapa, ce qui est n�
 
   
 
-Tr�s sympa et agr�able, elle se laisse volontiers �couter.  
+Très sympa et agréable, elle se laisse volontiers écouter.  
 
   
 
   
 
-**Dur�e de vie**  
+**Durée de vie**  
 
   
 
-Comme beaucoup de jeux d'arcade, Zupapa se finit assez rapidement, mais vous prendrez du plaisir � le finir � nouveau.  
+Comme beaucoup de jeux d'arcade, Zupapa se finit assez rapidement, mais vous prendrez du plaisir à le finir à nouveau.  
 
   
 
@@ -76,4 +76,4 @@ Comme beaucoup de jeux d'arcade, Zupapa se finit assez rapidement, mais vous pre
 
   
 
-Zupapa est un tr�s bon jeu plein de fun, et qui mettra vos r�flexes � rude �preuve ! Je ne peux que vous le conseiller pour pimenter une soir�e, � 2 c'est vraiment sympa...
+Zupapa est un très bon jeu plein de fun, et qui mettra vos réflexes à rude épreuve ! Je ne peux que vous le conseiller pour pimenter une soirée, à 2 c'est vraiment sympa...

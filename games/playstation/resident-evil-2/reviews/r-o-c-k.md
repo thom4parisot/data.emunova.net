@@ -1,6 +1,6 @@
 ---
-user:R O C K
-rating:4
+user: R O C K
+rating: 4
 published: 2005-01-11T12:20:48.000Z
 legacy_url: http://www.emunova.net/veda/test/834.htm
 ---
@@ -12,7 +12,7 @@ Digne successeur de Resident Evil (RE), ce deuxième opus sort deux ans après l
 
 Resident Evil vous a amené à visiter (en jouant deux agents de la STARS : Special Tactics and Rescue Squad) un manoir où des évènements étranges se sont déroulés, pour finir dans un laboratoire secret de la Umbrella Corp. Sur fond de manipulation génétique, destinée à la fabrication d'armes biologiques, le scénario de RE vous a permis de connaître les raisons qui font que des zombies se baladent un peu partout et que vous avez combattus...  
 
-Resident Evil 2 vous installe dans un contexte un peu différent, dans la mesure où le T-Virus a infecté toute la ville de Raccoon. Ce deuxième opus met en scène, à l'instar du premier, deux personnages jouables. Leon S. Kennedy et Claire Redfield (oui la s�ur de Chris Redfield, l'un des héros du premier). Leon est un agent de police de la RCPD, qui commence son premier jour de boulot, et Claire Redfield qui vient à Raccoon City pour chercher son frère. C'est dans ce contexte que RE2 vous invite à démarrer une nouvelle aventure de survival horror, genre que RE introduisit ou remit au goût du jour...  
+Resident Evil 2 vous installe dans un contexte un peu différent, dans la mesure où le T-Virus a infecté toute la ville de Raccoon. Ce deuxième opus met en scène, à l'instar du premier, deux personnages jouables. Leon S. Kennedy et Claire Redfield (oui la sur de Chris Redfield, l'un des héros du premier). Leon est un agent de police de la RCPD, qui commence son premier jour de boulot, et Claire Redfield qui vient à Raccoon City pour chercher son frère. C'est dans ce contexte que RE2 vous invite à démarrer une nouvelle aventure de survival horror, genre que RE introduisit ou remit au goût du jour...  
 
   
 

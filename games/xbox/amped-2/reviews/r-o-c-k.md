@@ -1,6 +1,6 @@
 ---
-user:R O C K
-rating:4.5
+user: R O C K
+rating: 4.5
 published: 2003-12-25T23:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/367.htm
 ---
@@ -40,11 +40,11 @@ Pour faire une figure, il vous faut donc prendre votre élan avec le bouton **A*
 
   
 
-Les graphismes sont encore une fois magnifiques avec des montagnes (comportant chacune plusieurs pistes) donnant des vues imprenables et le hors-piste est plus ou moins permis en fonction des pistes (on est un peu moins libre que dans le premier). Amped 2 suit le chemin d'Amped tout en apportant des améliorations notables. Des effets graphiques ont été ajoutés, et la distance d'affichage est encore plus grande. Mais les animations des riders sont plutôt "standardes" et loin de la qualité de **1080 Snowboarding** sur**N64** (qui fait encore référence!). En tout cas, même techniquement Amped 2 joue la carte du réalisme avec des graphismes sobres avec des couleurs bien choisies (non pas des couleurs criardes comme dans SSX 3). Dans Amped 2, la poudreuse ressemble vraiment à de la poudreuse, et vous sentirez la différence avec les autres jeux, lors de la première prise de quart effecuée. Les snowboarders ont bénéficié d�un traitement de faveur au niveau graphique, car ils ont été très bien modélisés. Chaque flips ou grabs sont identiques à la réalité, et si vous êtes un "rider" dans la vrai vie, vous ne pourrez qu'admirer le travail fait sur les différentes figures faisables par les personnages du jeu. Pas de mouvements superflus ou excentriques comme on pourrait voir dans SSX 3, encore une fois l'animation de Amped 2 reste fidèle à la réalité.  
+Les graphismes sont encore une fois magnifiques avec des montagnes (comportant chacune plusieurs pistes) donnant des vues imprenables et le hors-piste est plus ou moins permis en fonction des pistes (on est un peu moins libre que dans le premier). Amped 2 suit le chemin d'Amped tout en apportant des améliorations notables. Des effets graphiques ont été ajoutés, et la distance d'affichage est encore plus grande. Mais les animations des riders sont plutôt "standardes" et loin de la qualité de **1080 Snowboarding** sur**N64** (qui fait encore référence!). En tout cas, même techniquement Amped 2 joue la carte du réalisme avec des graphismes sobres avec des couleurs bien choisies (non pas des couleurs criardes comme dans SSX 3). Dans Amped 2, la poudreuse ressemble vraiment à de la poudreuse, et vous sentirez la différence avec les autres jeux, lors de la première prise de quart effecuée. Les snowboarders ont bénéficié dun traitement de faveur au niveau graphique, car ils ont été très bien modélisés. Chaque flips ou grabs sont identiques à la réalité, et si vous êtes un "rider" dans la vrai vie, vous ne pourrez qu'admirer le travail fait sur les différentes figures faisables par les personnages du jeu. Pas de mouvements superflus ou excentriques comme on pourrait voir dans SSX 3, encore une fois l'animation de Amped 2 reste fidèle à la réalité.  
 
   
 
-L'ambiance sonore n'est pas en reste, avec plus de 300 morceaux à votre disposition, allant du rock à la techno, en passant par le reggae. Un autre point positif, ou une politique voulue par **Microsoft** pour leurs titres récents (**Top Spin**), ils sont en français dans le texte et au niveau des voix aussi. Vous aurez la chance d�entendre des répliques hilarantes des caméramans et autres personnages du jeu (pendant vos descentes), dans la langue de Molière. Vous avez aussi la possibilité de rajouter **vos chansons sur le disque dur**, et même de créer une liste de vos chansons favorites pour les écouter pendant le jeu.   
+L'ambiance sonore n'est pas en reste, avec plus de 300 morceaux à votre disposition, allant du rock à la techno, en passant par le reggae. Un autre point positif, ou une politique voulue par **Microsoft** pour leurs titres récents (**Top Spin**), ils sont en français dans le texte et au niveau des voix aussi. Vous aurez la chance dentendre des répliques hilarantes des caméramans et autres personnages du jeu (pendant vos descentes), dans la langue de Molière. Vous avez aussi la possibilité de rajouter **vos chansons sur le disque dur**, et même de créer une liste de vos chansons favorites pour les écouter pendant le jeu.   
 
   
 

@@ -1,6 +1,6 @@
 ---
-user:alejandro
-rating:4
+user: alejandro
+rating: 4
 published: 2005-03-11T19:17:15.000Z
 legacy_url: http://www.emunova.net/veda/test/895.htm
 ---
@@ -52,7 +52,7 @@ Bref côté jouabilité, même s'il reste quelques points à améliorer, le jeu 
 
   
 
-Vous l'aurez compris avec le titre (qui est très original, oui je sais), à mon goût le seul mode vraiment intéressant dans le jeu est le mode carrière. Bien entendu que les autres modes (compétition, entraînement, match amical etc�) peuvent être sympas à essayer (surtout pour débloquer des points FIFA, sur lesquels on reviendra), mais le mode carrière est le seul mode vraiment EXCELLENTISSIME dans le jeu. Après à la limite on peut placer le mode "partie en ligne", que je hacherais (on le saura) un peu plus bas.  
+Vous l'aurez compris avec le titre (qui est très original, oui je sais), à mon goût le seul mode vraiment intéressant dans le jeu est le mode carrière. Bien entendu que les autres modes (compétition, entraînement, match amical etc) peuvent être sympas à essayer (surtout pour débloquer des points FIFA, sur lesquels on reviendra), mais le mode carrière est le seul mode vraiment EXCELLENTISSIME dans le jeu. Après à la limite on peut placer le mode "partie en ligne", que je hacherais (on le saura) un peu plus bas.  
 
   
 
@@ -92,7 +92,7 @@ Finalement, si on devait s'arrêter à cela ce ne serait pas grave, mais le piii
 
   
 
-Finalement, les bugs. Alors même si le jeu est excellent, c'est plutôt énervant que vers le milieu de la saison, si vous avez joué beaucoup de matchs intermédiaires (coupes etc�), à la fin de chaque match vous entendez "He oui Rémi, la saison est terminée", ou alors vous êtes en pleine phase de poule en Champions League, vous perdez un match important et vous entendez : "De toute façon ils sont déjà qualifiés". Vous l'aurez compris, à la longue c'est lourd.  
+Finalement, les bugs. Alors même si le jeu est excellent, c'est plutôt énervant que vers le milieu de la saison, si vous avez joué beaucoup de matchs intermédiaires (coupes etc), à la fin de chaque match vous entendez "He oui Rémi, la saison est terminée", ou alors vous êtes en pleine phase de poule en Champions League, vous perdez un match important et vous entendez : "De toute façon ils sont déjà qualifiés". Vous l'aurez compris, à la longue c'est lourd.  
 
   
 
@@ -108,7 +108,7 @@ Mais bon à la limite tout ceci n'est pas bien méchant, le truc vraiment énerv
 
   
 
-FIFA 2005 est, comme les autres FIFA, un jeu avec ses qualités et ses défauts, des fois il peut paraître bâclé, mais la qualité de la réalisation (ici je veux parler des idées et des concepts), la beauté du jeu, son réalisme et surtout le fait que "tout est vrai" (noms des joueurs, maillots des équipes, sponsors etc�) font vite oublier le reste. Un jeu à tester absolument si vous n'avez pas de préjugés dessus.  
+FIFA 2005 est, comme les autres FIFA, un jeu avec ses qualités et ses défauts, des fois il peut paraître bâclé, mais la qualité de la réalisation (ici je veux parler des idées et des concepts), la beauté du jeu, son réalisme et surtout le fait que "tout est vrai" (noms des joueurs, maillots des équipes, sponsors etc) font vite oublier le reste. Un jeu à tester absolument si vous n'avez pas de préjugés dessus.  
 
   
 

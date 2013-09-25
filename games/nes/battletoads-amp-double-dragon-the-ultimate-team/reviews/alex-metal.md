@@ -1,6 +1,6 @@
 ---
-user:Alex-Metal
-rating:4
+user: Alex-Metal
+rating: 4
 published: 2008-01-13T22:26:33.000Z
 legacy_url: http://www.emunova.net/veda/test/2447.htm
 ---

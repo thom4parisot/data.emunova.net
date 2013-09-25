@@ -1,6 +1,6 @@
 ---
-user:Antarka
-rating:3.5
+user: Antarka
+rating: 3.5
 published: 2009-10-17T01:29:08.000Z
 legacy_url: http://www.emunova.net/veda/test/3449.htm
 ---

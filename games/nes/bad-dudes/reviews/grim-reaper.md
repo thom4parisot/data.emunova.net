@@ -1,6 +1,6 @@
 ---
-user:Grim Reaper
-rating:2
+user: Grim Reaper
+rating: 2
 published: 2004-07-08T09:34:09.000Z
 legacy_url: http://www.emunova.net/veda/test/597.htm
 ---

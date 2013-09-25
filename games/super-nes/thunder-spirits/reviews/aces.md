@@ -1,6 +1,6 @@
 ---
-user:Aces
-rating:1
+user: Aces
+rating: 1
 published: 1970-01-01T00:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/4275.htm
 ---

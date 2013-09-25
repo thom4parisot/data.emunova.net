@@ -1,6 +1,6 @@
 ---
-user:Krizalid
-rating:3
+user: Krizalid
+rating: 3
 published: 2004-12-23T12:46:10.000Z
 legacy_url: http://www.emunova.net/veda/test/788.htm
 ---

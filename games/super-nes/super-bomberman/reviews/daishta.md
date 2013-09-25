@@ -1,6 +1,6 @@
 ---
-user:daishta
-rating:4
+user: daishta
+rating: 4
 published: 2004-08-27T17:48:13.000Z
 legacy_url: http://www.emunova.net/veda/test/672.htm
 ---

@@ -1,6 +1,6 @@
 ---
-user:pred
-rating:3.5
+user: pred
+rating: 3.5
 published: 2005-11-02T13:39:46.000Z
 legacy_url: http://www.emunova.net/veda/test/1170.htm
 ---

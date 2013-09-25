@@ -1,10 +1,10 @@
 ---
-user:faboss
-rating:3
+user: faboss
+rating: 3
 published: 2003-07-07T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/154.htm
 ---
-Un jeu de course Square �a existe? Oui, il s'agit de Rad Racer, un jeu tr�s proche de Out Run.  
+Un jeu de course Square ça existe? Oui, il s'agit de Rad Racer, un jeu très proche de Out Run.  
 
   
 
@@ -12,7 +12,7 @@ Un jeu de course Square �a existe? Oui, il s'agit de Rad Racer, un jeu tr�s 
 
   
 
-Avant de s'�lancer sur les routes, il convient de choisir sa monture. Une fausse-Ferrari ou une F1 s'offrent aux pilotes en mal de sensations. Pr�cisons tout de suite que les voitures ont exactement le m�me comportement. Seules les voitures que vous croisez sur les routes changent.  
+Avant de s'élancer sur les routes, il convient de choisir sa monture. Une fausse-Ferrari ou une F1 s'offrent aux pilotes en mal de sensations. Précisons tout de suite que les voitures ont exactement le même comportement. Seules les voitures que vous croisez sur les routes changent.  
 
   
 
@@ -20,7 +20,7 @@ Avant de s'�lancer sur les routes, il convient de choisir sa monture. Une faus
 
   
 
-Sur la route, on se retrouve vraiment en face d'une copie de Out Run. On slalome entre les voitures qui par ailleurs n'h�sitent pas � vous envoyer sur la bas c�t�. L�, mieux vaut pas que vous heurtiez un panneau ou un arbre sinon c'est le tonneau assur�. Bien s�r le temps continu de d�filer et une fois � z�ro, il vous faut recommencer tout le niveau. Il y a en tout 8 circuits ouverts � boucler � la difficult� croissante.  
+Sur la route, on se retrouve vraiment en face d'une copie de Out Run. On slalome entre les voitures qui par ailleurs n'hésitent pas à vous envoyer sur la bas côté. Là, mieux vaut pas que vous heurtiez un panneau ou un arbre sinon c'est le tonneau assuré. Bien sûr le temps continu de défiler et une fois à zéro, il vous faut recommencer tout le niveau. Il y a en tout 8 circuits ouverts à boucler à la difficulté croissante.  
 
   
 
@@ -32,7 +32,7 @@ Sur la route, on se retrouve vraiment en face d'une copie de Out Run. On slalome
 
   
 
-**Jouabilit�** : les commandes r�pondent bien m�me si le jeu a tendance � user votre croix directionnelle (� noter qu'une pression sur haut active un turbo).  
+**Jouabilité** : les commandes répondent bien même si le jeu a tendance à user votre croix directionnelle (à noter qu'une pression sur haut active un turbo).  
 
   
 
@@ -40,7 +40,7 @@ Sur la route, on se retrouve vraiment en face d'une copie de Out Run. On slalome
 
   
 
-**Graphismes** : c'est correct pour de la NES, le jeu est color� et les sprites du d�cors efficaces. Le jeu propose, si vous poss�dez les lunettes 3d fournies, un mode permettant de voir en relief.  
+**Graphismes** : c'est correct pour de la NES, le jeu est coloré et les sprites du décors efficaces. Le jeu propose, si vous possédez les lunettes 3d fournies, un mode permettant de voir en relief.  
 
   
 
@@ -56,7 +56,7 @@ Sur la route, on se retrouve vraiment en face d'une copie de Out Run. On slalome
 
   
 
-**Dur�e de vie** : Seulement 8 pistes mais la difficult� des derniers stages r�hausse la dur�e de vie qui s'av�rent raisonnable.  
+**Durée de vie** : Seulement 8 pistes mais la difficulté des derniers stages réhausse la durée de vie qui s'avèrent raisonnable.  
 
   
 
@@ -72,4 +72,4 @@ Sur la route, on se retrouve vraiment en face d'une copie de Out Run. On slalome
 
   
 
-Au final, m�me si la ressemblance avec Outrun est un peu trop voyante, le jeu est plut�t bon compte tenu du support.
+Au final, même si la ressemblance avec Outrun est un peu trop voyante, le jeu est plutôt bon compte tenu du support.

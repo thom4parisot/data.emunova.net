@@ -1,6 +1,6 @@
 ---
-user:J.J.
-rating:4.5
+user: J.J.
+rating: 4.5
 published: 2007-03-25T02:45:15.000Z
 legacy_url: http://www.emunova.net/veda/test/2032.htm
 ---

@@ -1,6 +1,6 @@
 ---
-user:Cyrilette
-rating:3
+user: Cyrilette
+rating: 3
 published: 2009-10-17T01:28:20.000Z
 legacy_url: http://www.emunova.net/veda/test/3450.htm
 ---

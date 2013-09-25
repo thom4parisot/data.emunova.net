@@ -1,6 +1,6 @@
 ---
-user:pantoufle
-rating:4
+user: pantoufle
+rating: 4
 published: 2008-12-30T08:06:48.000Z
 legacy_url: http://www.emunova.net/veda/test/2948.htm
 ---

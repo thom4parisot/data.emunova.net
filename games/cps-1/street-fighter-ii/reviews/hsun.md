@@ -1,6 +1,6 @@
 ---
-user:Hsun
-rating:5
+user: Hsun
+rating: 5
 published: 2003-08-11T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/213.htm
 ---

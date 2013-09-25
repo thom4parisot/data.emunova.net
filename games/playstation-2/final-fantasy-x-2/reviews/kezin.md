@@ -1,6 +1,6 @@
 ---
-user:Kezin
-rating:3.5
+user: Kezin
+rating: 3.5
 published: 2007-01-31T06:05:30.000Z
 legacy_url: http://www.emunova.net/veda/test/1628.htm
 ---

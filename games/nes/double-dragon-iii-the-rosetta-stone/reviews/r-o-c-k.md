@@ -1,6 +1,6 @@
 ---
-user:R O C K
-rating:4
+user: R O C K
+rating: 4
 published: 2004-01-09T23:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/391.htm
 ---

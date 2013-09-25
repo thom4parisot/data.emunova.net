@@ -1,6 +1,6 @@
 ---
-user:MrBean
-rating:4.5
+user: MrBean
+rating: 4.5
 published: 2004-08-06T22:52:23.000Z
 legacy_url: http://www.emunova.net/veda/test/646.htm
 ---
@@ -24,7 +24,7 @@ Comme dans tout bon jeu de rôle tactique, le principe est de déplacer ces pers
 
   
 
-Dans ceux-ci, nous avons d'abord le triangle des armes. Vous ne pourrez pas contourner cet élément car il est très important et judicieux. Vous devrez apprendre par c�ur ceci : l'épée est supérieure à la hache, la hache domine la lance et la lance bât l'épée. Ainsi, si vous rencontrez un barbare qui utilise la hache, l'épée est la meilleure arme contre cet ennemi. Si votre but est de protéger une forteresse contre l'attaque d'une bande d'épéistes, le meilleur choix serait d'équiper votre armée de lances. Un autre système similaire au précédent est le triangle de la magie. Il est du même principe, et se présente comme suit : la magie des éléments est supérieure à celle de la lumière, la magie lumière bat la magie obscure et la magie obscure domine la magie des éléments. Ainsi vous devrez utiliser ce triangle comme vous le faites avec le triangle des armes.  
+Dans ceux-ci, nous avons d'abord le triangle des armes. Vous ne pourrez pas contourner cet élément car il est très important et judicieux. Vous devrez apprendre par cur ceci : l'épée est supérieure à la hache, la hache domine la lance et la lance bât l'épée. Ainsi, si vous rencontrez un barbare qui utilise la hache, l'épée est la meilleure arme contre cet ennemi. Si votre but est de protéger une forteresse contre l'attaque d'une bande d'épéistes, le meilleur choix serait d'équiper votre armée de lances. Un autre système similaire au précédent est le triangle de la magie. Il est du même principe, et se présente comme suit : la magie des éléments est supérieure à celle de la lumière, la magie lumière bat la magie obscure et la magie obscure domine la magie des éléments. Ainsi vous devrez utiliser ce triangle comme vous le faites avec le triangle des armes.  
 
   
 

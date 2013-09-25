@@ -1,6 +1,6 @@
 ---
-user:Koguma
-rating:4.5
+user: Koguma
+rating: 4.5
 published: 2009-07-14T09:58:25.000Z
 legacy_url: http://www.emunova.net/veda/test/3317.htm
 ---

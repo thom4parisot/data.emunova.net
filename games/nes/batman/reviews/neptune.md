@@ -1,6 +1,6 @@
 ---
-user:Neptune
-rating:5
+user: Neptune
+rating: 5
 published: 2007-02-12T00:51:43.000Z
 legacy_url: http://www.emunova.net/veda/test/1950.htm
 ---

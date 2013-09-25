@@ -1,6 +1,6 @@
 ---
-user:Darkfaltz
-rating:5
+user: Darkfaltz
+rating: 5
 published: 2003-07-22T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/177.htm
 ---

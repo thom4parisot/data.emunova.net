@@ -1,10 +1,10 @@
 ---
-user:Spacewolf1
-rating:4
+user: Spacewolf1
+rating: 4
 published: 2003-05-05T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/57.htm
 ---
-En 1994 sort dans les salles d�arcade, le célèbre Daytona USA de Sega. 7 ans plus tard (après un passage sur la Saturn), il sort sur la Dreamcast...  
+En 1994 sort dans les salles darcade, le célèbre Daytona USA de Sega. 7 ans plus tard (après un passage sur la Saturn), il sort sur la Dreamcast...  
 
   
 

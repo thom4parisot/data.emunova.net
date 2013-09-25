@@ -1,6 +1,6 @@
 ---
-user:The Jedi
-rating:5
+user: The Jedi
+rating: 5
 published: 2007-06-14T04:07:30.000Z
 legacy_url: http://www.emunova.net/veda/test/2137.htm
 ---

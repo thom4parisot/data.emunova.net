@@ -1,26 +1,26 @@
 ---
-user:yoman2600
-rating:4
+user: yoman2600
+rating: 4
 published: 2003-07-05T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/148.htm
 ---
-Quelque part dans une autre galaxie, le tyran Greedy essaye de capturer les autres plan�tes en transformant leur population en esclaves. La situation empire, vous seul pouvez emp�cher cette menace d�aboutir � son terme.  
+Quelque part dans une autre galaxie, le tyran Greedy essaye de capturer les autres planètes en transformant leur population en esclaves. La situation empire, vous seul pouvez empêcher cette menace daboutir à son terme.  
 
   
 
-Dans ce jeu de plate-forme, vous contr�lez un petit personnage en forme d��toile qui doit parcourir 7 plan�tes peupl�es d�ennemis. Chaque plan�te a un th�me bien pr�cis : l�eau, le feu, la nature, la glace et j�en passe. Dans des d�cors tr�s color�s, d�taill�s, globalement tr�s r�ussis, vous allez devoir franchir chaque niveau parsem� d�obstacles.  
+Dans ce jeu de plate-forme, vous contrôlez un petit personnage en forme détoile qui doit parcourir 7 planètes peuplées dennemis. Chaque planète a un thème bien précis : leau, le feu, la nature, la glace et jen passe. Dans des décors très colorés, détaillés, globalement très réussis, vous allez devoir franchir chaque niveau parsemé dobstacles.  
 
   
 
-Pour les franchir, notre h�ros a plusieurs atouts dans sa poche. Bien s�r il peut sauter mais surtout tel l�Inspecteur Gadget, il peut �tirer ses bras afin de s�accrocher un peu partout, grimper aux �chelles � la seule force de ses bras, passer avec agilit� d�arbre en arbre, nager avec une grande facilit�. Avec ses bras extensibles, il peut aussi saisir des objets qui lui seront utiles pour d�vier des pi�ges ou pour les donner � certains personnages pour qu�ils vous laissent passer. Pour les ennemis, ces bras sont tout aussi efficaces puisqu�il peut aussi attraper un ennemi et lui balancer un coup de t�te m�morable.  
+Pour les franchir, notre héros a plusieurs atouts dans sa poche. Bien sûr il peut sauter mais surtout tel lInspecteur Gadget, il peut étirer ses bras afin de saccrocher un peu partout, grimper aux échelles à la seule force de ses bras, passer avec agilité darbre en arbre, nager avec une grande facilité. Avec ses bras extensibles, il peut aussi saisir des objets qui lui seront utiles pour dévier des pièges ou pour les donner à certains personnages pour quils vous laissent passer. Pour les ennemis, ces bras sont tout aussi efficaces puisquil peut aussi attraper un ennemi et lui balancer un coup de tête mémorable.  
 
   
 
-Niveau r�alisation le jeu s�en sort bien, les d�cors sont vari�s ; les graphismes tr�s color�s et le design enfantin donnent de bons r�sultats, m�me si la Megadrive montre ici ses limites au niveau du nombre de couleurs affichables simultan�ment. Notre h�ros est bien anim�, poss�dant une large palette de mouvements bien d�compos�s. Il semble vivant, gr�ce � ses nombreuses mimiques et son visage est tr�s expressif suivant vos diff�rentes actions. On peut aussi noter certaines originalit�s dans ce jeu comme un niveau o� vous devrez transporter des objets tout du long car ils vous seront indispensables ou bien un passage o� il faudra vous d�barrasser d�un adversaire dans un combat de boules de neige acharn�. La jouabilit� vous demandera un petit temps d�adaptation pour vous familiariser aux incroyables capacit�s physiques de votre personnage, quant � la dur�e de vie, les 7 plan�tes sont compos�es chacune de 3 niveaux, 2 niveaux de jeu de plate-forme + 1 niveau contre un boss, seule la derni�re plan�te �chappe � cette r�gle. Au total donc, une vingtaine de niveaux parfois un peu courts mais cela reste toutefois raisonnable.  
+Niveau réalisation le jeu sen sort bien, les décors sont variés ; les graphismes très colorés et le design enfantin donnent de bons résultats, même si la Megadrive montre ici ses limites au niveau du nombre de couleurs affichables simultanément. Notre héros est bien animé, possédant une large palette de mouvements bien décomposés. Il semble vivant, grâce à ses nombreuses mimiques et son visage est très expressif suivant vos différentes actions. On peut aussi noter certaines originalités dans ce jeu comme un niveau où vous devrez transporter des objets tout du long car ils vous seront indispensables ou bien un passage où il faudra vous débarrasser dun adversaire dans un combat de boules de neige acharné. La jouabilité vous demandera un petit temps dadaptation pour vous familiariser aux incroyables capacités physiques de votre personnage, quant à la durée de vie, les 7 planètes sont composées chacune de 3 niveaux, 2 niveaux de jeu de plate-forme + 1 niveau contre un boss, seule la dernière planète échappe à cette règle. Au total donc, une vingtaine de niveaux parfois un peu courts mais cela reste toutefois raisonnable.  
 
   
 
-Par cons�quent, c�est un tr�s bon jeu qui vous plaira certainement si vous �tes fan de jeux de plates-formes bien entendu car il est bien r�alis� avec quelques id�es originales, ne poss�de pas de grands d�fauts sauf peut-�tre une dur�e de vie un peu limite.  
+Par conséquent, cest un très bon jeu qui vous plaira certainement si vous êtes fan de jeux de plates-formes bien entendu car il est bien réalisé avec quelques idées originales, ne possède pas de grands défauts sauf peut-être une durée de vie un peu limite.  
 
   
 
@@ -28,16 +28,16 @@ Par cons�quent, c�est un tr�s bon jeu qui vous plaira certainement si vous
 
   
 
-Graphismes 8 : Tr�s color�s malgr� le sempiternel probl�me de la palette de couleurs de la Megadrive, tr�s d�taill�s, une r�ussite.  
+Graphismes 8 : Très colorés malgré le sempiternel problème de la palette de couleurs de la Megadrive, très détaillés, une réussite.  
 
   
 
-Animation 8 : Le h�ros est bien anim�, dispose d�une palette de mouvements cons�quente. Encore une fois c�est excellent.  
+Animation 8 : Le héros est bien animé, dispose dune palette de mouvements conséquente. Encore une fois cest excellent.  
 
   
 
-Jouabilit� 7 : Un petit temps d�adaptation aux capacit�s de Ristar est n�cessaire, sinon y�a pas de probl�me  
+Jouabilité 7 : Un petit temps dadaptation aux capacités de Ristar est nécessaire, sinon ya pas de problème  
 
   
 
-Int�r�t 8 : Un bon jeu sans grand d�faut � part peut-�tre une dur�e de vie un peu r�duite. Il fait partie des meilleurs jeux de plates-formes de la Megadrive.
+Intérêt 8 : Un bon jeu sans grand défaut à part peut-être une durée de vie un peu réduite. Il fait partie des meilleurs jeux de plates-formes de la Megadrive.

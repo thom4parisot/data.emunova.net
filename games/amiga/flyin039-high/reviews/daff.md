@@ -1,6 +1,6 @@
 ---
-user:daff
-rating:3.5
+user: daff
+rating: 3.5
 published: 2007-09-22T03:06:10.000Z
 legacy_url: http://www.emunova.net/veda/test/2305.htm
 ---

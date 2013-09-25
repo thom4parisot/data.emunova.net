@@ -1,6 +1,6 @@
 ---
-user:yoyo
-rating:2
+user: yoyo
+rating: 2
 published: 2004-07-06T19:50:24.000Z
 legacy_url: http://www.emunova.net/veda/test/594.htm
 ---

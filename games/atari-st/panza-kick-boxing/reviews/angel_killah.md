@@ -1,6 +1,6 @@
 ---
-user:angel_killah
-rating:4.5
+user: angel_killah
+rating: 4.5
 published: 2003-06-23T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/124.htm
 ---
@@ -8,27 +8,27 @@ legacy_url: http://www.emunova.net/veda/test/124.htm
 
   
 
-Panza Kick Boxing est un tres grand jeu de kick boxing. Je trouve que c'est l'un des jeux le mieux realis� sur ce sport.  
+Panza Kick Boxing est un tres grand jeu de kick boxing. Je trouve que c'est l'un des jeux le mieux realisé sur ce sport.  
 
-Ici pas de coups sp�ciaux, des vrais enchainement de boxe, le veritable art de la boxe.  
-
-  
-
-**Dirigez votre carri�re de boxeur**  
+Ici pas de coups spéciaux, des vrais enchainement de boxe, le veritable art de la boxe.  
 
   
 
-Vous allez maintenant dirigez votre propre carri�re, en effet vous pouvez apportez certaines modifications � votre personnage comme le nom et la nationalit�, choisir sa t�te...  
+**Dirigez votre carrière de boxeur**  
 
   
 
-Vous debuterez avec votre personnage aux caract�ristiques relativement faible, � vous de changez tout �a ;)  
-
-Vous avez la salle d'entrainement, o� vous pourrez am�liorer vos caracteristiques, comme la force, les reflexes, l'endurance en s'entrainant � la corde, � soulever des poids, tapez dans un punching ball, bref un entrainement proche de la r�alit�.  
+Vous allez maintenant dirigez votre propre carrière, en effet vous pouvez apportez certaines modifications à votre personnage comme le nom et la nationalité, choisir sa tête...  
 
   
 
-Une grande innovation aussi , vous pouvez aussi choisir vos coups parmi une large flop�e de disponibles, que vous pourrez assignez � la touche de votre choix, ce qui am�liore le c�t� personalisable et technique du jeu.  
+Vous debuterez avec votre personnage aux caractéristiques relativement faible, à vous de changez tout ça ;)  
+
+Vous avez la salle d'entrainement, où vous pourrez améliorer vos caracteristiques, comme la force, les reflexes, l'endurance en s'entrainant à la corde, à soulever des poids, tapez dans un punching ball, bref un entrainement proche de la réalité.  
+
+  
+
+Une grande innovation aussi , vous pouvez aussi choisir vos coups parmi une large flopée de disponibles, que vous pourrez assignez à la touche de votre choix, ce qui améliore le côté personalisable et technique du jeu.  
 
   
 
@@ -36,36 +36,36 @@ Une grande innovation aussi , vous pouvez aussi choisir vos coups parmi une larg
 
   
 
-Alors l�, on re�oit une claque, les combats sont merveilleusement bien realis�s, aussi bien techniquement que graphiquement.  
+Alors là, on reçoit une claque, les combats sont merveilleusement bien realisés, aussi bien techniquement que graphiquement.  
 
 L'animation est fluide, les couleurs vives, et l'environnement d'une salle de boxe est bien reproduit.  
 
-Sur, le ring, vous combattrez en la pr�sence de l'arbitre, et devant que quelques p�lerins (�a c'est dans les premiers matchs).  
+Sur, le ring, vous combattrez en la présence de l'arbitre, et devant que quelques pèlerins (ça c'est dans les premiers matchs).  
 
-La sant� des boxeurs est subtilement g�r�e, elle est repr�sent�e par des lumi�res, elles s'eteignent au fur et � mesure que votre sant� diminue...  
+La santé des boxeurs est subtilement gérée, elle est représentée par des lumières, elles s'eteignent au fur et à mesure que votre santé diminue...  
 
-Vous verrez que dans l'�volution de votre personnage, il pourra mettre � terre l'adversaire en 3 coups !  
+Vous verrez que dans l'évolution de votre personnage, il pourra mettre à terre l'adversaire en 3 coups !  
 
-Dans les combats plus importants (pour remporter une m�daille par exemple), l'arri�re plan est compl�tement chang�, il y a un grand public, et vous vous battrez sous les projecteurs ;)  
+Dans les combats plus importants (pour remporter une médaille par exemple), l'arrière plan est complètement changé, il y a un grand public, et vous vous battrez sous les projecteurs ;)  
 
-Vous verrez aussi, � force de jouer, que votre personnage commence � prendre des mimiques, quand il gagnera souvent, il commencera � prendre la grosse t�te en faisant le grand �cart en faisant montrer ses muscles...  
+Vous verrez aussi, à force de jouer, que votre personnage commence à prendre des mimiques, quand il gagnera souvent, il commencera à prendre la grosse tête en faisant le grand écart en faisant montrer ses muscles...  
 
   
 
-**Jouabilit�**  
+**Jouabilité**  
 
-Tr�s bonne, vous pouvez assigner chaque coup � la touche que vous voulez !  
+Très bonne, vous pouvez assigner chaque coup à la touche que vous voulez !  
 
 **Graphisme**  
 
-Tr�s beau pour l'�poque, des graphismes fluides, l'ambiance d'un stade de boxe est particuli�rement bien reproduite.  
+Très beau pour l'époque, des graphismes fluides, l'ambiance d'un stade de boxe est particulièrement bien reproduite.  
 
-**Dur�e de vie**  
+**Durée de vie**  
 
-Assez bonne, vous aurez du mal � battre Panza ;)  
+Assez bonne, vous aurez du mal à battre Panza ;)  
 
-La dur�e de vie est largement rallong�e avec le mode 2 joueurs :)  
+La durée de vie est largement rallongée avec le mode 2 joueurs :)  
 
   
 
-_Un remake de ce jeu a �t� port� sur snes, un bon portage que je vous conseille �galement, le jeu se nomme **Best of the Best**_
+_Un remake de ce jeu a été porté sur snes, un bon portage que je vous conseille également, le jeu se nomme **Best of the Best**_

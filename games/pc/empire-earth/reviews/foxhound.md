@@ -1,6 +1,6 @@
 ---
-user:FoxHound
-rating:4.5
+user: FoxHound
+rating: 4.5
 published: 2012-05-10T19:10:40.000Z
 legacy_url: http://www.emunova.net/veda/test/4251.htm
 ---

@@ -1,6 +1,6 @@
 ---
-user:gubbo
-rating:2.5
+user: gubbo
+rating: 2.5
 published: 2004-12-30T14:52:47.000Z
 legacy_url: http://www.emunova.net/veda/test/818.htm
 ---
@@ -70,7 +70,7 @@ _**And the Final ?**_
 
   
 
-**\> Originalité :** L'originalité n'est donc pas spécialement au rendez-vous, on a l'impression d'être dans un Streets of Rage en largement moins bon... Disney ce n�est pas plus fort que toi...   
+**\> Originalité :** L'originalité n'est donc pas spécialement au rendez-vous, on a l'impression d'être dans un Streets of Rage en largement moins bon... Disney ce nest pas plus fort que toi...   
 
   
 

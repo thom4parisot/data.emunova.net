@@ -1,6 +1,6 @@
 ---
-user:Moondjy
-rating:4
+user: Moondjy
+rating: 4
 published: 2003-10-31T23:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/306.htm
 ---

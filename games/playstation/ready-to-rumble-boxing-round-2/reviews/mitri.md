@@ -1,6 +1,6 @@
 ---
-user:mitri
-rating:1.5
+user: mitri
+rating: 1.5
 published: 2009-05-18T19:18:36.000Z
 legacy_url: http://www.emunova.net/veda/test/3201.htm
 ---

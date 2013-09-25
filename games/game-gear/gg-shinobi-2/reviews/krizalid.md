@@ -1,6 +1,6 @@
 ---
-user:Krizalid
-rating:4
+user: Krizalid
+rating: 4
 published: 2004-12-26T13:22:52.000Z
 legacy_url: http://www.emunova.net/veda/test/806.htm
 ---
@@ -12,13 +12,13 @@ Histoire: L'école de Ninjas d'Oboro a protégé les quatre cristaux élémentai
 
   
 
-Ici comme dans GG Shinobi on n'a pas à faire à un Shinobi mais 5, à savoir : le shinobi rouge, rose, vert, bleu et jaune. Chacun a des aptitudes différentes, une arme différente et une magie différente. D�ailleurs certains Shinobi ont changé de magie entre les 2 épisodes.  
+Ici comme dans GG Shinobi on n'a pas à faire à un Shinobi mais 5, à savoir : le shinobi rouge, rose, vert, bleu et jaune. Chacun a des aptitudes différentes, une arme différente et une magie différente. Dailleurs certains Shinobi ont changé de magie entre les 2 épisodes.  
 
-Par exemple, le rouge n'a pas vraiment d'aptitude particulière, il utilise son épée pour se battre, sa magie fait appel à la téléportation. Le rose lance des bombes, aptitude particulière, il s'accroche au plafond et sa magie permet d'éclairer une salle assombrie. Le vert lance des étoiles, sa particularité : il est le seul à faire des doubles sauts, sa magie, il crée des tremblements de terre (alors qu�avant il explosait... il a du comprendre ^^). Le bleu a une sorte de grappin qui permet de s'agripper à quelques endroits du jeu. Sa magie : il crée un tourbillon sur lui et permet de voler quelques instants. Et le dernier, le jaune quand à lui a changé d�arme, il lance un shuriken qui revient toujours sur lui, sa particularité est qu'il est le seul à marcher sur l'eau et sa magie crée un bouclier.  
+Par exemple, le rouge n'a pas vraiment d'aptitude particulière, il utilise son épée pour se battre, sa magie fait appel à la téléportation. Le rose lance des bombes, aptitude particulière, il s'accroche au plafond et sa magie permet d'éclairer une salle assombrie. Le vert lance des étoiles, sa particularité : il est le seul à faire des doubles sauts, sa magie, il crée des tremblements de terre (alors quavant il explosait... il a du comprendre ^^). Le bleu a une sorte de grappin qui permet de s'agripper à quelques endroits du jeu. Sa magie : il crée un tourbillon sur lui et permet de voler quelques instants. Et le dernier, le jaune quand à lui a changé darme, il lance un shuriken qui revient toujours sur lui, sa particularité est qu'il est le seul à marcher sur l'eau et sa magie crée un bouclier.  
 
   
 
-Le jeu se compose de 4 mondes + 1 final tout comme GG Shinobi en fait mais les ressemblances s�arrêtent là car maintenant vous devrez retourner dans chacun des niveaux pour retrouver les cristaux de couleurs ce qui vous obligera à utiliser les compétences de chaque Shinobi, et cela peut être utilisé aussi pour gonfler sa magie. Aussi à chaque niveau que vous referez les ennemis seront plus résistants. Le dernier niveau lui sera l�apothéose de ce jeu fabuleux, une confrontation avec tous les boss du jeu, et surtout avec des ninja noirs.  
+Le jeu se compose de 4 mondes + 1 final tout comme GG Shinobi en fait mais les ressemblances sarrêtent là car maintenant vous devrez retourner dans chacun des niveaux pour retrouver les cristaux de couleurs ce qui vous obligera à utiliser les compétences de chaque Shinobi, et cela peut être utilisé aussi pour gonfler sa magie. Aussi à chaque niveau que vous referez les ennemis seront plus résistants. Le dernier niveau lui sera lapothéose de ce jeu fabuleux, une confrontation avec tous les boss du jeu, et surtout avec des ninja noirs.  
 
   
 
@@ -38,7 +38,7 @@ Graphismes : Là je dois dire que les graphismes sont au top pour de la Game Gea
 
 Animation : De petits ralentissements de temps en temps mais rien de bien méchant, le Shinobi répond au doigt et à l'oeil. On pourrait cependant dire que les Shinobi sont lourds   
 
-Durée de vie : Comparé aux 1er épisode celui-ci est plus long du fait qu�on doive refaire les niveaux pour retrouver les cristaux  
+Durée de vie : Comparé aux 1er épisode celui-ci est plus long du fait quon doive refaire les niveaux pour retrouver les cristaux  
 
 Musique : Maître Yuzo Koshiro s'est oeuvré à ce jeu: parfaite et entraînante.   
 

@@ -1,6 +1,6 @@
 ---
-user:Hankroyd
-rating:3.5
+user: Hankroyd
+rating: 3.5
 published: 2006-12-03T12:57:18.000Z
 legacy_url: http://www.emunova.net/veda/test/1841.htm
 ---

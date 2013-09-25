@@ -1,6 +1,6 @@
 ---
-user:Pulsahr
-rating:4.5
+user: Pulsahr
+rating: 4.5
 published: 2004-11-26T13:42:44.000Z
 legacy_url: http://www.emunova.net/veda/test/744.htm
 ---

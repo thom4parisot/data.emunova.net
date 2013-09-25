@@ -1,6 +1,6 @@
 ---
-user:stephanieberanger
-rating:3.5
+user: stephanieberanger
+rating: 3.5
 published: 2007-07-25T05:50:12.000Z
 legacy_url: http://www.emunova.net/veda/test/2182.htm
 ---

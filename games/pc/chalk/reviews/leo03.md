@@ -1,6 +1,6 @@
 ---
-user:leo03
-rating:3.5
+user: leo03
+rating: 3.5
 published: 2007-10-13T00:42:18.000Z
 legacy_url: http://www.emunova.net/veda/test/2364.htm
 ---

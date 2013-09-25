@@ -1,6 +1,6 @@
 ---
-user:Sigfrodi
-rating:5
+user: Sigfrodi
+rating: 5
 published: 2005-11-01T18:14:51.000Z
 legacy_url: http://www.emunova.net/veda/test/1172.htm
 ---
@@ -32,7 +32,7 @@ On commence la partie par la traditionnelle génération du personnage. On chois
 
   
 
-((somme des 3 plus fortes capacités primaires + somme des deux plus fortes capacités majeures + plus forte capacité mineure) � (total de départ) +28 )/15  
+((somme des 3 plus fortes capacités primaires + somme des deux plus fortes capacités majeures + plus forte capacité mineure)  (total de départ) +28 )/15  
 
   
 
@@ -72,7 +72,7 @@ A peu près chaque lieu-dit dispose d'au moins une boutique, les plus grandes vi
 
   
 
-Dieu merci, pour chaque ville une carte est disponible, sur laquelle les bâtiments spécifiques sont aisément repérables par leur couleur et ce ne sera pas de trop pour se repérer dans les méandres des plus grandes cités! Cités dont les rues sont riches de manants plus ou moins disposés à vous prêter assistance en répondant à vos questions, que cela soit d'un ordre général ou pour vous aider à trouver la cahute où se terre ce chien de voleur que vous devez liquider � heu, appréhender bien sûr � pour le compte de la guilde des guerriers. ;) En fonction de votre réputation et du langage (3 types : courtois, normal ou familier) que vous tiendrez auprès d'eux, ces NPC réagiront de manière plus ou moins amicale et n'hésiteront pas un instant à vous envoyer balader si votre tête de leur revient pas! Réaliste encore une fois, mais peut-être un peu trop... Embrouillez-vous avec un personnage important dans la quête principale et vous pouvez très bien vous retrouver définitivement bloqué!  
+Dieu merci, pour chaque ville une carte est disponible, sur laquelle les bâtiments spécifiques sont aisément repérables par leur couleur et ce ne sera pas de trop pour se repérer dans les méandres des plus grandes cités! Cités dont les rues sont riches de manants plus ou moins disposés à vous prêter assistance en répondant à vos questions, que cela soit d'un ordre général ou pour vous aider à trouver la cahute où se terre ce chien de voleur que vous devez liquider  heu, appréhender bien sûr  pour le compte de la guilde des guerriers. ;) En fonction de votre réputation et du langage (3 types : courtois, normal ou familier) que vous tiendrez auprès d'eux, ces NPC réagiront de manière plus ou moins amicale et n'hésiteront pas un instant à vous envoyer balader si votre tête de leur revient pas! Réaliste encore une fois, mais peut-être un peu trop... Embrouillez-vous avec un personnage important dans la quête principale et vous pouvez très bien vous retrouver définitivement bloqué!  
 
   
 

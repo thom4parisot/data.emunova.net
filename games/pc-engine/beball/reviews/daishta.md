@@ -1,6 +1,6 @@
 ---
-user:daishta
-rating:3.5
+user: daishta
+rating: 3.5
 published: 2004-07-10T15:16:58.000Z
 legacy_url: http://www.emunova.net/veda/test/603.htm
 ---

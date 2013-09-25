@@ -1,6 +1,6 @@
 ---
-user:Kenshiro84
-rating:4.5
+user: Kenshiro84
+rating: 4.5
 published: 2004-12-08T13:43:46.000Z
 legacy_url: http://www.emunova.net/veda/test/759.htm
 ---

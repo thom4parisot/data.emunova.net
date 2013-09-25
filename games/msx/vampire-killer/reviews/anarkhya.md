@@ -1,6 +1,6 @@
 ---
-user:anarkhya
-rating:4
+user: anarkhya
+rating: 4
 published: 2006-11-02T01:22:06.000Z
 legacy_url: http://www.emunova.net/veda/test/1759.htm
 ---
