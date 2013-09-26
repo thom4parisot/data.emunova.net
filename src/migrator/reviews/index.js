@@ -20,6 +20,11 @@ module.exports = {
       .orderBy("C_TEST", "ASC");
   },
   builder: function(game, next){
+    // fixing PHP htmlentities
+    game.titre = md(game.titre);
+    game.system_name = md(game.system_name);
+    game.member_name = md(game.member_name);
+
     var system_slug = systems.map(_.str.slugify(game.system_name));
     var game_slug = _.str.slugify(game.titre);
     var basepath = _.template("games/<%= system %>/<%= game %>", {system: system_slug, game: game_slug});
@@ -30,9 +35,9 @@ module.exports = {
         var data = {
           title: game.titre,
           released: game.annee,
-          editor: game.editor,
+          editor: md(game.editor),
           players: parseInt(game.maxplayer, 10),
-          genres: [game.style]
+          genres: [md(game.style)]
         };
 
         grunt.file.write(basepath + "/index.json", JSON.stringify(data, null, 2));
@@ -47,7 +52,7 @@ module.exports = {
           "published: " + new Date(game.date_publication * 1000).toISOString(),
           "legacy_url: http://www.emunova.net/veda/test/"+ game.C_TEST +".htm",
           "---",
-          md(game.test_texte || grunt.file.read("tmp/tests/"+ game.C_TEST +".htm", { encoding: "iso-8859-1"}))
+          md(game.test_texte || grunt.file.read("tmp/tests/"+ game.C_TEST +".htm", { encoding: "iso-8859-1" }))
         ];
 
         grunt.file.write(basepath + "/reviews/"+ _.slugify(game.member_name) +".md", data.join("\n"));
