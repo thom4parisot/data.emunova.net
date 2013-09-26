@@ -1,0 +1,15 @@
+---
+user: Kékidi
+rating: 3.5
+published: 2006-06-13T13:01:10.000Z
+legacy_url: http://www.emunova.net/veda/test/1490.htm
+---
+Dans les années 50, apparut pour la première fois dans une série nommée Peanuts, le flegmatique chien **Snoopy**. Son auteur Charles Schulz conte les histoires d'une bande de bambins curieusement mûrs pour leur âge. Charlie, le meilleur ami du petit canidé noir et blanc, nous touche car il échoue dans la plupart des projets qu'il entreprend, bien qu'il y mette toute sa volonté. Son amie Lucy, bourreau du travail et toujours surchargée, quant à elle, s'oppose complètement à notre tête blonde. Enfin Woodstock, un minuscule oisillon maladroit, suit Snoopy tant bien que mal.  
+
+  
+
+Par une journée ensoleillée, Charlie, Lucy, Woodstock et Snoopy se sont réunis pour entamer une partie de tennis. Le groupe joue dans le jardin sans réel terrain destiné à ce sport, alors ils ont inventé leurs propres règles. Le garçon lance des balles vers Snoopy et celui-ci doit les renvoyer vers le balcon au-dessus de Charlie. Pour corser le jeu, Charlie projette quelques balles dans les arbres, et l'impassible chien grimpe, sans mot dire, dans les branchages puis frappe quand le projectile arrive à sa hauteur. Ensuite, par moments, Lucy intervient furtivement pour participer. Au-dessus de Charlie, elle rattrape les renvois de Snoopy et les retourne à son expéditeur. Ainsi, le beagle, d'habitude mou, saute dans tous les sens au devant des balles, qui parfois emplissent l'espace par leur nombre, l'obligeant à de multiples pirouettes. Evidemment, comme dans tous les Game & Watch, l'action s'accélère jusqu'à une frénésie incontrôlable, qui nous pousse à dépasser nos limites pour exploser les scores.  
+
+  
+
+Avec le peu de ressources disponibles, **Snoopy Tennis** retranscrit convenablement les émotions émergeant de la bande dessinée. L'arrière-plan ne brille pas par la multitude de couleurs, néanmoins reste très proche des créations sur papier, car celles-ci se composent essentiellement de noir et blanc. Idem, les sprites en cristaux-liquides demeurant noirs reflètent parfaitement les dessins de Charles Schulz. Même si cela paraît étonnant, ce Game & Watch possède un semblant d'animation. Lorsque Snoopy renvoie la balle, la décomposition du coup droit du chien, par sa relative complexité, affiche une souplesse inattendue. De plus, quand il loupe sa prise, un intermédiaire montre les attitudes emblématiques et typiques du personnage. Ainsi on voit le mélancolique canidé, rêvassant les yeux levés vers le ciel, tandis qu'il reste allongé le dos sur le toit de sa niche. Les postures caractéristiques raviront les amoureux de la série et ces derniers devraient apprécier les parties de tennis que propose ce jeu électronique. Quant aux autres, ils risqueront de trouver le jeu quelconque, sans aucun attrait, n'étant pas conquis par les postures du petit chien.

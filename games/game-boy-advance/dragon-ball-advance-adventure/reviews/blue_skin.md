@@ -1,5 +1,5 @@
 ---
-user: Blue_Skin
+user: Blue\_Skin
 rating: 3
 published: 2005-12-04T15:52:15.000Z
 legacy_url: http://www.emunova.net/veda/test/1236.htm

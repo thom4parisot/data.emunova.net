@@ -1,5 +1,5 @@
 ---
-user: angel_killah
+user: angel\_killah
 rating: 3.5
 published: 2003-07-13T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/165.htm
