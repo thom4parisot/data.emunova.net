@@ -1,0 +1,9 @@
+---
+user: Neptune
+rating: 5
+published: 2005-11-24T21:03:29.000Z
+legacy_url: http://www.emunova.net/veda/test/259.htm#comment-4331
+---
+Pour moi MAJORA (j'adore ce nom), c'est le meilleur Zelda et de loin ! Plus riche, plus abouti, plus original, mieux réalisé, plus adulte, plus intense... Et cette ambiance fin du monde qui règne pendant ces 3 jours de folie ! Rien que de pouvoir maitriser les 3 jours restants en temps réel, c'est complétement dingue !! En plus, tout est parfaitement planifié, on sait quel personnage va faire quoi et a quelle heure, pour pouvoir par suite l'aider !! Moi je sais pas vous ça me fait penser à cet excellent film qu'est "Un Jour sans Fin"! Complétement original, du rarement vu dans un jeu vidéo. Mais si il n'y avait que ça !! Les rebondissements sont multiples, le scénario sans princesse et de Ganondorf ridicules qui viennent figer le jeu dans la même routine ! La c'est vraiment différent pour une fois, même si Majora garde toutes les bases graphiques de Ocarina, il le renvoi au tapis sans problème grâce à son originalité débordante, son ambiance envôutante, ses personnages plus délirants, et puis ses multiples quêtes géantes. Alors certains p'tits gars vont encore me dire, "ouais y'a pas assez de donjons, c'est pas un bon Zelda patatipatata...", moi je leur dirai simplement: "les donjons, y'en a en quantité suffisante contrairement aux autres Zelda ou l'on s'ennuit a mourir dans la plupart d'entre eux !" 
+
+En somme pour moi, LE Zelda le plus puissant que nous ai offert Nintendo. Majora donne un magistral coup de fouet à cette fabuleuse série que nous aimons tant.

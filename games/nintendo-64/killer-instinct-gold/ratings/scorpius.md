@@ -1,0 +1,7 @@
+---
+user: Scorpius
+rating: 4
+published: 2007-06-11T14:24:48.000Z
+legacy_url: http://www.emunova.net/veda/test/1834.htm#comment-8159
+---
+Killer Instinct, excellent jeu de combat qui a une classe a part par rapport aux autres du genre du fait de sa brutalité, ambiance glauque et futuriste et la possibilité de pouvoir éfféctuer des combos d'une rare sauvagerie alors que l'adversaire peut-être dèja mort, des tas fatalités ou humiliations cruelles pour chaque perso. Dans ce second volet, chaque perso à également son histoire qui les poussent à participer au tournoi Killer Instinct. Bon nombre des persos principaux du K.Instinct 1 sont présent avec l'arrivée de nouveaux combattants. Le jeu est bien réalisé, musiques & sons de bonnes qualités, graphismes biens faits mais légérements flous. Dès le départ vous pouvez choisir le niveau de vos adversaires (souvent forts) ou sinon d'apprendre les coups de vos persos en suivant des exercices dans un dojo. En mode multi-joueur, c'est un véritable défouloir, des tas de combinaisons techniques et vraiments défoulantes possibles, possibilité de choisir la couleur de vos fringues (comme dans le 1). En bref, Killer Instinct est très bon jeu de baston et peut-être bien le meilleur sur N64 mais personnellement je préfère beaucoup plus le premier volet sur Super Nintendo, qui reste pour moi, le meilleur jeu de baston jamais crée.

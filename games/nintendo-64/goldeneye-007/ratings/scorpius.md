@@ -1,0 +1,7 @@
+---
+user: Scorpius
+rating: 5
+published: 2007-06-11T14:07:20.000Z
+legacy_url: http://www.emunova.net/veda/test/177.htm#comment-8158
+---
+Quel adjectif employer pour un jeu plus que parfait?... Golden Eye est un doom-like des plus jouissif auquel j'ai pu jouer... L'histoire du jeu est très fidèle à celle du film (beaucoup de niveau reprennent les décors du film, notament la gigantesque antenne parabolique à la fin du film) + des objectifs et niveaux bonus pour accroître une durée de vie déja énormissime, prise en main simple et rapide également personnalisable, graphismes réussis (malgré qu'ils puissent paraîtres un peu vides), sons & musiques d'éxcéllentes qualités (le sons des armes est vraiment très bon), les personnages, tous tirés des James Bond sont facilement reconnaissables malgré qu'ils soient un peu carrés. Le mode multi-joueur, une véritable réussite est très fun et divertissant (jusqu'a 4 joueurs max sur le même écran) avec tout son lot de mode de jeux disponibles, des tas de bonus à débloqués pour des heures et des heures de jeux. La difficulté, croissante, est assez corsée d'autant que dans Golden Eye, c'est tout sauf un jeu pour bourin comme Doom, ici la discrétion est de mise (bonjour l'espion...) Un petit truc quand même mais là c'est dû à la technologie limitée d'époque (96-97), lorsqu'il y a trop d'ennemis ou trop d'explosions, ça rame grave mais pas longtemps. En résumé, pour moi Golden Eye est le meilleur FPS crée de tous les temps!

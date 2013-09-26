@@ -1,0 +1,13 @@
+---
+user: Kimuji
+rating: 4.5
+published: 2009-07-22T01:33:35.000Z
+legacy_url: http://www.emunova.net/veda/test/3326.htm#comment-11726
+---
+Le second meilleur shoot sur PC Engine, apres Gate of Thunder biensur. ^^
+
+Techniquement il est irréprochable mais son systeme de jeu original a aussi ses faiblesses. Notamment la boutique qui déséquilibre le jeu, plus on a du mal et moins on peut se payer de bonus (parce qu'il faut payer pour reremplir sa barre de vie) et plus on joue bien et plus le jeu est facilité puisqu'on a les moyens de s'acheter des boucliers, des bombes et des vies supplémentaires. Les musiques sont excellentes, mais la BO donne trop l'impression d'avoir été composée à part, je trouve qu'elle ne colle pas avec ce qui se passe à l'écran. Ce qui n'enlève rien aux très bons morceaux de gratte, c'est juste un peu décalé je trouve. La construction des niveaux à l'inverse des scéquences d'intro et de fin manquent de mise en scène, contrairement à un Gate of Thunder ou un Thunder Force IV il n'y a pas de "scénarisation" lors de la progression au cours d'un niveau, on se rend d'un point A à un point B le décor défile et change un peu de look et c'est tout. C'est construit de façon aussi simple qu'un shoot vertical. A l'inverse par exemple dans GOT, le premier niveau met en scène le bombardement d'une ville, on affronte l'armada ennemie, puis un vaisseau géant et le boss arrive enfin. Rien de tout ça dans Winds of Thunder. Dernier point, là c'est plus personnel comme point de vue: la barre de vie c'est limite une hérésie dans un Shmup, on peut finir un niveau en s'étant fait toucher un paquet de fois et en plus on peut foncer dans le décor sans risque, moi j'aime pas ça. :P
+
+Bon ça a l'air dur dit comme ça c'est un peu du chipotage, mais c'est sur détails là qu'on peut départager les très bons jeux. Winds of Thunder est quand même excellent et une référence incontournable sur console 8/16 bits. Mais je préfère GOT et TFIV.
+
+Sinon les différences graphiques avec la version Mega Cd sont beaucoup moins marquées que ça je trouve, un peu moins colorée pour les décors mais des sprites plus lumineux, pour voir les différences il faut vraiment coller les deux jeux l'un à coté de l'autre. Mais la vraie grosse différence n'est pas là, c'est au niveau de la difficulté, largement revue à la baisse. Jouez en hard si vous êtes du MCD sinon ça sera bien trop facile. Autre différence, les musiques ont été retravaillés elles paraissent plus rondes, perso je les préfèrent refaites, par contre ils ont eu la mauvaise idée de monter le volume des bruitages qui étaient déjà pas top sur PC Engine et qui là deviennent parfois aggaçants du coup. La version PC Engine l'emporte donc d'une légère avance mais le jeu reste excellent sur Mega CD.

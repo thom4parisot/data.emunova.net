@@ -1,0 +1,7 @@
+---
+user: Hahaiah
+rating: 5
+published: 2007-11-24T16:55:13.000Z
+legacy_url: http://www.emunova.net/veda/test/588.htm#comment-8846
+---
+Une finition de jeu rare pour l'époque, une histoire très convaincante, un système de jeu qui a fait ses preuves, une ambiance très sombre et parfois inquiétante.... Il n'en fallait pas plus pour catapulter Secret of Evermore au rang des meilleurs RPG sortis sur Super Nintendo ; peut-être même le meilleur d'ailleurs! (enfin, pour moi oui! ^^) Ce jeu jouit d'un système de "magie" (d'alchimie pour être précis) qui aujourd'hui encore n'a pas trouvé d'égal à mon sens dans le monde du jeu vidéo. Le fait qu'il soit plus sombre et plus serieux que son aîné Secret of Mana lui a fermé des "portes" dans le coeur de certains joueurs, plus enclins à apprécier le style féerique de son grand frère. Les amoureux de ce jeu ne pourront regretter qu'une seule chose : qu'il n'y ai pas eu de suite (bien que l'histoire en elle-même laissait peu de chance à une éventuelle suite...)! en tout cas, aujourd'hui encore, ce jeu reste le N°1 dans mon coeur, je l'ai fini des dizaines de fois, et j'en possède même deux exemplaires, un que j'ai usé jusqu'à la corde, et un second... Neuf sous blister avec le livre!!! Un véritable collector!

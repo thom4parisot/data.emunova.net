@@ -1,0 +1,9 @@
+---
+user: Saint Squall
+rating: 3.5
+published: 2005-10-13T13:28:59.000Z
+legacy_url: http://www.emunova.net/veda/test/742.htm#comment-4035
+---
+J'ai un avis plutôt mitigé sur ce jeu. Ayant fait énormément parlé de lui et aimant les ambiances gothiques genre Castlevania, je ne pouvais que me le procurer. C'est clair que les graphismes constituent l'un de ces points forts, il n'y a pas grand chose à redire dessus,la PS2 est bien exploitée. Musicalement, il y a de bons thèmes mais certaines musiques électroniques sont moyennes et saoûlantes à la longue.
+Le jeu en lui-même est assez technique, trop à mon goût. On n'a pas vraiment le droit à l'erreur, même en difficulté normale, car la barre d'énergie descend très très vite à la moindre relâche. ça reste la plupart du temps du mitraillage de boutons, certes on est dans un beat them all mais ça bourrine vraiment trop à mon goût. Les combats sont répétitifs et donc lassants, heureusement que la formidable réalisation du jeu nous pousse à aller toujours plus loin pour découvrir les prochains boss. Quant à l'aspect aventure qui se dégage du jeu, il est très limité et la gestion des sauts n'est pas géniale: Devil May Cry reste donc un pur et simple beat them all, on ne peut pas le comparer à un survival-horror comme j'ai pu le lire parfois. Le héros Dante est pas mal mais je ne suis pas en admiration devant lui.
+En conclusion Devil May Cry, malgré tous les reproches que j'ai pu lui faire, est un bon jeu mais n'est pas un jeu culte à mes yeux. Ce n'est pas que je n'aime pas les beat them all, mais je me suis un peu ennuyé avec celui-ci, et je trouve que la difficulté par moment est trop élevée.. J'ai toujours eu une préférence dans les beat them all pour les combats pieds-poings contre des combattants humains ou des voyous, genre Double Dragon par exemple. Celà dit j'ai quand même mis un point d'honneur à finir ce DMC, mais le refaire en difficile et extrême, très peu pour moi.

@@ -1,0 +1,7 @@
+---
+user: Pouyou-pouyou
+rating: 1.5
+published: 2008-10-13T03:00:50.000Z
+legacy_url: http://www.emunova.net/veda/test/2045.htm#comment-10178
+---
+Si ce jeu avait le mérite de proposer un semblant de scénario par rapport à son prédécesseur ainsi qu'un système d'expérience novateur (qui sera en partie repris sur Secret of Mana sur SNES pour ce qui est des armes), il est complètement raté à cause de sa difficulté et de son levelling indispensable et surtout interminable. Même en utilisant un glitch qui permet d'accélérer considérablement l'apprentissage du maniement des armes, finir ce jeu a relevé du cauchemar, j'ai dû exploiter un autre glitch pour vaincre le boss final sinon je n'y serai jamais arrivé. La magie est tellement inefficace que j'ai complètement fait l'impasse dessus. De plus le système de progression est tel que si vous jouez bien et êtes efficace contre les ennemis, vos persos progresseront plus lentement que si vous êtiez moins efficace. Bref, le gameplay de ce jeu est catastrophique. Il est étonnant de constater que la série des FF ait pu devenir une telle série à succès avec un titre aussi injouable. C'est rare que je sois aussi catégorique pour un jeu, mais vraiment celui-ci est à fuir comme la peste. Si vous voulez faire un FF des débuts, rabattez-vous sur le 3\.

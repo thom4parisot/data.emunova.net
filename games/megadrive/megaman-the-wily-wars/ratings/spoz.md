@@ -1,0 +1,15 @@
+---
+user: Spoz
+rating: 4.5
+published: 2013-06-11T11:01:35.000Z
+legacy_url: http://www.emunova.net/veda/test/2579.htm#comment-16384
+---
+Je pourrai avoir le cul entre deux chaises, mais finalement non.
+
+Parlons effectivement maniabilité avant de parler du reste. Temps de latence il y a, et il dérange. Il dérange parce qu'il coûte des vies lorsque le personnage commence à se déplacer un quart de seconde trop tard, et ça agace. Seulement je trouve qu'on s'y fait assez rapidement, et il n'y a temps de latence que quand on bouge vers la droite ou vers la gauche, pas quand on saute.
+En fait, je devrais crier au scandale moi aussi, parce que c'est impardonnable pour un remake Megaman. Seulement voilà, les versions NES de Megaman 1 et 2 ont elles un temps de latence quand on arrête de marcher avec le Blue Bomber, ce qui coûte aussi des vies quand on a, comme moi, fait ses armes sur Megaman 3\. Du coup et comme cette latence là a été supprimée par rapport aux versions NES, je relativise cette nouvelle latence au démarrage, même si elle reste agaçante par moment. Ca enlèvera quand même un point à ma note, faut pas déconner non plus.
+
+Pour ce qui est du reste, et bien j'ai pris mon pied. C'est très agréable pour l'oeil même si les graphismes n'ont rien d'exceptionnel pour un jeu Megadrive, les ralentissements et clignotements sont quasiment absents (sauf, et c'est dommage, pendant un combat avec le Yellow Devil), et les musiques sont bien remixées. On prend un sacré plaisir à jouer à ces remakes quand on connaît les originaux, et les niveaux sont effectivement quasiment identiques, à un ou deux détails près. Par contre, certains passages sont rendus beaucoup plus faciles, notamment certains combats de boss dans Megaman 1, ce qui permettra à certains de prendre leur revanche sur l'épisode NES, qui est plus difficile que son remake sur Megadrive. Ah, et la pile de sauvegarde permet de ne plus avoir à noter de mots de passe, bon point également.
+
+Et là où je m'apprêtais à râler pour la forme en disant que Capcom s'est quand même contenté de faire du recyclage, PAF !, je me prends Wily's Tower en pleine tronche. Un fois qu'on a fini les trois épisodes NES, un épisode supplémentaire (Wily's Tower donc) apparaît, avec 3 niveaux et 3 robots inédits, et une forteresse de Wily en prime. On retrouve des graphismes et ennemis des 3 épisodes NES mélangés dans les mêmes niveaux. Il y a aussi une dimension tactique, puisqu'il faudra choisir au début du jeu 8 armes et 3 accessoires des 3 épisodes NES. Autant dire que celui qui ne prendra que des armes faibles aura plus de mal à avancer, et on se retrouve parfois à regretter de ne pas avoir pris telle ou telle arme qui aurait permis de récupérer un tank d'énergie.
+C'était une très bonne idée, et ça fait finalement 4 jeux dans la même cartouche, donc 4 raisons de prendre son pied.

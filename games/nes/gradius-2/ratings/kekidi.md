@@ -1,0 +1,7 @@
+---
+user: Kékidi
+rating: 4.5
+published: 2007-12-07T08:28:13.000Z
+legacy_url: http://www.emunova.net/veda/test/532.htm#comment-8913
+---
+Ce que j'adore dans cette série Gradius/Nemesis est son système d'armement. Le principe de la collecte des pastilles pour activer des bonus est génial. Il n'a pas bougé par rapport à l'épisode précédent et n'apporte pas réellement de nouvelle arme, mais il reste excellent. La possibilité de sélectionner 4 options dans ce volet sur NES au lieu de 2 est un grand plus. Cerise sur le gâteau : par rapport à l'arcade, cette mouture permet le tournoiement des options autour du vaisseau. Cet effet ne dure pas éternellement mais donne une raison de plus de ramasser le plus de pastilles possible. Par rapport à l'arcade, on note également une difficulté revu à la baisse, rendant le jeu abordable et une harmonisation des armes. Sur la borne les \[double\] n'avaient pas grand intérêt alors qu'ici ils sont très utiles. Du point de vue technique, Gradius 2 est une réussite, les graphismes sont clairs et parfois impressionnants. Le premier niveau commence fort avec ses énormes gerbes de feu. La console a quelques fois du mal à suivre et des ralentissements se font sentir, mais ils n'interfèrent pas sur la maniabilité. Le jeu rame salement dans le monde des cristaux parce qu'il affiche de nombreux sprites, et cela permet de mieux les éviter. Du bon Gradius!

@@ -1,0 +1,7 @@
+---
+user: AllenWalker
+rating: 3.5
+published: 2010-10-06T23:18:50.000Z
+legacy_url: http://www.emunova.net/veda/test/723.htm#comment-14206
+---
+Ce Castlevania, il faut le dire, n'a rien de réellement exceptionnel au niveau des innovations. Les décors et personnages apparaissent plus gros à l'écran ce qui n'est pas sans provoquer la critique de certains joueurs habitués de une vue plus éloignée. Les musiques bien qu'en 8bit ayant l'effet un peu larsen à force propose des thèmes malgré tout de toute beauté, je pense au thème du héros Juste, qui est juste sublime. Le système de grimoire est relativement original, puisqu'il reprend les bases "magiques" du personnage de Belnadez (cf: Castlevania 3). Juste n'a rien d'exceptionnel question charisme, il est juste le parfait androgyne qui ressemble d'ailleurs curieusement à Alucard (héros vampire du fameux Symphonie of Night). Le scénario, sans  vraiment se résumer à sauver sa belle enlevée par Dracula, mais presque, n'a rien non plus d'alléchant. Voyez en ce jeu, un simple Castlevania, qui rempli tout juste (sans jeu de mot) son contrat à savoir un beau château, des pouvoirs impressionnants, un bestiaire travaillé, une musique des plus envoûtante....et point primordial, de longues heures de jeu !!

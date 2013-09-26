@@ -1,0 +1,9 @@
+---
+user: Saint Squall
+rating: 3
+published: 2008-02-09T04:31:21.000Z
+legacy_url: http://www.emunova.net/veda/test/1148.htm#comment-9201
+---
+Je trouve ce Final Fight 2 un chouïa mieux que le premier. Non seulement il est graphiquement très chouette, mais en plus il permet de sélectionner 3 persos différents cette fois (au lieu de 2 pour le 1er Final Fight ou Final Fight Guy sur Super Nintendo) et de jouer enfin à 2 ce qui est le minimum pour un beat them all! En plus cette fois la difficulté est paramétrable, ce qui est une bonne chose car je trouvais le 1er Final Fight trop corsé niveau difficulté, avec des boss bien balèzes.
+Bon évidemment ça reste un beat them all, donc c'est répétitif au bout d'un moment, mais ça passe toujours mieux à 2 (j'ai mis 6/10 pour le jeu à 1 joueur mais on peut rajouter 1 point à 2 joueurs). Le problème est que tout comme le 1er épisode le jeu manque de fun car les coups sont beaucoup trop limités: un enchaînement de base, un coup de pied sauté, une projection, une attaque spéciale, et puis basta! C'est vraiment trop peu et c'est ça qui rend le jeu vite répétitif et lassant par rapport à d'autres jeux du même genre. Ce n'est pas le maigre rajout de quelques armes (moins nombreuses que dans le précédent volet) qui fait passer la pilule! Un mot sur les musiques: elles ne cassent vraiment pas des briques, ça n'est guère le point fort du jeu (qui reste les graphismes)!
+Bref, un beat them all qui pêche par une durée de vie trop limitée; sympathique quand même, même si on trouve mieux dans le genre sur Super Nintendo (Super Double Dragon ou Turtles In Time au hasard).

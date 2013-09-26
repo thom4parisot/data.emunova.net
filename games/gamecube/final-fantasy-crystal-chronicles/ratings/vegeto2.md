@@ -1,0 +1,7 @@
+---
+user: VEGETO2
+rating: 1
+published: 2012-09-03T23:20:39.000Z
+legacy_url: http://www.emunova.net/veda/test/4248.htm#comment-15991
+---
+Fans de Final Fantasy passez votre chemin!!!! Car il n'en n'a que le nom!!! Oui il est très beau, c'est certainement ce qui se faisait de mieux sur GameCube à l'époque mais il est aussi très chiant!!!! Répétitif à souhait (Donjon RPG oblige mais bon les donjons restent les mêmes exceptés quelques mobs qui différent) , pas d'évolutions aux niveaux de personnages (les années passent mais vos persos ont trjs la même bouille), le multi-joueur est quasi-inexistant vous en connaissez vous quatre potes qui n'ont pas revendu ce jeu et qui ont tous une GBA pour servir de manette? (une fois de plus Nintendo en a voulu trop) et puis je finis pour tuer ce que je classifierai comme de la daube: la musique. Si l'intro avait un petit côté mignon (les fans de Seiken Densetsu apprécieront je pense) arrivé à la carte du monde ERK!!!!! mais c'est quoi ça? On est dans un jeu playmobil où quoi? Allez faire un tour sur Galbadia Hotel et vous comprendrez de quoi je parle...... En bref pour moi ce jeu ne mérite pas de porter l'appelation "Final Fantasy" pourquoi me direz vous? Bah parce qu'il n'a absolument rien à voir voilà pourquoi. NB: en 5 ans d'alliance de Nintendo et SquareEnix ils n'ont rien trouvé de mieux à nous pondre? Faut pas déconner quand même!

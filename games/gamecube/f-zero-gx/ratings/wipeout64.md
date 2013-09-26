@@ -1,0 +1,7 @@
+---
+user: wipeout64
+rating: 5
+published: 2012-08-22T17:34:19.000Z
+legacy_url: http://www.emunova.net/veda/test/470.htm#comment-15977
+---
+Bonjour, Dans le monde des jeux de cours futuriste le choix est vraiment restrain...a part la grande serie des Wipeout ou encore F-zero il n y pas de grand jeux digne d'etre sité! Mais généralement ont considére (meme moi ) que les F-zero sans bon les Wipeout sont encore meilleurs....! pour etre objectif c'est sans doute le cas ..mise a part F-ZERO-GX! Car oui ce jeux est tout simplement monstrueux! Le sercet tiens au fait que contrairement a F-ZERO-X sur la N64, le GX a reussi a conbiné beauté est vitésse avec brio ! Car oui jamais un jeux de cours méme normal n'a été aussi beau et aussi rapide que celui la! En plus c'est trés maniable avec un font de jeu en beton! Je doit dire que seul un certain Wipeout HD peu etre considéré comme le rival de F-ZERO-GX alors qu'il est sortie sur console HD.....que dire de plus! Quand SEGA maitre de l'arcade devant l'étérnel travail main dans la main avec le seigneur NINTENDO ca nous donne une jeux de cours qui depuis ca sortie n'a jamais pu etre egalé....magistrale voila le mot qui convient le mieux poue ce qui reste l'un des meilleur jeux d tout les temps !

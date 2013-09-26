@@ -1,0 +1,7 @@
+---
+user: Raeglin
+rating: 5
+published: 2009-10-22T07:24:24.000Z
+legacy_url: http://www.emunova.net/veda/test/688.htm#comment-12211
+---
+le jeu qui m'a fait acheter la dreamcast!l'ayant découvert chez un pote un week-end j'ai couru a micromania le lundi acheter ma console avec le jeu.Shenmue c'est une ode a la poësie,un jeu qui vous emmene dans son monde.Dans la peau de ryo hazuki,partez a la recherche de l'assasin de votre père et allez presque n'importe ou dans la ville de yokosuka.Le jeu innove tellement que je me demande par ou commencer car en plus d'avoir inventé le QTE le jeu propose un système de combat qui reprend trait pour trait les commandes de virtua fighter,du même auteur yu suzuki,avec de nouveaux coups deblocables au fur et a mesure.Bref une aventure enorme sur trois cd mais ce n'est pas la le meilleur car le jeu étant en anglais et utilisant nombre de mots et d'objets de la vie quotidienne m'a fait renforcer mon anglais et devenir bien meilleur dans cette langue.De plus les mini-jeux et les petits boulots etant omniprésents on peut parfaitement délaisser l'histoire durant plusieurs heures pour uniquement s'y consacrer.On peut parfaire sa collection de figurines et bien d'autres choses.En bref Shenmue est une tuerie inégalée,inégalable et éternel, le jeu le plus abouti jamais crée par sega et ce devant des tueries du style Panzer dragoon saga ou encore skies of arcadia.Mais ma préference va a sa suite shenmue 2 qui propose le double en durée de vie et développe plus l'histoire

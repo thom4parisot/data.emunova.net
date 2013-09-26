@@ -1,0 +1,13 @@
+---
+user: Strider
+rating: 3
+published: 2006-03-01T08:08:19.000Z
+legacy_url: http://www.emunova.net/veda/test/1317.htm#comment-4737
+---
+Je suis EXTREMEMENT SEVERE avec cette version du jeu et je le reconnais, mais bon, j'estime que la version remasterisée de MGS saccage pas mal son ainé et perso, ça m'a fait bien mal au popotin. Car si le gameplay (sauce mgs2) relève brillament la sauce du mgs de psone et constitue le vrai plus de cette version, on note au passage une bande son molassone qui ne fait pas honneurs aux musiques pourtant limite cheap "synthé en toc" mais très nerveuses de l'ancienne version.
+Je n'sais même plus si c'est le brave Harry Gregson William qui a signé la bande son de cette nouvelle version, mais si c'est l'cas, il était pas vraiment en forme.
+Et il n'y a pas que la musique qui ai pris du plomb dans l'aile, c'est le cas aussi des voix, l'ensemble, peut etre moins théatrale que dans la première version, manque de ce coté claquant qui gravait certains dialogues entiers dans l'crâne sur une simple écoute(du moins en version américaine, je ne parle pas de la dramatique VF de mgs1).
+
+On perd donc une sacrée part de magie du côté de l'ambiance sonore, mais c'est pas encore la plus grosse partie du massacre. Le pire étant que les cinématiques d'actions ont été travaillé par cette andouille de Ryuhei Kitamura (réalisateur du sympathique "Versus") salement en vogue a l'époque et qu'on a appelé en renfort sur ce projet pour faire joli. Résultat, on se retrouve avec des cinématiques qui prètent à sourire ou à pleurer de honte quand les personnages mythiques de la saga se mettent à effectuer des actions surréalistes made in matrix pas du tout dans l'ton du jeu.
+Mais c'est ça le soucis général de cette adaptation, si elle apporte son lot d'innovations sérieuses (le gameplay) elle apporte aussi une sacré BEAUF TOUCH sans doute issue du fait que le matériau d'origine soit sacralisé et remis en forme comme s'il s'agissait véritablement d'un mythe.
+FAN de Metal Gear depuis la nes et adorateur absolu de la nouvelle série je n'peux m'empécher de mettre une tape sur les fesses de ce projet de jeu boursoufflé d'une arrogance déplacée dés le départ et qui a dérappé sévèrement. Mais bon, ça reste le seul opus dispo sur Gamecube ainsi qu'un excellent jeu (tout simplement) avec un scénario béton, ce n'est pourtant pas le remake en lui même qui sauve les meubles, au contraire (sauf pour le gameplay). Le remake amène trop d'âneries pour qu'en lui même je lui lance des fleurs et donc ce n'est pas mgs que je sous-note mais ces modifications pouet pouet qui ont été apportées.

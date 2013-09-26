@@ -1,0 +1,7 @@
+---
+user: melvis
+rating: 5
+published: 2010-10-04T15:04:21.000Z
+legacy_url: http://www.emunova.net/veda/test/2998.htm#comment-14180
+---
+Attention !!! Ce jeu est une drogue à ne pas mettre entre toutes les mains. Les heures, et même des soirées entières, passent sans qu'on s'en rende compte, et ça ne peut expliquer qu'une seule chose : c'est que le jeu est bon et terriblement addictif. Il nous entraîne dans un monde chaotique et tourmenté, dans lequel le joueur est absorbé par la volonté de quête de plus en plus de puissance et pouvoirs pour exterminer plus aisément des monstres de plus en plus résistants et coriaces. En plus les améliorations des sorts et des armes sont motivantes afin de tenir en haleine le joueur. Diablo 2 conserve les acquis du premier épisode du coté de l'ambiance et identité graphique et sonore tout en apportant des améliorations conséquantes sur tous les autres plans comme l'ére de jeu, l'aspect graphique, les personnages disponibles, l'arborescence des pouvoirs, les techniques de combat,etc...Alors j'ai du mal a comprendre comment apprécier le premier épisode plus que le deuxiéme qui est celon moi LE meilleur hack & slash de tous les temps ainsi qu'un des meilleurs jeux d'Action toutes catégories confondues.

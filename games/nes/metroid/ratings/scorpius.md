@@ -1,0 +1,9 @@
+---
+user: Scorpius
+rating: 4
+published: 2007-06-07T14:22:26.000Z
+legacy_url: http://www.emunova.net/veda/test/719.htm#comment-8145
+---
+-En 1986, un petit OVNI débarque sur la petite Nintendo 8 bits... METROID! Le personnage du jeu, Samus (à la fin du jeu on voit que c'est une femme!) arrive sur la planète Zebes pour mettre un terme aux plans machiavéliques de Mother-Brain et ses sbires (Mother-Brain c'est le méchant big-boss du jeu). Donc, pour parvenir à cette difficile tâche, on parcourt la planète de long en large à la recherche d'armes plus sophistiquées car dans ce 1er opus, la difficulté est sacrément bien corsée, que ce soient les méchants qui font vraiment mal ou que ce soit cette planète qui est véritablement un vrai labyrinthe (surtout à Norfair), car en première partie de jeu, le 1er objectif est d'agrandir votre attirail d'arme car les ennemis sont assez balèzes surtout les boss. Et ensuite et seulement ensuite on peut se lancer à la poursuite des acolytes de mother-truc.
+-Au niveau de la réalisation, c'est plutôt bien pour l'époque, Samus se prend en main rapidement mais la difficulté peut-être repoussante tellement que c'est difficile, surtout au début du jeu. Sons & musiques, c'est pas mal, les bruitages sont bons et certains sont originaux et les musiques (répétitives) sont quand même bien ancrées avec le contexte du jeu et peuvent même parfois être stressantes dans certains moments! Les graphismes là en revanche c'est un peu vide que ça donne une atmosphère lugubre dans certains passages du jeu...
+-Metroid est un excellent jeu qui vous maintiendra des heures durant!

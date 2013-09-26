@@ -1,0 +1,8 @@
+---
+user: Scorpius
+rating: 5
+published: 2007-06-07T14:51:19.000Z
+legacy_url: http://www.emunova.net/veda/test/45.htm#comment-8146
+---
+-Resident Evil, c'est un chef d'oeuvre scénaristique et technique aussi (pour l'époque, en 1996)! L'histoire, un classique dans les films d'horreurs, des meurtres ce produisent dans les montagnes Arklay dans les hauteurs de la ville de Raccoon City, les victimes sont mangées et mutilées, l'équipe "BRAVO" est envoyée dans la forêt pour mener une enquête puis ne donne plus signe de vie... alors c'est l'équipe des "STARS" qui y est envoyée pour voir ce qu'il se passe, en arrivant l'équipe des "STARS" se réfugie dans un manoir après s'être fait attaquée par des chiens-zombies...
+-Le scénar du jeu est excellent, pleins de rebondissement, organisation maléfique à base de virus zombificateur, machination à déjouée, traîtrise, du sang, têtes éclatées à coup de shotgun... et le scénario peut sensiblement être modifié selon la façon qu'on évolue dans ce monde d'horreur. Les graphismes (à l'époque) sont très beaux et les musiques excellentes gardent bien le suspense tout au long du jeu (surtout celle du manoir) Les sons et bruitages sont excellents. -Les persos ,Jill ou Chris, se manient facilement. Difficulté, le jeu est assez balèse, surtout au début et pour ceux qui découvrent. L'ambiance du jeu en somme c'est des zombies pas très frais à tous les étages, des tas d'énigmes à résoudres et une ambiance glauque à souhait (mais pas autant que la version NGC). Resident Evil est un pur hit à déguster tout cru! (Pour info, c'était Joypad qui l'avait noté à "+100%" et pas "100%).

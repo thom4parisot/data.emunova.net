@@ -1,0 +1,7 @@
+---
+user: melvis
+rating: 5
+published: 2010-09-09T09:01:47.000Z
+legacy_url: http://www.emunova.net/veda/test/3273.htm#comment-14064
+---
+Voila le meilleur épisode de toute la licence Tomb Raider que seuls les vrais fans purs et durs peuvent déguster a sa juste valeur ! Je ne comprends vraimant pas comment on peut critiquer cet épisode !!! C'est du pur hardcore comme on n'en voit plus !!! La jouabilité de Lara est la marque de fabrique de la série (Lara n'est pas Mario !!!) et une fois qu'on s'y fait on n'a aucun probléme a avoir du plaisir a diriger Lara, et en plus ça ne cesse de se peaufiner d'épisode en épisode. La difficulté du titre émane d'un level design tortueux et ingénieux car Tomb Raider est avant tout un jeu de plateforme action et ici c'est le summum de la plateforme pure ! Le coté aventure est lui aussi mis en avant par des puzzles que seuls les plus tenaces et parsévérents viendront a bout. A tout ca s'ajoutent des phases qui varient le gameplay : quad, canoé,etc... Sincérement les épisodes actuels sans saveur développées par une autre équipe (Crystal Dynamics) que l'équipe originelle (Core Design) sont loin d'égaler les épisodes originaux (sauf les épisodes 5 et 6) car ils sont beaucoup plus orientés action, linéaires et grand public et le charme puriste des Tomb Raider.

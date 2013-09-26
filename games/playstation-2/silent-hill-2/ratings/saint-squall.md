@@ -1,0 +1,10 @@
+---
+user: Saint Squall
+rating: 4.5
+published: 2005-10-10T21:03:23.000Z
+legacy_url: http://www.emunova.net/veda/test/946.htm#comment-4016
+---
+Tous les Silent Hill sont des expériences de trouille absolue qui marquent pour longtemps les joueurs. Ce Silent Hill 2 ne déroge pas à la règle. La réalisation technique a évidemment fait un énorme bon en avant depuis le premier épisode sorti sur Playstation, forcément l'immersion dans cet univers démoniaque en est grandement facilitée. Dans les Silent Hill la peur est à chaque instant, au contraire des Resident Evil qui, on l' a souvent dit, jouent beaucoup plus sur les effets de surprise. Avec cet épisode on a fait un pas vers le photoréalisme, il suffit de voir le soin apporté aux visages des différents protagonistes. Quant à l'ambiance musicale, elle est au moins aussi terrorisante et réussie que dans le premier épisode. Et ce n'est pas le moins important dans un survival-horror! 
+Sinon un des gros points forts de cet épisode est de proposer un bestiaire beaucoup plus morbide et varié que dans le précédent opus. Cette fois on a à combattre de véritables abominations de la nature, et pourtant c'est un véritable régal de les exterminer, en les achevant au passage d'un coup de pied libérateur ( hé oui moi aussi je sais être sadique hé hé).
+Par contre j'ai toujours trouvé les scénarios de Silent Hill diablement(!) confus, on se demande ce que foutent certains personnages dans cette ville au milieu de nulle part et à la fin on se pose toujours beaucoup de questions: mais c'est peut-être fait exprès après tout...
+Mis à part ce léger bémol, ce jeu est une pure tuerie que tout gamer digne de ce nom se doit d'avoir joué! Et dire que le suivant est encore mieux! Comment ça sera sur PS3, les joueurs vont avoir des crises cardiaques si ça continue!

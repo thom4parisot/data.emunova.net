@@ -1,0 +1,12 @@
+---
+user: Angus
+rating: 2.5
+published: 2006-07-19T11:06:27.000Z
+legacy_url: http://www.emunova.net/veda/test/427.htm#comment-5753
+---
+J'ai récemment réessayé ce jeu (acheté à l'époque de sa sortie) et malheureusement, la lenteur et la maniabilité, très difficilement maniable justement, du héros m'ont encore trop énervé ! C'est vraiment dommage que Konami n'ait pas accordé plus de soin à ce niveau (sans doute ont-ils voulu capitaliser sur le succès des épisodes précédents sur NES et fissa-fissa avoir un Castlevania disponible sur Game Boy...).
+Ce manque de maniabilité et les difficultés que cela entraîne, notamment lors des sauts, combinés à l'absence de sauvegarde ou mots de passe, transforment ce jeu en épreuve de torture mentale.
+(Torture ? Mais voici un mot bien en rapport avec l'ambiance oh ! délicieusement glauque que l'on trouve habituellement dans les jeux de cette série. Et si Konami avait voulu nous faire partager la souffrance et les angoisses de Christopher ? Mais c'est bien sûr ! The Castlevania Adventure, un jeu incompris au concept pourtant révolutionnaire : l'interactivité ! On partage complètement les difficultés de Christopher à avancer dans le jeu ; mieux : NOUS SOMMES CHRISTOPHER !!! Quel brio, quelle maestria, bravo !)
+Plaisanterie à part, je trouve ce jeu bien trop ardu pour pouvoir être vraiment apprécié. Je ne l'ai jamais terminé (je suis arrivé une seule fois au dernier niveau, même pas jusque Dracula, et ce satané 3ème niveau me fait encore transpirer rétrospectivement, rien qu'en y repensant).
+Je suis d'accord pour dire que les Castlevania se doivent de baigner dans une atmosphère pesante et lugubre, mais ça reste des jeux, et leur première fonction, à mon sens, est de procurer du plaisir, de la détente, et pas de me faire stresser autant que la veille d'un examen de math. Même si je regrette de n'avoir jamais vu Dracula ailleurs que sur les _screenshots_ que Kékidi m'a aimablement fourni il y a deux ans, je doute fort de jamais réessayer ce titre (sauf peut-être sur émulateur, avec des sauvegardes...).
+J'aime bien les graphismes, même s'ils ne sont pas très détaillés, ça reste acceptable. Les musiques, je ne m'en souviens plus... sauf celle du premier niveau, récemment rejoué. Et puis je lui conserve une certaine affection, vu qu'il fut un de mes premiers jeux. C'est peut-être pour ça que je lui donne la moyenne : 5/10\.

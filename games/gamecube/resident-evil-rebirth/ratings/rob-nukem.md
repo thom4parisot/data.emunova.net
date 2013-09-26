@@ -1,0 +1,15 @@
+---
+user: Rob Nukem
+rating: 5
+published: 2010-10-13T15:52:22.000Z
+legacy_url: http://www.emunova.net/veda/test/3971.htm#comment-14233
+---
+Resident Evil Rebirth ou comment je me suis débrouillé en faisant une nuit blanche pour boucler la moitié du jeu à cause des modifications de chaque lieux dont les inédits tel que le cimetière et sa crypte, le petit bois et sa cabane pas si abandonnée que ça ainsi que le passage souterrain derrière les escaliers principaux du manoir.
+
+J'ai cru que je n'allais pas le finir à cause de tout ces changements qui ont boulversé ma mémoire (Ayant fini la version Director's Cut de l'original sur PS One avant de le recevoir après 2 semaines d'attende quand j'ai passé ma commande sur Moeroshop il y a 2 ans.) sans oublier les Crimsons Heads qui m'ont effrayé (Mention spécial à celui qui est déjà couché dans un des couloirs et qui se relève brusquement quand on essaye de le brûler.), un cauchemar vivant ces fameux zombies boosté quand on les découvre pour la première fois et les Hunters, j'ai lâché ma manette en ayant vu celui qui apparaît en brisant la porte de la salle de bain avant de voir son complice qui débarque en marchant dans la seconde partie du même couloir alors que je venais de me remettre de mon choc...
+
+Enfin, malgré ses petites choses, rien ne vaut la superbe modélisation de Jillou (Mention spécial à son 95C et à ses fesses parfaitement modélisée, comme je les... Erm... je m'éloigne du sujet là...) et de mon barbu favori qu'est Barry et la seule chose qui tâche cette petite merveille n'est autre que Chris Redfield (Ou le contraire de moi-même qui est plutôt " Duke Nukemesque/Carnbyesque " alors que lui, il est du genre " Bon gars qui sauve tout le monde en se la jouant beau gosse " avant de devenir " Accroc à la gonflette stéroïdeisée voulant jouer le rebelle beau gosse gentil " dans RE 5, bref, ça sent l'histoire de rivalité entre deux égos qui sont le contraire de l'un et l'autre...)
+
+Bref, ce Remake est un vrai p'tit bijour par ses jeux de lumières et d'ombres, ses décors " réalistes " et les bruitages approchant de la perfection niveau réalisme sans oublier les petites nouveautés au scénario original et les ennemis qui sont très beaux (J'ai un petit faible pour Neptune, le requin zombie qui est vraiment magnifique.) et j'aurai bien aimé un bonus à la sauce RE 2 comme les scénarios B (ClaireB/LéonB) qui nous permettraient de voir sous l'angle des persos disparus dés le départ selon notre choix avant d'être retenu prisonnier, enfin, ce genre de chose n'est pas arrivé, malheureusement.
+
+Et pour finir, j'aurai bien aimer un Remake du 2 (+ Ajout du 3 niveau scénario.) et de CV vu la bombe qu'on nous a servit avec ce RE Rebirth au lieu de subir les Gun Survivor-Like qu'on nous a donné sur Wii bien que j'aime les HotD mais bon, c'est quand même du gâchi de ne pas avoir faire un vrai Remake comme celui-ci...

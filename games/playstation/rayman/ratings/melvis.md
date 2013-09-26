@@ -1,0 +1,7 @@
+---
+user: melvis
+rating: 5
+published: 2010-09-07T11:38:03.000Z
+legacy_url: http://www.emunova.net/veda/test/77.htm#comment-14044
+---
+Pour moi c'est avec heart of darkness et another world un des meilleurs jeux francais de l'histoire des jeux videos, conçu au début pour l'Atari Jaguar, c'est en plus un des meilleurs jeux de plateformes de tous les temps et ça n'a rien a envier a un mario ou un sonic et les dépassent méme sur certains points. Michel Ancel au top de sa forme .Tout dans ce jeu frole la perfection : les musiques aux mélodies entrainantes et l'animation 2D qui surpasse les références du genre (Earth Worm Jim, Aladdin de Shiny,etc...) et le démembrement du personnage afin de rendre l'animation plus fluide est une belle trouvaille qui montre le degré de créativité et d'implication de l'équipe de développement. Le gameplay est simple, intuitif et bien dosé (c'est le plus important pour un platformer) tout en gardant un bon niveau de challenge qui mettera les nerfs du joueur a rude épreuve sous son air de jeu enfantin. Les mondes sont trés rigolos et les phases variés et en progression avec les pouvoirs qu'aquiert Rayman au fil de l'aventure. Un conseil, essayez de compléter le jeu a 100% en collectant tous les electoons  et vous découvrirez toute la force du titre.

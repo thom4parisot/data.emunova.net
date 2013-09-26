@@ -1,0 +1,7 @@
+---
+user: alien81
+rating: 5
+published: 2011-10-20T09:55:34.000Z
+legacy_url: http://www.emunova.net/veda/test/917.htm#comment-15575
+---
+Noter cette œuvre est tellement ardu, de par son concept foncièrement anarchique, que mettre une note est extrêmement compliqué. J'ai mis dix mais, de manière objective, je ne souhaite pas mettre de note, ce jeu n'en a pas besoin. Tout dans cette œuvre est fait pour faire passer une émotion, un message presque subliminal. La poésie qui se dégage du tandem Ico/Yorda est absolument magique. Yorda est une jeune fille de lumière frêle, fragile, incapable de survivre seule dans cet immense château-prison. Je dirais presque que ce duo va au-delà de la simple entraide, et c'est ça qui est magnifique ; voir Ico tenir Yorda par la main, l'encourager à passer certains obstacles, la voir apeurée en la laissant trop longtemps toute seule et pousser de petits cris plaintifs... Perso, je ne crois pas avoir jamais eu autant de pincement au cœur sinon qu'avec ce soft. Tout dans cette œuvre transpire la poésie et la contemplation. On ne parlera pas de l'aspect technique, graph juste magnifique, persos qui se meuvent avec grâce, et bande-son discrète mais apaisante. Alors je le répète, la note que j'ai mise définit uniquement l'émotion que j'ai eue à jouer et à trembler pour ce tandem. Le jeu en lui-même ne mérite pas de note, il est bien au-dessus de cela. A essayer, et ouvrez votre esprit au voyage et au rêve. Ce grand jeu le mérite bien.

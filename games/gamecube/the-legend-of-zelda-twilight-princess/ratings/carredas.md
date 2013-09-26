@@ -1,0 +1,8 @@
+---
+user: carredas
+rating: 5
+published: 2007-06-29T11:40:51.000Z
+legacy_url: http://www.emunova.net/veda/test/1961.htm#comment-8260
+---
+Je lui met 10 mais je le trouve un poil en dessous de ToS pour ce qui est des RPG et ARPG GC. Je m'explique: le but d'un jeu, et surtout d'un jeu "d'aventure" (pour le terme old school) c'est de faire réver. Il y a plusieurs moyen de faire rever: graphismes, musique, scénar. Or TP est mùagnifique, long, les Palais sont extraordinaires mais les "entre deux tours" ne sont pas extra. Il manque de personnages, de rebondissements. On en demande pas beaucoups, on sait que c'est un Zelda et que c'est les Palais le principal (d'ailleurs mention spéciale pour le manoir enneigé qui rattrappe facilement le fabuleux et merveilleux et magnifique et encore fabuleux, temple de la foret de OOT). Mais là c'est un peu frustrant. Il aurait fallut...je sais pas moi...un village de plus...une ville vollante en plus du chateau dans le ciel (et surtout ne pas prevenir à lavance quil va y avoir un truc dans les airs, ca aurait été bon de garder le supspens), des vrais cadeaux pour les quetes annexes (pas de rubis SVP) et au moins une scéne cinématique au début et à la fin. D'ailleurs, je tient à dire que le fin est vraiment sèche. Pourtant celle de Tales Of Symphonia par ex, est aussi trés sèche mais je l'ai trouvée bien plus envoutante. Comme quoi ce n'est pas la peine de faire trop long mais plutôt d'apporter quelque chose de nouveaux, de beau, de magique.
+Sinon le reste est nickel: comme je l'ai dit les palais fabuleux, certains passages héroïques, certains boss extra, les graphismes magnifiques, certaines idées.

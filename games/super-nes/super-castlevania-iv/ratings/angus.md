@@ -1,0 +1,9 @@
+---
+user: Angus
+rating: 4
+published: 2006-11-07T16:09:04.000Z
+legacy_url: http://www.emunova.net/veda/test/29.htm#comment-6644
+---
+Et c'est reparti pour une tranche de nostalgie... j'ai acheté Super Castlevania IV bien après sa sortie (je n'étais pas parvenu à le trouver avant) en version allemande, heureusement avec une traduction de mode d'emploi ! Ma seule exprérience de la saga jusqu'alors était... The Castlevania adventure sur Game Boy (on ne va pas relancer le débat, hein Kékidi ;o) ). Autant dire que je fus durablement impressionné par la maniabilité du fouet -le personnage est lui plus raide mais rien de rédhibitoire-, l'architecture des niveaux (je me souviendrai toujours de celui qui se passe dans les catacombes, avec ce passage où des piques descendent du plafond et où il faut bien calculer son coup pour ne pas périr embroché, ou la bibliothèque, somptueuse tout simplement !). Ses effets spéciaux aussi : les rotations (le boss en pierre, la pièce aux Méduses), le niveau qui s'étire et se comprime. Et les boss, tous plus beaux et charismatiques les uns que les autres, avec bien entendu la Mort en tête (elle a dû m'occire une bonne douzaine de fois avant que je parvienne à la vaincre).
+Il est vrai que les couleurs ne participent pas toujours à immerger le joueur dans cet univers sombre et glauque, mais les musiques sublimes et sinistres se marient à merveille pour donner un sentiment d'angoisse qui sied tout à fait au jeu. Sans parler de l'écran d'intro d'anthologie montrant la tombe de Dracula fourdoyée, le vampire s'en échappant, en enfin le texte défilant à l'écran tandis que la brume l'envahit peu à peu. Rhaaaaaa...
+Un grand jeu, ni plus ni moins.

@@ -1,0 +1,15 @@
+---
+user: Neptune
+rating: 4.5
+published: 2006-11-13T13:31:55.000Z
+legacy_url: http://www.emunova.net/veda/test/1133.htm#comment-6737
+---
+Shenmue 2 est la digne suite de l'épisode précédent. Plus long, plus riche, avec plus de personnages et des environnements beaucoup plus grands, il en demeure pourtant vraiment moins attachant que le 1er. 
+
+Le premier point se situe au niveau du cadre de l'aventure : Ryo débarque à Aberdeen en Chine, ville de voleurs et de jeux clandestins. On est loin de l'ambiance intime de Yokosuka, presque soporifique. Tel un vagabond, Ryo n'a qu'un squatte moisi pour dormir et sa rencontre avec une fausse rousse en moto ne fait qu'empirer sa situation. 
+On le sait, Ryo est un héros naïf et borné, et on passe malheureusement son temps au début de l'aventure à se faire ballader par des voyous. L'ambiance et l'environnement est moins marqué que dans la première aventure, Ryo se trouve séparé de sa petite ville intime et de ses amis. Dans Shenmue 2, on perd des heures à courir dans des rues inconnues à la recherche de la personne qui saura ou se trouve la personne que l'on cherche qui elle même, saura trouver la personne que vous cherchiez à la base (pas mal cette phrase). 
+Pourtant, il reste un jeu captivant et attachant de bout en bout. Les rencontres se multiplient et les nouveaux environnements sont plaisants à découvrir, même si pas mal d'habitants sont reconnaissables d'une ville à l'autre et les minis jeux très répétitifs (bras de fer, jeux des dès, black jack...). Ceci dit, le dénouement de l'aventure est très lent au début surtout, et il faudra de la patience pour commencer à rentrer vraiment dans le bain.
+La quête des 4 Wude est de longue haleine, mais passé cette étape, le rythme du jeu devient plus soutenu. On fait la rencontre de l'un des plus beaux personnages de jeux vidéo réalisé, à savoir la sublime Xiuying Hong. On se lie d'amitié avec le charismatique Ren et le très énervant Wong. Joy quand à elle semble très attachée à notre héros, et on prend un certain plaisir à profiter de ses atouts plastiques pendant l'aventure.
+Alors certes, Shenmue 2 est un grand jeu d'aventure, vraiment riche et captivant pour peu que l'on s'investisse à fond dans l'aventure, mais les défauts et aberrations ne sont pas exclus : Ryo ne se douche et ne se change jamais (pourtant Xyuing s'entretien ELLE), il ne mange pas, ne se brosse pas les dents... Enfin bref, aucune amélioration notable depuis le premier épisode, ça c'est même empiré : Ryo garde même sa veste pourrie pour dormir ! 
+
+En mettant une croix sur ces détails fâcheux, on a beau dire, Shenmue 2 reste une expérience formidable dans bien des domaines. Des personnages séduisants pour la plupart, une aventure riche en rebondissements, un dernier chapitre enchanteur, que dire si ce n'est qu'il vous faut essayer absolument les 2 épisodes de cette superbe série. En espérant que Yu Suzuki se décide enfin à réaliser un troisième épisode, je me le referais bien une 6ème fois.

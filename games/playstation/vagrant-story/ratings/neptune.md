@@ -1,0 +1,7 @@
+---
+user: Neptune
+rating: 4.5
+published: 2005-11-23T11:28:39.000Z
+legacy_url: http://www.emunova.net/veda/test/939.htm#comment-4323
+---
+Un dungeon rpg unique. On attendait même pas sa sortie européenne que le jeu a finalement carrément été traduit en français ! Quel bonheur ! Un jeu techniquement très maitrisé, avec des personnages charismatiques et des décors médievaux européens sublimes. Le système de combats est super original, la création d'armes et les attributions de sortilèges tiennent vraiment en haleine. J'ai voué une véritable passion pour ce jeu, lorqu'on est vraiment dedans, on ne s'ennuit jamais. Je mets un mention spéciale à l'ambiance sonore qui est un chef-d'oeuvre, tandis que le scénario est plus travaillé que l'on pourrait le croire. Difficile à prendre en main, Vagrant Story ne s'adresse pas aux débutants, les boss ont tous un point faible assez difficile à trouver pour certains. On perd énormément de temps dans la préparation de son personnage, il m'est arrivé de passer plus d'une heure dans l'inventaire à bidouiller des armes, armures et autres sortilèges dans une forge pour finalement me faire défoncer la gueule par un boss. Cependant, lorqu'on a trouvé la faille, on se régale, et puis le jeu n'est pas impossible, il est juste très difficile, et c'est ça qui est bon. Un joyaux.

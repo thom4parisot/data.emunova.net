@@ -1,0 +1,8 @@
+---
+user: AllenWalker
+rating: 4.5
+published: 2010-10-18T20:52:48.000Z
+legacy_url: http://www.emunova.net/veda/test/332.htm#comment-14265
+---
+Graphiquement, musicalement, un must, il n'a pas prit une ride à ces niveaux, malgré ces longues années qui nous sépare de sa sortie, peut être est-ce du à son côté révolutionnaire déjà à l'époque. Ce jeu a littéralement transformé la licence Castlevania en quelque chose de plus riche, plus complet, plus esthétique...quand les gens pensent à Castlevania, il ne pense pas aux précédents opus (sauf les hardcore gamers), mais bien à celui-ci. On nuance cependant en disant qu'il est trop facile, alors oui, trop facile par rapport aux volets plate-formes, sans doute à cause de du système de Level Up, et aussi parce que le côté plate-forme pure a disparu. Personnellement, je ne supporte pas les jeux qui sont longs parce que "difficulté élevée" à la clé, qui gagne en durée de vie, ce que nous, nous perdons en temps précieux, à refaire les niveaux depuis le début, parce qu'on a mal calculé un saut, ou parce qu'un bosse nous enlève la moitié de la vie en un coup.... La licence devient plus accéssible, donc plus populaire, tout en restant ancré dans la tradition de la saga par bien des aspects. 
+ON regrettera juste un manque de compétence, de magies, Alucard nous parait bien faible, face à un Soma Cruz, ou à une Shanoa....seul petit point un peu limite si l'on découvre le titre que maintenant.

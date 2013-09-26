@@ -1,0 +1,7 @@
+---
+user: Ti Dragon
+rating: 5
+published: 2005-05-20T07:41:46.000Z
+legacy_url: http://www.emunova.net/veda/test/587.htm#comment-3108
+---
+Après les deux premiers opus sur Game Boy puis Nes (alors que l'histoire aurait d'abord du mettre le deuxième en premier lieu...), nous avons droit à un nouveau chef d'œuvre signé Capcom dans un RPG/Plate-Forme enchanteur (ou plutôt ensorceleur pour son côté démoniaque) qui devrait ravir les amateurs du monde des morts-vivants (Castlevania, Ghosts'n Goblins, Gouls'n Ghosts, etc.) et autres démons. Les musiques... les musiques nous jettent tout simplement dans l'ambiance et le jeu est relativement difficile (surtout le boss caché qui doit être l'un des plus difficiles du monde du jeu vidéo...). Les graphismes sont très plaisants, le scénario se laisse découvrir (quand on est lâché contre un monstre qui fait 5 fois votre taille, dès le début du jeu, ça impressionne quand même), l'action reprend tous les ingrédients de son prédécesseur et j'ai pris plaisir à ces histoires de rivalité et de lutte pour le pouvoir : qui représente réellement le mal ? Dommage qu'on n'arrive pas bien à situer ce qui est arrivé à Firebrand (Red Arhima) depuis sa lutte contre le Seigneur Breager dans le Royaume des Goules...

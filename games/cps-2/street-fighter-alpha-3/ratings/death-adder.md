@@ -1,0 +1,7 @@
+---
+user: Death Adder
+rating: 3.5
+published: 2006-11-07T20:46:17.000Z
+legacy_url: http://www.emunova.net/veda/test/1073.htm#comment-6651
+---
+Enfin une vraie suite à SFII.Après les versions intermédiaires à rallonge dont Capcom a lui seul le secret,voici une vraie nouveauté avec ce SFA3(je ne compte pas la 1 et la 2).L'action a été remise au gout du jour,avec des enchainements de combos et un rafraichissement des personnages qui sont vraiment nombreux maintenant.Discutable graphiquement car ces derniers sont tous devenus "gros".Donc terminé les fins et athlétiques M.Bison et autres Ryu transformés pour l'occasion en bodybuildés d'un gout esthétique pas forcément des plus réussis.Cependant au-delà de cela le jeu est en lui-meme une vraie réussite et l'on prend vraiment du plaisir à jouer à cette nouvelle version tout en choisissant le style de combat (et de la fury) que l'on veut adopter.Pourtant,en regardant du coté des KOF,je me dis que techniquement les différents coups et enchainements des persos n'ont pas assez évolués.La concurrence est rude avec SNK et fait souffrir cette série qui n'a peut-etre pas assez rompu avec le passé pour nous offrir ce qu'il y a de mieux...Car lorsque je vois des personnages comme Sakura(clone Ryu) ou R-Mika(clone Zanghief) la catcheuse que l'on ne prend qu'une fois (sans compter tous les autres clones ou personnages minables comme Dan,Birdie,Rose...), je me dis qu'ils n'apportent vraiment RIEN à la série et que c'est un peu le cache-misère...Mais OU sont les nouveaux persos inédits censés relancer la série?

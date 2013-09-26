@@ -1,0 +1,7 @@
+---
+user: alien81
+rating: 5
+published: 2011-08-02T09:35:59.000Z
+legacy_url: http://www.emunova.net/veda/test/744.htm#comment-15399
+---
+je mets 10 parce que je ne peux pas aller plus haut dans la note. Déjà dés la séquance d'intro, on smange une monumental claque dans la gueulle!!! tout dans se jeux est une réussite, graphismes alucinant de beauté avec son scrolling differenciel et ses effets de paralax, un cara design concernant les vaisseau de toute beauté faisant penser pour certain boss à du bio mecanique. Et puis il y'a cette musique, c'est bien simple, c'etait la premiere fois que je headbanguais sur une musique de jeux video, ca va du theme épique au gros riff hard rock voir metal bien bourrin. Comme quoi, quand on sait utilisé correctement un chipset sonore, et ben ça donne une BO qui te fout une peche d'enfer!!! surtout que certain stage vont à une vitesse affolante. Petit bémole tout de même; il y'a quand même des ralentissement quand trop d'ennemis ou d'explosion se font présent à l'ecran. (ceci étant dit, vu le rythme éffréné de l'action, je mdemande si c'est pas un mal pour un bien!!!). Bon bref, vous l'aurez compris; assez parlé, jouez, jubilez, jouissez!!! (pas trop fort quand même!!! mdr);)

@@ -1,0 +1,21 @@
+---
+user: Kimuji
+rating: 5
+published: 2009-09-28T02:33:25.000Z
+legacy_url: http://www.emunova.net/veda/test/2038.htm#comment-12081
+---
+Le premier Max Payne était un très bon jeu, un scénario sombre et très bien écrit, les dialogues des phases narratives étaient croustillants et jouissifs. L'action décoiffait bien qu'un peu répétitive à la longue.
+
+Max Payne 2 va un peu plus loin dans tous les domaines qui avaient fait le succés de son prédécesseur. Le scénario si sur le fond n'est pas plus complexe est encore plus prenant, la qualité d'écriture pour la narration est encore monté d'un cran, les textes et les dialogues sont vraiment un plaisir à écouter/lire (n'oubliez pas de jouer en VO), et sincèrement j'ai rarement vu mieux dans un jeu vidéo. Max gagne encore en profondeur mais surtout les personnages secondaires prennent de l'envergure, Winterson, Bravura, Vladimir... et biensur Mona Sax. Mona qui vole même carrément la vedette au grand complot de l'histoire, à la limite on s'intéresse bien plus à elle qu'à la sombre et sanglante affaire dans laquelle Max est encore fourré. Non pas que l'intrigue manque d'intérêt mais ce personnage dispose tout simplement d'un charisme incroyable.
+
+Coté action (oui à la base c'est quand meme un jeu d'action et pas un film ou un roman ^^) ça reste très proche du premier,le gameplay a été à peine retouché, il était déjà très efficace, il est un peu plus souple et apporte un léger confort supplémentaire (l'utilisation des grenade est bien meilleure par exemple). Les séquences sont tout de même un peu plus variées, il y a par exemple des phases de coopération avec des pnj (Mona la plus part du temps), ou alors de protection, comme l'hilarante fuite avec Vinnie Gognitti. Bref ça décoiffe toujours autant, c'est plus varié et plus intense et le level design est très soigné.
+
+Le jeu est toujours linéaire, mais on s'en tape, on est pas dans un rpg ni dans un jeu d'aventure, Max Payne 1 & 2 sont avant tout des shooters ultra scénarisés c'est le genre qui le veut. D'autant plus que malgré la linéarité les devs l'ont quand même bourré de petits détails, souvent très drôles et dont il est difficile de voir l'étendue en une seule partie: les dialogues des vilains que l'on espionne, les 4 séries télévisées, toutes les petites actions que l'on peut déclencher au commissariat etc... Le jeu est truffé de petits clins d'&\#339;il pour celui qui saura farfouiller un peu.
+
+L'ambiance est encore plus prenante que dans le premier grâce à de très bon acteurs (ce ne sont plus les devs du jeu qui servent de modèles pour le roman photo), la BO est magnifique, elle aussi encore un cran au dessus de l'opus précédent. La ville de New Nork de nuit et toujours sous des trombes d'eau est un personnage en lui même, bref, "envoutant" est le maitre mot pour qualifier cette romance sur fond de chute en enfer du héros.
+
+La durée de vie a été assez décriée, le jeu se fini assez vite c'est assez dommage mais il faut garder quelques éléments en tête: on est en présence d'un shooter et non d'un rpg, il y a une réelle replay value, d'une part parce qu'on découvre de nouvelles petites scènes qu'on avait inévitablement manqué lors de la première partie et d'autre part parce qu'il faut finir le jeu en mode "Dead on arrival" pour voir la seconde fin du jeu, car le jeu comporte deux fins distinctes, une triste et une "heureuse"(notez les guillemets ^^). Quant à la difficulté il suffit de jouer en Minute New Yorkaise ou Dead on Arrival pour être servi.
+
+Voilà Max Payne 2 est une expérience qui vaut largement d'être jouée, il sublime tous les points forts du premier épisode. Sam Lake confirme ses talents d'écriture, lire ses lignes est un véritable plaisir. Ces batailles sanglantes en pleine nuit New Yorkaises avec en ligne directrice la romance impossible entre un flic en perdition totale et une tueuse à gage qui est aussi belle que ses balles sont mortelles ont un charme envoutant et unique. Gunfights, ambiance polar et série noire, amour et humour décalé, le cocktail est détonnant, assurément un des meilleurs jeux d'action sorti sur PC.
+
+Oui donc 10/10, c'est court mais c'est dense et intense.

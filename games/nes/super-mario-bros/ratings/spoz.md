@@ -1,0 +1,16 @@
+---
+user: Spoz
+rating: 5
+published: 2009-04-22T09:09:05.000Z
+legacy_url: http://www.emunova.net/veda/test/109.htm#comment-11265
+---
+A chacun sa génération, et le jeu qui va avec...
+
+Mes parents n'avaient qu'un Pong de salon, et je me souviens du jour où j'ai vu Mario tourner sur la NES des voisins des voisins des voisins comme si c'était hier. J'étais fasciné... Scotché devant l'écran...
+Et puis moment magique : on me donne la manette et j'ai le droit d'essayer... Ce jour là, je n'ai pas passé le premier trou, mais ce n'était que partie remise...
+
+Des années plus tard, j'ai eu une NES, et j'ai forcément joué à Super Mario Bros, comme tous ceux de ma génération.
+Et puis j'ai un peu oublié la NES, pendant de longues années...
+
+Jusqu'à ce jour de l'année dernière, où j'ai eu envie de posséder une NES à nouveau. Elle est arrivée, avec ses 26 jeux, dont les trois Marios, les deux Zeldas, Metroïd, etc... Bref, des jeux de légende, des hits en puissance, mais pour remettre cette bonne vieille NES en route, je n'en cherchais qu'un seul...
+Oui, un seul au milieu des autres, parce que c'est le jeu de ma génération.

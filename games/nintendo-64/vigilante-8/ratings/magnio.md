@@ -1,0 +1,7 @@
+---
+user: Magnio
+rating: 5
+published: 2009-10-16T16:25:25.000Z
+legacy_url: http://www.emunova.net/veda/test/3108.htm#comment-12168
+---
+Je met 10 et j'assume pleinement! Ce jeu est pour moi l'un des meilleurs de la console! Enfin un jeu tel que certains d'entre nous l'attendait... C'est fun, c'est un carnage, ça défoule et c'est vraiment bien foutu! Rien à redire! Graphiquement, le jeu est très beau et dispose d'une profondeur d'affichage remarquable, mais il n'échappe malheureusement pas à l'effet de flou des textures à partir d'une certaine distance, mais rien de choquant ou de gênant. La maniablité est bien pensée, il faut un léger temps d'adaptation au début pour bien comprendre les mécanismes du jeu, mais après tout roule. Les bruitages et musiques sont de qualité, les voix digits également, quoi qu'il y arrive que parfois pris dans le feu de l'action, que le son grésille un peu, mais cela est plus dû aux bruitages qui vous averti que vous ne pouvez pas utiliser d'arme ( bruitage strident et assez désagréable au bout d'un moment d'ailleurs... ). La durée de vie en Solo est assez courte, mais on y retourne souvent tant le principe du jeu est défoulant. À plusieurs, le mode Multi prend tout son sens, on a même souvent l'impression que c'est du grand n'importe quoi, tant l'action est intense. Mais cette confusion fait partie des sensations incomparables qu'offre ce titre. Un incontournable de la N64!

@@ -1,0 +1,7 @@
+---
+user: melvis
+rating: 5
+published: 2010-10-29T13:52:36.000Z
+legacy_url: http://www.emunova.net/veda/test/89.htm#comment-14372
+---
+RARE offre a la console 16 bits de Nintendo en fin de vie un des summums videoludiques pour cloturer le fabuleux catalogue de la SNES (exploit réédité aussi pour la N64 avec Conker !). Outre les graphismes qui poussent la SuperNES dans ses derniers retranchements, le gameplay est aussi exceptionnel que précis et ceux dans toutes les phases (et il y'en a beaucoup !) le tout se pratique sans le moindre reproche. La mécanique de jeu est elle aussi trés intéressante car elle ne pénalise pas le joueur occasionnel et parallélement motive le hardcore gamer car on l'incite a tout collecter et il faudra de la patience pour vraimant venir a bout du jeu à 100% (ou plustot 101%) compte tenu de la quantité énorme de secrets et objets a collecter qui représentent plus de 60% du jeu !. Et cerise sur le gateau, le mode 2 joueurs en coopération quasi fusionnelle est ingénieux qui pousse à l'entraide d'une maniére ingénieuse et à toujours peaufiner son approche du niveau en couple, car DKC est un jeu qui se savoure sur une longue période sans jamais lasser le joueur ! et ça c'est vraiment "RARE" !

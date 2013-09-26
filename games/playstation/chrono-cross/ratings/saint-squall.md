@@ -1,0 +1,8 @@
+---
+user: Saint Squall
+rating: 4
+published: 2005-10-10T16:12:03.000Z
+legacy_url: http://www.emunova.net/veda/test/934.htm#comment-4003
+---
+Chrono Cross est sans conteste un grand RPG, qui figure parmi les meilleurs sur Playstation. Maintenant, il est loin d'être aussi mon préféré. Graphiquement, il figure parmi les plus beaux titres de la machine, même s'il ne bat en aucun cas Final Fantasy 9 sur ce plan-là. La bande originale est très belle (les thèmes de carte sont vraiment magnifiques), mais là encore je préfère les OST des Final Fantasy sur PS, question de goût. Le système de combat est vraiment très original (avec une gestion particulière de la magie) et dynamique, on ne s'ennuie pas pendant les batailles. Il y a énormément de personnages jouables: c'est peut-être à la fois une qualité et un défaut car tous ne sont pas intéressants et on a du mal à faire son choix parmi les plus charismatiques. J'ajouterai que je n'ai pas trouvé le scénario si extraordinaire , je l'ai trouvé un peu confus vers la fin( j'y ai joué en anglais et malgré ma bonne compréhension de cette langue tout n'était pas clair), de plus je trouve le héros principal Serge peu intéressant.
+En conclusion, je placerai Chrono Cross en dessous de Final Fantasy 7, 8 et 9, de Grandia et de Suikoden 1 et 2 sur Playstation, mais donc SUPERIEUR à tous les autres RPGs sortis sur cette console (je ne compte donc pas tous les Action-RPGs et Tactical-RPGs ). Il faudra quand même que j'y rejoue en français pour le réévaluer au cas où, et aussi que je joue ENFIN à Xenogears pour établir mon classement définitif des RPGs sur Playstation.

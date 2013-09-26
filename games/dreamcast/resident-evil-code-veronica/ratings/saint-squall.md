@@ -1,0 +1,10 @@
+---
+user: Saint Squall
+rating: 4.5
+published: 2005-10-10T14:18:43.000Z
+legacy_url: http://www.emunova.net/veda/test/279.htm#comment-3999
+---
+Soyez-en persuadés: Resident Evil Code Veronica est le meilleur épisode de la série avec le premier (mettons à part les épisodes Gamecube). Moins culte que le premier RE mais nettement plus réussi que RE Nemesis, cet opus nous oppose à la famille Asford, fondatrice d'Umbrella et responsable de tous nos malheurs! (ou bonheurs, ça dépend de quel point de vue on se place) RE Code Veronica a su renouer avec l'ambiance bien glauque du premier volet et va même bien plus loin dans l'horreur en nous offrant de véritables séquences cultes. Il se permet un passage à la 3D maîtrisé et plus immersif, distille des graphismes aux couleurs savamment choisies (tantôt chaudes, tantôt froides) et enchante nos sens auditifs avec sa bande son phénoménale! (certains thèmes figurent parmi les meilleurs de la série, avec notamment des thèmes de boss géniaux et la musique des crédits fantastique) Disposant d'une mise en scène améliorée, ce RE bénéficie en outre d'un scénario plus élaboré qu'à l'accoutumée avec ses méchants au charisme prononcé, et possède une durée de vie largement supérieure aux précédents RE. Il ravira encore une fois les fans avec ses nombreuses références au premier épisode.
+Tout amateur de survival-horror et plus particulièrement des Resident Evil se doit de jouer à ce RE Code Veronica, véritable chef d'oeuvre du genre.
+
+Note pour Neptune: tu t'enflammes un peu dans ta réaction je trouve! Tu es bien l'un des rares à considérer RE 3 comme supérieur à RE Code Veronica, mais bon chacun ses goûts. Ce RE Code Veronica possède une ambiance monstrueuse et est 10 fois plus flippant et stressant que Nemesis, et bénéficie d'une bande-son du tonnerre et d'un scénario plus recherché que RE 3\. Après c'est dommage pour toi si tu ne t'en rends pas compte... RE 3 est le plus faible de la saga sur PS/PS2 mais n'en reste pas moins un très bon jeu...

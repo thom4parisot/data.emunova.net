@@ -1,0 +1,7 @@
+---
+user: Gui Geek
+rating: 2.5
+published: 2012-02-22T09:31:50.000Z
+legacy_url: http://www.emunova.net/veda/test/3809.htm#comment-15727
+---
+Je ne doute pas que ce jeu est sûrement très bon, malheureusement, il m'est impossible de me prononcer davantage pour la simple et malheureuse raison que je ne n'arrive pas à progresser dans ce jeu... Dans l'absolu, on pourrait se dire que je suis simplement un gamer pas doué, mais le vrai problème se situe ailleurs: on ne peut pas ( plus ? ) marquer sa position ( créer un checkpoint ), car cette sauvegarde temporaire s'effecture sur la pile interne de la Dreamcast, laquelle n'est désormais plus fonctionnelle sur de nombreuses consoles. J'ai essayé sur plusieurs Dreamcast, rien à faire ! Le jeu se fige lorsque le joueur veut marquer sa position. En clair, lorsqu'il meurt, le joueur n'a pas d'autre choix que de recommencer la ( longue et difficile ) mission depuis le début... Je n'ai donc pas été plus loin que la seconde mission et je ne pourrai sans doute jamais aller plus loin ! J'aurais certainement apprécié ce jeu, si seulement son système de sauvegarde temporaire n'était pas devenu inutilisable. Donc soyez prudents si vous achetez ce jeu, il y a de fortes chances pour que vous rencontriez le même problème...

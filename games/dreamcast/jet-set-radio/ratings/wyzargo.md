@@ -1,0 +1,19 @@
+---
+user: Wyzargo
+rating: 2
+published: 2012-08-21T21:30:38.000Z
+legacy_url: http://www.emunova.net/veda/test/764.htm#comment-15976
+---
+Jamais je ne comprendrai l'engoument autour de ce jeu... 
+
+Perso, j'y ai joué environ deux heures et ça m'a vite saoûlé tellement c'est plat et répétitif... 
+Seule sa plastique sauve ce jeu du naufrage (pour moi).
+
+Gameplay : 7 -\> C'est plat, répétitif et lassant au bout de 20 minutes...
+Design/Technique : 15 -\> Malgré un look discutable des persos, c'est quand même le premier en Cel Shading, et ça c'est pas rien.
+Durée de vie : 7 -\> Comme je l'ai dit plus haut, je baillais au bout de 20 minutes...
+Ambiance sonore : 5 -\> Ultra subjectif, car venant d'un type qui déteste le hip hop...
+
+Ma note : **8/20**
+
+PS : à noter qu'à côté de l'immonde version GBA, ce jeu est un p\*tain de chef d'oeuvre...

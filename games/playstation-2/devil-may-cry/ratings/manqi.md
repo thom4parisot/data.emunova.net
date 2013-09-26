@@ -1,0 +1,7 @@
+---
+user: Manqi
+rating: 5
+published: 2006-04-02T23:21:09.000Z
+legacy_url: http://www.emunova.net/veda/test/742.htm#comment-4888
+---
+C'est l'un des precurseurs du genre dans le jeuxvideo , un beatm'all nerveux et dynamique comme on voudrait en voir plus souvent. C'est un de mes jeux preferes sur PS2 . Ce jeu a tout pour lui excepté peut-etre le scenario un peu simpliste , la maniabilité est facile a prendre en main est est tres instinctif , on se retrouve rapidement entrain de faire des enchainements demantiels. La bande son convient bien à lambiance gothique avec un melange de rock et de metal lors des combats , ça reste super entrainant et nous plonge dans l'action . Au niveau des graphisme , le jeu etant sortit il y a tres lomgtemps , ça reste bien pour l'epoque et même tres bien même si capcom nous a habituée a plus de cinematique , ça reste bien dans l'ensemble avec une bonne variete et de jolies modelisations. La durée de vie reste excellent avec une bonne dizaine d'heure en mode facile et un mode difficiel qui se finit en plus de temps , on reprend le jeu plusieur fois avec grand plaisir et ça reste fun. En resumé , pour moi c'est l'un des meilleur jeu sur PS2 avec les autre DMC.

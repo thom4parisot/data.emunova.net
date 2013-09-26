@@ -1,0 +1,7 @@
+---
+user: Kenseiden
+rating: 5
+published: 2006-12-26T12:04:59.000Z
+legacy_url: http://www.emunova.net/veda/test/1680.htm#comment-7228
+---
+La série des GTA a toujours souffert de défauts assez énervants à mes yeux : réalisation pas toujours top, certaines séquences de pilotage (les avions ou les hélicos) énervantes au possible, missions parfois à la limite de l'infaisabilité qu'on ne réussisait que par chance. San Andréas corrige la plupart de ces faiblesses. Sans être la huitième merveille du monde, le jeu est très chouette graphiquement, et le pilotage a été amélioré. Reste que la difficulté reste toujours aussi déséquilibrée d'une mission à l'autre. Néanmoins, San Andréas propose un espace de jeu d'une immensité à peine croyable, des véhicules à ne plus savoir qu'en faire, des dizaines de missions (sans compter les missions "véhicules" style police, taxi, maque, etc...), un humour ravageur et une gallerie de personnages encore plus félés que dans les autres épisodes, et des à-côtés (tatouages, fringues, coiffure, musculation, fast-food, copine à sortir) inutiles mais qui confèrent une réalisme et un sentiment d'immersion total. Ca m'énerve quand même de mettre 10, vu les crises de nerf que m'ont valu certaines missions, mais un 9 serait insuffisant compte tenu de la richesse du jeu. Comptez donc un bon 9,5 !

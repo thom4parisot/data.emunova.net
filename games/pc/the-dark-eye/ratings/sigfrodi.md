@@ -1,0 +1,7 @@
+---
+user: Sigfrodi
+rating: 4.5
+published: 2005-09-29T19:57:32.000Z
+legacy_url: http://www.emunova.net/veda/test/1105.htm#comment-3898
+---
+Hum je ne sais pas si on peut le qualifier de jeu mais plutôt d'expérience interactive... Pas de challenge puisqu'on ne peut pas "perdre", pas d'énigme complexe (en général il faut juste cliquer au bon endroit - en même temps c'était fait sous Director)... L'interactivité est là pour encourager l'immersion du joueur, afin qu'il s'identifie au personnage. On y retrouve les thèmes du meurtre, que l'on revit dans la peau du meurtrier et de la victime de manière fort intéressante, de l'obsession (des yeux notamment), de la folie. Tout ceci est savamment exploité. La réalisation visuelle, avec des personnages marionnettes à l'air cadavérique et malsain, contribue magnifiquement à une ambiance glauque et grotesque, tout à fait digne de Poe. Ajouter à cela la nouvelle "La Mort Rouge" magnifiquement dite et illustrée. Alors en effet c'est très court, c'est pas vraiment un jeu (et on a un peu de mal à rentrer dedans au début), mais c'est une expérience exaltante et stimulante que ce titre atypique (surtout pour peu qu'on soit intéressé par le sombre). Bref, perso j'ai été emballé. ^^ PS : selon mon expérience, le jeu tourne bien sous XP mais il faut installer le QuickTime 2 livré avec (même si o a une version plus récente déjà présente) afin de profiter de certaines videos. Par ailleurs, la fin de certains dialogues sont escamotés (perte de synchro?) mais rien de pénalisant.
