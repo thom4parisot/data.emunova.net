@@ -7,7 +7,7 @@ var map = {
   "videopac": "odyssey-2",
   "mame": "arcade",
   "mega-drive": "megadrive",
-  "game-amp-watch": "game-and-watch",
+  "game-watch": "game-and-watch",
   "windows-phone-7": "windows-phone",
   "nintendo-ds": "ds"
 };

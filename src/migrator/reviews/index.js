@@ -28,6 +28,12 @@ module.exports = {
     var system_slug = systems.map(_.str.slugify(game.system_name));
     var game_slug = _.str.slugify(game.titre);
     var basepath = _.template("games/<%= system %>/<%= game %>", {system: system_slug, game: game_slug});
+    var filename = basepath + "/reviews/"+ _.slugify(game.member_name) +".md";
+
+   if (grunt.file.exists(filename)){
+     grunt.log.ok("Test #"+ game.C_TEST +" skipped: "+ game.titre);
+     return next();
+   }
 
     async.parallel([
       //saving json file
@@ -55,11 +61,11 @@ module.exports = {
           md(game.test_texte || grunt.file.read("tmp/tests/"+ game.C_TEST +".htm", { encoding: "iso-8859-1" }))
         ];
 
-        grunt.file.write(basepath + "/reviews/"+ _.slugify(game.member_name) +".md", data.join("\n"));
+        grunt.file.write(filename, data.join("\n"));
         done();
       }
     ], function(){
-      grunt.log.ok("Test saved: " + game.titre);
+      grunt.log.ok("Test #"+ game.C_TEST +" saved: " + game.titre);
     });
 
     next();

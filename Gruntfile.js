@@ -19,7 +19,6 @@ module.exports = function(grunt){
   });
 
   grunt.loadTasks("src/grunt");
-  grunt.loadNpmTasks('grunt-rename');
 
   grunt.registerTask("default", []);
 };
