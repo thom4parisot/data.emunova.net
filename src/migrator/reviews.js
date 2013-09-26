@@ -4,7 +4,7 @@ var md = require("html-md");
 var grunt = require("grunt");
 var async = require("grunt").util.async;
 var _ = require("grunt").util._;
-var systems = require("../../systems.js");
+var systems = require("../systems.js");
 
 module.exports = {
   query: function(db){

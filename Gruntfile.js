@@ -14,6 +14,11 @@ module.exports = function(grunt){
         query: require("./src/migrator/reviews").query,
         dest: "games/",
         builder: require("./src/migrator/reviews").builder
+      },
+      ratings: {
+        query: require("./src/migrator/ratings").query,
+        dest: "games/",
+        builder: require("./src/migrator/ratings").builder
       }
     }
   });
