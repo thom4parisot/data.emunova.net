@@ -12,6 +12,11 @@ module.exports = function(grunt){
           database: "novanet"
         }
       },
+      systems_images: {
+        query: require("./src/migrator/systems_images").query,
+        dest: "systems/{% system.id %}/images/",
+        builder: require("./src/migrator/systems_images").builder
+      },
       reviews: {
         query: require("./src/migrator/reviews").query,
         dest: "games/{% system.id %}/{% game.id %}/",
