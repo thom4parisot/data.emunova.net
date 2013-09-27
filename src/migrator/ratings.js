@@ -15,8 +15,6 @@ module.exports = {
       .join("en_supports as systems", "systems.C_SUPPORT", "=", "games.C_SUPPORT")
       .select("ratings.*", "games.C_SUPPORT", "games.date_publication", "games.titre", "users.name AS member_name", "systems.nom AS system_name")
       .where("ratings.is_master", "IS", null)
-      .limit(5000)
-      .offset(10000)
       .orderBy("C_NOTE", "ASC");
   },
   builder: function(rating, next){

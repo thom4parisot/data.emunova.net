@@ -1,6 +1,8 @@
 "use strict";
 
 module.exports = function(grunt){
+  grunt.template.addDelimiters('migrate', '{%', '%}');
+
   grunt.initConfig({
     migrate: {
       options: {
@@ -12,12 +14,17 @@ module.exports = function(grunt){
       },
       reviews: {
         query: require("./src/migrator/reviews").query,
-        dest: "games/",
+        dest: "games/{% system.id %}/{% game.id %}/",
         builder: require("./src/migrator/reviews").builder
+      },
+      reviews_image: {
+        query: require("./src/migrator/reviews_image").query,
+        dest: "games/{% system.id %}/{% game.id %}/images/main.{% ext %}",
+        builder: require("./src/migrator/reviews_image").builder
       },
       ratings: {
         query: require("./src/migrator/ratings").query,
-        dest: "games/",
+        dest: "games/{% system.id %}/{% game.id %}/ratings/",
         builder: require("./src/migrator/ratings").builder
       }
     }
