@@ -10,7 +10,7 @@ var systems = require("../systems.js");
 module.exports = {
   query: function(db){
     return db("en_galeries as img")
-      .debug()
+      //.debug()
       .join("en_supports as systems", "systems.C_SUPPORT", "=", "img.C_SUPPORT")
       .select("img.*", "systems.nom AS system_name")
       .orderBy("C_PHOTO", "ASC");
@@ -36,12 +36,17 @@ module.exports = {
       function(done){
         var data = [
           "---",
-          "title: " + photo.titre,
+          'title: ' + (~photo.titre.indexOf(':') ? '"'+photo.titre+'"' : photo.titre),
           "published: " + new Date(photo.date_ajout * 1000).toISOString(),
-          "legacy_url: http://www.emunova.net/galeries/"+ photo.C_SUPPORT +".htm#media-"+ photo.C_TEST,
+          (photo.source_copyright ? [
+            "copyright:",
+            "  owner: " + photo.source_copyright,
+            "  url: " + (photo.source_www || "")
+          ].join("\n") : ""),
+          "legacy_url: http://www.emunova.net/galeries/"+ photo.C_SUPPORT +".htm#media-"+ photo.C_PHOTO,
           "---",
           md(photo.commentaire)
-        ];
+        ].filter(function(line){ return line.length ? line : null; });
 
         grunt.file.write(basepath + ".md", data.join("\n"));
         done();
