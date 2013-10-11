@@ -1,41 +1,53 @@
 "use strict";
 
 var path = require("path");
-var md = require("html-md");
 var db = require("../database");
 var systems = require("../systems.js");
+var fs = require("fs");
+var when = require("when");
+var sanitize = require('validator').sanitize;
 
 module.exports = function(grunt){
-  var async = grunt.util.async;
   var sprintf = grunt.util._.str.sprintf;
+  var slugify = grunt.util._.str.slugify;
+  var async = grunt.util.async;
 
-  var clean = grunt.util._.compose(grunt.util._.str.slugify, md);
+  var clean = grunt.util._.compose(slugify, function(d){ return sanitize(d).entityDecode(); });
   var clean_system = grunt.util._.compose(systems.map, clean);
 
   grunt.registerTask("htaccess", function(){
     var task = grunt.task.current;
     var options = task.options({});
+    var stream = fs.createWriteStream("tmp/.htaccess");
+    var taskDone = this.async();
 
-    async.parallel([
-      //reviews
-      function (done){
-        db("en_veda_tests AS t")
-          .select("C_TEST", "titre", "s.nom AS system_name")
-          .join("en_supports AS s", "s.C_SUPPORT", "=", "t.C_SUPPORT")
-          .orderBy("C_TEST")
-          .then(function(results){
-            async.forEach(results, function(row, done){
-              var output = sprintf('RewriteRule ^veda/test/%s.htm http://wip.emunova.net/%s/games/%s/ [R=301,L]',
-                row.C_TEST,
-                clean_system(row.system_name),
-                clean(row.titre)
-              );
+    stream.write("RewriteEngine On\n");
 
-              console.log(output);
-              done();
-            }, done);
-          });
-      }
-    ], this.async());
+    var pReviews = when.promise(function(resolve, reject, notify){
+      db("en_veda_tests AS t")
+        .select("C_TEST", "titre", "s.nom AS system_name")
+        .join("en_supports AS s", "s.C_SUPPORT", "=", "t.C_SUPPORT")
+        .orderBy("C_TEST")
+        .then(function(results){
+          stream.write("\n");
+          stream.write("#Reviews\n");
+
+          async.forEach(results, function(row, done){
+            var output = sprintf("RewriteRule ^veda/test/%s.htm http://wip.emunova.net/%s/games/%s/ [R=301,L]\n",
+              row.C_TEST,
+              clean_system(row.system_name),
+              clean(row.titre)
+            );
+
+            process.stdout.write(output);
+            stream.write(output, 'utf-8', done);
+          }, resolve);
+        });
+    });
+
+    when.all([pReviews]).then(function(){
+      stream.end();
+      taskDone();
+    });
   });
 };
