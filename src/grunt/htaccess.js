@@ -45,9 +45,55 @@ module.exports = function(grunt){
         });
     });
 
-    when.all([pReviews]).then(function(){
-      stream.end();
-      taskDone();
+    var pSystems = when.promise(function(resolve, reject, notify){
+      db("en_supports AS s")
+        .select("s.C_SUPPORT", "s.nom AS system_name")
+        .orderBy("C_SUPPORT")
+        .then(function(results){
+          stream.write("\n");
+          stream.write("#Systems\n");
+
+          async.forEach(results, function(row, done){
+            var output = sprintf(
+              [
+                "RewriteRule ^emulation/%1$s.htm http://wip.emunova.net/%2$s/ [R=301,L]",
+                "RewriteRule ^emulation/fiche/%1$s.htm http://wip.emunova.net/%2$s/history.html [R=301,L]",
+                "RewriteRule ^veda/support/%1$s.htm http://wip.emunova.net/%2$s/games/ [R=301,L]",
+                "RewriteRule ^galeries/%1$s.htm http://wip.emunova.net/%2$s/images/ [R=301,L]"
+              ].join("\n") + "\n",
+              row.C_SUPPORT,
+              clean_system(row.system_name)
+            );
+
+            process.stdout.write(output);
+            stream.write(output, 'utf-8', done);
+          }, resolve);
+        });
+    });
+
+    var pVarious = when.promise(function(resolve, reject, notify){
+      stream.write("\n");
+      stream.write("#Various\n");
+
+      var output = [
+        "RewriteRule ^infos/$ http://wip.emunova.net/about/ [R=301,L]",
+        "RewriteRule ^infos/contact/ http://wip.emunova.net/infos/team.html [R=301,L]",
+        "RewriteRule ^veda/ http://wip.emunova.net/about/migration.html [R=410,L]",
+        "RewriteRule ^veda2/ http://wip.emunova.net/about/migration.html [R=410,L]",
+        "RewriteRule ^galeries/ http://wip.emunova.net/about/migration.html [R=410,L]",
+        "RewriteRule ^liens/ http://wip.emunova.net/about/migration.html [R=410,L]",
+        "RewriteRule ^infos/ http://wip.emunova.net/about/migration.html [R=410,L]"
+      ].join("\n") + "\n";
+
+      process.stdout.write(output);
+      stream.write(output, 'utf-8', resolve);
+    });
+
+    when.all([pReviews, pSystems, pVarious]).then(function(){
+      stream.write("\n\nRewriteRule ^.*$ http://wip.emunova.net/404.html [R=404,L]", function(){
+        stream.end();
+        taskDone();
+      });
     });
   });
 };
