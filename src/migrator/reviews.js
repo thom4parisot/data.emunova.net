@@ -2,9 +2,13 @@
 
 var md = require("html-md");
 var grunt = require("grunt");
-var async = require("grunt").util.async;
-var _ = require("grunt").util._;
+var async = grunt.util.async;
+var _ = grunt.util._;
 var systems = require("../systems.js");
+var sanitize = require('validator').sanitize;
+;
+var clean = _.compose(_.str.slugify, function(d){ return sanitize(d).entityDecode(); });
+var clean_system = _.compose(systems.map, clean);
 
 module.exports = {
   query: function(db){
@@ -12,7 +16,7 @@ module.exports = {
       //.debug()
       .join("en_veda_styles as styles", "styles.C_STYLE", "=", "tests.C_STYLE")
       .join("en_veda_notes as ratings", "ratings.C_TEST", "=", "tests.C_TEST")
-      .join("en_editeurs as editeurs", "editeurs.C_EDITEUR", "=", "tests.C_EDITEUR")
+      .join("en_editeurs as editeurs", "editeurs.C_EDITEUR", "=", "tests.C_EDITEUR", "left")
       .join("ibf_members as users", "users.member_id", "=", "tests.C_USER")
       .join("en_supports as systems", "systems.C_SUPPORT", "=", "tests.C_SUPPORT")
       .select("tests.*", "styles.style", "editeurs.nom AS editor", "users.name AS member_name", "systems.nom AS system_name", "ratings.note AS rating")
@@ -20,17 +24,11 @@ module.exports = {
       .orderBy("C_TEST", "ASC");
   },
   builder: function(game, next){
-    // fixing PHP htmlentities
-    game.titre = md(game.titre);
-    game.system_name = md(game.system_name);
-    game.member_name = md(game.member_name);
-
-    var system_slug = systems.map(_.str.slugify(game.system_name));
-    var game_slug = _.str.slugify(game.titre);
+    var system_slug = clean_system(game.system_name);
+    var game_slug = clean(game.titre);
     var basepath = _.template("games/<%= system %>/<%= game %>", {system: system_slug, game: game_slug});
-    var filename = basepath + "/reviews/"+ _.slugify(game.member_name) +".md";
 
-   if (grunt.file.exists(filename)){
+   if (grunt.file.exists(basepath + "/index.json")){
      grunt.log.ok("Test #"+ game.C_TEST +" skipped: "+ game.titre);
      return next();
    }
@@ -39,11 +37,11 @@ module.exports = {
       //saving json file
       function(done){
         var data = {
-          title: game.titre,
+          title: sanitize(game.titre).entityDecode(),
           released: game.annee,
-          editor: md(game.editor),
+          editor: game.editor ? sanitize(game.editor).entityDecode() : "N/C",
           players: parseInt(game.maxplayer, 10),
-          genres: [md(game.style)]
+          genres: [sanitize(game.style).entityDecode()]
         };
 
         grunt.file.write(basepath + "/index.json", JSON.stringify(data, null, 2));
@@ -53,7 +51,7 @@ module.exports = {
       function(done){
         var data = [
           "---",
-          "user: " + game.member_name,
+          "user: " + sanitize(game.member_name || "anonyme").entityDecode(),
           "rating: "  + (game.rating / 2),
           "published: " + new Date(game.date_publication * 1000).toISOString(),
           "legacy_url: http://www.emunova.net/veda/test/"+ game.C_TEST +".htm",
@@ -61,7 +59,7 @@ module.exports = {
           md(game.test_texte || grunt.file.read("tmp/tests/"+ game.C_TEST +".htm", { encoding: "iso-8859-1" }))
         ];
 
-        grunt.file.write(filename, data.join("\n"));
+        grunt.file.write(basepath + "/reviews/"+ clean(game.member_name || "anonyme") +".md", data.join("\n"));
         done();
       }
     ], function(){
