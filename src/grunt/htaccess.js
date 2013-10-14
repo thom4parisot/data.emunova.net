@@ -12,12 +12,14 @@ module.exports = function(grunt){
   var slugify = grunt.util._.str.slugify;
   var async = grunt.util.async;
 
-  var clean = grunt.util._.compose(slugify, function(d){ return sanitize(d).entityDecode(); });
+  var clean = grunt.util._.compose(slugify, function(d){ return sanitize(d.replace('@', 'a')).entityDecode(); });
   var clean_system = grunt.util._.compose(systems.map, clean);
 
   grunt.registerTask("htaccess", function(){
     var task = grunt.task.current;
-    var options = task.options({});
+    var options = task.options({
+      domain: "emunova.net"
+    });
     var stream = fs.createWriteStream("tmp/.htaccess");
     var taskDone = this.async();
 
@@ -33,7 +35,7 @@ module.exports = function(grunt){
           stream.write("#Reviews\n");
 
           async.forEach(results, function(row, done){
-            var output = sprintf("RewriteRule ^veda/test/%s.htm http://wip.emunova.net/%s/games/%s/ [R=301,L]\n",
+            var output = sprintf("RewriteRule ^veda/test/%s.htm http://"+options.domain+"/%s/games/%s/ [R=301,L]\n",
               row.C_TEST,
               clean_system(row.system_name),
               clean(row.titre)
@@ -56,10 +58,10 @@ module.exports = function(grunt){
           async.forEach(results, function(row, done){
             var output = sprintf(
               [
-                "RewriteRule ^emulation/%1$s.htm http://wip.emunova.net/%2$s/ [R=301,L]",
-                "RewriteRule ^emulation/fiche/%1$s.htm http://wip.emunova.net/%2$s/history.html [R=301,L]",
-                "RewriteRule ^veda/support/%1$s.htm http://wip.emunova.net/%2$s/games/ [R=301,L]",
-                "RewriteRule ^galeries/%1$s.htm http://wip.emunova.net/%2$s/images/ [R=301,L]"
+                "RewriteRule ^emulation/%1$s.htm http://"+options.domain+"/%2$s/ [R=301,L]",
+                "RewriteRule ^emulation/fiche/%1$s.htm http://"+options.domain+"/%2$s/history.html [R=301,L]",
+                "RewriteRule ^veda/support/%1$s.htm http://"+options.domain+"/%2$s/games/ [R=301,L]",
+                "RewriteRule ^galeries/%1$s.htm http://"+options.domain+"/%2$s/images/ [R=301,L]"
               ].join("\n") + "\n",
               row.C_SUPPORT,
               clean_system(row.system_name)
@@ -76,19 +78,19 @@ module.exports = function(grunt){
       stream.write("#Various\n");
 
       var output = [
-        "RewriteRule ^infos/$ http://wip.emunova.net/about/ [R=301,L]",
-        "RewriteRule ^infos/contact/ http://wip.emunova.net/infos/team.html [R=301,L]",
-        "RewriteRule ^veda/ http://wip.emunova.net/about/migration.html [R=410,L]",
-        "RewriteRule ^tutoriaux/ http://wip.emunova.net/about/migration.html [R=302,L]",
-        "RewriteRule ^emulateurs/.+.htm$ http://wip.emunova.net/about/migration.html [R=302,L]",
-        "RewriteRule ^utilitaires/.+.htm$ http://wip.emunova.net/about/migration.html [R=302,L]",
-        "RewriteRule ^news/ http://wip.emunova.net/about/migration.html [R=302,L]",
-        "RewriteRule ^faq/ http://wip.emunova.net/about/migration.html [R=302,L]",
-        "RewriteRule ^dossiers/ http://wip.emunova.net/about/migration.html [R=302,L]",
-        "RewriteRule ^veda2/ http://wip.emunova.net/about/migration.html [R=410,L]",
-        "RewriteRule ^galeries/ http://wip.emunova.net/about/migration.html [R=410,L]",
-        "RewriteRule ^liens/ http://wip.emunova.net/about/migration.html [R=410,L]",
-        "RewriteRule ^infos/ http://wip.emunova.net/about/migration.html [R=410,L]"
+        "RewriteRule ^infos/$ http://"+options.domain+"/about/ [R=301,L]",
+        "RewriteRule ^infos/contact/ http://"+options.domain+"/infos/team.html [R=301,L]",
+        "RewriteRule ^veda/ http://"+options.domain+"/about/migration.html [R=410,L]",
+        "RewriteRule ^tutoriaux/ http://"+options.domain+"/about/migration.html [R=302,L]",
+        "RewriteRule ^emulateurs/.+.htm$ http://"+options.domain+"/about/migration.html [R=302,L]",
+        "RewriteRule ^utilitaires/.+.htm$ http://"+options.domain+"/about/migration.html [R=302,L]",
+        "RewriteRule ^news/ http://"+options.domain+"/about/migration.html [R=302,L]",
+        "RewriteRule ^faq/ http://"+options.domain+"/about/migration.html [R=302,L]",
+        "RewriteRule ^dossiers/ http://"+options.domain+"/about/migration.html [R=302,L]",
+        "RewriteRule ^veda2/ http://"+options.domain+"/about/migration.html [R=410,L]",
+        "RewriteRule ^galeries/ http://"+options.domain+"/about/migration.html [R=410,L]",
+        "RewriteRule ^liens/ http://"+options.domain+"/about/migration.html [R=410,L]",
+        "RewriteRule ^infos/ http://"+options.domain+"/about/migration.html [R=410,L]"
       ].join("\n") + "\n";
 
       process.stdout.write(output);
@@ -96,7 +98,7 @@ module.exports = function(grunt){
     });
 
     when.all([pReviews, pSystems, pVarious]).then(function(){
-      stream.write("\n\nRewriteRule ^.*$ http://wip.emunova.net/404.html [R=404,L]", function(){
+      stream.write("\n\nRewriteRule ^.*$ http://"+options.domain+"/ [R=301,L]", function(){
         stream.end();
         taskDone();
       });
