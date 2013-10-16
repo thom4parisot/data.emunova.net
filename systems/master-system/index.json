@@ -10,7 +10,7 @@
   "bits": 8,
   "cpu": "Z80 8-bits @ 3.6 MHz",
   "ram": "8Ko Interne (+16Ko Video)",
-  "rom": "16Ko Interne (pour le jeu Alex Kid)",
+  "rom": "16Ko Interne (pour le jeu Alex Kidd)",
   "video": "256 x 224, 32 couleurs affichées pour une palette totale de 64 couleurs",
   "audio": "3 canaux",
   "media": ["Cartouche"]
