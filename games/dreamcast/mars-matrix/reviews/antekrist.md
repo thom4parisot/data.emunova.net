@@ -26,9 +26,9 @@ Si les différents protagonistes et tirs ne remplissent pas suffisamment l'écra
 
   
 
-**- POURQUOI J'AI MAL AUX YEUX ?  
+** POURQUOI J'AI MAL AUX YEUX ?  
 
-- TU VOIS CLAIR POUR LA PREMIÈRE FOIS.**  
+ TU VOIS CLAIR POUR LA PREMIÈRE FOIS.**  
 
 Pour être tout à fait honnête, la 2D utilisée dans Mars Matrix fait un peu vieillotte sur Dreamcast. Le titre est un portage fidèle du CPS-2, et la différence de puissance entre les deux machines (celle d'origine et celle d'arrivée) saute aux yeux. C'est notamment au niveau des couleurs des tirs que cela se ressent. Ça vous fera une sorte de phénomène de persistance rétinienne lorsque vous arrêterez de jouer, la faute à des teintes un peu trop vives pour les boulettes. Le reste du jeu est tout de même très satisfaisant, les décors et sprites étant très fins et les couleurs de fond beaucoup plus douces.  
 
