@@ -1,6 +1,7 @@
 {
   "name": "32x",
   "forums_uri": "http://forums.emunova.net/forum/20-sega/",
+  "description": "Le **32X** était une extension de la console **Megadrive** de SEGA permettant de booster la puissance de cette dernière pour en faire une console 32 bits",
   "type": "Extension",
   "released": 1994,
   "manufacturer": "SEGA",
