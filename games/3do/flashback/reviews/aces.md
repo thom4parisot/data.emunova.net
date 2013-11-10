@@ -5,7 +5,6 @@ published: 1970-01-01T00:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/4273.htm
 ---
 Et oui, je vais vous parler d'un jeu pas du tout connu...  
-
 D'ailleurs ce jeu est passé complètement inaperçu à sa sortie et y rejouer m'a fort déplu mais il le fallait pour vous éviter de souffrir comme je l'ai fait...  
 
   
@@ -27,17 +26,14 @@ Ici tout est calculé au pixel près, une erreur de manipulation et c'est la mor
 A tel point qu'on a le cœur qui s'emballe dès que la musique se montre présente et on stresse pour ne pas se tromper de bouton sous peine de déguster sévère.  
 
   
-
 Maintenant que le décors est planté, passons au test.  
 
   
-
 **Scénario :**  
 
 2142\. Éminent scientifique, Conrad B. Hart, frappé d'amnésie, se trouve au cœur de la jungle lorsqu'il reprend connaissance. Non loin de lui se trouve un curieux boîtier générant une image holographique le représentant. Cette dernière lui demande de se rendre à New Washington, où l'attend un certain Ian. Faisant route vers la ville, Conrad ignore que des extra-terrestres sont infiltrés parmi la population et qu'il devra déjouer un incroyable complot interplanétaire...  
 
   
-
 Voilà, inutile de s'attarder dessus car de toute façon, on retrouve sa santé mentale dès le début du second niveau et puis on est pas là pour faire du shopping, on a une planète à sauver.  
 
   
@@ -45,15 +41,12 @@ Voilà, inutile de s'attarder dessus car de toute façon, on retrouve sa santé 
 Déjà quand on insère la galette dans la 3DO, on se prend une claque visuelle avec l'intro en images de synthèse. C'est beau, c'est bien animé avec une musique et des bruitages qui mettent bien dans l'ambiance.  
 
   
-
 On arrive à l'écran titre et pas la peine de demander son reste, on lance une partie et on se dit que ça va être une claque dans tous les sens et bien non...  
 
   
-
 Et c'est là que ça la fout un peu mal pour une machine 32 Bits de faire à peine mieux que l'Amiga 500\.  
 
   
-
 **Graphiquement**, et bien on a tout simplement un vulgaire copier/coller de la version Amiga. Et même en comparant de plus près, alors oui ça semble plus fin, mais à une distance normal pour voir un écran, aucune différence notable.  
 
 Pire, la version 3DO se permet un temps de latence d'un quart de seconde entre chaque tableau.  
@@ -70,7 +63,7 @@ Juste que toutes les cut-scènes de la version Mega-CD disposent de voix lors de
 
   
 
-**La musique** est réorchestrée pour la version CD et pas de jaloux, que ça soit Mega-CD ou 3DO, c'est pareil, pas de jaloux.  
+**La musique** est réorchestrée pour la version CD que ça soit Mega-CD ou 3DO, c'est identique.
 
   
 
