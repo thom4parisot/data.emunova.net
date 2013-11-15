@@ -73,7 +73,7 @@ Voilà, on ne peu pas faire plus simple et instinctif pour un jeu comme ça, seu
 
   
 
-**Conclusion :****  
+**Conclusion :**  
 
 **Cette version de Flashback a été faite un peu par des faignants voulant s'en mettre rapidement plein les poches au lieu d'exploiter vraiment la console pour en faire un pur chef-d'œuvre et renforcer encore l'impression d'être dans un film.  
 
