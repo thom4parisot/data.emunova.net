@@ -4,19 +4,19 @@ rating: 1.5
 published: 2006-10-02T23:20:26.000Z
 legacy_url: http://www.emunova.net/veda/test/1685.htm
 ---
-Fahrenheit est un jeu d'un genre plutôt étrange et alléchant de prime abord. Une histoire prenante et complexe avec des personnages développés et fouillés, une énorme liberté de mouvement, un scénario dépendant des actions sont tout ce qui est proposé au menu de ce jeu, parfois présenté comme "le croisement le plus réussi entre films et jeux vidéos", voire carrément comme "quelque chose qui n'est plus un jeu mais carrément une expérience". Tout un menu. Maintenant reste à voir si sorti du papier, le résultat s'en sort. Et autant ne pas faire durer le suspens (surtout quand on voit la note donnée hum), la réponse est un franc et bon non.  
+Fahrenheit est un jeu d'un genre plutôt étrange et alléchant de prime abord. Une histoire prenante et complexe avec des personnages développés et fouillés, une énorme liberté de mouvement, un scénario dépendant des actions sont tout ce qui est proposé au menu de ce jeu, parfois présenté comme "le croisement le plus réussi entre films et jeux vidéos", voire carrément comme "quelque chose qui n'est plus un jeu mais carrément une expérience". Tout un menu. Maintenant reste à voir si sorti du papier, le résultat s'en sort. Et autant ne pas faire durer le suspense (surtout quand on voit la note donnée humm), la réponse est un franc et bon non.  
 
   
 
-Pour y aller progressivement, on va commencer par le gameplay censé être totalement novateur. Ca c'est pas totallement faux, personne n'a vraiment osé faire une chose pareille à un jeu vidéo et du coup, grâce à un choix totalement avant-gardiste pour éviter d'avoir à appuyer sur des boutons pour exécuter une action quelconque (parce que le bouton action c'est du passé, les petits menus d'interaction aussi, ici on est pas dans Snatcher ho) on doit ballader le joystick droit. Ca fait son petit effet et ça immerge vraiment de faire des moulinets du pouce pour ouvrir une porte : preuve en est, maintenant j'ouvre la porte de chez moi uniquement comme ça.  
+Pour y aller progressivement, on va commencer par le gameplay censé être totalement novateur. Ca c'est pas totalement faux, personne n'a vraiment osé faire une chose pareille à un jeu vidéo et du coup, grâce à un choix totalement avant-gardiste pour éviter d'avoir à appuyer sur des boutons pour exécuter une action quelconque (parce que le bouton action c'est du passé, les petits menus d'interaction aussi, ici on est pas dans Snatcher ho) on doit balader le joystick droit. Ca fait son petit effet et ça immerge vraiment de faire des moulinets du pouce pour ouvrir une porte : preuve en est, maintenant j'ouvre la porte de chez moi uniquement comme ça.  
 
   
 
-A part ça concernant le maniement de base du personnage, ça reste du classique (faut pas exagérer, ça dérouterait le joueur), on se ballade avec le joystick gauche, on a un bouton pour courir, un bouton pour faire apparaitre quelques infos sur l'état du personnage, un bouton de vue à la première personne.  
+A part ça concernant le maniement de base du personnage, ça reste du classique (faut pas exagérer, ça dérouterait le joueur), on se balade avec le joystick gauche, on a un bouton pour courir, un bouton pour faire apparaitre quelques infos sur l'état du personnage, un bouton de vue à la première personne.  
 
   
 
-Ensuite arrivent les scènes d'action, totalement novatrices, basées sur deux grandes idées de saint David Cage, le patron de l'innovation : il faut que la scène d'action soit belle à jouer et que ça ressemble à du film, et il faut que le joueur ressente vraiment ce que ressent le personnage.  
+Ensuite arrivent les scènes d'action, totalement novatrices, basées sur deux grandes idées de Saint David Cage, le patron de l'innovation : il faut que la scène d'action soit belle à jouer et que ça ressemble à du film, et il faut que le joueur ressente vraiment ce que ressent le personnage.  
 
   
 
