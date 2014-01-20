@@ -9,7 +9,7 @@
   ],
   "cpu": "ARM Cortex-A9 MPCore @ 2GHz",
   "ram": "512 MB RAM, 128 MB VRAM",
-  "rom": "TOS : Pas de roms pour les premiers ST. Puis 192Ko (STf), 256Ko(STe) et 1Mo (Falcon). Interface graphique (DR GEM) intégré à la ROM.",
-  "video": "960x544, Quad-core PowerVR SGX543MP4+",
-  "media": ["Disquettes 3,5 pouces SD pour les ST (310Ko)", "DD ensuite (720Ko)", "Disque dur (option)"]
+  "rom": "Quantité de ROM indisponible mais cette dernière stocke l'OS LiveArea de la PS Vita.",
+  "video": "960x544, Quad-core PowerVR SGX543MP4+ @ 400 Mhz.",
+  "media": ["Carte PlayStation Vita de 2 à 4Go de stockage."]
 }
