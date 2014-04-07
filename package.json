@@ -5,7 +5,8 @@
   "description": "Data backend for emunova.net",
   "main": "index.js",
   "scripts": {
-    "test": "grunt test"
+    "test": "npm run test-mdlint",
+    "test-mdlint": "mdlint glob '**/*.md'"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
     "mysql": "~2.0.0-alpha9",
     "html-md": "~3.0.2",
     "when": "~2.5.1",
-    "validator": "~1.5.1"
+    "validator": "~1.5.1",
+    "mdlint": "^0.1.0"
   }
 }
