@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npm run test-mdlint",
-    "test-mdlint": "mdlint glob '**/*.md'"
+    "test-mdlint": "mdlint glob '{genres,games,systems}/**/*.md'"
   },
   "repository": {
     "type": "git",
