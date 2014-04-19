@@ -1,6 +1,6 @@
 ---
 user: Spoz
-rating: 0
+rating: 4.5
 published: 2013-12-17T10:00:00.000Z
 ---
 … Cyber Sigma ! Voilà ce qu’il fallait lire à la fin de mon test de Megaman X2. Et puisque vous êtes ici, permettez-moi de vous féliciter pour avoir terminé Megaman X2. Si si, vous l’avez forcément terminé si vous lisez ce test, car souvenez-vous bien (cf intro du test de Megaman X2), je n’aime pas les intrus qui viennent lire le test d’une suite alors qu’ils n’ont pas réussi à terminer l’épisode précédent. Bref, nous allons aujourd’hui parler de Megaman X3, suite de Megaman X2, lui-même suite de Megaman X. C’est pas trop compliqué à suivre, et ça correspond bien à l’esprit Capcom qui ne se foule généralement pas avec les noms des suites de ses séries phares. Mais je m’égare…
