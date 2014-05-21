@@ -1,3 +1,8 @@
+---
+user: Puda
+rating: 3
+published: 2014-05-21T10:29:59+0000
+---
 16 années, il a fallu attendre 16 années avant que Tex Murphy, l’un des détectives les plus intéressants qui soit dans le monde du jeu vidéo, fasse enfin son grand retour.
 Big Finish Games nous l’avait promis en 2012 après une campagne Kickstarter ayant marché du feu de dieu, le nouveau Tex Murphy fera son apparition en 2014 et conclura une série démarrée en 1989 !
 
