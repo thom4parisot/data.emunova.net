@@ -20,7 +20,7 @@ L'adaptation n'a pas recueilli que des honneurs, et bien que DD soit généralem
 
 **LE PIED OU LE POING**  
 
-Autant être clair, ce qu'on demande à un portage de l'un de vos jeux favoris c'est de ressembler à son modèle, de procurer les mêmes sensations. Il s'avère que **Double Dragon** sur CPC est une adaptation très fidèle du titre d'origine.  
+Autant être clair, ce qu'on demande à un portage de l'un de vos jeux favoris, c'est de ressembler à son modèle, de procurer les mêmes sensations. Il s'avère que **Double Dragon** sur CPC est une adaptation très fidèle du titre d'origine.  
 
   
 
