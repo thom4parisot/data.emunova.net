@@ -1,3 +1,8 @@
+---
+user: Rouliass
+rating: 3.5
+---
+
 Sonic Adventure 2 est comme Dr Jekyll et Mr Hyde.
 
 Alors c'est super hein, vraiment. On peut jouer plusieurs personnages avec des 'gameplay' différents, gentils ou méchants. Sauf que finalement le seul système de jeu marrant est celui de Sonic/Shadow. Celui de Knuckles et son opposé est bien lent et ressemble plus à une version allongée des pires 'bonus stage' de la série. Je ne vous parle même pas de l'enfer des sections avec Tails/Eggman.
