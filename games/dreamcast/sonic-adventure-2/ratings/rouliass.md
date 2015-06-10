@@ -1,6 +1,7 @@
 ---
 user: Rouliass
 rating: 3.5
+published: 2015-06-09T12:30:00.000Z
 ---
 
 Sonic Adventure 2 est comme Dr Jekyll et Mr Hyde.
