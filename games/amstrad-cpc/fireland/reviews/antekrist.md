@@ -21,13 +21,20 @@ Les amateurs le savent, le CPC avait beaucoup de mal à produire un *scrolling* 
 
 ## En résumé
 
-SCENARIO : non mais franchement, est-ce que quelqu'un en a quelque chose à foutre ? Vous êtes Joe-la-Picole et puis c'est marre. C'est pas non plus comme si ça allait illuminer votre journée.
-GRAPHISMES : magnifiques. Fire Land est l'un des plus beaux jeux qu'il m'ait été donné de contempler sur la bécane d'Amstrad, loin derrière l'extraordinaire Xyphoes Fantasy mais loin devant pas mal d'autres titres commerciaux.
-ANIMATION : plutôt soignée. Le CPC n'est pas un foudre de guerre de ce côté-là, mais ici le résultat est plutôt convaincant.
-SON : heureusement que l'aventure est courte... Au début, on fredonne joyeusement ce petit air sympathique, mais plus on s'énerve à perdre des vies bêtement, et plus on a envie de couper le son. Ou de jeter l'ordi.
-JOUABILITE : difficile de faire plus simple. Un bouton pour tirer, les directions pour se déplacer. Ceux qui n'ont jamais trop pratiqué la micro-informatique seront décontenancés par l'appui sur la direction haute pour sauter, mais c'est quasiment une constante sur micros.
-DIFFICULTE : ce que le jeu perd en durée de vie, il le rattrappe en difficulté. Le seul moyen de venir à bout de Fire Land, c'est de maintenir en permanence la gachette Fire enfoncée et de connaître par coeur les moments où il faut sauter et ceux où il ne faut pas.
-DUREE DE VIE : le gros point noir du titre. On n'en voudra pas trop à Luc et Hervé Guillaume, les concepteurs du jeu, puisqu'il s'agissait d'un encart dans un magazine.
-VERDICT : si vous ne savez pas à quoi jouer lors de la pause café, préférez donc Fire Land à toutes ces merdes actuelles type Candy Crush Saga. Prévoyez tout de même une pause café un peu longue si vous voulez le finir. Au pire, s'il vous reste un ou deux jours de congés... Des RTT peut-être ? Un arrêt maladie ?
+**SCENARIO** : non mais franchement, est-ce que quelqu'un en a quelque chose à foutre ? Vous êtes Joe-la-Picole et puis c'est marre. C'est pas non plus comme si ça allait illuminer votre journée.
 
-POURQUOI CETTE VERSION ? Fire Land n'existe tout bonnement que sur CPC, ma bonne dame.
+**GRAPHISMES** : magnifiques. Fire Land est l'un des plus beaux jeux qu'il m'ait été donné de contempler sur la bécane d'Amstrad, loin derrière l'extraordinaire Xyphoes Fantasy mais loin devant pas mal d'autres titres commerciaux.
+
+**ANIMATION** : plutôt soignée. Le CPC n'est pas un foudre de guerre de ce côté-là, mais ici le résultat est plutôt convaincant.
+
+**SON** : heureusement que l'aventure est courte... Au début, on fredonne joyeusement ce petit air sympathique, mais plus on s'énerve à perdre des vies bêtement, et plus on a envie de couper le son. Ou de jeter l'ordi.
+
+**JOUABILITE** : difficile de faire plus simple. Un bouton pour tirer, les directions pour se déplacer. Ceux qui n'ont jamais trop pratiqué la micro-informatique seront décontenancés par l'appui sur la direction haute pour sauter, mais c'est quasiment une constante sur micros.
+
+**DIFFICULTE** : ce que le jeu perd en durée de vie, il le rattrappe en difficulté. Le seul moyen de venir à bout de Fire Land, c'est de maintenir en permanence la gachette Fire enfoncée et de connaître par coeur les moments où il faut sauter et ceux où il ne faut pas.
+
+**DUREE DE VIE** : le gros point noir du titre. On n'en voudra pas trop à Luc et Hervé Guillaume, les concepteurs du jeu, puisqu'il s'agissait d'un encart dans un magazine.
+
+**VERDICT** : si vous ne savez pas à quoi jouer lors de la pause café, préférez donc Fire Land à toutes ces merdes actuelles type Candy Crush Saga. Prévoyez tout de même une pause café un peu longue si vous voulez le finir. Au pire, s'il vous reste un ou deux jours de congés... Des RTT peut-être ? Un arrêt maladie ?
+
+**POURQUOI CETTE VERSION ?** Fire Land n'existe tout bonnement que sur CPC, ma bonne dame.
