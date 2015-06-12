@@ -37,4 +37,4 @@ Les amateurs le savent, le CPC avait beaucoup de mal à produire un *scrolling* 
 
 **VERDICT** : si vous ne savez pas à quoi jouer lors de la pause café, préférez donc Fire Land à toutes ces merdes actuelles type Candy Crush Saga. Prévoyez tout de même une pause café un peu longue si vous voulez le finir. Au pire, s'il vous reste un ou deux jours de congés... Des RTT peut-être ? Un arrêt maladie ?
 
-**POURQUOI CETTE VERSION ?** Fire Land n'existe tout bonnement que sur CPC, ma bonne dame.
+**POURQUOI CETTE VERSION ?** Fire Land n'est sorti que sur CPC. Du coup c'est sur cette machine que je le teste. C'est pas con comme raisonnement, hein ?
