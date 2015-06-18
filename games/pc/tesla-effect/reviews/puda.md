@@ -6,7 +6,7 @@ published: 2014-05-21T10:29:59+0000
 16 années, il a fallu attendre 16 années avant que Tex Murphy, l’un des détectives les plus intéressants qui soit dans le monde du jeu vidéo, fasse enfin son grand retour.
 Big Finish Games nous l’avait promis en 2012 après une campagne Kickstarter ayant marché du feu de dieu, le nouveau Tex Murphy fera son apparition en 2014 et conclura une série démarrée en 1989 !
 
-Et Dieu créa Kickstarter
+**Et Dieu créa Kickstarter**
 
 À l’origine du grand retour de Tex Murphy, il y a le site Kickstarter et une demande de la part de Chris Jones (l’acteur jouant Tex Murphy et également créateur / producteur de la série) de réunir des fonds afin de terminer la saga démarrée 20 ans plus tôt.
 
@@ -20,7 +20,7 @@ Le tournage et la production du jeu sont alors lancés mi juin 2012 et le jeu vo
 
 Le 7 mai 2014 sort Tesla Effect, la suite directe de Tex Murphy Overseer, sorti en 1998 !
 
-Et Tex Murphy fut
+**Et Tex Murphy fut**
 
 L’histoire reprend en réalité 7 ans plus tard, histoire d’expliquer pourquoi Chris Jones et le reste du cast ont pris 16 ans dans les dents. 7 ans c’est aussi un chiffre plus ou moins correct puisque Tex Murphy se réveille et réalise que 7 ans ont passé, que Chelsee est morte et qu’il a, a priori, été un gros salaud ces 7 dernières années. Imaginez si 16 ans avaient passé… ca aurait été un peu difficile à expliquer… 
 
@@ -29,7 +29,7 @@ On retrouve donc avec un plaisir immense (le mot est faible me concernant) les r
 Restriction de budget oblige, Chandler Avenue est désormais moins grande. Enfin, façon de parler. Il faut un certain temps pour se rendre à deux bâtiments mais la plupart des allées ont disparu et le prêcheur (à moitié clodo) de Pandora Directive n’existe plus du tout. Des murs invisibles font également leur apparition et la liberté de mouvement est finalement très réduite. Il n’est par exemple plus du tout possible de se balader dans certains magasins pour interagir avec des personnages. C’est le cas du magasin d’électronique où il était auparavant possible de choisir des objets et de les acheter. Tesla Effect ne permet plus du tout de faire ce type d’actions. Dès que vous entrez quelque part, vous discutez directement avec le personnage et c’est tout.
 Un peu décevant a vrai dire car les mouvements sont terriblement limités.
 
-Deux aventures bien distinctes
+**Deux aventures bien distinctes**
 
 Il faut rappeler que Tesla Effect propose de nouveau deux modes de jeu. L’un, anciennement appelé promenade, permet d’utiliser un système d’indices (vous faisant perdre des points durement acquis en découvrant des indices ou en interrogeant des personnages) et d’utiliser une lampe torche pour repérer des objets à ramasser. L’autre, anciennement appelé aventures, ne vous permet aucune aide extérieure. Il va donc falloir ramer pour avancer surtout que certains objets sont incroyablement difficiles à voir.
 
@@ -56,7 +56,7 @@ Les cinématiques s’enchaînent également à un rythme fou et deux journées 
 
 C’est tout à fait regrettable car il apparaît réellement que les développeurs avaient beaucoup trop d’idées et n’ont pas réussi à bien les intégrer à l’aventure. La seconde partie du jeu est donc lamentable. 
 
-Des graphismes hideux
+**Des graphismes hideux**
 
 Si dans les années 90, Under a Killing Moon et The Pandora Directive étaient de véritables chefs d’œuvre en terme de jeu interactif avec cinématiques, en 2014, Tesla Effect est terriblement à la traine.
 
@@ -71,11 +71,11 @@ Il faut également noter que Tex peut parfois passer à travers des murs ou se r
 
 Cela aurait certainement pu passer si la seconde partie de l’aventure n’était pas autant un immense foutage de gueule (il n’y a pas d’autre mot !). Les développeurs auraient mieux fait de se contenter de ne développer que certains « petits niveaux ».
 
-Et la musique dans tout ça ?
+**Et la musique dans tout ça ?**
 
 Les thèmes sont toujours autant jazzy, le thème de Chandler Avenue est de retour dans… tout Chandler Avenue. Pour le reste, il ne doit y avoir que 4 ou 5 musiques différentes. Difficile donc de donner un avis dessus.
 
-Et des acteurs inégaux…
+**Et des acteurs inégaux…**
 
 La particularité des jeux d’aventure en FMV des années 90 est leurs acteurs. Pas souvent très bons (Rappelez-vous de Gabriel Knight !!!) et surtout dignes de figurer au panthéon de Nanarland.
 
