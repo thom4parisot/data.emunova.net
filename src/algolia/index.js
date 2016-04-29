@@ -4,7 +4,7 @@ const fs = require('fs');
 const glob = require('glob');
 const sha256 = require('../sha256');
 const chunk = require('lodash.chunk');
-const camelCase = require('lodash.camelCase');
+const camelCase = require('lodash.camelcase');
 const request = require('hyperquest');
 
 module.exports = (indexingOptions) => new Promise((resolve, reject) => {
