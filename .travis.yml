@@ -4,7 +4,9 @@ sudo: false
 deploy:
   provider: script
   script: npm run index
-  branch: master
+  skip_cleanup: true
+  on:
+    branch: master
 env:
   global:
   - secure: HaK+jdJ1ElMdQ68SMTo0cXpLZCE55XBd292NjORYJaz/KYRpc7jKGekI/VCDXlyrbdub5uLyWB8rd6b93a4t3tt11mhyUkY13NdBAWaVVGWFEmLIEQvR0yitqxImQEPMEbVrqvP2CRhZCC3M5T68o3Zvg5ibabEabXolghDLKPE=
