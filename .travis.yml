@@ -1,8 +1,11 @@
 language: node_js
-node_js: '0.10'
-cache:
-  directories:
-  - games
+node_js: 6.x
+deploy:
+  provider: script
+  script: npm run index
+  branch: master
 env:
   global:
-    secure: HaK+jdJ1ElMdQ68SMTo0cXpLZCE55XBd292NjORYJaz/KYRpc7jKGekI/VCDXlyrbdub5uLyWB8rd6b93a4t3tt11mhyUkY13NdBAWaVVGWFEmLIEQvR0yitqxImQEPMEbVrqvP2CRhZCC3M5T68o3Zvg5ibabEabXolghDLKPE=
+  - secure: HaK+jdJ1ElMdQ68SMTo0cXpLZCE55XBd292NjORYJaz/KYRpc7jKGekI/VCDXlyrbdub5uLyWB8rd6b93a4t3tt11mhyUkY13NdBAWaVVGWFEmLIEQvR0yitqxImQEPMEbVrqvP2CRhZCC3M5T68o3Zvg5ibabEabXolghDLKPE=
+  - secure: fR0vaZko/AjBivCbleMPb3xdyEkSKuMn5Hq3fDHvCoq/c14JmSosJkcOHZwSF7glM5EU4ccPzeMAHPEHTHebZX7+4Ppyss6Tgaumm80Ap3Z4gs5kzIBebaebBWOTtK5bK8pYDiRFuPjNklcBumZV0YlRTr6p1DJUHvfufC3SFRA=
+  - secure: gwDfVxd6c36+FwnVX1IUeDXy2BMWOnRwdgBsvCaE15OtIevfVJ2X9zUlrqlFvMtmz0H9GIfIiP5BhaSkASJsWrtUryR5tGuKrsFvtKVKVnhfPPGJepluzMjRFFgWNsoSM2v8NoYS045Ex04ZK+VFOQR4wQnXIXPKgChIhThf1Y0=
