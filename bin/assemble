@@ -15,7 +15,7 @@ cd emunova && npm link data.emunova.net
 npm install
 
 npm run build:cache
-npm run build
+npm run build 1>/dev/null
 npm run build:images
 
 rsync -ar \
