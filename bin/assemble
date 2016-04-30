@@ -4,6 +4,8 @@ eval "$(ssh-agent -s)"
 chmod 600 $TRAVIS_BUILD_DIR/id_rsa
 ssh-add $TRAVIS_BUILD_DIR/id_rsa
 
+cd $TRAVIS_BUILD_DIR
+
 npm link
 
 cd /tmp && git clone https://github.com/oncletom/emunova.net.git emunova
