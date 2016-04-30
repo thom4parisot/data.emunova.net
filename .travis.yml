@@ -3,6 +3,10 @@ node_js: v6
 sudo: false
 addons:
   ssh_known_hosts: ssh-oncletom.alwaysdata.net
+  apt:
+    packages:
+    - graphicsmagick
+
 env:
   global:
   - secure: HaK+jdJ1ElMdQ68SMTo0cXpLZCE55XBd292NjORYJaz/KYRpc7jKGekI/VCDXlyrbdub5uLyWB8rd6b93a4t3tt11mhyUkY13NdBAWaVVGWFEmLIEQvR0yitqxImQEPMEbVrqvP2CRhZCC3M5T68o3Zvg5ibabEabXolghDLKPE=
