@@ -17,12 +17,12 @@ before_install:
 
 deploy:
   - provider: script
-    script: npm run index
-    skip_cleanup: true
-    on:
-      branch: master
-  - provider: script
     script: ./bin/assemble
     skip_cleanup: true
     on:
       branch: master
+  # - provider: script
+  #   script: npm run index
+  #   skip_cleanup: true
+  #   on:
+  #     branch: master

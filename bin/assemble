@@ -18,8 +18,9 @@ npm run build:cache
 npm run build 1>/dev/null
 npm run build:images
 
-rsync -ar \
+rsync -ahmr \
   --delete-after \
-  --progress \
+  --quiet \
+  --stats \
   ./tmp/build/ \
   oncletom@ssh-oncletom.alwaysdata.net:~/../www_emunova
