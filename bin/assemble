@@ -1,0 +1,21 @@
+#!/bin/bash
+
+eval "$(ssh-agent -s)"
+chmod 600 $TRAVIS_BUILD_DIR/id_rsa
+ssh-add $TRAVIS_BUILD_DIR/id_rsa
+
+npm link
+
+cd /tmp && git clone https://github.com/oncletom/emunova.net.git emunova
+cd emunova && npm link data.emunova.net
+npm install
+
+npm run build:cache
+npm run build
+npm run build:images
+
+rsync -ar \
+  --delete-after \
+  --progress \
+  ./tmp/build/ \
+  oncletom@ssh-oncletom.alwaysdata.net:~/../www_emunova
