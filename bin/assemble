@@ -8,6 +8,8 @@ ssh-add $TRAVIS_BUILD_DIR/id_rsa
 
 cd $TRAVIS_BUILD_DIR
 
+export NODE_ENV='production'
+
 npm link
 
 cd /tmp && git clone https://github.com/oncletom/emunova.net.git emunova

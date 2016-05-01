@@ -21,8 +21,8 @@ deploy:
     skip_cleanup: true
     on:
       branch: master
-  # - provider: script
-  #   script: npm run index
-  #   skip_cleanup: true
-  #   on:
-  #     branch: master
+  - provider: script
+    script: cd /tmp/emunova && npm run index
+    skip_cleanup: true
+    on:
+      branch: master

@@ -8,9 +8,6 @@
     "node": ">=6.0.0"
   },
   "scripts": {
-    "index": "npm-run-all index:*",
-    "index:games": "node ./bin/index-games.js",
-    "index:systems": "node ./bin/index-systems.js",
     "test": "npm run test-mdlint",
     "test-mdlint": "mdlint glob '{genres,games,systems}/**/*.md'"
   },
@@ -25,14 +22,5 @@
   },
   "devDependencies": {
     "mdlint": "^0.1.0"
-  },
-  "dependencies": {
-    "fast-sha256": "^1.0.0",
-    "glob": "^7.0.3",
-    "gray-matter": "^2.0.2",
-    "hyperquest": "^1.3.0",
-    "lodash.camelcase": "^4.1.0",
-    "lodash.chunk": "^4.0.5",
-    "npm-run-all": "^1.8.0"
   }
 }
