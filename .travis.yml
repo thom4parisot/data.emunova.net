@@ -12,6 +12,12 @@ env:
   - secure: HaK+jdJ1ElMdQ68SMTo0cXpLZCE55XBd292NjORYJaz/KYRpc7jKGekI/VCDXlyrbdub5uLyWB8rd6b93a4t3tt11mhyUkY13NdBAWaVVGWFEmLIEQvR0yitqxImQEPMEbVrqvP2CRhZCC3M5T68o3Zvg5ibabEabXolghDLKPE=
   - secure: fR0vaZko/AjBivCbleMPb3xdyEkSKuMn5Hq3fDHvCoq/c14JmSosJkcOHZwSF7glM5EU4ccPzeMAHPEHTHebZX7+4Ppyss6Tgaumm80Ap3Z4gs5kzIBebaebBWOTtK5bK8pYDiRFuPjNklcBumZV0YlRTr6p1DJUHvfufC3SFRA=
   - secure: gwDfVxd6c36+FwnVX1IUeDXy2BMWOnRwdgBsvCaE15OtIevfVJ2X9zUlrqlFvMtmz0H9GIfIiP5BhaSkASJsWrtUryR5tGuKrsFvtKVKVnhfPPGJepluzMjRFFgWNsoSM2v8NoYS045Ex04ZK+VFOQR4wQnXIXPKgChIhThf1Y0=
+
+cache:
+  directories:
+  - node_modules
+  _ bower_components
+
 before_install:
 - openssl aes-256-cbc -K $encrypted_8d136e8bec38_key -iv $encrypted_8d136e8bec38_iv -in id_rsa.enc -out $TRAVIS_BUILD_DIR/id_rsa -d
 
