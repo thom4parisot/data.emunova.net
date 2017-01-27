@@ -16,7 +16,7 @@ env:
 cache:
   directories:
   - node_modules
-  _ bower_components
+  - bower_components
 
 before_install:
 - openssl aes-256-cbc -K $encrypted_8d136e8bec38_key -iv $encrypted_8d136e8bec38_iv -in id_rsa.enc -out $TRAVIS_BUILD_DIR/id_rsa -d
